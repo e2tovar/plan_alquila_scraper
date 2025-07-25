@@ -61,7 +61,8 @@
         {#<th title="Aseos" class="isSortable hideIfEQ">A</th>#}
         <th title="Planta" class="isSortable hideIfEQ">P</th>
         <th class="isSortable str hideIfEQ">Dirección</th>
-        <th class="isSortable str isSortedByMe isReversed hideIfEQ">Fecha</th>
+        <th class="isSortable str hideIfEQ" title="Fecha de publicación">Creado</th>
+        <th class="isSortable str isSortedByMe isReversed hideIfEQ">Modificado</th>
         <th>Extras</th>
       </tr>
     </thead>
@@ -81,6 +82,7 @@
           class="rgh ascensor{{p.ascensor}}">{{p.planta if p.planta is not none else '¿?'}}</td>
       <td data-sortkey="{{(p.zona or 'z')+'\t'+p.direccion}}"
       ><a href="{{p.mapa}}">{{p.get_direccion()}}</a>, {{p.zona}}</td>
+      <td data-sortkey="{{p.publicado or 'z'}}">{{p.publicado or ''}}</td>
       <td data-sortkey="{{p.fecha}}.{{p.get_plan_id()}}">{{p.fecha}}</td>
       <td class="tags">
         {%if p.garaje%}<abbr title="Garaje">🚗</abbr> {%endif%}
@@ -105,6 +107,8 @@
       <dd>Número de dormitorios (📷 si hay fotos)</dd>
       <dt>P</dt>
       <dd>Planta del piso (en <span class="ascensorFalse">rojo</span> si no hay ascensor)</dd>
+      <dt>Creado</dt>
+      <dd>Fecha de publicación del anuncio</dd>
       <dt>Fecha</dt>
       <dd>Última fecha de modificación del anuncio</dd>
       <dt class="ico">🚗</dt>
@@ -126,6 +130,9 @@
   </fieldset>
   </main>
 	<footer>
+		<p>
+		Página generada el {{now.strftime('%d/%m/%Y a las %H:%M:%S')}}
+		</p>
 		<p>
 		Código fuente en <a href="https://github.com/s-nt-s/plan-alquila-sia">GitHub</a>.
     Si falla o tienes alguna sugerencia pon un <a href="https://github.com/s-nt-s/plan-alquila-sia/issues">issue</a>.

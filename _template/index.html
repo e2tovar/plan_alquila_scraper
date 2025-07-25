@@ -35,6 +35,17 @@
     <label for="precio" title="Precio máximo">€</label>
   </p>
   <p>
+    <label for="dormitorios">Habitaciones:</label> <select id="dormitorios">
+      <option value="">TODAS</option>
+      {% set dormitorios_list = pisos|map(attribute='dormitorios')|unique|sort %}
+      {% for d in dormitorios_list %}
+      {% if d is not none %}
+      <option value="{{d}}">{{d}}+</option>
+      {%endif%}
+      {%endfor%}
+    </select>
+  </p>
+  <p>
     <input type="checkbox" value="🚗" title="Con garaje"/>
     <input type="checkbox" value="🏊" title="Con piscina"/>
     <input type="checkbox" value="📦" title="Con trastero"/>
@@ -56,7 +67,7 @@
     </thead>
     <tbody>
     {% for p in pisos|sort(reverse=true, attribute='fecha,plan,id,precio') %}
-    <tr class="{{p.plan}}" data-zona="{{p.zona | simplify}}" data-precio="{{p.precio}}">
+    <tr class="{{p.plan}}" data-zona="{{p.zona | simplify}}" data-precio="{{p.precio}}" data-dormitorios="{{p.dormitorios}}">
       <td data-sortkey="{{p.get_plan_id()}}"
           class="rgh id" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan}}/{{p.id}}">{{p.id}}</a></td>
       <td class="rgh">{{p.metros | round}}</td>
@@ -105,7 +116,7 @@
       <dt class="ico">♿</dt>
       <dd>Esta adaptada</dd>
 
-      
+
     </dl>
     {#
     <p>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 29 Jul 2025 12:32:03 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 29 Jul 2025 14:11:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1097,14 +1097,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275841?2025-07-24</guid>
 		</item>
 		<item>
-			<title>1000€ Villaverde</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275843</link>
-			<description>C/ La del Manojo de Rosas, 21,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275843</description>
-			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Villaverde</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275843?2025-07-01</guid>
-		</item>
-		<item>
 			<title>1350€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275848</link>
 			<description>C/ Juan Pérez Zúñiga, 21,&lt;br/&gt;6º con ascensor,&lt;br/&gt;51m², 2 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/275848</description>
@@ -1503,14 +1495,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>San Sebastián de los Reyes</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275995?2025-07-24</guid>
-		</item>
-		<item>
-			<title>1150€ Centro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275997</link>
-			<description>C/ Mesón de Paredes, 86,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;alq/275997</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275997?2025-07-24</guid>
 		</item>
 		<item>
 			<title>950€ Retiro</title>

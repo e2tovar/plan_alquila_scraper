@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 28 Jul 2025 14:12:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 29 Jul 2025 07:59:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -65,12 +65,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32394?2025-07-27</guid>
 		</item>
 		<item>
-			<title>800€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32402</link>
-			<description>C/ Jose Maria Roquero 6,&lt;br/&gt;3º con ascensor,&lt;br/&gt;0 🛏,&lt;br/&gt;1 🛀, 27 📷.&lt;br/&gt;sia/32402</description>
-			<pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32402?2025-07-27</guid>
+			<title>1750€ Chamartín</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32405</link>
+			<description>C/ Eugenio Salazar 17,&lt;br/&gt;3º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;sia/32405</description>
+			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+			<category>Chamartín</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32405?2025-07-29</guid>
 		</item>
 		<item>
 			<title>675€ Carabanchel</title>
@@ -1607,14 +1607,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Fuenlabrada</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276019?2025-07-24</guid>
-		</item>
-		<item>
-			<title>825€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276020</link>
-			<description>C/ Felisa Méndez, 27,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;33m², 1 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/276020</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276020?2025-07-24</guid>
 		</item>
 		<item>
 			<title>1200€ Fuenlabrada</title>

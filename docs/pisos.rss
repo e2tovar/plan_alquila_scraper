@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 30 Jul 2025 14:06:53 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 30 Jul 2025 17:28:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -177,14 +177,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/223305?2025-03-20</guid>
 		</item>
 		<item>
-			<title>900€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/225572</link>
-			<description>C/ Alameda del Valle, 34,&lt;br/&gt;5º sin ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/225572</description>
-			<pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/225572?2025-07-04</guid>
-		</item>
-		<item>
 			<title>850€ San Blas-Canillejas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/226405</link>
 			<description>C/ Castillo de Simancas, 2,&lt;br/&gt;7º con ascensor,&lt;br/&gt;36m², 2 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/226405</description>
@@ -223,14 +215,6 @@
 			<pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/254557?2025-07-21</guid>
-		</item>
-		<item>
-			<title>1500€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/256811</link>
-			<description>Pº Ermita del Santo, 20,&lt;br/&gt;6º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 10 📷.&lt;br/&gt;alq/256811</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/256811?2025-07-24</guid>
 		</item>
 		<item>
 			<title>1300€ Centro</title>
@@ -1207,14 +1191,6 @@
 			<pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275924?2025-06-19</guid>
-		</item>
-		<item>
-			<title>1050€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275928</link>
-			<description>Av. La Gavia, 36,&lt;br/&gt;6º con ascensor,&lt;br/&gt;67m², 1 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275928</description>
-			<pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275928?2025-07-16</guid>
 		</item>
 		<item>
 			<title>1017.17€ Vicálvaro</title>

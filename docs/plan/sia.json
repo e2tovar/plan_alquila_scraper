@@ -163,38 +163,6 @@
     ]
   },
   {
-    "id": 32385,
-    "publicado": "2025-06-25",
-    "modificado": "2025-07-27",
-    "direccion": "Calle General Ricardos 218",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Vista Alegre",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 1160,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=6",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=8",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=9",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=10",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=11",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=12",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32385&idDoc=13"
-    ]
-  },
-  {
     "id": 32388,
     "publicado": "2025-06-25",
     "modificado": "2025-07-27",
@@ -377,36 +345,6 @@
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=49",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=50",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=51"
-    ]
-  },
-  {
-    "id": 32403,
-    "publicado": "2025-07-23",
-    "modificado": "2025-07-28",
-    "direccion": "Calle Pe\u00f1uelas 52",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Acacias",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 930,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32403&idDoc=11",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32403&idDoc=12",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32403&idDoc=13",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32403&idDoc=14",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32403&idDoc=15",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32403&idDoc=16",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32403&idDoc=17",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32403&idDoc=18",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32403&idDoc=19",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32403&idDoc=20"
     ]
   },
   {

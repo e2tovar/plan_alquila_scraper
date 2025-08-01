@@ -102,36 +102,6 @@
     ]
   },
   {
-    "id": 32377,
-    "publicado": "2025-07-07",
-    "modificado": "2025-07-27",
-    "direccion": "Paseo De Las Acacias 4",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Acacias",
-    "planta": 6,
-    "orientacion": "Exterior",
-    "precio": 1085,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32377&idDoc=1",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32377&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32377&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32377&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32377&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32377&idDoc=6",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32377&idDoc=7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32377&idDoc=8",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32377&idDoc=10",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32377&idDoc=11"
-    ]
-  },
-  {
     "id": 32384,
     "publicado": "2025-07-19",
     "modificado": "2025-07-27",

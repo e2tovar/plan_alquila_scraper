@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 01 Aug 2025 11:45:29 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 Aug 2025 16:54:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -135,14 +135,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214519?2025-07-24</guid>
-		</item>
-		<item>
-			<title>736€ Getafe</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/214652</link>
-			<description>Av. María Zambrano, 4,&lt;br/&gt;3º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/214652</description>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214652?2025-07-30</guid>
 		</item>
 		<item>
 			<title>1500€ Chamberí</title>
@@ -1055,14 +1047,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Colmenar Viejo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275866?2025-07-24</guid>
-		</item>
-		<item>
-			<title>1200€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275881</link>
-			<description>C/ Tomás Borrás, 14,&lt;br/&gt;3º con ascensor,&lt;br/&gt;50m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275881</description>
-			<pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275881?2025-07-16</guid>
 		</item>
 		<item>
 			<title>1200€ Ciudad Lineal</title>

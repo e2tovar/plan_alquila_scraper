@@ -376,30 +376,6 @@
     ]
   },
   {
-    "id": 32406,
-    "publicado": "2025-07-23",
-    "modificado": "2025-07-27",
-    "direccion": "Calle Antonia Calas 13",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "San Diego",
-    "planta": 4,
-    "orientacion": "Mixto",
-    "precio": 550,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32406&idDoc=1",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32406&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32406&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32406&idDoc=4"
-    ]
-  },
-  {
     "id": 32410,
     "publicado": "2025-07-16",
     "modificado": "2025-07-28",

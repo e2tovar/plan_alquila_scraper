@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 04 Aug 2025 11:47:34 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 04 Aug 2025 16:58:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -287,14 +287,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266229?2025-07-24</guid>
-		</item>
-		<item>
-			<title>1100€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268510</link>
-			<description>C/ Antonio López, 156,&lt;br/&gt;3º con ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/268510</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268510?2025-07-24</guid>
 		</item>
 		<item>
 			<title>1400€ Chamberí</title>
@@ -1327,14 +1319,6 @@
 			<pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Collado Villalba</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275979?2025-07-07</guid>
-		</item>
-		<item>
-			<title>1500€ Chamberí</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275986</link>
-			<description>C/ Sotomayor, 2,&lt;br/&gt;6º con ascensor,&lt;br/&gt;70m², 2 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;alq/275986</description>
-			<pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275986?2025-07-25</guid>
 		</item>
 		<item>
 			<title>1400€ Alcobendas</title>

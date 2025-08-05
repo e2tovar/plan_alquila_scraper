@@ -289,6 +289,9 @@ class Alquila:
 
         img = w.execute_script("return jQuery(arguments[0]).find('img')[0]", detail)
         while img:
+            if id == 220435:
+                logger.warning("Piso 220435 tiene un problema con las imágenes")
+                break
             w.jClick(img)
             img = None
             w.waitLoaded()

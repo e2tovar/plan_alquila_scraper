@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 05 Aug 2025 22:38:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 06 Aug 2025 12:43:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,9 +36,9 @@
 			<title>750€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32384</link>
 			<description>C/ Francisco Puertas 4,&lt;br/&gt;2º con ascensor,&lt;br/&gt;1 🛏,&lt;br/&gt;1 🛀, 11 📷.&lt;br/&gt;sia/32384</description>
-			<pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32384?2025-07-27</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32384?2025-08-06</guid>
 		</item>
 		<item>
 			<title>1340€ Latina</title>
@@ -79,6 +79,14 @@
 			<pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32413?2025-08-04</guid>
+		</item>
+		<item>
+			<title>908.75€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32416</link>
+			<description>C/ Doctor Tolosa Latour 13,&lt;br/&gt;2º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;sia/32416</description>
+			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32416?2025-08-06</guid>
 		</item>
 		<item>
 			<title>900€ San Martín de la Vega</title>
@@ -137,14 +145,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214519?2025-07-24</guid>
 		</item>
 		<item>
-			<title>736€ Getafe</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/214652</link>
-			<description>Av. María Zambrano, 4,&lt;br/&gt;3º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/214652</description>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214652?2025-07-30</guid>
-		</item>
-		<item>
 			<title>1500€ Chamberí</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/216889</link>
 			<description>C/ Bravo Murillo, 41,&lt;br/&gt;3º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/216889</description>
@@ -185,14 +185,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/222081?2025-07-24</guid>
 		</item>
 		<item>
-			<title>1200€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/222860</link>
-			<description>C/ Antonio Romero, 19,&lt;br/&gt;4º con ascensor,&lt;br/&gt;83m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/222860</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/222860?2025-07-24</guid>
-		</item>
-		<item>
 			<title>1450€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/223305</link>
 			<description>C/ Sánchez Balderas, 10,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/223305</description>
@@ -215,6 +207,14 @@
 			<pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/235014?2025-07-31</guid>
+		</item>
+		<item>
+			<title>1500€ San Blas-Canillejas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/247631</link>
+			<description>C/ Luisa de Carvajal, 30,&lt;br/&gt;5º con ascensor,&lt;br/&gt;83m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/247631</description>
+			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+			<category>San Blas-Canillejas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/247631?2025-08-06</guid>
 		</item>
 		<item>
 			<title>950€ Puente de Vallecas</title>
@@ -265,12 +265,28 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261777?2025-07-24</guid>
 		</item>
 		<item>
+			<title>1021.99€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/262190</link>
+			<description>C/ María Teresa León, 19,&lt;br/&gt;2º con ascensor,&lt;br/&gt;54m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/262190</description>
+			<pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262190?2025-07-31</guid>
+		</item>
+		<item>
 			<title>1650€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/262494</link>
 			<description>C/ Gabriel Lobo, 28,&lt;br/&gt;3º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/262494</description>
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262494?2025-07-24</guid>
+		</item>
+		<item>
+			<title>1200€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/263649</link>
+			<description>Av. Monforte de Lemos, 143,&lt;br/&gt;10º con ascensor,&lt;br/&gt;47m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/263649</description>
+			<pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/263649?2025-07-31</guid>
 		</item>
 		<item>
 			<title>1200€ Tetuán</title>
@@ -291,10 +307,10 @@
 		<item>
 			<title>850€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/266094</link>
-			<description>C/ Moratilla de Henares, 11,&lt;br/&gt;4º con ascensor,&lt;br/&gt;31m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/266094</description>
-			<pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
+			<description>C/ Moratilla de Henares, 11,&lt;br/&gt;4º con ascensor,&lt;br/&gt;31m², 1 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;alq/266094</description>
+			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266094?2025-08-03</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266094?2025-08-06</guid>
 		</item>
 		<item>
 			<title>800€ Centro</title>
@@ -313,6 +329,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267776?2025-08-05</guid>
 		</item>
 		<item>
+			<title>1300€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268049</link>
+			<description>Ctra Barrio de la Fortuna, 6,&lt;br/&gt;4º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/268049</description>
+			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268049?2025-08-05</guid>
+		</item>
+		<item>
 			<title>1400€ Chamberí</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268544</link>
 			<description>C/ Cristóbal Bordiú, 11,&lt;br/&gt;6º con ascensor,&lt;br/&gt;54m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/268544</description>
@@ -327,14 +351,6 @@
 			<pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268628?2024-11-13</guid>
-		</item>
-		<item>
-			<title>750€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269030</link>
-			<description>Pº Santa María de la Cabeza, 139,&lt;br/&gt;5º sin ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269030</description>
-			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269030?2025-08-05</guid>
 		</item>
 		<item>
 			<title>950€ Fuencarral-El Pardo</title>
@@ -371,10 +387,10 @@
 		<item>
 			<title>854€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270795</link>
-			<description>C/ Bravo Murillo, 225,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;33m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270795</description>
-			<pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
+			<description>C/ Bravo Murillo, 225,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;33m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/270795</description>
+			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270795?2025-07-31</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270795?2025-08-06</guid>
 		</item>
 		<item>
 			<title>650€ Aranjuez</title>
@@ -495,14 +511,6 @@
 			<pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
 			<category>Getafe</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274116?2025-06-02</guid>
-		</item>
-		<item>
-			<title>1230€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274255</link>
-			<description>C/ Federico Grases, 25,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;76m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274255</description>
-			<pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274255?2025-07-16</guid>
 		</item>
 		<item>
 			<title>1000€ Escorial, El</title>
@@ -809,14 +817,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275474?2025-07-24</guid>
 		</item>
 		<item>
-			<title>1350€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275510</link>
-			<description>C/ Juan Pascual de Mena, 11,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;75m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275510</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275510?2025-07-24</guid>
-		</item>
-		<item>
 			<title>1200€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275525</link>
 			<description>C/ Panizo, 59,&lt;br/&gt;2º con ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/275525</description>
@@ -1065,14 +1065,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275838?2025-07-07</guid>
 		</item>
 		<item>
-			<title>775€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275841</link>
-			<description>C/ Naranjo, 14,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;25m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/275841</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275841?2025-07-24</guid>
-		</item>
-		<item>
 			<title>1350€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275848</link>
 			<description>C/ Juan Pérez Zúñiga, 21,&lt;br/&gt;6º con ascensor,&lt;br/&gt;51m², 2 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/275848</description>
@@ -1289,28 +1281,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275962?2025-07-02</guid>
 		</item>
 		<item>
-			<title>950€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275963</link>
-			<description>Av. Monforte de Lemos, 175,&lt;br/&gt;2º con ascensor,&lt;br/&gt;33m², 1 🛏,&lt;br/&gt;1 🛀, 5 📷.&lt;br/&gt;alq/275963</description>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275963?2025-07-30</guid>
-		</item>
-		<item>
 			<title>1300€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275964</link>
 			<description>Av. Camino de Santiago, 1,&lt;br/&gt;5º con ascensor,&lt;br/&gt;64m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275964</description>
 			<pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275964?2025-07-02</guid>
-		</item>
-		<item>
-			<title>1300€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275967</link>
-			<description>C/ Fresno de Cantespino, 30,&lt;br/&gt;5º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/275967</description>
-			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275967?2025-08-05</guid>
 		</item>
 		<item>
 			<title>1260€ Hortaleza</title>
@@ -1383,14 +1359,6 @@
 			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275994?2025-08-01</guid>
-		</item>
-		<item>
-			<title>1050€ San Sebastián de los Reyes</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275995</link>
-			<description>C/ Somiedo, 3,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;64m², 2 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/275995</description>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-			<category>San Sebastián de los Reyes</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275995?2025-08-01</guid>
 		</item>
 		<item>
 			<title>950€ Retiro</title>
@@ -1561,14 +1529,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276038?2025-07-24</guid>
 		</item>
 		<item>
-			<title>750€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276039</link>
-			<description>C/ Belmonte de Tajo, 37,&lt;br/&gt;2º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;alq/276039</description>
-			<pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276039?2025-07-28</guid>
-		</item>
-		<item>
 			<title>900€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276041</link>
 			<description>C/ Azcoitia, 32,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;58m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/276041</description>
@@ -1619,10 +1579,10 @@
 		<item>
 			<title>1450€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276056</link>
-			<description>C/ Carazo, 2,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;48m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276056</description>
-			<pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+			<description>C/ Carazo, 2,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;48m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/276056</description>
+			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276056?2025-08-04</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276056?2025-08-06</guid>
 		</item>
 		<item>
 			<title>1850€ Getafe</title>
@@ -1655,6 +1615,14 @@
 			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276065?2025-08-05</guid>
+		</item>
+		<item>
+			<title>1300€ Chamberí</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276067</link>
+			<description>C/ Santa Engracia, 158,&lt;br/&gt;5º con ascensor,&lt;br/&gt;46m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276067</description>
+			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Chamberí</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276067?2025-08-06</guid>
 		</item>
 	</channel>
 </rss>

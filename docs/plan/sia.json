@@ -104,7 +104,7 @@
   {
     "id": 32384,
     "publicado": "2025-07-19",
-    "modificado": "2025-07-27",
+    "modificado": "2025-08-06",
     "direccion": "Calle Francisco Puertas 4",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -129,7 +129,7 @@
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=9",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=11",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=12",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=13"
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=14"
     ]
   },
   {
@@ -272,53 +272,6 @@
     ]
   },
   {
-    "id": 32402,
-    "publicado": "2025-07-10",
-    "modificado": "2025-07-29",
-    "direccion": "Calle Jose Maria Roquero 6",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Palos de Moguer",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 800,
-    "dormitorios": 0,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=18",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=23",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=24",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=25",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=27",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=29",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=30",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=31",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=32",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=33",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=34",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=35",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=36",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=38",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=39",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=40",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=41",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=42",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=43",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=44",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=45",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=46",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=47",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=48",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=49",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=50",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32402&idDoc=51"
-    ]
-  },
-  {
     "id": 32405,
     "publicado": "2025-07-29",
     "direccion": "Calle Eugenio Salazar 17",
@@ -412,6 +365,33 @@
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=9",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=10",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=11"
+    ]
+  },
+  {
+    "id": 32416,
+    "publicado": "2025-08-06",
+    "direccion": "Calle Doctor Tolosa Latour 13",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "barrio": "Pradolongo",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 908.75,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "D",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=2",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=3",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=4",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=5",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=6",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=7",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=8",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=9"
     ]
   }
 ]

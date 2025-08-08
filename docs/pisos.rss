@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 08 Aug 2025 11:44:17 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Aug 2025 16:50:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -415,6 +415,14 @@
 			<pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271084?2025-06-16</guid>
+		</item>
+		<item>
+			<title>1300€ Retiro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271338</link>
+			<description>C/ Granada, 58,&lt;br/&gt;5º con ascensor,&lt;br/&gt;43m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/271338</description>
+			<pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Retiro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271338?2025-08-08</guid>
 		</item>
 		<item>
 			<title>900€ Móstoles</title>
@@ -1663,6 +1671,14 @@
 			<pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276077?2025-08-08</guid>
+		</item>
+		<item>
+			<title>950€ Alcorcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276079</link>
+			<description>C/ Pablo Neruda, 80,&lt;br/&gt;2º con ascensor,&lt;br/&gt;89m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276079</description>
+			<pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Alcorcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276079?2025-08-08</guid>
 		</item>
 	</channel>
 </rss>

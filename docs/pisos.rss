@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 13 Aug 2025 11:47:07 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 13 Aug 2025 16:49:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1479,6 +1479,14 @@
 			<pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276042?2025-07-28</guid>
+		</item>
+		<item>
+			<title>850€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276043</link>
+			<description>Av. Cerro Milano, 141,&lt;br/&gt;5º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;alq/276043</description>
+			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276043?2025-07-29</guid>
 		</item>
 		<item>
 			<title>1100€ Ciudad Lineal</title>

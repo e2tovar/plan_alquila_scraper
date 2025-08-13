@@ -346,5 +346,31 @@
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=8",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=9"
     ]
+  },
+  {
+    "id": 32417,
+    "publicado": "2025-08-13",
+    "direccion": "Calle Mercedes Domingo 2",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Comillas",
+    "planta": 1,
+    "orientacion": "Mixto",
+    "precio": 1050,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32417&idDoc=1",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32417&idDoc=2",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32417&idDoc=3",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32417&idDoc=4",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32417&idDoc=5",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32417&idDoc=6",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32417&idDoc=7"
+    ]
   }
 ]

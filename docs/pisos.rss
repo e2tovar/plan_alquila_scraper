@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 14 Aug 2025 11:44:07 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 14 Aug 2025 16:31:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -151,14 +151,6 @@
 			<pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/216889?2025-08-04</guid>
-		</item>
-		<item>
-			<title>600€ Móstoles</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/217311</link>
-			<description>C/ Pintor Zurbarán, 1,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;39m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/217311</description>
-			<pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Móstoles</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/217311?2025-08-11</guid>
 		</item>
 		<item>
 			<title>1200€ Centro</title>
@@ -1633,6 +1625,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276083?2025-08-12</guid>
 		</item>
 		<item>
+			<title>1350€ Hoyo de Manzanares</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276084</link>
+			<description>Urb El Roquedal, 11,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;80m², 3 🛏,&lt;br/&gt;3 🛀, 0 📷.&lt;br/&gt;alq/276084</description>
+			<pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Hoyo de Manzanares</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276084?2025-08-14</guid>
+		</item>
+		<item>
 			<title>1430€ Guadarrama</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276085</link>
 			<description>C/ Cañada, 11,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;121m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276085</description>
@@ -1652,9 +1652,9 @@
 			<title>1650€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276088</link>
 			<description>C/ Don Quijote, 48,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;92m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276088</description>
-			<pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276088?2025-08-13</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276088?2025-08-14</guid>
 		</item>
 		<item>
 			<title>1200€ Moncloa-Aravaca</title>

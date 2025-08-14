@@ -255,7 +255,7 @@
   {
     "id": 32410,
     "publicado": "2025-07-16",
-    "modificado": "2025-07-28",
+    "modificado": "2025-08-14",
     "direccion": "Calle Mercedes Arteaga 15",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -268,7 +268,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32410&idDoc=38",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32410&idDoc=39",

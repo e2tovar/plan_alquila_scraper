@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 18 Aug 2025 11:46:31 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 18 Aug 2025 16:52:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -71,14 +71,6 @@
 			<pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32413?2025-08-04</guid>
-		</item>
-		<item>
-			<title>908.75€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32416</link>
-			<description>C/ Doctor Tolosa Latour 13,&lt;br/&gt;2º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;sia/32416</description>
-			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32416?2025-08-06</guid>
 		</item>
 		<item>
 			<title>1050€ Carabanchel</title>
@@ -735,14 +727,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Coslada</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275271?2025-07-24</guid>
-		</item>
-		<item>
-			<title>1100€ Retiro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275325</link>
-			<description>C/ Valderribas, 54,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;44m², 1 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275325</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275325?2025-07-24</guid>
 		</item>
 		<item>
 			<title>950€ Collado Villalba</title>
@@ -1639,6 +1623,22 @@
 			<pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276092?2025-08-14</guid>
+		</item>
+		<item>
+			<title>925€ Chamartín</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276093</link>
+			<description>C/ Uruguay, 35,&lt;br/&gt;8º con ascensor,&lt;br/&gt;69m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276093</description>
+			<pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Chamartín</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276093?2025-08-18</guid>
+		</item>
+		<item>
+			<title>1980€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276094</link>
+			<description>C/ Fortunata y Jacinta, 31,&lt;br/&gt;1º con ascensor,&lt;br/&gt;4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276094</description>
+			<pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276094?2025-08-18</guid>
 		</item>
 	</channel>
 </rss>

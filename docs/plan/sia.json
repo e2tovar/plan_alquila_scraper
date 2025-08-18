@@ -323,6 +323,7 @@
   {
     "id": 32416,
     "publicado": "2025-08-06",
+    "modificado": "2025-08-18",
     "direccion": "Calle Doctor Tolosa Latour 13",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -335,7 +336,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=2",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=3",

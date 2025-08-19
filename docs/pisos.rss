@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 18 Aug 2025 16:52:45 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 19 Aug 2025 11:45:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -49,14 +49,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32388?2025-07-27</guid>
 		</item>
 		<item>
-			<title>1325€ Retiro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32394</link>
-			<description>Av. Ciudad De Barcelona 29,&lt;br/&gt;4º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 5 📷.&lt;br/&gt;sia/32394</description>
-			<pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32394?2025-07-27</guid>
-		</item>
-		<item>
 			<title>1750€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32405</link>
 			<description>C/ Eugenio Salazar 17,&lt;br/&gt;3º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;sia/32405</description>
@@ -65,12 +57,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32405?2025-07-29</guid>
 		</item>
 		<item>
-			<title>650€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32413</link>
-			<description>C/ Lumbrales 6,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 11 📷.&lt;br/&gt;sia/32413</description>
-			<pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32413?2025-08-04</guid>
+			<title>1250€ Moratalaz</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32415</link>
+			<description>C/ Pico Artilleros 83,&lt;br/&gt;1º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;1 🛀, 11 📷.&lt;br/&gt;sia/32415</description>
+			<pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Moratalaz</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32415?2025-08-19</guid>
 		</item>
 		<item>
 			<title>1050€ Carabanchel</title>
@@ -199,6 +191,14 @@
 			<pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/235014?2025-07-31</guid>
+		</item>
+		<item>
+			<title>1750€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/241322</link>
+			<description>C/ Carrero Juan Ramón, 7,&lt;br/&gt;6º con ascensor,&lt;br/&gt;109m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/241322</description>
+			<pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/241322?2025-08-19</guid>
 		</item>
 		<item>
 			<title>1400€ Fuencarral-El Pardo</title>
@@ -1065,14 +1065,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275892?2025-07-24</guid>
 		</item>
 		<item>
-			<title>1000€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275893</link>
-			<description>C/ Cuevas de Almanzora, 64,&lt;br/&gt;2º con ascensor,&lt;br/&gt;54m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275893</description>
-			<pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275893?2025-06-09</guid>
-		</item>
-		<item>
 			<title>1600€ Salamanca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275894</link>
 			<description>C/ Roma, 40,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;70m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275894</description>
@@ -1081,28 +1073,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275894?2025-07-24</guid>
 		</item>
 		<item>
-			<title>950€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275897</link>
-			<description>C/ Mascaraque, 13,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;50m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275897</description>
-			<pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275897?2025-06-10</guid>
-		</item>
-		<item>
 			<title>900€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275899</link>
 			<description>C/ Centenera, 30,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;39m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275899</description>
 			<pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275899?2025-06-11</guid>
-		</item>
-		<item>
-			<title>1119€ Parla</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275900</link>
-			<description>Pº República Dominicana, 12,&lt;br/&gt;3º con ascensor,&lt;br/&gt;78m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275900</description>
-			<pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-			<category>Parla</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275900?2025-06-19</guid>
 		</item>
 		<item>
 			<title>1350€ Carabanchel</title>
@@ -1639,6 +1615,14 @@
 			<pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276094?2025-08-18</guid>
+		</item>
+		<item>
+			<title>1200€ Vicálvaro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276095</link>
+			<description>C/ San Cipriano, 67,&lt;br/&gt;2º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276095</description>
+			<pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Vicálvaro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276095?2025-08-19</guid>
 		</item>
 	</channel>
 </rss>

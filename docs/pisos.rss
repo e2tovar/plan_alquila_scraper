@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 21 Aug 2025 11:44:16 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 21 Aug 2025 17:48:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -119,14 +119,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214519?2025-07-24</guid>
-		</item>
-		<item>
-			<title>1500€ Chamberí</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/216889</link>
-			<description>C/ Bravo Murillo, 41,&lt;br/&gt;3º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/216889</description>
-			<pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/216889?2025-08-04</guid>
 		</item>
 		<item>
 			<title>1200€ Centro</title>
@@ -801,14 +793,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275578?2025-02-27</guid>
 		</item>
 		<item>
-			<title>1040€ Getafe</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275615</link>
-			<description>Av. Juan Negrín, 6,&lt;br/&gt;1º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/275615</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275615?2025-07-24</guid>
-		</item>
-		<item>
 			<title>1500€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275634</link>
 			<description>Pº Tierra de Melide, 32,&lt;br/&gt;3º con ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275634</description>
@@ -951,14 +935,6 @@
 			<pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275805?2025-05-13</guid>
-		</item>
-		<item>
-			<title>950€ Collado Mediano</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275809</link>
-			<description>Av. Pinar, 25,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;80m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275809</description>
-			<pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-			<category>Collado Mediano</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275809?2025-05-14</guid>
 		</item>
 		<item>
 			<title>1350€ Centro</title>
@@ -1303,14 +1279,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276038?2025-07-24</guid>
-		</item>
-		<item>
-			<title>900€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276041</link>
-			<description>C/ Azcoitia, 32,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;58m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/276041</description>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276041?2025-08-01</guid>
 		</item>
 		<item>
 			<title>1200€ Arganzuela</title>

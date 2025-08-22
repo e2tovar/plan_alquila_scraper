@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 22 Aug 2025 12:13:01 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 22 Aug 2025 16:49:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1241,12 +1241,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276024?2025-07-21</guid>
 		</item>
 		<item>
-			<title>850€ Tetuán</title>
+			<title>800€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276026</link>
 			<description>C/ Juan Pantoja, 19,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;25m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276026</description>
-			<pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276026?2025-07-22</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276026?2025-08-22</guid>
 		</item>
 		<item>
 			<title>1800€ Arganzuela</title>
@@ -1367,14 +1367,6 @@
 			<pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Collado Villalba</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276060?2025-08-14</guid>
-		</item>
-		<item>
-			<title>1250€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276061</link>
-			<description>Pº Chopera, 37,&lt;br/&gt;5º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;alq/276061</description>
-			<pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276061?2025-08-12</guid>
 		</item>
 		<item>
 			<title>1100€ Usera</title>

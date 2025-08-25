@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 22 Aug 2025 16:49:03 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 25 Aug 2025 11:41:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -217,14 +217,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/249676?2025-07-31</guid>
 		</item>
 		<item>
-			<title>900€ Getafe</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/249805</link>
-			<description>C/ Huesca, 6,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;63m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/249805</description>
-			<pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/249805?2025-08-07</guid>
-		</item>
-		<item>
 			<title>1700€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/252143</link>
 			<description>C/ Luis Cabrera, 18,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;58m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/252143</description>
@@ -260,9 +252,9 @@
 			<title>1200€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/263649</link>
 			<description>Av. Monforte de Lemos, 143,&lt;br/&gt;10º con ascensor,&lt;br/&gt;47m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/263649</description>
-			<pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/263649?2025-07-31</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/263649?2025-08-25</guid>
 		</item>
 		<item>
 			<title>1200€ Tetuán</title>
@@ -321,12 +313,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269332?2025-05-31</guid>
 		</item>
 		<item>
-			<title>600€ Rascafría</title>
+			<title>650€ Rascafría</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269633</link>
 			<description>Av. Paular, 9,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;85m², 4 🛏,&lt;br/&gt;1 🛀, 10 📷.&lt;br/&gt;alq/269633</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Rascafría</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269633?2025-07-24</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269633?2025-08-25</guid>
 		</item>
 		<item>
 			<title>1250€ Salamanca</title>
@@ -335,6 +327,14 @@
 			<pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
 			<category>Salamanca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269708?2024-10-01</guid>
+		</item>
+		<item>
+			<title>1050€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270224</link>
+			<description>C/ Fernando Díaz de Mendoza, 20,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270224</description>
+			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270224?2025-08-25</guid>
 		</item>
 		<item>
 			<title>854€ Tetuán</title>
@@ -780,9 +780,9 @@
 			<title>1500€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275564</link>
 			<description>C/ Seseña,&lt;br/&gt;9º con ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/275564</description>
-			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275564?2025-08-05</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275564?2025-08-25</guid>
 		</item>
 		<item>
 			<title>1500€ Rozas de Madrid, Las</title>

@@ -169,37 +169,6 @@
     ]
   },
   {
-    "id": 32393,
-    "publicado": "2025-07-28",
-    "modificado": "2025-08-04",
-    "direccion": "Calle Carlos Martin Alvarez 75",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "San Diego",
-    "planta": 3,
-    "precio": 850,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=8",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=9",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=10",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=11",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=12",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=13",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=14",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=15",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=16",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=17",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32393&idDoc=18"
-    ]
-  },
-  {
     "id": 32394,
     "publicado": "2025-06-22",
     "modificado": "2025-08-19",
@@ -371,6 +340,7 @@
   {
     "id": 32425,
     "publicado": "2025-08-21",
+    "modificado": "2025-08-26",
     "direccion": "Calle Jose De Cadalso 38",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -383,7 +353,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32425&idDoc=2",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32425&idDoc=3",
@@ -412,6 +382,33 @@
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32425&idDoc=26",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32425&idDoc=27",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32425&idDoc=28"
+    ]
+  },
+  {
+    "id": 32426,
+    "publicado": "2025-08-26",
+    "direccion": "Calle Virgen De Lluc 38",
+    "municipio": "Madrid",
+    "distrito": "Ciudad Lineal",
+    "barrio": "Concepci\u00f3n",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 1000,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32426&idDoc=2",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32426&idDoc=3",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32426&idDoc=4",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32426&idDoc=5",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32426&idDoc=6",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32426&idDoc=7",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32426&idDoc=8",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32426&idDoc=9"
     ]
   }
 ]

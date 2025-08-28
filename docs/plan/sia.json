@@ -255,6 +255,7 @@
   {
     "id": 32415,
     "publicado": "2025-08-19",
+    "modificado": "2025-08-28",
     "direccion": "Calle Pico Artilleros 83",
     "municipio": "Madrid",
     "distrito": "Moratalaz",
@@ -267,7 +268,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32415&idDoc=1",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32415&idDoc=2",
@@ -280,34 +281,6 @@
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32415&idDoc=9",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32415&idDoc=10",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32415&idDoc=11"
-    ]
-  },
-  {
-    "id": 32416,
-    "publicado": "2025-08-06",
-    "modificado": "2025-08-18",
-    "direccion": "Calle Doctor Tolosa Latour 13",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "Pradolongo",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 908.75,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=6",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=8",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32416&idDoc=9"
     ]
   },
   {

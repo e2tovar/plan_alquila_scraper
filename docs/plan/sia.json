@@ -102,37 +102,6 @@
     ]
   },
   {
-    "id": 32384,
-    "publicado": "2025-07-19",
-    "modificado": "2025-08-21",
-    "direccion": "Calle Francisco Puertas 4",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "San Isidro",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=1",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=6",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=9",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=11",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=12",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32384&idDoc=14"
-    ]
-  },
-  {
     "id": 32388,
     "publicado": "2025-06-25",
     "modificado": "2025-07-27",
@@ -222,37 +191,6 @@
     ]
   },
   {
-    "id": 32413,
-    "publicado": "2025-08-04",
-    "modificado": "2025-08-19",
-    "direccion": "Calle Lumbrales 6",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Casco Hist\u00f3rico de Vallecas",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 650,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=1",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=6",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=8",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=9",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=10",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32413&idDoc=11"
-    ]
-  },
-  {
     "id": 32415,
     "publicado": "2025-08-19",
     "modificado": "2025-08-28",
@@ -308,6 +246,30 @@
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32417&idDoc=5",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32417&idDoc=6",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32417&idDoc=7"
+    ]
+  },
+  {
+    "id": 32419,
+    "publicado": "2025-08-29",
+    "direccion": "Calle Hoyuelo 3",
+    "municipio": "Madrid",
+    "distrito": "Retiro",
+    "barrio": "Adelfas",
+    "planta": 6,
+    "orientacion": "Mixto",
+    "precio": 1070,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": true,
+    "reservada": false,
+    "imgs": [
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32419&idDoc=5",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32419&idDoc=7",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32419&idDoc=8",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32419&idDoc=9",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32419&idDoc=10"
     ]
   },
   {

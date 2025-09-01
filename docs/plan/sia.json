@@ -345,5 +345,87 @@
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32426&idDoc=8",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32426&idDoc=9"
     ]
+  },
+  {
+    "id": 32427,
+    "publicado": "2025-09-01",
+    "direccion": "Calle Antonio De Leyva 72",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Opa\u00f1el",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 1350,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32427&idDoc=2",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32427&idDoc=3",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32427&idDoc=4",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32427&idDoc=5",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32427&idDoc=6",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32427&idDoc=7",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32427&idDoc=8",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32427&idDoc=9",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32427&idDoc=10",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32427&idDoc=11",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32427&idDoc=12"
+    ]
+  },
+  {
+    "id": 32428,
+    "publicado": "2025-09-01",
+    "direccion": "Calle Salitre 9",
+    "municipio": "Madrid",
+    "distrito": "Centro",
+    "barrio": "Embajadores",
+    "planta": 1,
+    "precio": 800,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32428&idDoc=2",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32428&idDoc=3",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32428&idDoc=4",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32428&idDoc=5",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32428&idDoc=6",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32428&idDoc=7",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32428&idDoc=8"
+    ]
+  },
+  {
+    "id": 32429,
+    "publicado": "2025-09-01",
+    "direccion": "Calle Periana 53",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "barrio": "San Ferm\u00edn",
+    "planta": 3,
+    "orientacion": "Mixto",
+    "precio": 1010,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32429&idDoc=3",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32429&idDoc=5",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32429&idDoc=6",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32429&idDoc=8",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32429&idDoc=9",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32429&idDoc=10",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32429&idDoc=11",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32429&idDoc=12"
+    ]
   }
 ]

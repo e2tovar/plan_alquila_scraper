@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 02 Sep 2025 10:58:25 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 02 Sep 2025 15:50:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -425,6 +425,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272600?2025-07-24</guid>
 		</item>
 		<item>
+			<title>1650€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273058</link>
+			<description>C/ Hierro, 8,&lt;br/&gt;5º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/273058</description>
+			<pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273058?2025-09-02</guid>
+		</item>
+		<item>
 			<title>950€ Puente de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273170</link>
 			<description>C/ Enrique Velasco, 12,&lt;br/&gt;4º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273170</description>
@@ -511,6 +519,14 @@
 			<pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274362?2025-08-11</guid>
+		</item>
+		<item>
+			<title>950€ Fuenlabrada</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274363</link>
+			<description>C/ Gazaperas, 7,&lt;br/&gt;4º con ascensor,&lt;br/&gt;60m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274363</description>
+			<pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Fuenlabrada</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274363?2025-09-02</guid>
 		</item>
 		<item>
 			<title>1000€ Escorial, El</title>
@@ -753,12 +769,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275557?2025-07-24</guid>
 		</item>
 		<item>
-			<title>1500€ Latina</title>
+			<title>1500€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275564</link>
 			<description>C/ Seseña,&lt;br/&gt;9º con ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/275564</description>
-			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275564?2025-08-29</guid>
+			<pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275564?2025-09-02</guid>
 		</item>
 		<item>
 			<title>1500€ Rozas de Madrid, Las</title>

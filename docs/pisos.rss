@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 02 Sep 2025 15:50:57 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 03 Sep 2025 09:34:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -175,14 +175,6 @@
 			<pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/231817?2025-07-31</guid>
-		</item>
-		<item>
-			<title>1050€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/235258</link>
-			<description>Rda. Toledo, 28,&lt;br/&gt;2º con ascensor,&lt;br/&gt;33m², 1 🛏,&lt;br/&gt;1 🛀, 5 📷.&lt;br/&gt;alq/235258</description>
-			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/235258?2025-08-29</guid>
 		</item>
 		<item>
 			<title>1690€ Carabanchel</title>
@@ -841,14 +833,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275712?2025-04-08</guid>
 		</item>
 		<item>
-			<title>1050€ Centro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275714</link>
-			<description>C/ Espíritu Santo, 33,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;35m², 1 🛏,&lt;br/&gt;1 🛀, 5 📷.&lt;br/&gt;alq/275714</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275714?2025-07-24</guid>
-		</item>
-		<item>
 			<title>1350€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275722</link>
 			<description>C/ Valentín Llaguno, 32,&lt;br/&gt;2º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/275722</description>
@@ -1281,6 +1265,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276051?2025-08-01</guid>
 		</item>
 		<item>
+			<title>1300€ San Sebastián de los Reyes</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276053</link>
+			<description>Av. Guadarrama, 15,&lt;br/&gt;3º con ascensor,&lt;br/&gt;90m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276053</description>
+			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+			<category>San Sebastián de los Reyes</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276053?2025-08-01</guid>
+		</item>
+		<item>
 			<title>1090€ Valdemoro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276054</link>
 			<description>C/ Antonio Van de Pere, 75,&lt;br/&gt;1º con ascensor,&lt;br/&gt;110m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/276054</description>
@@ -1521,12 +1513,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276112?2025-09-01</guid>
 		</item>
 		<item>
-			<title>1800€ Salamanca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276114</link>
-			<description>C/ Padilla, 54,&lt;br/&gt;2º con ascensor,&lt;br/&gt;59m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276114</description>
+			<title>1000€ Chamberí</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276113</link>
+			<description>C/ Ríos Rosas, 16,&lt;br/&gt;6º con ascensor,&lt;br/&gt;28m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/276113</description>
 			<pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Salamanca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276114?2025-08-27</guid>
+			<category>Chamberí</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276113?2025-08-27</guid>
 		</item>
 		<item>
 			<title>1300€ Móstoles</title>
@@ -1567,14 +1559,6 @@
 			<pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276126?2025-09-02</guid>
-		</item>
-		<item>
-			<title>1200€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276127</link>
-			<description>Av. Abrantes, 66,&lt;br/&gt;5º con ascensor,&lt;br/&gt;78m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276127</description>
-			<pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276127?2025-09-02</guid>
 		</item>
 	</channel>
 </rss>

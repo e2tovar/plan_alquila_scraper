@@ -4919,5 +4919,28 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 276131,
+    "publicado": "2025-09-03",
+    "direccion": "Calle Portalegre, 28",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "planta": 6,
+    "precio": 850,
+    "metros": 72,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "G",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": false,
+    "calefacion": false,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]

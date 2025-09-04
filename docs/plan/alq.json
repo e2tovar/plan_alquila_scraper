@@ -4873,6 +4873,27 @@
     "imgs": []
   },
   {
+    "id": 276135,
+    "publicado": "2025-09-03",
+    "direccion": "Calle Timanfaya, 40",
+    "municipio": "Alcorc\u00f3n",
+    "planta": 2,
+    "precio": 1300,
+    "metros": 95,
+    "dormitorios": 3,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 276137,
     "publicado": "2025-09-03",
     "direccion": "Calle Minas, 21",

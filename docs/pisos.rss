@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 04 Sep 2025 09:18:17 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 04 Sep 2025 11:06:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -361,14 +361,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270355?2025-09-02</guid>
 		</item>
 		<item>
-			<title>854€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270795</link>
-			<description>C/ Bravo Murillo, 225,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;33m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/270795</description>
-			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270795?2025-08-06</guid>
-		</item>
-		<item>
 			<title>975€ Villaverde</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270859</link>
 			<description>C/ Silvinita, 3,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;68m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/270859</description>
@@ -391,14 +383,6 @@
 			<pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271338?2025-08-13</guid>
-		</item>
-		<item>
-			<title>900€ Móstoles</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271339</link>
-			<description>C/ Pintor Murillo, 7,&lt;br/&gt;5º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/271339</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Móstoles</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271339?2025-07-24</guid>
 		</item>
 		<item>
 			<title>1700€ Chamartín</title>
@@ -1436,9 +1420,9 @@
 			<title>1200€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276096</link>
 			<description>C/ San Pancracio, 10,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276096</description>
-			<pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276096?2025-08-19</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276096?2025-09-04</guid>
 		</item>
 		<item>
 			<title>1100€ Collado Villalba</title>

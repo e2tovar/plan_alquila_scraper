@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 04 Sep 2025 11:06:14 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 04 Sep 2025 14:12:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -287,14 +287,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266229?2025-07-24</guid>
-		</item>
-		<item>
-			<title>1051.21€ Alcobendas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/267776</link>
-			<description>C/ Encanto, 5,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/267776</description>
-			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267776?2025-08-05</guid>
 		</item>
 		<item>
 			<title>1400€ Chamberí</title>
@@ -1543,6 +1535,14 @@
 			<pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276137?2025-09-03</guid>
+		</item>
+		<item>
+			<title>925€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276141</link>
+			<description>C/ Capitán Blanco Argibay, 112,&lt;br/&gt;3º con ascensor,&lt;br/&gt;49m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276141</description>
+			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276141?2025-09-04</guid>
 		</item>
 	</channel>
 </rss>

@@ -708,28 +708,6 @@
     ]
   },
   {
-    "id": 267776,
-    "publicado": "2025-08-05",
-    "direccion": "Calle Encanto, 5",
-    "municipio": "Alcobendas",
-    "planta": 0,
-    "precio": 1051.21,
-    "metros": 56.87,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "B",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": true,
-    "piscina": true,
-    "porteria": true,
-    "trastero": true,
-    "imgs": []
-  },
-  {
     "id": 268544,
     "publicado": "2025-06-30",
     "modificado": "2025-07-24",
@@ -4914,6 +4892,29 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 276141,
+    "publicado": "2025-09-04",
+    "direccion": "Calle Capit\u00e1n Blanco Argibay, 112",
+    "municipio": "Madrid",
+    "distrito": "Tetu\u00e1n",
+    "planta": 3,
+    "precio": 925,
+    "metros": 48.55,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": true,
     "imgs": []
   }
 ]

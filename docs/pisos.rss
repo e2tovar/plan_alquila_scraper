@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 05 Sep 2025 14:14:02 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Sep 2025 17:03:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -233,6 +233,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/247848?2025-08-29</guid>
 		</item>
 		<item>
+			<title>1200€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/249382</link>
+			<description>C/ Cuenca, 22,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;77m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/249382</description>
+			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/249382?2025-09-05</guid>
+		</item>
+		<item>
 			<title>900€ Getafe</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/249805</link>
 			<description>C/ Huesca, 6,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;63m², 3 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/249805</description>
@@ -439,6 +447,14 @@
 			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Vicálvaro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271650?2025-09-05</guid>
+		</item>
+		<item>
+			<title>950€ Alcobendas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272347</link>
+			<description>C/ Encanto, 5,&lt;br/&gt;4º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/272347</description>
+			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Alcobendas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272347?2025-09-05</guid>
 		</item>
 		<item>
 			<title>1450€ Colmenar Viejo</title>

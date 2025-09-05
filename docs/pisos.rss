@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 04 Sep 2025 17:20:01 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Sep 2025 09:13:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -351,6 +351,14 @@
 			<pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270355?2025-09-02</guid>
+		</item>
+		<item>
+			<title>704€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270610</link>
+			<description>C/ Embalse de La Jarosa, 12,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;49m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270610</description>
+			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270610?2025-09-05</guid>
 		</item>
 		<item>
 			<title>975€ Villaverde</title>
@@ -1211,10 +1219,10 @@
 		<item>
 			<title>880€ Tres Cantos</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276051</link>
-			<description>Sect Literatos, 37,&lt;br/&gt;Casa con ascensor,&lt;br/&gt;51m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276051</description>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+			<description>Sect Literatos, 37,&lt;br/&gt;Casa con ascensor,&lt;br/&gt;51m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/276051</description>
+			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Tres Cantos</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276051?2025-08-01</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276051?2025-09-05</guid>
 		</item>
 		<item>
 			<title>1300€ San Sebastián de los Reyes</title>
@@ -1529,20 +1537,20 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276131?2025-09-03</guid>
 		</item>
 		<item>
-			<title>1300€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276135</link>
-			<description>C/ Timanfaya, 40,&lt;br/&gt;2º con ascensor,&lt;br/&gt;95m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276135</description>
-			<pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276135?2025-09-03</guid>
-		</item>
-		<item>
 			<title>1250€ Centro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276137</link>
-			<description>C/ Minas, 21,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;26m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276137</description>
-			<pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+			<description>C/ Minas, 21,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;32m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276137</description>
+			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276137?2025-09-03</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276137?2025-09-05</guid>
+		</item>
+		<item>
+			<title>1450€ Chamartín</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276140</link>
+			<description>C/ Luis Cabrera, 24,&lt;br/&gt;2º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276140</description>
+			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Chamartín</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276140?2025-09-04</guid>
 		</item>
 		<item>
 			<title>925€ Tetuán</title>
@@ -1551,6 +1559,22 @@
 			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276141?2025-09-04</guid>
+		</item>
+		<item>
+			<title>900€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276142</link>
+			<description>C/ Minas, 21,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276142</description>
+			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276142?2025-09-05</guid>
+		</item>
+		<item>
+			<title>1000€ Ciudad Lineal</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276143</link>
+			<description>C/ Salas Barbadillo, 70,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;54m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276143</description>
+			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Ciudad Lineal</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276143?2025-09-05</guid>
 		</item>
 	</channel>
 </rss>

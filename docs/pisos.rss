@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 08 Sep 2025 11:16:41 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Sep 2025 14:17:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -225,14 +225,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/247631?2025-08-07</guid>
 		</item>
 		<item>
-			<title>950€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/247687</link>
-			<description>C/ Mijas, 16,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;49m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/247687</description>
-			<pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/247687?2025-07-11</guid>
-		</item>
-		<item>
 			<title>1400€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/247848</link>
 			<description>C/ Bravo Nurillo, 318,&lt;br/&gt;4º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/247848</description>
@@ -375,14 +367,6 @@
 			<pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
 			<category>Salamanca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269708?2024-10-01</guid>
-		</item>
-		<item>
-			<title>1050€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270224</link>
-			<description>C/ Fernando Díaz de Mendoza, 20,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/270224</description>
-			<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270224?2025-08-28</guid>
 		</item>
 		<item>
 			<title>965€ Carabanchel</title>
@@ -1137,14 +1121,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275990?2025-07-11</guid>
 		</item>
 		<item>
-			<title>950€ Retiro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275998</link>
-			<description>C/ Alcalde Sáinz de Baranda, 41,&lt;br/&gt;1º con ascensor,&lt;br/&gt;25m², 1 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275998</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275998?2025-07-24</guid>
-		</item>
-		<item>
 			<title>1300€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276002</link>
 			<description>C/ Lorenza Correa, 16,&lt;br/&gt;1º con ascensor,&lt;br/&gt;76m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276002</description>
@@ -1577,14 +1553,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276117?2025-09-04</guid>
 		</item>
 		<item>
-			<title>1350€ Salamanca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276124</link>
-			<description>Av. Toreros, 14,&lt;br/&gt;5º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276124</description>
-			<pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Salamanca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276124?2025-08-21</guid>
-		</item>
-		<item>
 			<title>1250€ Alpedrete</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276125</link>
 			<description>Cmno Estación, 6,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/276125</description>
@@ -1703,6 +1671,14 @@
 			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276158?2025-09-08</guid>
+		</item>
+		<item>
+			<title>1480€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276161</link>
+			<description>C/ Isla de Arosa, 27,&lt;br/&gt;5º sin ascensor,&lt;br/&gt;78m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276161</description>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276161?2025-09-01</guid>
 		</item>
 	</channel>
 </rss>

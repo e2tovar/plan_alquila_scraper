@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 08 Sep 2025 09:20:30 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Sep 2025 11:16:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -329,12 +329,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267768?2025-09-05</guid>
 		</item>
 		<item>
-			<title>1400€ Chamberí</title>
+			<title>1380€ Chamberí</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268544</link>
 			<description>C/ Cristóbal Bordiú, 11,&lt;br/&gt;6º con ascensor,&lt;br/&gt;54m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/268544</description>
-			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268544?2025-09-05</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268544?2025-09-08</guid>
 		</item>
 		<item>
 			<title>1700€ Arganzuela</title>
@@ -519,6 +519,14 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Alcorcón</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273508?2025-07-24</guid>
+		</item>
+		<item>
+			<title>1000€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273716</link>
+			<description>C/ Camarena, 229,&lt;br/&gt;1º con ascensor,&lt;br/&gt;65m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273716</description>
+			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273716?2025-09-08</guid>
 		</item>
 		<item>
 			<title>1200€ Vicálvaro</title>
@@ -711,14 +719,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Coslada</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275271?2025-07-24</guid>
-		</item>
-		<item>
-			<title>950€ Collado Villalba</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275334</link>
-			<description>C/ Isla de Sálvora, 11,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;58m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275334</description>
-			<pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-			<category>Collado Villalba</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275334?2024-11-22</guid>
 		</item>
 		<item>
 			<title>1600€ Chamartín</title>
@@ -1687,6 +1687,22 @@
 			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Rivas-Vaciamadrid</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276151?2025-09-05</guid>
+		</item>
+		<item>
+			<title>1250€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276157</link>
+			<description>Av. Águilas, 66,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;52m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276157</description>
+			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276157?2025-09-08</guid>
+		</item>
+		<item>
+			<title>675€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276158</link>
+			<description>C/ Puerto de Pozazal, 15,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276158</description>
+			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276158?2025-09-08</guid>
 		</item>
 	</channel>
 </rss>

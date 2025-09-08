@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 05 Sep 2025 17:03:19 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Sep 2025 09:20:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,9 +108,9 @@
 			<title>800€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/205953</link>
 			<description>C/ Bembibre, 10,&lt;br/&gt;2º con ascensor,&lt;br/&gt;66m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/205953</description>
-			<pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/205953?2025-08-22</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/205953?2025-09-08</guid>
 		</item>
 		<item>
 			<title>950€ Villa de Vallecas</title>
@@ -183,6 +183,14 @@
 			<pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/231817?2025-07-31</guid>
+		</item>
+		<item>
+			<title>1100€ Torrejón de Ardoz</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/237928</link>
+			<description>C/ Estaño, 4,&lt;br/&gt;5º con ascensor,&lt;br/&gt;69m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/237928</description>
+			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Torrejón de Ardoz</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/237928?2025-09-05</guid>
 		</item>
 		<item>
 			<title>1690€ Carabanchel</title>

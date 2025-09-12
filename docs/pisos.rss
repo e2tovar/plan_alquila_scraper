@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 12 Sep 2025 11:12:51 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 12 Sep 2025 14:12:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1273,6 +1273,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276053?2025-09-09</guid>
 		</item>
 		<item>
+			<title>995€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276055</link>
+			<description>C/ Vélez Blanco, 41,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276055</description>
+			<pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276055?2025-08-07</guid>
+		</item>
+		<item>
 			<title>1450€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276056</link>
 			<description>C/ Carazo, 2,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;48m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/276056</description>
@@ -1351,14 +1359,6 @@
 			<pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276077?2025-08-12</guid>
-		</item>
-		<item>
-			<title>950€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276079</link>
-			<description>C/ Pablo Neruda, 80,&lt;br/&gt;2º con ascensor,&lt;br/&gt;89m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276079</description>
-			<pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276079?2025-08-08</guid>
 		</item>
 		<item>
 			<title>1400€ Navalcarnero</title>
@@ -1447,14 +1447,6 @@
 			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276096?2025-09-04</guid>
-		</item>
-		<item>
-			<title>1100€ Collado Villalba</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276098</link>
-			<description>C/ Batalla de Bailén, 17,&lt;br/&gt;1º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276098</description>
-			<pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Collado Villalba</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276098?2025-09-11</guid>
 		</item>
 		<item>
 			<title>1000€ San Sebastián de los Reyes</title>

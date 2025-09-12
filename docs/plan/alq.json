@@ -125,11 +125,12 @@
   {
     "id": 205984,
     "publicado": "2025-08-27",
+    "modificado": "2025-09-12",
     "direccion": "Calle Alameda del Valle, 21-23",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
     "planta": 1,
-    "precio": 950,
+    "precio": 960,
     "metros": 53,
     "dormitorios": 1,
     "aseos": 1,

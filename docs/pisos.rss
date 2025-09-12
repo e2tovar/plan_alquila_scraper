@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 11 Sep 2025 17:17:02 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 12 Sep 2025 09:15:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,10 +179,10 @@
 		<item>
 			<title>1195€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/231817</link>
-			<description>Pº Dirección, 338,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;55m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/231817</description>
-			<pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
+			<description>Pº Dirección, 338,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;55m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/231817</description>
+			<pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/231817?2025-07-31</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/231817?2025-09-12</guid>
 		</item>
 		<item>
 			<title>1430€ Retiro</title>
@@ -1593,6 +1593,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276134?2025-09-05</guid>
 		</item>
 		<item>
+			<title>1095€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276136</link>
+			<description>C/ Veintiocho de Junio, 2,&lt;br/&gt;4º con ascensor,&lt;br/&gt;83m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276136</description>
+			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276136?2025-09-05</guid>
+		</item>
+		<item>
 			<title>1250€ Centro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276137</link>
 			<description>C/ Minas, 21,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;32m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276137</description>
@@ -1727,14 +1735,6 @@
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276161?2025-09-01</guid>
-		</item>
-		<item>
-			<title>925€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276162</link>
-			<description>C/ Princesa de Kapurtala, 24,&lt;br/&gt;8º con ascensor,&lt;br/&gt;63m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276162</description>
-			<pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276162?2025-09-10</guid>
 		</item>
 		<item>
 			<title>1000€ Puente de Vallecas</title>

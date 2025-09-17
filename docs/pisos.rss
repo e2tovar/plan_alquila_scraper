@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 17 Sep 2025 09:23:04 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Sep 2025 11:16:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -247,6 +247,14 @@
 			<pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/247848?2025-09-09</guid>
+		</item>
+		<item>
+			<title>1400€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/247872</link>
+			<description>Av. El Ferrol, 9,&lt;br/&gt;12º con ascensor,&lt;br/&gt;60m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/247872</description>
+			<pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/247872?2025-09-17</guid>
 		</item>
 		<item>
 			<title>1200€ Rivas-Vaciamadrid</title>
@@ -1735,6 +1743,14 @@
 			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276181?2025-09-16</guid>
+		</item>
+		<item>
+			<title>1700€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276185</link>
+			<description>C/ Embajadores, 177,&lt;br/&gt;4º con ascensor,&lt;br/&gt;89m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276185</description>
+			<pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276185?2025-09-17</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 17 Sep 2025 14:23:39 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Sep 2025 17:27:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1105,14 +1105,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275990?2025-07-11</guid>
 		</item>
 		<item>
-			<title>1300€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276002</link>
-			<description>C/ Lorenza Correa, 16,&lt;br/&gt;1º con ascensor,&lt;br/&gt;76m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276002</description>
-			<pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276002?2025-08-14</guid>
-		</item>
-		<item>
 			<title>1350€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276008</link>
 			<description>C/ Valentín Llaguno, 32,&lt;br/&gt;2º con ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276008</description>
@@ -1711,6 +1703,14 @@
 			<pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276185?2025-09-17</guid>
+		</item>
+		<item>
+			<title>1242.91€ San Blas-Canillejas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276186</link>
+			<description>C/ Cracovia, 25,&lt;br/&gt;2º con ascensor,&lt;br/&gt;90m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276186</description>
+			<pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+			<category>San Blas-Canillejas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276186?2025-09-17</guid>
 		</item>
 		<item>
 			<title>1200€ San Blas-Canillejas</title>

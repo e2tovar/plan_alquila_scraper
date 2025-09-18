@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 18 Sep 2025 14:13:21 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Sep 2025 17:19:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -399,6 +399,14 @@
 			<pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
 			<category>Salamanca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269708?2024-10-01</guid>
+		</item>
+		<item>
+			<title>832€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270108</link>
+			<description>C/ Rozas de Puerto Real, 9,&lt;br/&gt;6º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270108</description>
+			<pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270108?2025-09-18</guid>
 		</item>
 		<item>
 			<title>1000€ Chamberí</title>
@@ -1097,12 +1105,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275990?2025-07-11</guid>
 		</item>
 		<item>
-			<title>1350€ Carabanchel</title>
+			<title>1200€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276008</link>
 			<description>C/ Valentín Llaguno, 32,&lt;br/&gt;2º con ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276008</description>
-			<pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276008?2025-07-16</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276008?2025-09-18</guid>
 		</item>
 		<item>
 			<title>1350€ Salamanca</title>
@@ -1203,7 +1211,7 @@
 		<item>
 			<title>995€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276055</link>
-			<description>C/ Vélez Blanco, 41,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276055</description>
+			<description>C/ Vélez Blanco, 41,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276055</description>
 			<pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276055?2025-09-18</guid>

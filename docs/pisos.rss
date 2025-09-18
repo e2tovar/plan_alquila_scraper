@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 18 Sep 2025 09:22:29 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Sep 2025 11:21:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -111,14 +111,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/204511?2025-07-24</guid>
-		</item>
-		<item>
-			<title>800€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/205953</link>
-			<description>C/ Bembibre, 10,&lt;br/&gt;2º con ascensor,&lt;br/&gt;66m², 3 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;alq/205953</description>
-			<pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/205953?2025-09-11</guid>
 		</item>
 		<item>
 			<title>960€ Villa de Vallecas</title>

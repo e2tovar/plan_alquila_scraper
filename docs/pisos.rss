@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 19 Sep 2025 09:20:05 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Sep 2025 11:19:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1385,14 +1385,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276106?2025-08-28</guid>
 		</item>
 		<item>
-			<title>844€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276108</link>
-			<description>C/ Juan Ramón Jiménez, 9,&lt;br/&gt;3º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/276108</description>
-			<pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276108?2025-09-17</guid>
-		</item>
-		<item>
 			<title>1525€ San Blas-Canillejas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276110</link>
 			<description>C/ San Marino, 6,&lt;br/&gt;1º con ascensor,&lt;br/&gt;84m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/276110</description>
@@ -1420,9 +1412,9 @@
 			<title>950€ Chamberí</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276113</link>
 			<description>C/ Ríos Rosas, 16,&lt;br/&gt;6º con ascensor,&lt;br/&gt;28m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/276113</description>
-			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276113?2025-09-04</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276113?2025-09-19</guid>
 		</item>
 		<item>
 			<title>1800€ Salamanca</title>
@@ -1735,6 +1727,14 @@
 			<pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276192?2025-09-18</guid>
+		</item>
+		<item>
+			<title>1500€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276197</link>
+			<description>C/ Melchor Fernández Almagro, 19,&lt;br/&gt;12º con ascensor,&lt;br/&gt;78m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276197</description>
+			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276197?2025-09-19</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 19 Sep 2025 11:19:20 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Sep 2025 14:42:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -977,14 +977,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275887?2025-06-06</guid>
 		</item>
 		<item>
-			<title>1200€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275892</link>
-			<description>C/ Carlota O´Neill, 24,&lt;br/&gt;1º con ascensor,&lt;br/&gt;45m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/275892</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275892?2025-07-24</guid>
-		</item>
-		<item>
 			<title>1600€ Salamanca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275894</link>
 			<description>C/ Roma, 40,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;70m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275894</description>
@@ -1031,14 +1023,6 @@
 			<pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275924?2025-06-19</guid>
-		</item>
-		<item>
-			<title>1300€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275937</link>
-			<description>C/ Quero, 25,&lt;br/&gt;2º con ascensor,&lt;br/&gt;66m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275937</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275937?2025-07-24</guid>
 		</item>
 		<item>
 			<title>1875€ Moncloa-Aravaca</title>
@@ -1735,6 +1719,14 @@
 			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276197?2025-09-19</guid>
+		</item>
+		<item>
+			<title>1280€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276199</link>
+			<description>C/ Los Yébenes, 144,&lt;br/&gt;9º con ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276199</description>
+			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276199?2025-09-19</guid>
 		</item>
 	</channel>
 </rss>

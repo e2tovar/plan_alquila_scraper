@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 22 Sep 2025 08:57:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Sep 2025 11:00:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -111,14 +111,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/204511?2025-07-24</guid>
-		</item>
-		<item>
-			<title>960€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/205984</link>
-			<description>C/ Alameda del Valle, 21-23,&lt;br/&gt;1º con ascensor,&lt;br/&gt;39m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/205984</description>
-			<pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/205984?2025-09-15</guid>
 		</item>
 		<item>
 			<title>1700€ Majadahonda</title>
@@ -1395,10 +1387,10 @@
 		<item>
 			<title>950€ Chamberí</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276113</link>
-			<description>C/ Ríos Rosas, 16,&lt;br/&gt;6º con ascensor,&lt;br/&gt;28m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/276113</description>
-			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+			<description>C/ Ríos Rosas, 16,&lt;br/&gt;6º con ascensor,&lt;br/&gt;42m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/276113</description>
+			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276113?2025-09-19</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276113?2025-09-22</guid>
 		</item>
 		<item>
 			<title>1800€ Salamanca</title>
@@ -1523,10 +1515,10 @@
 		<item>
 			<title>1000€ Alcobendas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276150</link>
-			<description>C/ Imaginación, 13,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;43m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/276150</description>
-			<pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+			<description>C/ Imaginación, 13,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;62m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/276150</description>
+			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276150?2025-09-09</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276150?2025-09-22</guid>
 		</item>
 		<item>
 			<title>1660€ Rivas-Vaciamadrid</title>
@@ -1635,10 +1627,10 @@
 		<item>
 			<title>1100€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276181</link>
-			<description>C/ Ramón Serrano, 36,&lt;br/&gt;3º con ascensor,&lt;br/&gt;52m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276181</description>
-			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+			<description>C/ Ramón Serrano, 36,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;52m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276181</description>
+			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276181?2025-09-16</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276181?2025-09-22</guid>
 		</item>
 		<item>
 			<title>1600€ Retiro</title>

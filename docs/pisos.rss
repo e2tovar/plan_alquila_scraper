@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 22 Sep 2025 11:00:54 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Sep 2025 14:12:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -164,9 +164,9 @@
 			<title>850€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/225101</link>
 			<description>C/ Cantueso, 18,&lt;br/&gt;1º con ascensor,&lt;br/&gt;27m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/225101</description>
-			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/225101?2025-09-16</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/225101?2025-09-22</guid>
 		</item>
 		<item>
 			<title>900€ Usera</title>
@@ -463,14 +463,6 @@
 			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Soto del Real</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272146?2025-09-16</guid>
-		</item>
-		<item>
-			<title>950€ Alcobendas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272347</link>
-			<description>C/ Encanto, 5,&lt;br/&gt;4º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;2 🛀, 7 📷.&lt;br/&gt;alq/272347</description>
-			<pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272347?2025-09-09</guid>
 		</item>
 		<item>
 			<title>1450€ Colmenar Viejo</title>
@@ -1417,14 +1409,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276117?2025-09-04</guid>
 		</item>
 		<item>
-			<title>1400€ Salamanca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276124</link>
-			<description>Av. Toreros, 14,&lt;br/&gt;5º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276124</description>
-			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Salamanca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276124?2025-08-29</guid>
-		</item>
-		<item>
 			<title>1250€ Alpedrete</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276125</link>
 			<description>Cmno Estación, 6,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/276125</description>
@@ -1447,14 +1431,6 @@
 			<pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276134?2025-09-18</guid>
-		</item>
-		<item>
-			<title>1095€ Rivas-Vaciamadrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276136</link>
-			<description>C/ Veintiocho de Junio, 2,&lt;br/&gt;4º con ascensor,&lt;br/&gt;84m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/276136</description>
-			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276136?2025-09-16</guid>
 		</item>
 		<item>
 			<title>1400€ Chamartín</title>
@@ -1567,14 +1543,6 @@
 			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276158?2025-09-08</guid>
-		</item>
-		<item>
-			<title>1480€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276161</link>
-			<description>C/ Isla de Arosa, 27,&lt;br/&gt;5º sin ascensor,&lt;br/&gt;78m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276161</description>
-			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276161?2025-09-01</guid>
 		</item>
 		<item>
 			<title>1000€ Puente de Vallecas</title>

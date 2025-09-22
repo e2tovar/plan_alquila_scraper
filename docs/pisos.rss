@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 19 Sep 2025 14:42:28 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Sep 2025 08:57:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,10 +179,10 @@
 		<item>
 			<title>900€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/226603</link>
-			<description>C/ Dolores Barranco, 24,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/226603</description>
-			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+			<description>C/ Dolores Barranco, 24,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/226603</description>
+			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/226603?2025-09-16</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/226603?2025-09-22</guid>
 		</item>
 		<item>
 			<title>1195€ Tetuán</title>
@@ -417,12 +417,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270696?2025-09-11</guid>
 		</item>
 		<item>
-			<title>1310€ Tetuán</title>
+			<title>1290€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270711</link>
 			<description>C/ Doctor Santero, 13,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;52m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/270711</description>
-			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270711?2025-09-16</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270711?2025-09-22</guid>
 		</item>
 		<item>
 			<title>975€ Villaverde</title>
@@ -1609,14 +1609,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276165?2025-09-09</guid>
 		</item>
 		<item>
-			<title>900€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276166</link>
-			<description>C/ Almuradiel, 3,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276166</description>
-			<pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276166?2025-09-10</guid>
-		</item>
-		<item>
 			<title>2200€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276172</link>
 			<description>C/ Constancia, 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;103m², 2 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/276172</description>
@@ -1727,6 +1719,14 @@
 			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276199?2025-09-19</guid>
+		</item>
+		<item>
+			<title>1150€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276201</link>
+			<description>C/ María Antonia, 11,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;53m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276201</description>
+			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276201?2025-09-22</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 23 Sep 2025 14:03:59 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Sep 2025 17:08:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1223,6 +1223,14 @@
 			<pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
 			<category>San Sebastián de los Reyes</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276076?2025-09-09</guid>
+		</item>
+		<item>
+			<title>747€ Alcorcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276081</link>
+			<description>C/ Mestizaje, 3,&lt;br/&gt;5º con ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276081</description>
+			<pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+			<category>Alcorcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276081?2025-08-11</guid>
 		</item>
 		<item>
 			<title>1400€ Navalcarnero</title>

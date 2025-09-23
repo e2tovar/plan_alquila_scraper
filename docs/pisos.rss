@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 22 Sep 2025 14:12:06 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Sep 2025 09:20:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -297,6 +297,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262494?2025-07-24</guid>
 		</item>
 		<item>
+			<title>1100€ Alcorcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/263819</link>
+			<description>C/ Cabo San Vicente, 2,&lt;br/&gt;1º con ascensor,&lt;br/&gt;68m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/263819</description>
+			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Alcorcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/263819?2025-09-23</guid>
+		</item>
+		<item>
 			<title>1200€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/264962</link>
 			<description>C/ General Margallo, 14,&lt;br/&gt;5º con ascensor,&lt;br/&gt;33m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/264962</description>
@@ -463,6 +471,14 @@
 			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Soto del Real</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272146?2025-09-16</guid>
+		</item>
+		<item>
+			<title>800€ Pozuelo de Alarcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272262</link>
+			<description>C/ Benigno Granizo, 36,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/272262</description>
+			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Pozuelo de Alarcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272262?2025-09-23</guid>
 		</item>
 		<item>
 			<title>1450€ Colmenar Viejo</title>
@@ -1145,14 +1161,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276038?2025-07-24</guid>
 		</item>
 		<item>
-			<title>1200€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276042</link>
-			<description>C/ Delicias, 28,&lt;br/&gt;2º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/276042</description>
-			<pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276042?2025-09-10</guid>
-		</item>
-		<item>
 			<title>1100€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276044</link>
 			<description>C/ Esteban Collantes, 17,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;59m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276044</description>
@@ -1279,14 +1287,6 @@
 			<pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Móstoles</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276086?2025-08-13</guid>
-		</item>
-		<item>
-			<title>1076€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276087</link>
-			<description>C/ Arte Expresionista, 21,&lt;br/&gt;4º con ascensor,&lt;br/&gt;83m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/276087</description>
-			<pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276087?2025-08-27</guid>
 		</item>
 		<item>
 			<title>1388€ Alcobendas</title>
@@ -1471,14 +1471,6 @@
 			<pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Rivas-Vaciamadrid</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276145?2025-09-10</guid>
-		</item>
-		<item>
-			<title>1250€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276147</link>
-			<description>C/ Venus, 11,&lt;br/&gt;6º con ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276147</description>
-			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276147?2025-09-05</guid>
 		</item>
 		<item>
 			<title>1000€ Rivas-Vaciamadrid</title>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 23 Sep 2025 09:20:22 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Sep 2025 10:58:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -641,14 +641,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274850?2025-07-09</guid>
 		</item>
 		<item>
-			<title>995€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275115</link>
-			<description>C/ Miramadrid, 18,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;38m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275115</description>
-			<pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275115?2024-09-06</guid>
-		</item>
-		<item>
 			<title>1700€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275139</link>
 			<description>C/ Veza, 23,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;90m², 3 🛏,&lt;br/&gt;2 🛀, 10 📷.&lt;br/&gt;alq/275139</description>
@@ -801,11 +793,11 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275557?2025-07-24</guid>
 		</item>
 		<item>
-			<title>1500€ Carabanchel</title>
+			<title>1500€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275564</link>
 			<description>C/ Seseña,&lt;br/&gt;9º con ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/275564</description>
 			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
+			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275564?2025-09-16</guid>
 		</item>
 		<item>
@@ -1199,14 +1191,6 @@
 			<pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Getafe</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276058?2025-09-17</guid>
-		</item>
-		<item>
-			<title>875€ Collado Villalba</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276060</link>
-			<description>C/ Isla de Lobeira, 106,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;50m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276060</description>
-			<pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Collado Villalba</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276060?2025-09-02</guid>
 		</item>
 		<item>
 			<title>1150€ Leganés</title>
@@ -1679,6 +1663,14 @@
 			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276201?2025-09-22</guid>
+		</item>
+		<item>
+			<title>1700€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276205</link>
+			<description>C/ Eugenio Caxes, 4,&lt;br/&gt;1º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276205</description>
+			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276205?2025-09-23</guid>
 		</item>
 	</channel>
 </rss>

@@ -4278,6 +4278,7 @@
   {
     "id": 276140,
     "publicado": "2025-09-04",
+    "modificado": "2025-09-24",
     "direccion": "Calle Luis Cabrera, 24",
     "municipio": "Madrid",
     "distrito": "Chamart\u00edn",
@@ -4286,6 +4287,7 @@
     "metros": 60,
     "dormitorios": 2,
     "aseos": 1,
+    "cee": "E",
     "mascotas": false,
     "amueblada": true,
     "ascensor": true,

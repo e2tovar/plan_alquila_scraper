@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 23 Sep 2025 17:08:29 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Sep 2025 08:58:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -95,14 +95,6 @@
 			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/201532?2025-04-16</guid>
-		</item>
-		<item>
-			<title>850€ Humanes de Madrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/201694</link>
-			<description>C/ Islas Medas, 1,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;49m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/201694</description>
-			<pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Humanes de Madrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/201694?2025-09-17</guid>
 		</item>
 		<item>
 			<title>1300€ Centro</title>

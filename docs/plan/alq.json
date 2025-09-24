@@ -57,28 +57,6 @@
     "imgs": []
   },
   {
-    "id": 201694,
-    "publicado": "2025-09-17",
-    "direccion": "Calle Islas Medas, 1",
-    "municipio": "Humanes de Madrid",
-    "planta": 3,
-    "precio": 850,
-    "metros": 49.2,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "D",
-    "mascotas": true,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": true,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 204511,
     "publicado": "2025-03-12",
     "modificado": "2025-07-24",

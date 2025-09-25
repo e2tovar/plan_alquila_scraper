@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 24 Sep 2025 16:48:26 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Sep 2025 08:55:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -319,6 +319,14 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266229?2025-07-24</guid>
+		</item>
+		<item>
+			<title>900€ Alcobendas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/266335</link>
+			<description>C/ León Pérez Bayo, 4,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/266335</description>
+			<pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Alcobendas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266335?2025-09-15</guid>
 		</item>
 		<item>
 			<title>1500€ Tetuán</title>
@@ -985,6 +993,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275924?2025-06-19</guid>
 		</item>
 		<item>
+			<title>1300€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275937</link>
+			<description>C/ Quero, 25,&lt;br/&gt;2º con ascensor,&lt;br/&gt;66m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275937</description>
+			<pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275937?2025-06-30</guid>
+		</item>
+		<item>
 			<title>1875€ Moncloa-Aravaca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275942</link>
 			<description>C/ Cadarso, 19,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275942</description>
@@ -1599,6 +1615,14 @@
 			<pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276211?2025-09-24</guid>
+		</item>
+		<item>
+			<title>1650€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276212</link>
+			<description>C/ Rosario Romero, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;110m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276212</description>
+			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276212?2025-09-25</guid>
 		</item>
 	</channel>
 </rss>

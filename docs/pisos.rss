@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 26 Sep 2025 08:56:53 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Sep 2025 11:12:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -463,14 +463,6 @@
 			<pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273058?2025-09-24</guid>
-		</item>
-		<item>
-			<title>950€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273170</link>
-			<description>C/ Enrique Velasco, 12,&lt;br/&gt;4º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273170</description>
-			<pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273170?2025-09-03</guid>
 		</item>
 		<item>
 			<title>1200€ Salamanca</title>
@@ -1607,6 +1599,30 @@
 			<pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Villaverde</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276216?2025-09-26</guid>
+		</item>
+		<item>
+			<title>800€ Mejorada del Campo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276217</link>
+			<description>C/ Casino, 3,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;48m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276217</description>
+			<pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Mejorada del Campo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276217?2025-09-26</guid>
+		</item>
+		<item>
+			<title>1250€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276220</link>
+			<description>C/ Camarena, 170,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;58m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276220</description>
+			<pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276220?2025-09-26</guid>
+		</item>
+		<item>
+			<title>950€ Alcobendas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276221</link>
+			<description>C/ Gardenia, 8,&lt;br/&gt;2º con ascensor,&lt;br/&gt;90m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276221</description>
+			<pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Alcobendas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276221?2025-09-26</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 26 Sep 2025 13:59:43 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Sep 2025 08:57:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -255,14 +255,6 @@
 			<pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261506?2025-09-17</guid>
-		</item>
-		<item>
-			<title>1250€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/261777</link>
-			<description>C/ Batalla del Salado, 49,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;58m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/261777</description>
-			<pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261777?2025-06-20</guid>
 		</item>
 		<item>
 			<title>1650€ Chamartín</title>
@@ -1593,12 +1585,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276220?2025-09-26</guid>
 		</item>
 		<item>
-			<title>950€ Alcobendas</title>
+			<title>950€ Alcorcón</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276221</link>
-			<description>C/ Gardenia, 8,&lt;br/&gt;2º con ascensor,&lt;br/&gt;90m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276221</description>
-			<pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276221?2025-09-26</guid>
+			<description>C/ Gardenias, 8,&lt;br/&gt;2º con ascensor,&lt;br/&gt;90m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276221</description>
+			<pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Alcorcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276221?2025-09-29</guid>
 		</item>
 		<item>
 			<title>1300€ Ciudad Lineal</title>
@@ -1607,6 +1599,14 @@
 			<pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276222?2025-09-26</guid>
+		</item>
+		<item>
+			<title>1300€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276223</link>
+			<description>C/ Azagra, 7,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276223</description>
+			<pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276223?2025-09-29</guid>
 		</item>
 	</channel>
 </rss>

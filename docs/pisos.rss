@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 30 Sep 2025 08:59:44 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Sep 2025 13:57:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -257,14 +257,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/260075?2025-07-24</guid>
 		</item>
 		<item>
-			<title>850€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/261506</link>
-			<description>C/ Puentedeume, 7,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;44m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/261506</description>
-			<pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261506?2025-09-29</guid>
-		</item>
-		<item>
 			<title>1650€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/262494</link>
 			<description>C/ Gabriel Lobo, 28,&lt;br/&gt;3º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/262494</description>
@@ -279,6 +271,14 @@
 			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Alcorcón</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/263819?2025-09-23</guid>
+		</item>
+		<item>
+			<title>1400€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/264555</link>
+			<description>C/ Cirauqui, 4,&lt;br/&gt;2º con ascensor,&lt;br/&gt;62m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/264555</description>
+			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264555?2025-09-30</guid>
 		</item>
 		<item>
 			<title>1200€ Tetuán</title>
@@ -399,14 +399,6 @@
 			<pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271084?2025-06-16</guid>
-		</item>
-		<item>
-			<title>650€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271442</link>
-			<description>C/ Ricardo Gutiérrez, 16,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/271442</description>
-			<pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271442?2025-09-11</guid>
 		</item>
 		<item>
 			<title>990€ Vicálvaro</title>
@@ -569,12 +561,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274850?2025-07-09</guid>
 		</item>
 		<item>
-			<title>1275€ Móstoles</title>
+			<title>975€ Móstoles</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275153</link>
 			<description>C/ Río Genil, 18,&lt;br/&gt;2º con ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275153</description>
-			<pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Móstoles</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275153?2025-05-10</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275153?2025-09-30</guid>
 		</item>
 		<item>
 			<title>1350€ Centro</title>
@@ -1327,14 +1319,6 @@
 			<pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Fuenlabrada</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276149?2025-09-05</guid>
-		</item>
-		<item>
-			<title>1660€ Rivas-Vaciamadrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276151</link>
-			<description>C/ Luis García Berlanga, 1,&lt;br/&gt;4º con ascensor,&lt;br/&gt;90m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/276151</description>
-			<pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276151?2025-09-11</guid>
 		</item>
 		<item>
 			<title>1300€ Hortaleza</title>

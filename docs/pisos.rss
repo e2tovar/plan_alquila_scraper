@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 30 Sep 2025 13:57:44 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Sep 2025 16:56:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -151,6 +151,14 @@
 			<pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/223305?2025-03-20</guid>
+		</item>
+		<item>
+			<title>950€ Moratalaz</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/223413</link>
+			<description>Av. Moratalaz, 112,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;48m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/223413</description>
+			<pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Moratalaz</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/223413?2025-09-29</guid>
 		</item>
 		<item>
 			<title>1195€ Tetuán</title>
@@ -563,7 +571,7 @@
 		<item>
 			<title>975€ Móstoles</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275153</link>
-			<description>C/ Río Genil, 18,&lt;br/&gt;2º con ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275153</description>
+			<description>C/ Río Genil, 18,&lt;br/&gt;2º con ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275153</description>
 			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Móstoles</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275153?2025-09-30</guid>

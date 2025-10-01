@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 30 Sep 2025 16:56:59 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 01 Oct 2025 08:57:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -721,6 +721,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275557?2025-07-24</guid>
 		</item>
 		<item>
+			<title>1200€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275561</link>
+			<description>C/ Pablo Sarasate, 10,&lt;br/&gt;2º con ascensor,&lt;br/&gt;86m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275561</description>
+			<pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275561?2025-09-24</guid>
+		</item>
+		<item>
 			<title>1500€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275564</link>
 			<description>C/ Seseña,&lt;br/&gt;9º con ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/275564</description>
@@ -927,14 +935,6 @@
 			<pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275901?2025-07-25</guid>
-		</item>
-		<item>
-			<title>1500€ Retiro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275908</link>
-			<description>C/ Barrilero, 5,&lt;br/&gt;3º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/275908</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275908?2025-07-24</guid>
 		</item>
 		<item>
 			<title>1150€ Centro</title>
@@ -1591,6 +1591,22 @@
 			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276227?2025-09-30</guid>
+		</item>
+		<item>
+			<title>1200€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276228</link>
+			<description>C/ María Moliner, 15,&lt;br/&gt;2º con ascensor,&lt;br/&gt;47m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276228</description>
+			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276228?2025-09-30</guid>
+		</item>
+		<item>
+			<title>1110€ Alcalá de Henares</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276229</link>
+			<description>C/ Fernán Falcón, 12,&lt;br/&gt;2º con ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276229</description>
+			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Alcalá de Henares</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276229?2025-09-23</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 02 Oct 2025 10:59:19 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 02 Oct 2025 13:54:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -375,14 +375,6 @@
 			<pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268628?2024-11-13</guid>
-		</item>
-		<item>
-			<title>1195€ Centro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268868</link>
-			<description>C/ San Pedro Mártir, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/268868</description>
-			<pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268868?2025-07-11</guid>
 		</item>
 		<item>
 			<title>650€ Rascafría</title>
@@ -1273,14 +1265,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276111?2025-09-17</guid>
 		</item>
 		<item>
-			<title>1200€ Salamanca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276112</link>
-			<description>C/ Rufino Blanco, 38,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;44m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/276112</description>
-			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Salamanca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276112?2025-09-01</guid>
-		</item>
-		<item>
 			<title>1300€ Móstoles</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276116</link>
 			<description>C/ Parque Zarauz, 4,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/276116</description>
@@ -1655,6 +1639,22 @@
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276236?2025-10-01</guid>
+		</item>
+		<item>
+			<title>1290€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276244</link>
+			<description>C/ Alejandro Villegas, 16,&lt;br/&gt;3º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276244</description>
+			<pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276244?2025-10-02</guid>
+		</item>
+		<item>
+			<title>750€ Alcorcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276245</link>
+			<description>Pl. Sierra de la Pedriza, 8,&lt;br/&gt;2º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276245</description>
+			<pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Alcorcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276245?2025-10-02</guid>
 		</item>
 	</channel>
 </rss>

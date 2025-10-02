@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 01 Oct 2025 14:25:44 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 02 Oct 2025 08:54:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -407,6 +407,14 @@
 			<pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271084?2025-06-16</guid>
+		</item>
+		<item>
+			<title>760€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271177</link>
+			<description>C/ Nicolás Godoy, 18,&lt;br/&gt;Ss sin ascensor,&lt;br/&gt;53m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/271177</description>
+			<pubDate>Tue, 18 Feb 2020 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271177?2020-02-18</guid>
 		</item>
 		<item>
 			<title>1550€ Usera</title>

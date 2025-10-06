@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 06 Oct 2025 08:54:31 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 06 Oct 2025 10:56:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -185,12 +185,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/237928?2025-09-09</guid>
 		</item>
 		<item>
-			<title>1690€ Carabanchel</title>
+			<title>1595€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/241322</link>
 			<description>C/ Carrero Juan Ramón, 7,&lt;br/&gt;6º con ascensor,&lt;br/&gt;109m², 4 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/241322</description>
-			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/241322?2025-09-01</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/241322?2025-10-06</guid>
 		</item>
 		<item>
 			<title>1500€ San Blas-Canillejas</title>
@@ -291,10 +291,10 @@
 		<item>
 			<title>1400€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/264555</link>
-			<description>C/ Cirauqui, 4,&lt;br/&gt;2º con ascensor,&lt;br/&gt;62m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/264555</description>
-			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+			<description>C/ Cirauqui, 4,&lt;br/&gt;2º con ascensor,&lt;br/&gt;62m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/264555</description>
+			<pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264555?2025-09-30</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264555?2025-10-06</guid>
 		</item>
 		<item>
 			<title>1300€ Tetuán</title>
@@ -1489,14 +1489,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276220?2025-09-26</guid>
 		</item>
 		<item>
-			<title>950€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276221</link>
-			<description>C/ Gardenias, 8,&lt;br/&gt;2º con ascensor,&lt;br/&gt;90m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276221</description>
-			<pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276221?2025-09-29</guid>
-		</item>
-		<item>
 			<title>1300€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276222</link>
 			<description>C/ Gerardo Cordón, 49,&lt;br/&gt;5º sin ascensor,&lt;br/&gt;59m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276222</description>
@@ -1531,10 +1523,10 @@
 		<item>
 			<title>1110€ Alcalá de Henares</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276229</link>
-			<description>C/ Fernán Falcón, 12,&lt;br/&gt;2º con ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276229</description>
-			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+			<description>C/ Fernán Falcón, 12,&lt;br/&gt;2º con ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/276229</description>
+			<pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Alcalá de Henares</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276229?2025-09-23</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276229?2025-10-06</guid>
 		</item>
 		<item>
 			<title>1500€ Latina</title>
@@ -1543,6 +1535,14 @@
 			<pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276231?2025-10-03</guid>
+		</item>
+		<item>
+			<title>1250€ Retiro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276234</link>
+			<description>C/ Luis Mitjans, 10,&lt;br/&gt;6º con ascensor,&lt;br/&gt;53m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276234</description>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Retiro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276234?2025-10-01</guid>
 		</item>
 		<item>
 			<title>1300€ Aranjuez</title>

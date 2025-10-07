@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 06 Oct 2025 14:04:09 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 07 Oct 2025 08:55:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -265,6 +265,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/260075?2025-07-24</guid>
 		</item>
 		<item>
+			<title>1192.56€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/260841</link>
+			<description>C/ Trece Rosas, 2,&lt;br/&gt;2º con ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/260841</description>
+			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/260841?2025-10-07</guid>
+		</item>
+		<item>
 			<title>1650€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/262494</link>
 			<description>C/ Gabriel Lobo, 28,&lt;br/&gt;3º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/262494</description>
@@ -313,12 +321,20 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264962?2025-07-24</guid>
 		</item>
 		<item>
+			<title>1350€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/264973</link>
+			<description>C/ Socuéllamos, 13,&lt;br/&gt;3º con ascensor,&lt;br/&gt;72m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/264973</description>
+			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264973?2025-10-07</guid>
+		</item>
+		<item>
 			<title>900€ San Fernando de Henares</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/265778</link>
-			<description>C/ Gabriel Celaya, 4,&lt;br/&gt;4º con ascensor,&lt;br/&gt;89m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/265778</description>
-			<pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+			<description>C/ Gabriel Celaya, 4,&lt;br/&gt;4º con ascensor,&lt;br/&gt;89m², 4 🛏,&lt;br/&gt;2 🛀, 10 📷.&lt;br/&gt;alq/265778</description>
+			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
 			<category>San Fernando de Henares</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265778?2025-10-06</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265778?2025-10-07</guid>
 		</item>
 		<item>
 			<title>900€ Alcobendas</title>
@@ -1193,14 +1209,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276099?2025-08-20</guid>
 		</item>
 		<item>
-			<title>1100€ Salamanca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276103</link>
-			<description>C/ Francisco Silvela, 56,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;30m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276103</description>
-			<pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Salamanca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276103?2025-08-20</guid>
-		</item>
-		<item>
 			<title>1500€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276106</link>
 			<description>Av. General Perón, 25,&lt;br/&gt;2º con ascensor,&lt;br/&gt;54m², 2 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/276106</description>
@@ -1599,6 +1607,14 @@
 			<pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Moratalaz</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276252?2025-10-06</guid>
+		</item>
+		<item>
+			<title>1200€ Leganés</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276253</link>
+			<description>C/ Priorato, 9,&lt;br/&gt;2º con ascensor,&lt;br/&gt;67m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276253</description>
+			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Leganés</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276253?2025-10-07</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 08 Oct 2025 09:12:06 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 08 Oct 2025 11:04:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -361,14 +361,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266335?2025-09-15</guid>
 		</item>
 		<item>
-			<title>750€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/267767</link>
-			<description>C/ Embalse de Navacerrada, 53,&lt;br/&gt;4º con ascensor,&lt;br/&gt;28m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/267767</description>
-			<pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267767?2025-10-06</guid>
-		</item>
-		<item>
 			<title>1500€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/267768</link>
 			<description>C/ Cicerón, 3,&lt;br/&gt;3º con ascensor,&lt;br/&gt;52m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/267768</description>
@@ -487,6 +479,14 @@
 			<pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271963?2025-10-03</guid>
+		</item>
+		<item>
+			<title>1800€ Soto del Real</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272146</link>
+			<description>C/ Puenteáreas, 15,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;250m², 4 🛏,&lt;br/&gt;3 🛀, 10 📷.&lt;br/&gt;alq/272146</description>
+			<pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Soto del Real</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272146?2025-09-11</guid>
 		</item>
 		<item>
 			<title>800€ Pozuelo de Alarcón</title>
@@ -1175,14 +1175,6 @@
 			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276069?2025-08-06</guid>
-		</item>
-		<item>
-			<title>1300€ Chamberí</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276071</link>
-			<description>C/ Hilarión Eslava, 21,&lt;br/&gt;8º sin ascensor,&lt;br/&gt;42m², 1 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/276071</description>
-			<pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276071?2025-09-11</guid>
 		</item>
 		<item>
 			<title>1400€ Navalcarnero</title>

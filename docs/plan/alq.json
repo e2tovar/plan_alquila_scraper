@@ -1103,6 +1103,28 @@
     ]
   },
   {
+    "id": 268611,
+    "publicado": "2025-10-03",
+    "direccion": "Calle Bolillero, 37",
+    "municipio": "Tres Cantos",
+    "planta": 4,
+    "precio": 995,
+    "metros": 41.23,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": false,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": true,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 268628,
     "publicado": "2024-11-13",
     "direccion": "Calle Tom\u00e1s Bret\u00f3n, 12",

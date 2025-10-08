@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 08 Oct 2025 14:07:07 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 08 Oct 2025 17:04:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -383,6 +383,14 @@
 			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268544?2025-09-08</guid>
+		</item>
+		<item>
+			<title>995€ Tres Cantos</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268611</link>
+			<description>C/ Bolillero, 37,&lt;br/&gt;4º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/268611</description>
+			<pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Tres Cantos</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268611?2025-10-03</guid>
 		</item>
 		<item>
 			<title>1700€ Arganzuela</title>

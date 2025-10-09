@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 09 Oct 2025 09:04:41 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 09 Oct 2025 11:05:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -217,14 +217,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/241322?2025-10-06</guid>
 		</item>
 		<item>
-			<title>1500€ San Blas-Canillejas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/247631</link>
-			<description>C/ Luisa de Carvajal, 30,&lt;br/&gt;5º con ascensor,&lt;br/&gt;83m², 2 🛏,&lt;br/&gt;2 🛀, 7 📷.&lt;br/&gt;alq/247631</description>
-			<pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-			<category>San Blas-Canillejas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/247631?2025-08-07</guid>
-		</item>
-		<item>
 			<title>1400€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/247848</link>
 			<description>C/ Bravo Nurillo, 318,&lt;br/&gt;4º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/247848</description>
@@ -395,10 +387,10 @@
 		<item>
 			<title>995€ Tres Cantos</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268611</link>
-			<description>C/ Bolillero, 37,&lt;br/&gt;4º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/268611</description>
-			<pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+			<description>C/ Bolillero, 37,&lt;br/&gt;4º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/268611</description>
+			<pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Tres Cantos</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268611?2025-10-03</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268611?2025-10-09</guid>
 		</item>
 		<item>
 			<title>1700€ Arganzuela</title>
@@ -815,14 +807,6 @@
 			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Majadahonda</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275557?2025-07-24</guid>
-		</item>
-		<item>
-			<title>1200€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275561</link>
-			<description>C/ Pablo Sarasate, 10,&lt;br/&gt;2º con ascensor,&lt;br/&gt;86m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275561</description>
-			<pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275561?2025-09-24</guid>
 		</item>
 		<item>
 			<title>1500€ Latina</title>
@@ -1305,14 +1289,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276139?2025-10-07</guid>
 		</item>
 		<item>
-			<title>1400€ Chamartín</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276140</link>
-			<description>C/ Luis Cabrera, 24,&lt;br/&gt;2º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/276140</description>
-			<pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Chamartín</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276140?2025-09-24</guid>
-		</item>
-		<item>
 			<title>925€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276141</link>
 			<description>C/ Capitán Blanco Argibay, 112,&lt;br/&gt;3º con ascensor,&lt;br/&gt;49m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/276141</description>
@@ -1407,14 +1383,6 @@
 			<pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276192?2025-10-03</guid>
-		</item>
-		<item>
-			<title>950€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276193</link>
-			<description>C/ Valle Inclán, 37,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;60m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276193</description>
-			<pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276193?2025-09-18</guid>
 		</item>
 		<item>
 			<title>1200€ Fuencarral-El Pardo</title>

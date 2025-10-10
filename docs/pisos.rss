@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 10 Oct 2025 11:01:01 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 10 Oct 2025 14:03:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -387,7 +387,7 @@
 		<item>
 			<title>700€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/265916</link>
-			<description>C/ Eugenia de Montijo, 93,&lt;br/&gt;1º con ascensor,&lt;br/&gt;53m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/265916</description>
+			<description>C/ Eugenia de Montijo, 93,&lt;br/&gt;1º con ascensor,&lt;br/&gt;53m², 1 🛏,&lt;br/&gt;1 🛀, 5 📷.&lt;br/&gt;alq/265916</description>
 			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265916?2025-10-10</guid>
@@ -500,9 +500,9 @@
 			<title>950€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271719</link>
 			<description>C/ López de Hoyos, 92,&lt;br/&gt;1º con ascensor,&lt;br/&gt;46m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/271719</description>
-			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271719?2025-10-07</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271719?2025-10-10</guid>
 		</item>
 		<item>
 			<title>1500€ Centro</title>
@@ -825,14 +825,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275525?2025-07-24</guid>
 		</item>
 		<item>
-			<title>1200€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275556</link>
-			<description>C/ Cardenal Vicente Enrique, 12,&lt;br/&gt;1º con ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/275556</description>
-			<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275556?2025-07-24</guid>
-		</item>
-		<item>
 			<title>1250€ Majadahonda</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275557</link>
 			<description>C/ Erillas, 18,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;29m², 1 🛏,&lt;br/&gt;2 🛀, 7 📷.&lt;br/&gt;alq/275557</description>
@@ -975,14 +967,6 @@
 			<pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275826?2025-05-28</guid>
-		</item>
-		<item>
-			<title>1000€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275836</link>
-			<description>C/ José Cabrera, 9,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/275836</description>
-			<pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275836?2025-09-09</guid>
 		</item>
 		<item>
 			<title>1350€ Ciudad Lineal</title>
@@ -1775,6 +1759,22 @@
 			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Salamanca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276283?2025-10-10</guid>
+		</item>
+		<item>
+			<title>1250€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276286</link>
+			<description>C/ Cervera, 24,&lt;br/&gt;Sm con ascensor,&lt;br/&gt;48m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276286</description>
+			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276286?2025-10-10</guid>
+		</item>
+		<item>
+			<title>1089€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276287</link>
+			<description>C/ Madres de la Plaza de May, 4,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;92m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276287</description>
+			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276287?2025-10-10</guid>
 		</item>
 	</channel>
 </rss>

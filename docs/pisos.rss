@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 10 Oct 2025 09:16:52 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 10 Oct 2025 11:01:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -265,6 +265,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/252143?2025-09-09</guid>
 		</item>
 		<item>
+			<title>1100€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/253925</link>
+			<description>C/ Amparo, 103,&lt;br/&gt;1º con ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/253925</description>
+			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/253925?2025-10-10</guid>
+		</item>
+		<item>
 			<title>1200€ Alcorcón</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/255306</link>
 			<description>Pl. Peñón, 9,&lt;br/&gt;3º con ascensor,&lt;br/&gt;88m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/255306</description>
@@ -375,6 +383,14 @@
 			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
 			<category>San Fernando de Henares</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265778?2025-10-07</guid>
+		</item>
+		<item>
+			<title>700€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/265916</link>
+			<description>C/ Eugenia de Montijo, 93,&lt;br/&gt;1º con ascensor,&lt;br/&gt;53m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/265916</description>
+			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265916?2025-10-10</guid>
 		</item>
 		<item>
 			<title>900€ Alcobendas</title>
@@ -1185,14 +1201,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276065?2025-08-28</guid>
 		</item>
 		<item>
-			<title>1300€ Chamberí</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276067</link>
-			<description>C/ Santa Engracia, 158,&lt;br/&gt;5º con ascensor,&lt;br/&gt;46m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/276067</description>
-			<pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276067?2025-08-27</guid>
-		</item>
-		<item>
 			<title>1050€ Puente de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276069</link>
 			<description>C/ Venancio Martín, 44,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;54m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276069</description>
@@ -1759,6 +1767,14 @@
 			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276281?2025-10-10</guid>
+		</item>
+		<item>
+			<title>1400€ Salamanca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276283</link>
+			<description>C/ Maestro Alonso, 13,&lt;br/&gt;2º con ascensor,&lt;br/&gt;31m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276283</description>
+			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Salamanca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276283?2025-10-10</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 10 Oct 2025 16:59:45 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Oct 2025 09:03:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -259,10 +259,10 @@
 		<item>
 			<title>1100€ Centro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/253925</link>
-			<description>C/ Amparo, 103,&lt;br/&gt;1º con ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/253925</description>
-			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+			<description>C/ Amparo, 103,&lt;br/&gt;1º con ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/253925</description>
+			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/253925?2025-10-10</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/253925?2025-10-13</guid>
 		</item>
 		<item>
 			<title>1200€ Alcorcón</title>
@@ -1483,10 +1483,10 @@
 		<item>
 			<title>1300€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276223</link>
-			<description>C/ Azagra, 7,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276223</description>
-			<pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+			<description>C/ Azagra, 7,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/276223</description>
+			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276223?2025-09-29</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276223?2025-10-13</guid>
 		</item>
 		<item>
 			<title>1100€ Fuencarral-El Pardo</title>
@@ -1767,6 +1767,14 @@
 			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Rivas-Vaciamadrid</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276287?2025-10-10</guid>
+		</item>
+		<item>
+			<title>1150€ Moratalaz</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276292</link>
+			<description>C/ Cañón del Río Lobos, 7,&lt;br/&gt;2º con ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276292</description>
+			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Moratalaz</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276292?2025-10-13</guid>
 		</item>
 	</channel>
 </rss>

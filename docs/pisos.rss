@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 14 Oct 2025 14:01:47 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Oct 2025 17:01:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -255,14 +255,6 @@
 			<pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Rivas-Vaciamadrid</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/249382?2025-09-26</guid>
-		</item>
-		<item>
-			<title>1200€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/251163</link>
-			<description>C/ Agustín Calvo, 26,&lt;br/&gt;1º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/251163</description>
-			<pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/251163?2025-09-18</guid>
 		</item>
 		<item>
 			<title>1550€ Chamartín</title>
@@ -1513,6 +1505,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276237?2025-10-01</guid>
 		</item>
 		<item>
+			<title>1000€ Villaverde</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276242</link>
+			<description>C/ Arroyo Bueno, 4,&lt;br/&gt;4º con ascensor,&lt;br/&gt;86m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276242</description>
+			<pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Villaverde</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276242?2025-10-02</guid>
+		</item>
+		<item>
 			<title>995€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276243</link>
 			<description>C/ Villabona, 11,&lt;br/&gt;3º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276243</description>
@@ -1753,14 +1753,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276286?2025-10-10</guid>
 		</item>
 		<item>
-			<title>1089€ Rivas-Vaciamadrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276287</link>
-			<description>C/ Madres de la Plaza de May, 4,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;92m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276287</description>
-			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276287?2025-10-10</guid>
-		</item>
-		<item>
 			<title>1399€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276290</link>
 			<description>Av. Las Suertes, 67,&lt;br/&gt;3º con ascensor,&lt;br/&gt;86m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276290</description>
@@ -1791,6 +1783,14 @@
 			<pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Leganés</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276300?2025-10-14</guid>
+		</item>
+		<item>
+			<title>900€ Barajas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276303</link>
+			<description>Av. General, 33,&lt;br/&gt;1º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276303</description>
+			<pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Barajas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276303?2025-10-14</guid>
 		</item>
 	</channel>
 </rss>

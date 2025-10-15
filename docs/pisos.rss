@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 15 Oct 2025 11:07:50 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Oct 2025 14:03:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -559,6 +559,14 @@
 			<pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273058?2025-09-24</guid>
+		</item>
+		<item>
+			<title>600€ Cabrera, La</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273200</link>
+			<description>C/ Justicia, 23,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273200</description>
+			<pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Cabrera, La</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273200?2025-10-14</guid>
 		</item>
 		<item>
 			<title>1200€ Salamanca</title>
@@ -1777,6 +1785,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276300?2025-10-14</guid>
 		</item>
 		<item>
+			<title>1145€ Casarrubuelos</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276301</link>
+			<description>C/ Alcazaba, 5,&lt;br/&gt;2º con ascensor,&lt;br/&gt;98m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276301</description>
+			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Casarrubuelos</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276301?2025-10-15</guid>
+		</item>
+		<item>
 			<title>900€ Barajas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276303</link>
 			<description>Av. General, 33,&lt;br/&gt;1º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276303</description>
@@ -1823,6 +1839,14 @@
 			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Alcalá de Henares</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276309?2025-10-15</guid>
+		</item>
+		<item>
+			<title>1600€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276310</link>
+			<description>C/ Valverde, 26,&lt;br/&gt;4º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276310</description>
+			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276310?2025-10-15</guid>
 		</item>
 	</channel>
 </rss>

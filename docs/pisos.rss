@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 15 Oct 2025 14:03:58 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Oct 2025 17:29:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -908,9 +908,9 @@
 			<title>1350€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275722</link>
 			<description>C/ Valentín Llaguno, 32,&lt;br/&gt;2º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/275722</description>
-			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275722?2025-08-05</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275722?2025-10-15</guid>
 		</item>
 		<item>
 			<title>1200€ Centro</title>
@@ -1284,9 +1284,9 @@
 			<title>1100€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276181</link>
 			<description>C/ Ramón Serrano, 36,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;52m², 2 🛏,&lt;br/&gt;2 🛀, 7 📷.&lt;br/&gt;alq/276181</description>
-			<pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276181?2025-09-24</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276181?2025-10-15</guid>
 		</item>
 		<item>
 			<title>1600€ Retiro</title>
@@ -1775,6 +1775,14 @@
 			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276294?2025-10-13</guid>
+		</item>
+		<item>
+			<title>787€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276299</link>
+			<description>C/ Bascones, 24,&lt;br/&gt;1º con ascensor,&lt;br/&gt;68m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276299</description>
+			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276299?2025-10-15</guid>
 		</item>
 		<item>
 			<title>780€ Leganés</title>

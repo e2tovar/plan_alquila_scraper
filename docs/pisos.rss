@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 15 Oct 2025 17:29:28 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 16 Oct 2025 09:04:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -457,14 +457,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269633?2025-08-25</guid>
 		</item>
 		<item>
-			<title>975€ Villaverde</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270859</link>
-			<description>C/ Silvinita, 3,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;68m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/270859</description>
-			<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-			<category>Villaverde</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270859?2025-08-28</guid>
-		</item>
-		<item>
 			<title>1450€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271084</link>
 			<description>C/ Infanta Mercedes, 27,&lt;br/&gt;1º con ascensor,&lt;br/&gt;51m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/271084</description>
@@ -527,14 +519,6 @@
 			<pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271838?2025-10-08</guid>
-		</item>
-		<item>
-			<title>1275€ Chamartín</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271963</link>
-			<description>C/ Herreros de Tejada, 10,&lt;br/&gt;2º con ascensor,&lt;br/&gt;63m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/271963</description>
-			<pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
-			<category>Chamartín</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271963?2025-10-03</guid>
 		</item>
 		<item>
 			<title>1750€ Soto del Real</title>
@@ -1649,11 +1633,11 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276270?2025-10-14</guid>
 		</item>
 		<item>
-			<title>1000€ Tetuán</title>
+			<title>1000€ Rivas-Vaciamadrid</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276271</link>
 			<description>Rda. Oviedo, 26,&lt;br/&gt;1º con ascensor,&lt;br/&gt;77m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276271</description>
 			<pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
+			<category>Rivas-Vaciamadrid</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276271?2025-10-08</guid>
 		</item>
 		<item>
@@ -1817,11 +1801,11 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276305?2025-10-15</guid>
 		</item>
 		<item>
-			<title>1100€ Hortaleza</title>
+			<title>1100€ Valdemoro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276306</link>
 			<description>C/ Agatha Christie, 15,&lt;br/&gt;4º con ascensor,&lt;br/&gt;83m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276306</description>
 			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
+			<category>Valdemoro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276306?2025-10-15</guid>
 		</item>
 		<item>

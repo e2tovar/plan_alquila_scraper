@@ -32,7 +32,7 @@ def dump(name: str, objs):
     #to_file(name+".js", **{key: objs})
 
 
-PLAN = ('sia', 'alq')
+PLAN = ('alq')
 PLAN = set(sys.argv[1:]).intersection(PLAN) or PLAN
 
 if 'sia' in PLAN:

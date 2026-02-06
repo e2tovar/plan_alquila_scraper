@@ -2,7 +2,7 @@ name: scrape
 on:
   workflow_dispatch:
   schedule:
-  - cron: '0 5,11,16 * * *'   # UTC (7:00 CET = 6:00 UTC en invierno / 5:00 UTC en verano)
+  - cron: '0 8,10,13,16 * * *'   # UTC (7:00 CET = 6:00 UTC en invierno / 5:00 UTC en verano)
 jobs:
   scrape:
     runs-on: ubuntu-latest

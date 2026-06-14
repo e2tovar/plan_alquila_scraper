@@ -226,28 +226,49 @@ class Alquila:
             tbody = soup.find(
                 "tbody", attrs={"id": "mainPanel:viviendasTable:table:tb"})
             for tr in tbody.select("tr"):
-                vals = tmap(get_val, tr.find_all("td"))
+                tds = tr.find_all("td")
+                vals = tmap(get_val, tds)
                 if len(vals) == 10:
-                    yield vals
+                    # Col 0 is the foto thumbnail column; presence of <img> means the listing has photos
+                    has_foto = bool(tds[0].find("img"))
+                    yield vals, has_foto
 
         r: list[Piso] = []
         with AlqDriver(wait=10) as w:
             w.get(Alquila.URL)
             for zona in w.iter_municipios():
                 w.click_search()
-                for vals in iter_panel(w.get_soup()):
-                    ps = self.get_piso(
-                        w,
-                        vals[1],
+                for vals, has_foto in iter_panel(w.get_soup()):
+                    id = vals[1]
+                    kwargs = dict(
                         direccion=vals[2],
                         planta=vals[3],
                         publicado=vals[-1],
                         distrito=zona.distrito,
                         municipio=zona.municipio
                     )
-                    r.append(ps)
+                    old_ps = self.old.get(id)
+                    if old_ps is not None and self.__is_unchanged(old_ps, kwargs, has_foto, precio=vals[8]):
+                        logger.info(f"Piso {id} sin cambios")
+                        r.append(old_ps)
+                    else:
+                        ps = self.get_piso(w, id, **kwargs)
+                        r.append(ps)
         r = sorted(r, key=lambda x: x.id)
         return r
+
+    def __is_unchanged(self, old: Piso, kwargs: dict, has_foto: bool, precio=None) -> bool:
+        """Return True if the table-level data matches the stored piso — safe to skip detail fetch."""
+        if kwargs.get("publicado") != old.publicado:
+            return False
+        if kwargs.get("direccion") != old.direccion:
+            return False
+        if precio is not None and precio != old.precio:
+            return False
+        # Detect photo additions/removals: if the table shows a foto but we have none stored (or vice versa), re-fetch
+        if has_foto != (len(old.imgs) > 0):
+            return False
+        return True
 
     def get_piso(self, w: AlqDriver, id: int, **kvargs):
         logger.info(f"Piso {id}")
@@ -288,7 +309,9 @@ class Alquila:
             ps.planta = "Casa"
 
         img = w.execute_script("return jQuery(arguments[0]).find('img')[0]", detail)
+        img_count = 0
         while img:
+            img_count += 1
             if id == 220435:
                 logger.warning("Piso 220435 tiene un problema con las imágenes")
                 break
@@ -301,7 +324,10 @@ class Alquila:
             src = src.attrs["src"]
             if src not in ps.imgs:
                 ps.imgs.append(src)
-                img = pop.find_element(By.CSS_SELECTOR, "a[title='Ver foto siguiente']")
+                cls = pop.find_element(By.CSS_SELECTOR, "img[alt='Cancelar']")
+                w.jClick(cls)
+                detail = w.driver.find_element(By.ID, "mainPanel:solapaDetalle:content")
+                img = w.execute_script(f"return jQuery(arguments[0]).find('img')[{img_count}]", detail)
             if img is None:
                 cls = pop.find_element(By.CSS_SELECTOR, "img[alt='Cancelar']")
                 w.jClick(cls)

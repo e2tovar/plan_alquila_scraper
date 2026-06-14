@@ -2,7 +2,7 @@ name: scrape
 on:
   workflow_dispatch:
   schedule:
-  - cron: '0 8,10,13,16 * * *'   # UTC (7:00 CET = 6:00 UTC en invierno / 5:00 UTC en verano)
+  - cron: '0 */2 * * *'   # cada 2 horas (solo commitea si hay cambios)
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -13,14 +13,8 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.10'
-      - name: Remove Chrome
-        run: sudo apt purge google-chrome-stable
-      - name: Remove default Chromium
-        run: sudo apt purge chromium-browser
-      - name: Autoclean
-        run: sudo apt clean -y && sudo apt autoclean -y && sudo apt autoremove -y
-      - name: Install a new Chromium
-        run: sudo apt install -y chromium-browser
+      - name: Set up Chrome
+        uses: browser-actions/setup-chrome@v1
       - name: Install pip packages
         run: pip install -r requirements.txt
       - name: Scraping SIA

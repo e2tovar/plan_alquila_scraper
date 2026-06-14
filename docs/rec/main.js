@@ -17,7 +17,7 @@ function hideTr(params, tr) {
     if (params.zona && params.zona!=tr.getAttribute("data-zona")) return true;
     if (params.precio && params.precio<gInt(tr.getAttribute("data-precio"))) return true;
     if (params.dormitorios && params.dormitorios>gInt(tr.getAttribute("data-dormitorios"))) return true;
-    const tags = tr.querySelector("td.tags").textContent.trim().split(/\s+/);
+    const tags = Array.from(tr.querySelectorAll("td.tags [data-tag]")).map(el => el.dataset.tag);
     for (let i=0; i<params.tags.length; i++) {
         if (!tags.includes(params.tags[i])) return true;
     }
@@ -66,6 +66,8 @@ function filtrar() {
         document.title = title.join(" ");
     }
     setQuery(params);
+    const countEl = document.getElementById("result-count");
+    if (countEl) countEl.textContent = count + " resultado" + (count !== 1 ? "s" : "");
 }
 
 function getQuery() {
@@ -150,4 +152,12 @@ document.addEventListener("DOMContentLoaded", function() {
         n.addEventListener("change", filtrar);
     })
     filtrar();
+
+    // Make entire row clickable
+    document.querySelectorAll('tbody tr[data-href]').forEach(tr => {
+        tr.addEventListener('click', function(e) {
+            if (e.target.closest('a')) return;
+            window.location.href = this.dataset.href;
+        });
+    });
 });

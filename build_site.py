@@ -37,13 +37,29 @@ def clean(html, **kwargs):
         prtc = href.split("://")[0].lower()
         if prtc in ('http', 'https'):
             a.attrs["target"] = '_blank'
+    _ICON_MAP = {
+        '🚗': ('bi-car-front-fill', 'Garaje'),
+        '🏊': ('bi-water',          'Piscina'),
+        '📦': ('bi-box-seam-fill',  'Trastero'),
+        '♿': ('bi-universal-access', 'Adaptada'),
+    }
     for i in soup.select('input[type="checkbox"]'):
+        if i.parent and i.parent.name == 'label':
+            continue
         lb = soup.new_tag("label")
         lb.attrs["class"] = "ico"
         i.wrap(lb)
-        lb.attrs["title"] = i.attrs["title"]
-        lb.append(i.attrs["value"])
-        del i.attrs["title"]
+        value = i.attrs.get("value", "")
+        if value in _ICON_MAP:
+            icon_cls, label_txt = _ICON_MAP[value]
+            icon = soup.new_tag("i")
+            icon.attrs["class"] = f"bi {icon_cls}"
+            lb.append(icon)
+            lb.append(f" {label_txt}")
+        else:
+            lb.append(value)
+        if "title" in i.attrs:
+            del i.attrs["title"]
     return str(soup)
 
 

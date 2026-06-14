@@ -8,6 +8,8 @@
     {%if favicon is defined%}
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{favicon}}</text></svg>">
     {%endif%}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="../rec/main.css">
     <script type="text/javascript" src="../rec/dev.js"></script>
   </head>
@@ -23,42 +25,105 @@
       </p>
     </header>
     <main>
-      <article>
-  <ul>
-    <li><strong><a href="{{URL.home}}">{{p.plan.title()}}</a></strong>: <a href="{{URL.search}}">{{p.id}}</a></li>
-    <li><strong>Precio</strong>: {{p.precio | millar}} €/mes</li>
-    <li><strong>M²</strong>: {{p.metros}}</li>
-    <li><strong>Dormitorios</strong>: {{p.dormitorios}}</li>
-    <li><strong>Aseos</strong>: {{p.aseos}}</li>
-    <li><strong>Dirección</strong>:
-        <a href="{{p.mapa}}">{{p.direccion}}</a>
-        ({{(p.zona)}}{%if p.barrio%}, {{p.barrio}}{%endif%})
-    </li>
-    <li><strong>Planta</strong>: {{p.planta}}</li>
-    <li><strong>CEE</strong>: {{p.cee}}</li>
-    <li><strong>Orientacion</strong>: {{p.orientacion}}</li>
-    <li><strong>Públicado</strong>: {{p.publicado}}</li>
-    {%if p.modificado %}
-    <li><strong>Modificado</strong>: {{p.modificado}}</li>
-    {%endif%}
-    <li>
-    {% for k, v in p.items() %}
-    {% if v is true %}<span class="tag tagTrue">#{{k}}</span>{% endif %}
-    {% endfor %}
-    {% for k, v in p.items() %}
-    {% if v is false %}<span class="tag tagFalse">#<del>{{k}}</del></span>{% endif %}
-    {% endfor %}
-    </li>
-  </ul>
-    {% for i in p.imgs %}
-    <img src="{{i}}"/>
-    {%endfor%}
-  </article>
-  </main>
+      <article class="piso-detail">
+        <div class="piso-info">
+          <ul>
+            <li><strong><a href="{{URL.home}}">{{p.plan.title()}}</a></strong>: <a href="{{URL.search}}">{{p.id}}</a></li>
+            <li><strong>Precio</strong> <span class="price-val">{{p.precio | millar}} <em>€/mes</em></span></li>
+            <li><strong>M²</strong>{{p.metros}}</li>
+            <li><strong>Dormitorios</strong>{{p.dormitorios}}</li>
+            <li><strong>Aseos</strong>{{p.aseos}}</li>
+            <li class="wide"><strong>Dirección</strong>:
+                <a href="{{p.mapa}}">{{p.direccion}}</a>
+                ({{(p.zona)}}{%if p.barrio%}, {{p.barrio}}{%endif%})
+            </li>
+            <li><strong>Planta</strong>{{p.planta}}</li>
+            <li><strong>CEE</strong>{{p.cee}}</li>
+            <li><strong>Orientación</strong>{{p.orientacion}}</li>
+            <li><strong>Publicado</strong>{{p.publicado}}</li>
+            {%if p.modificado %}
+            <li><strong>Modificado</strong>{{p.modificado}}</li>
+            {%endif%}
+            <li class="tags-row">
+            {% for k, v in p.items() %}
+            {% if v is true %}<span class="tag tagTrue">#{{k}}</span>{% endif %}
+            {% endfor %}
+            {% for k, v in p.items() %}
+            {% if v is false %}<span class="tag tagFalse">#<del>{{k}}</del></span>{% endif %}
+            {% endfor %}
+            </li>
+          </ul>
+        </div>
+        {%if p.imgs%}
+        <div class="piso-imgs">
+          {% for i in p.imgs %}
+          <a href="{{i}}" class="thumb"><img src="{{i}}" loading="lazy" alt="Foto del piso {{p.id}}"/></a>
+          {%endfor%}
+        </div>
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          var thumbs = Array.from(document.querySelectorAll('.piso-imgs .thumb'));
+          if (!thumbs.length) return;
+          var current = 0;
+
+          var overlay = document.createElement('div');
+          overlay.className = 'lb-overlay';
+          var btnPrev = document.createElement('button');
+          btnPrev.className = 'lb-btn lb-prev';
+          btnPrev.innerHTML = '&#8249;';
+          btnPrev.setAttribute('aria-label', 'Anterior');
+          var img = document.createElement('img');
+          var btnNext = document.createElement('button');
+          btnNext.className = 'lb-btn lb-next';
+          btnNext.innerHTML = '&#8250;';
+          btnNext.setAttribute('aria-label', 'Siguiente');
+          var counter = document.createElement('span');
+          counter.className = 'lb-counter';
+          overlay.appendChild(btnPrev);
+          overlay.appendChild(img);
+          overlay.appendChild(btnNext);
+          overlay.appendChild(counter);
+          document.body.appendChild(overlay);
+
+          function show(idx) {
+            current = (idx + thumbs.length) % thumbs.length;
+            img.src = thumbs[current].href;
+            counter.textContent = (current + 1) + ' / ' + thumbs.length;
+            var multi = thumbs.length > 1;
+            btnPrev.style.visibility = multi ? '' : 'hidden';
+            btnNext.style.visibility = multi ? '' : 'hidden';
+            overlay.classList.add('active');
+          }
+
+          thumbs.forEach(function(a, i) {
+            a.addEventListener('click', function(e) { e.preventDefault(); show(i); });
+          });
+          btnPrev.addEventListener('click', function(e) { e.stopPropagation(); show(current - 1); });
+          btnNext.addEventListener('click', function(e) { e.stopPropagation(); show(current + 1); });
+          overlay.addEventListener('click', function(e) {
+            if (e.target === overlay) overlay.classList.remove('active');
+          });
+          document.addEventListener('keydown', function(e) {
+            if (!overlay.classList.contains('active')) return;
+            if (e.key === 'Escape') overlay.classList.remove('active');
+            if (e.key === 'ArrowLeft')  show(current - 1);
+            if (e.key === 'ArrowRight') show(current + 1);
+          });
+        });
+        </script>
+        {%endif%}
+      </article>
+    </main>
 	<footer>
 		<p>
-		Código fuente en <a href="https://github.com/s-nt-s/plan-alquila-sia">GitHub</a>.
-    Si falla o tienes alguna sugerencia pon un <a href="https://github.com/s-nt-s/plan-alquila-sia/issues">issue</a>.
+		Hecho con ♥ por <a href="https://github.com/e2tovar">@e2tovar</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/e2tovar/plan_alquila_scraper"><i class="bi bi-star-fill"></i> Dar estrella en GitHub</a>
+    &nbsp;·&nbsp;
+    Inspirado en <a href="https://github.com/s-nt-s/plan-alquila-sia">s-nt-s</a>
+		</p>
+		<p>
+		<a href="https://github.com/e2tovar/plan_alquila_scraper/issues">Reportar issue</a>
 		</p>
 	</footer>
   </body>

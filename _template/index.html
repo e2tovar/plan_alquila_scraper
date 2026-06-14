@@ -12,15 +12,32 @@
     {%if favicon is defined%}
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{favicon}}</text></svg>">
     {%endif%}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="rec/main.css">
     <script type="text/javascript" src="rec/sort_table.js"></script>
     <script type="text/javascript" src="rec/main.js"></script>
     <script type="text/javascript" src="rec/dev.js"></script>
   </head>
   <body>
+  <header>
+    <div class="header-inner">
+      <div class="header-brand">
+        <i class="bi bi-building-fill header-icon"></i>
+        <div>
+          <h1 class="header-title">Plan Alquila Madrid</h1>
+          <p class="header-sub">Vivienda pública en alquiler</p>
+          <p class="header-updated" title="Última actualización del scraping">↻ {{now.strftime('%d/%m/%Y %H:%M')}}</p>
+        </div>
+      </div>
+      <a href="pisos.rss" class="rss-btn" title="Suscribirse al feed RSS" aria-label="RSS">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/></svg>
+        RSS
+      </a>
+    </div>
+  </header>
   <main>
-  <p>Puedes suscribirte a este <a href="pisos.rss" class="rss">RSS</a>
-    para recibir actualizaciones.</p>
+  <section class="filters" aria-label="Filtros">
   <p>
     <label for="zona">Zona:</label> <select id="zona">
       <option value="">TODAS ({{pisos | length | millar}})</option>
@@ -51,7 +68,10 @@
     <input type="checkbox" value="📦" title="Con trastero"/>
     <input type="checkbox" value="♿" title="Con adaptación"/>
   </p>
+  </section>
+  <span id="result-count"></span>
   <table>
+    <caption class="visually-hidden">Listado de pisos en alquiler — {{pisos|length|millar}} resultados</caption>
     <thead>
       <tr class="sortme">
         <th class="isSortable">id</th>
@@ -68,7 +88,7 @@
     </thead>
     <tbody>
     {% for p in pisos|sort(reverse=true, attribute='fecha,plan,id,precio') %}
-    <tr class="{{p.plan}}" data-zona="{{p.zona | simplify}}" data-precio="{{p.precio}}" data-dormitorios="{{p.dormitorios}}">
+    <tr class="{{p.plan}}" data-zona="{{p.zona | simplify}}" data-precio="{{p.precio}}" data-dormitorios="{{p.dormitorios}}" data-href="{{p.plan}}/{{p.id}}.html">
       <td data-sortkey="{{p.get_plan_id()}}"
           class="rgh id" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan}}/{{p.id}}">{{p.id}}</a></td>
       <td class="rgh">{{p.metros | round}}</td>
@@ -76,7 +96,7 @@
           class="rgh">{{p.precio | millar}}</td>
       <td data-sortkey="{{p.dormitorios}}"
           class="rgh nw"
-          title="{{p.get_dormitorio_title()}}">{%if p.imgs%}📷 {%endif%}{{p.dormitorios}}</td>
+          title="{{p.get_dormitorio_title()}}">{{p.dormitorios}}</td>
       {#<td class="rgh">{{p.aseos}}</td>#}
       <td data-sortkey="{{p.planta}}" title="{{p.get_planta_title()}}"
           class="rgh ascensor{{p.ascensor}}">{{p.planta if p.planta is not none else '¿?'}}</td>
@@ -85,10 +105,11 @@
       <td data-sortkey="{{p.publicado or 'z'}}">{{p.publicado or ''}}</td>
       <td data-sortkey="{{p.fecha}}.{{p.get_plan_id()}}">{{p.fecha}}</td>
       <td class="tags">
-        {%if p.garaje%}<abbr title="Garaje">🚗</abbr> {%endif%}
-        {%if p.piscina%}<abbr title="Piscina">🏊</abbr> {%endif%}
-        {%if p.trastero%}<abbr title="Trastero">📦</abbr> {%endif%}
-        {%if p.adaptada%}<abbr title="Adaptada">♿</abbr> {%endif%}
+        {%if p.imgs%}<abbr title="Tiene fotos"><i class="bi bi-images"></i></abbr> {%endif%}
+        {%if p.garaje%}<abbr title="Garaje" data-tag="🚗"><i class="bi bi-car-front-fill"></i></abbr> {%endif%}
+        {%if p.piscina%}<abbr title="Piscina" data-tag="🏊"><i class="bi bi-water"></i></abbr> {%endif%}
+        {%if p.trastero%}<abbr title="Trastero" data-tag="📦"><i class="bi bi-box-seam-fill"></i></abbr> {%endif%}
+        {%if p.adaptada%}<abbr title="Adaptada" data-tag="♿"><i class="bi bi-universal-access"></i></abbr> {%endif%}
       </td>
     </tr>
     {% endfor %}
@@ -104,39 +125,38 @@
       <dt>€</dt>
       <dd>Precio mensual del alquiler</dd>
       <dt>D</dt>
-      <dd>Número de dormitorios (📷 si hay fotos)</dd>
+      <dd>Número de dormitorios</dd>
       <dt>P</dt>
       <dd>Planta del piso (en <span class="ascensorFalse">rojo</span> si no hay ascensor)</dd>
       <dt>Creado</dt>
       <dd>Fecha de publicación del anuncio</dd>
       <dt>Fecha</dt>
       <dd>Última fecha de modificación del anuncio</dd>
-      <dt class="ico">🚗</dt>
+      <dt class="ico"><i class="bi bi-images"></i></dt>
+      <dd>Tiene fotos en el detalle</dd>
+      <dt class="ico"><i class="bi bi-car-front-fill"></i></dt>
       <dd>Tiene garaje</dd>
-      <dt class="ico">🏊</dt>
+      <dt class="ico"><i class="bi bi-water"></i></dt>
       <dd>Tiene piscina</dd>
-      <dt class="ico">📦</dt>
+      <dt class="ico"><i class="bi bi-box-seam-fill"></i></dt>
       <dd>Tiene trastero</dd>
-      <dt class="ico">♿</dt>
-      <dd>Esta adaptada</dd>
-
-
+      <dt class="ico"><i class="bi bi-universal-access"></i></dt>
+      <dd>Está adaptada</dd>
     </dl>
-    {#
-    <p>
-      Más información en <a href="../faq">Preguntas frecuentes</a>.
-    </p>
-    #}
   </fieldset>
   </main>
 	<footer>
 		<p>
-		Página generada el {{now.strftime('%d/%m/%Y a las %H:%M:%S')}}
+		Hecho con ♥ por <a href="https://github.com/e2tovar">@e2tovar</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/e2tovar/plan_alquila_scraper"><i class="bi bi-star-fill"></i> Dar estrella en GitHub</a>
+    &nbsp;·&nbsp;
+    Inspirado en <a href="https://github.com/s-nt-s/plan-alquila-sia">s-nt-s</a>
 		</p>
 		<p>
-		Código original de inspiración en <a href="https://github.com/s-nt-s/plan-alquila-sia">GitHub</a>.
-    Código fuente en <a href="https://github.com/e2tovar/plan_alquila_scraper">GitHub</a>.
-    Si falla o tienes alguna sugerencia pon un <a href="https://github.com/e2tovar/plan_alquila_scraper.git/issues">issue</a>.
+		Generado el {{now.strftime('%d/%m/%Y %H:%M')}}
+    &nbsp;·&nbsp;
+    <a href="https://github.com/e2tovar/plan_alquila_scraper/issues">Reportar issue</a>
 		</p>
 	</footer>
   </body>

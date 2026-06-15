@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 15 Jun 2026 10:11:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jun 2026 14:08:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -297,14 +297,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269297?2026-04-27</guid>
 		</item>
 		<item>
-			<title>1250€ Retiro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269481</link>
-			<description>C/ Estrella Polar, 9,&lt;br/&gt;3º con ascensor,&lt;br/&gt;94m², 4 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/269481</description>
-			<pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269481?2026-06-09</guid>
-		</item>
-		<item>
 			<title>1150€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269690</link>
 			<description>C/ San Lamberto, 3,&lt;br/&gt;2º con ascensor,&lt;br/&gt;74m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269690</description>
@@ -455,6 +447,14 @@
 			<pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274313?2025-11-05</guid>
+		</item>
+		<item>
+			<title>850€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274553</link>
+			<description>C/ Comandante Fontanes, 21,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;31m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274553</description>
+			<pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274553?2026-04-10</guid>
 		</item>
 		<item>
 			<title>850€ San Lorenzo de El Escorial</title>
@@ -1583,6 +1583,22 @@
 			<pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277136?2026-06-12</guid>
+		</item>
+		<item>
+			<title>700€ Chinchón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277139</link>
+			<description>C/ Iglesia, 13,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;30m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277139</description>
+			<pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Chinchón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277139?2026-06-15</guid>
+		</item>
+		<item>
+			<title>1900€ San Blas-Canillejas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277140</link>
+			<description>C/ Yécora, 49,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;89m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277140</description>
+			<pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+			<category>San Blas-Canillejas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277140?2026-06-15</guid>
 		</item>
 	</channel>
 </rss>

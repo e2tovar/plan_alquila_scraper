@@ -3119,33 +3119,6 @@
     ]
   },
   {
-    "id": 276985,
-    "publicado": "2026-04-28",
-    "direccion": "Calle Calanda, 12",
-    "municipio": "Madrid",
-    "distrito": "Hortaleza",
-    "planta": 1,
-    "precio": 1450,
-    "metros": 86.12,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": true,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPYkwey3Ui2lVFqIVK0HraTI7bibMzkxmZpOVYlFBC3pQ!LgJCnpR6t2!QdBDQfAiqBcR8QMvgqfObjZNLO5p2Hmfd57f876r36EUa6hcrLVwByOORYjmGy1K7Mzdt-cfT5rDvACQKAAoGQ27BlVVKTnF4s0BffXdo78!CjCyCKUO5jF11RZ2sAiH1GspGjrdvlBhjpiwVKPYMm6Qn16LOStfXH!97X115XkBijUoYm6lhUrmxkvdeL4ThVTP1KCEBWnKNizDaA0qgZmjhmimCJOi181CeUi4YDUTodNtY0HvPpMm6l-OvH!585Nnf66tTDsOv8-hYXLAezqOGlTfXH04Nfbg4-08lMIrkzbd7tKpq!xYPnHQvTArdYiwwqRJUXT5EibUoA6jXZQeObUGUY5mpYNL7LEu1vQcDk9R25TB8URpaoyjcqGn38i4m4CGvamXJJVtrmvX9owt3vn0KzXlZrlRN-j09Mathd-La0cz287dfiIjZGLxv25-pPiHs8vT4xfu!0xfTgEnuh4cObTUiA3BgdR15lBEgM!EDc7cH1x1m4AUdgOuMyP1FYDNS5VP4-Va!cvXqaWT!aUqWNidZcwkmo-tiq0rpDiyw9H3FlKpxDnPUxgKtCYJtkNpFWCLD6NE8jgSPhQ5E9QtlsK2mZJszXa54WK9Z8H3DCWxph4ThMcB9To5mOqDeQ653cc1G7wmm5ygLguUNG3EuxOwkzjjlvZubKLWARf!JFQ_",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUehJh9lqoF9OqLKxWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqXf!BkEPBcGLoF5ExA-8CJ6cTTZtWtzTsPM-7zy!531Xv0Mp0VC5GLRwByOORYQWGi1K7Ozdt-cfT5rDvACQKgAoGQ17NqqqUnKKxZtD-uq7R39!FGCkDqUO5gl11RZ2sRhH1GspGjndgUhhjpiwVKPEMm6Qn12LeStfXH!97X115XkBigEUMbfSQqXnxsvceL4TRVTPBlDCgjRlG5ZhNIBKaOapIZopwqTod7NQHhIuWs1E5HQ7WNi!70lTtZkj71!-!OTZn2srM47DH3BomNzgPZ3EDapvrj6cGnvw8XYeSuGVyZrudOnUVH4sn5h2L8xJHSGsMGlSFF--hAk1qMNoF2VHTq1BlKM56eBSe6yLNT2Ho1PUNmV4PFWaGuOoXOjZNzLuJqBhf-YlzWRb69rBvrH6nU-!MlNulut1G52e3ri1-Lu-drRn27k7SGSMTCL-182PFf9wdnlm!ML9n9nLGeBE14Mj00uNxBAcSl1jDkWE-EzS4Mz9wVW3CUhhN-AaM1JfAdi6VPk0Xq7VvnydWjo5WKqChb29jJlEC4lViXWFFMd2OPr-QiqVOud5CkOBBpJgO5RWAbb5MEokT2LhQ5EzQd1iKWybGcn23i43XKz3LPieoSTR1GOC8CSkXicHUwMwzyG3B7hmndf0JieoywKlTRvz7gTsJs64pf0bm6p!GgUkVQ__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAU9CLC7LVQL6ZVWYhWrAStp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqXf!BkEPBcGLoF5ExA-8CJ46u9k0sbinYed93nl-z!uufodSrKFysdbCHYw4FiGab7QosTN3355!PGkO8wJAogCgZDTsGlRVpeQUizcH9NV3j!7-KMDIIpQ6mMfUVVvYwSIcUq-laOh0-0KFOWLCUo1iy7hBfnot5qx8cf31t!fVlecFKNagiLmVFiqZGy914!lOFFI9U4MSFqQp27AMozWoBGaOGqKZIkyKXjcL5SHhgtVMhE63jQW9-0yaqH858v7lz0-e!bm2Mu04!D6HhskB7-k4alB9c!Xh1NiDj7fzUAqvTNp0u0unrvJj-cQh98Ks1CHCCpMmRdHlS5hQgzqMdlF65NQaRDmalQ4usce6WNNzODxFbVMGxxOlqTGOyoWefiPjbgIa9qZeklS2ua5d2zO2eOfTr9SUm-VG3aDT0xu3Fn4vrh3NbDt3-4mMkInF!7r5keIfzi5Pj1-4!zN9OQWc6Hpw5OBSIzYEB1LXmUMRAT4TNzhzf3DVbQJS2A24zozUVwA2L1U-jZdr9S9fp5ZO9peqYGF3ljGTaD62KraukOLIDkffW0ilEuc8T2Eo0Jok2A6lVYAtPowSyeNI-FDkTFC3WArbZkqyNdvlhov1ngXfM5TEmnpMEB4H1OvkYKoP5jnkdh!XbPCabHKCuixQ0rQR707ATuKMW9q7sYlaBxwLJFY_"
-    ]
-  },
-  {
     "id": 276997,
     "publicado": "2026-04-30",
     "direccion": "Calle Dolores Ib\u00e1rruri, 20",
@@ -3242,28 +3215,6 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2mlLKxWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqXf!BkEPAcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f874b36CYaChfCJq4jRHHIkLL9SYldv7Om3OPZswRXgBIFQAUjYY9w6qKlJxi8fqQvvL24Z!vBRirQbGNeUJdtYVdLMYR9ZqKRk53IFKYIyYs1SixjBvkZ9di0crn1159fVdZf1aA8QDGMbfSQjl342VuPN-JIqrnAyhiQRqyBWswEUA5NIvUEM0UYVL0ulkojQhXrGYicrodLOzd59JU!cvR71!69Pjp76vrc47DH3BomBnynkriOtU3Nh7MTt7!cKsfSuGlyZrudOlUVf9YWuq6FxakjhBWmDQoii9dxIQa1Ga0g7Ijp9YgytGCdHCpPd7Bmp7F0UlqGzI8kSpNjXFULvTsG5tyE9CwP!OSZrKtda1g32Tt9sefmSk3y826Yacn12-u!Kp1j-W2nbuDRMbIJOJ!3fxY8fdn1uamzt!7kb2cAU53PDh6eLWeGIJDqavMoYgQn07qnLk!uOI2ASnsBlxlRurLAFuXqj-NF93q5y-zq0uDpSpY2JtnzCRaTqxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYJsPE0TyJBY-jHMmqFsshW0jI9me73LdxXrXgu8ZShJNPSYIT0LqtftgagDmOeTWANds8pp8coK6LFDasDHvTMNu4oxb2ruxqfoLfjUlBQ__",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9NKWYhWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqXf!BkEPFcGLoF5ExA-8CJ6c3SRtWtzTsPM-7zy!531Xv0Mx0VC-UG3hDkYciwgtNFqU2Jk7b849mjRHuAeQKgAoGg17NqoqUnKKxetD-sq7h39!eDBSh2IH84S6agu7WIwj6rcUjZzuQKQwR0xYqlFiGTcoyK7FnJXPr7369r6y8syDQhUKmFtpoZy78TM3fuBEEdUzVShiQZqyDcswWoVyaOaoIZopwqTodbNQGhIuWs1E5HQ7WNi7z6Wp2szR71!6!Pjpn6sr044jGHBomNzgPZXEDapvrD6YGrv!8VY!FO-lyZrudOnUVP9Ymn!rXpiVOkJYYdKkKL50ERNqUIfRLsqOnFqDKEez0sGl9ngXa3oWRyepbcrwRKo0NcZRudCzb2TcTUDD!sxLmsm21rWr-8bqtz!9yky5Wa7XbXR6cv3m4u!62rHctnN3kMgYmUT8r1sQK!7hzPL0-Pl7P7OXM8CJrg9HDy81EkNwKHWNORQR4tNJgzP3B1fcJiCF3YBrzEh9GWDrUvWn8WKt9uXr1NL8YKk8C3vzjJlEC4lViXWFFMd2OPreQiqVOuf9FIYCrUqC7VBaHmwLYJRInsQigAJngrrFUtg2M5Lt-S43XKx3LQS-oSTR1GeC8CSkfqcPpgZgvkNuD3DNOq!JJyeoywKlTRvz7gTsJs64pb0bm6p!gDslBg__"
     ]
-  },
-  {
-    "id": 277023,
-    "publicado": "2026-05-11",
-    "direccion": "Calle Condes de Barcelona, 1",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "planta": 2,
-    "precio": 1150,
-    "metros": 50,
-    "dormitorios": 2,
-    "aseos": 1,
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": true,
-    "piscina": false,
-    "porteria": false,
-    "trastero": true,
-    "imgs": []
   },
   {
     "id": 277024,

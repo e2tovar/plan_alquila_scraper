@@ -1268,29 +1268,6 @@
     "imgs": []
   },
   {
-    "id": 274979,
-    "publicado": "2026-06-09",
-    "direccion": "Calle Mes\u00f3n de Paredes, 50",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "planta": 1,
-    "precio": 950,
-    "metros": 69,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 275029,
     "publicado": "2026-06-05",
     "direccion": "Calle Cine, 19",
@@ -3402,32 +3379,6 @@
     "imgs": []
   },
   {
-    "id": 277058,
-    "publicado": "2026-05-20",
-    "direccion": "Calle Dalia, 100",
-    "municipio": "M\u00f3stoles",
-    "planta": "Casa",
-    "precio": 1800,
-    "metros": 107.5,
-    "dormitorios": 4,
-    "aseos": 3,
-    "cee": "A",
-    "mascotas": true,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": true,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9NKWYhWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqXf!BkEPBUEPgnoRET!wInhydpO0aXFPw877vPP8nvdd!Q7FREP5QrWFOxhxLCK00GhRYmfuvDn3aNIc4R5AqgCgaDTs2aiqSMkpFq8P6StvH!794cFIHYodzBPqqi3sYjGOqN9SNHK6A5HCHDFhqUaJZdygILsWc1Y-v!bq27vKyjMPClUoYG6lhXLuxs!c-IETRVTPVKGIBWnKNizDaBXKoZmjhmimCJOi181CaUi4aDUTkdPtYGHvPpemajNHv3!p8-Onf66uTDuOYMChYXKD91QSN6i-sfpgauz-x1v9ULyXJmu606VTU!1jaf69e2FW6ghhhUmTovjSRUyoQR1Guyg7cmoNohzNSgeX2uNdrOlZHJ2ktinDE6nS1BhH5ULPvpFxNwEN-zMvaSbbWteu7hur3!70KzPlZrlet9HpyfWbi7!ra8dy287dQSJjZBLxv25BrPiHM8vT4-fv!cxezgAnuj4cPbzUSAzBodQ15lBEiE8nDc7cH1xxm4AUdgOuMSP1ZYCtS9Wfxou12pevU0vzg6XyLOzNM2YSLSRWJdYVUhzb4eh7C6lU6pz3UxgKtCoJtkNpebAtgFEieRKLAAqcCeoWS2HbzEi257vccLHetRD4hpJEU58JwpOQ-p0-mBqA-Q65PcA167wmn5ygLguUNm3MuxOwmzjjlvZubKr-AYxfJQw_",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9NKWYhWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqXf!BkEPBUEEQb2IiB94ETw5u0natLinYed93nl-z!uufodioqF8odrCHYw4FhFaaLQosTN33px7NGmOcA8gVQBQNBr2bFRVpOQUi9eH9JW3D!!-8GCkDsUO5gl11RZ2sRhH1G8pGjndgUhhjpiwVKPEMm5QkF2LOSufX3v17V1l5ZkHhSoUMLfSQjl342du!MCJIqpnqlDEgjRlG5ZhtArl0MxRQzRThEnR62ahNCRctJqJyOl2sLB3n0tTtZmj37!0-fHTP1dXph1HMODQMLnBeyqJG1TfWH0wNXb!461-KN5LkzXd6dKpqf6xNP!evTArdYSwwqRJUXzpIibUoA6jXZQdObUGUY5mpYNL7fEu1vQsjk5S25ThiVRpaoyjcqFn38i4m4CG!ZmXNJNtrWtX943Vb3!6lZlys1yv2-j05PrNxd!1tWO5befuIJExMon4X7cgVvzDmeXp8fP3fmYvZ4ATXR-OHl5qJIbgUOoacygixKeTBmfuD664TUAKuwHXmJH6MsDWpepP48Va7cvXqaX5wVJ5FvbmGTOJFhKrEusKKY7tcPS9hVQqdc77KQwFWpUE26G0PNgWwCiRPIlFAAXOBHWLpbBtZiTb811uuFjvWgh8Q0miqc8E4UlI!U4fTA3AfIfcHuCadV6TT05QlwVKmzbm3QnYTZxxS3s3NlX!AI5lJQ0_",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9NKWYhWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqXf!BkEPBUEQQb2IiB94ETw5u0natLinYed93nl-z!uufodioqF8odrCHYw4FhFaaLQosTN33px7NGmOcA8gVQBQNBr2bFRVpOQUi9eH9JW3D!!-8GCkDsUO5gl11RZ2sRhH1G8pGjndgUhhjpiwVKPEMm5QkF2LOSufX3v17V1l5ZkHhSoUMLfSQjl342du!MCJIqpnqlDEgjRlG5ZhtArl0MxRQzRThEnR62ahNCRctJqJyOl2sLB3n0tTtZmj37!0-fHTP1dXph1HMODQMLnBeyqJG1TfWH0wNXb!461-KN5LkzXd6dKpqf6xNP!evTArdYSwwqRJUXzpIibUoA6jXZQdObUGUY5mpYNL7fEu1vQsjk5S25ThiVRpaoyjcqFn38i4m4CG!ZmXNJNtrWtX943Vb3!6lZlys1yv2-j05PrNxd!1tWO5befuIJExMon4X7cgVvzDmeXp8fP3fmYvZ4ATXR-OHl5qJIbgUOoacygixKeTBmfuD664TUAKuwHXmJH6MsDWpepP48Va7cvXqaX5wVJ5FvbmGTOJFhKrEusKKY7tcPS9hVQqdc77KQwFWpUE26G0PNgWwCiRPIlFAAXOBHWLpbBtZiTb811uuFjvWgh8Q0miqc8E4UlI!U4fTA3AfIfcHuCadV6TT05QlwVKmzbm3QnYTZxxS3s3NlX!AJBrJQ4_"
-    ]
-  },
-  {
     "id": 277060,
     "publicado": "2026-05-20",
     "direccion": "Calle Fernando el Cat\u00f3lico, 86",
@@ -4405,6 +4356,7 @@
   {
     "id": 277117,
     "publicado": "2026-06-05",
+    "modificado": "2026-06-16",
     "direccion": "Calle Sierra del Castillo, 10",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -4423,7 +4375,11 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFVlYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QdBDQfAiqBcR8QMvgidnN5smFvc07LzPO8!ved-1b1CKNVQuBG3cxYhjEaLFRpsSO3fnzblH0-YQLwAkCgBKRsOuYVVVSk6xeH1AX3n78M!3AozVodTFPKau2sIOFuGQem1FQ6fbFyrMEROWahRbxg3y02uxYOXza6--vquuPitAMYAi5lZaqGRuvNSN5ztRSPVcACUsSEt2YAXGA6g0zQI1RDNFmBT9bhbKI8Ilq5kInW4ba!bvM2mi!uXI-5c!PX76--rqrOPwBxwapoe8p-KoQfWNtQczE!c!3MpDKbw0adPtLp2ayo9l!4R7YV7qEGGFSYui6NJFTKhBXUZ7KD1yag2iHM1LB5fYoz2s6VkcnqS2JZvHEqWpMY7KhZ5-Y5NuAhr2pl6SVLa5rhPsmajf!vgzNeVmuVE37PTk-s2lX!X1I5lt524!kREysfhfNz9S!P2ZldnJ8!d-pC-ngFM9Dw4fXG7EhuCm1DXmUEQTn44bnLk!uOo2ASnsBlxjRurLAJuXKp!Gi!Xa5y8zy8cHS1WwsDvLmEm0GFsVW1dIcWRHo-8vpFKJc56nMBJoIAm2I2kVYIsP40TyOBI-FDkT1C2WwraVkmzNdrnhYr1rwfcMJbGmHhOEx03qdXMwNQDzHHJngGs2eE02OUFdFihp2Yj3pmAnccYt7d!YRP0FbOkkfg__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlcrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QdBDQfAiqBcR8QMvgidnN5smFvc07LzPO8!ved-1b1CKNVQuBG3cxYhjEaLFRpsSO3fnzblH0-YQLwAkCgBKRsOuYVVVSk6xeH1AX3n78M!3AozVodTFPKau2sIOFuGQem1FQ6fbFyrMEROWahRbxg3y02uxYOXza6--vquuPitAMYAi5lZaqGRuvNSN5ztRSPVcACUsSEt2YAXGA6g0zQI1RDNFmBT9bhbKI8Ilq5kInW4ba!bvM2mi!uXI-5c!PX76--rqrOPwBxwapoe8p-KoQfWNtQczE!c!3MpDKbw0adPtLp2ayo9l!4R7YV7qEGGFSYui6NJFTKhBXUZ7KD1yag2iHM1LB5fYoz2s6VkcnqS2JZvHEqWpMY7KhZ5-Y5NuAhr2pl6SVLa5rhPsmajf!vgzNeVmuVE37PTk-s2lX!X1I5lt524!kREysfhfNz9S!P2ZldnJ8!d-pC-ngFM9Dw4fXG7EhuCm1DXmUEQTn44bnLk!uOo2ASnsBlxjRurLAJuXKp!Gi!Xa5y8zy8cHS1WwsDvLmEm0GFsVW1dIcWRHo-8vpFKJc56nMBJoIAm2I2kVYIsP40TyOBI-FDkT1C2WwraVkmzNdrnhYr1rwfcMJbGmHhOEx03qdXMwNQDzHHJngGs2eE02OUFdFihp2Yj3pmAnccYt7d!YRP0Fbu8kfw__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKxWrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!OJpsmLe5p2Hmfd57f875r36GYaChfDFu4gxHHIkKL9RYldu7u2!OPp80R7gGkCgCKRsOeYVVFSk6xeHNIX3336O8PD8ZqUOxgnlBXbWEXi3FE!ZaikdMdiBTmiAlLNUos4wYF2bVYsPLF9dff3ldWn3tQCKGAuZUWyj03fubGD5woonouhCIWpCnbsALjIZQbZoEaopkiTIp-NwulEeGS1UxETreDNfr3PWmqNnPk!Uufnzz7c2111nEEAw4N00Pe00lcp!rm2sOZiQcfb-eheK9M1nSnS6eq8mMpCN0L81JHCCtMmhTFly9hQg3qMNpF2ZFTaxDlaF46uNQe72JNz-HoFLVN2TiRKk2NcVQu9Owbm3QT0LA!85Jmsq117XDfRO3Op1-ZKTfLjbphp6c3bi39rq0f69l27g4SGSOTiP91C2LFP5xdmZ28cP9n9nIGONX14ejh5XpiCG5IXWUORTTwmaTOmfuDK24TkMJuwFVmpL4CsHWp8mm8XK9--TqzfHKwVJ6Fvb2MmUSLiVWJdYUUx3Y0-v5CKpU653kKI4GGkmA7kpYH2wIYJ5InsQigwJmgbrEUts2MZHtvl-su1nsWAt9QkmjqM0F40qB-JwdTAzDfIbcHuGaD1!QmJ6jLAqVNG!PuFOwmzril!Rubqn9w9SSA"
+    ]
   },
   {
     "id": 277118,
@@ -4638,6 +4594,28 @@
     "piscina": true,
     "porteria": true,
     "trastero": true,
+    "imgs": []
+  },
+  {
+    "id": 277144,
+    "publicado": "2026-06-16",
+    "direccion": "Calle Oliva de Plasencia, 25",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "planta": 5,
+    "precio": 1500,
+    "metros": 67,
+    "dormitorios": 2,
+    "aseos": 1,
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
     "imgs": []
   }
 ]

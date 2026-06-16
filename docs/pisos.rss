@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 16 Jun 2026 09:51:38 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jun 2026 13:39:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1575,6 +1575,14 @@
 			<pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277145?2026-06-16</guid>
+		</item>
+		<item>
+			<title>1590€ Salamanca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277147</link>
+			<description>C/ Núñez de Balboa, 31,&lt;br/&gt;6º con ascensor,&lt;br/&gt;64m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277147</description>
+			<pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Salamanca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277147?2026-06-16</guid>
 		</item>
 	</channel>
 </rss>

@@ -4613,5 +4613,27 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 277147,
+    "publicado": "2026-06-16",
+    "direccion": "Calle N\u00fa\u00f1ez de Balboa, 31",
+    "municipio": "Madrid",
+    "distrito": "Salamanca",
+    "planta": 6,
+    "precio": 1590,
+    "metros": 64,
+    "dormitorios": 1,
+    "aseos": 1,
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
   }
 ]

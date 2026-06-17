@@ -1917,33 +1917,6 @@
     "imgs": []
   },
   {
-    "id": 276513,
-    "publicado": "2025-12-17",
-    "direccion": "Calle Juan Esplandiu, 21",
-    "municipio": "Madrid",
-    "distrito": "Retiro",
-    "planta": 2,
-    "precio": 1750,
-    "metros": 43,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "A",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": true,
-    "porteria": true,
-    "trastero": true,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoHkwrsrBasRI0niaTcTNhdmYyM5usFIsKWtCD4sdNUNCLUu!-DYIeCoIXQb2I-IkXwVNnN0kTi3sadt7nnef3vO!qdygkGkoXwiZuY8SxiNBCrUmJnb3z5tyjKXOIewCpAoCC0bBrUFWWklMsXh!QV94-!PvDg5EqFNqYJ9RVW9jBYhxRv6lo5HT7IoU5YsJSjRLLuEFBdi3mrXx-7dXXd-WVZx6MhjCKuZUWSrkbP3PjB04UUT0bQgEL0pAtWIaxEEp1M08N0UwRJkW3m4XikHDRaiYip9vG6t37XJqqfzl6!YufHj!9c3VlxnEEfQ4NUwPeU0lco!rG6oPp8fsfbvVC8V6arOl2l05F9Y7Fo9!cC3NSRwgrTBoUxZcuYkINajPaQdmRU2sQ5WhOOrjUHutgTc!i6CS1DVk!nipNjXFULvTsG5lwE9CwN!OSZrLNda1wz3j19sdfmSk3y426Qacn128u!q6uHcltO3f7iYyRScT!ugWx4u!PLM9MnL!3M3s5A5zs-HD44FItMQTXpa4whyLq-HRS48z9wWW3CUhhN-AKM1JfBti8VL1pvFirfP4yvXSiv1Sehd15xkyihcSqxLpCimM7HH13IZVKnfNeCkOBhpJgO5SWB1sCGCOSJ7EIYJQzQd1iKWwbGcnWfJdrLta7FgLfUJJo6jNBeFKnfrsHpvpgvkNu9XHNBq!JJyeoywKlDRvzziTsJM64pd0bm6p1noslFQ__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx19jU3-00poIolAUPIkwey1UD6YVWVitWAkaT5PZcTNhdmYyM5usFIsKWtCD4o-boKAXpd79GwQ9FAQvgnoRkap4ETw5u0matLinYed933w!3!dW16GYaChfCpq4jRHHIkIL9SYldvbeuwtPpswRXgBIFQAUjYY9g6qKlJxi8faQvvb-8d8fBRipQbGNeUJdtYVdLMYR9ZqKRk53IFKYIyYs1SixjBvkZ9di3sqXN958!1BZeVGA0QBGMbfSQjl342VuPN-JIqpnAyhiQRqyBcswFkA5NPPUEM0UYVJ0u1koDQkXrWYicrodLOze59JUbebo9S99efr8z!WVGcfh9zk0TA14zyRxnepbq4-mxx9-utMLpfDaZE13unSqqncsHV93L8xJHSGsMGlQFF-5jAk1qM1oB2VHTq1BlKM56eBSe6KDNT2Po9PUNmR4MlWaGuOoXOjZNzLhJqBhf-YlzWRb61rBvvHa3c-!MlNulht1g07Pbt5e!F1bO5bbdu4OEhkjk4j!dfNjxT-eW56ZuPjgZ!ZyBjjZ8eDo4aV6YggOpa4yhyJCfDapc-b-4IrbBKSwG3CVGamvAmxdqt40Xq1Vv36bXjrVX6qChb15xkyihcSqxLpCimM7HH13IZVKnfNeCkOBBpJgO5RWAbb5MEYkT2LhwyhngrrFUtg2MpLt-S7XXaz3LfieoSTR1GOC8CSkXrsHpvpgnkNu9XHNBq!JJyeoywKlDRvzziTsJs64pd0bm6p!oJElFg__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx1!XpP5opTURRKEoeBJh9lqoHkwrshCtWAkaT5PZcTNhdmYyM5usFIsKWtCD4o-boKAXpd79GwQ9FAQvgnoREat4ETw5m2zatLinYed933w!3!dWfkAx0VC-VG3hDkYciwjNN1qU2Jl77y48mTRHuAeQKgAoGg17NqoqUnKKxdtD-tr7x3!XPBipQ7GDeUJdtYVdLMYR9VuKRk53IFKYIyYs1SixjBsUZNdizsqXN958!1BZfuFBoQoFzK20UO658TM3fuBEEdUzVShiQZqyDUswWoVyaOaoIZopwqTod7NQGhIuWM1E5HQ7WNi!70lTtZkj71!68vT5n-vL044jGHBomNzgPZPEDapvrTyaGnv46U4eivfaZE13unRqKj-Wjq-5F2aljhBWmDQpiq9cxoQa1GG0i7Ijp9YgytGsdHCpPdHFmp7H0WlqmzI8mSpNjXFULvTsGxl3E9CwP!OSZrKtde3qvrH63c-!MlNulut1G52e3by98Lu-eqxn27k7SGSMTCL-1y2IFf94bml6!OKDn9nLGeBE14ejhxcbiSE4lLrGHIoI8dmkwZn7gytuE5DCbsA1ZqS-CrB1qfJpvFqtff02tXhqsFSehb29jJlE84lViXWFFMd2OPr-QiqVOud5CkOBViXBdigtD7YFMEokT2IRQIEzQd1iKWybGcn23i43XKz3LQS-oSTR1GeC8CSkficHUwMw3yG3B7hmndf0JieoywKlTRvz7gTsJs64pf0bm6p!opclFw__"
-    ]
-  },
-  {
     "id": 276526,
     "publicado": "2025-12-19",
     "direccion": "Calle Pegaso, 21",
@@ -3090,28 +3063,6 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9NKWYhWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqXf!BkEPBcGLoF5ExA-8CJ6cTTZNLO5p2Hmfd57f877r36CYaChfqLZwByOORYSWGi1K7NydN-ceTZsj3ANIFQAUjYY9w6qKlJxi8fqQvvL24Z!vHozVodjBPKGu2sIuFuOI-i1FI6c7ECnMEROWapRYxg0KsmuxYOXza6--vqusPfOgUIUC5lZaKPfc-JkbP3CiiOq5KhSxIE3ZhlUYr0I5NAvUEM0UYVL0u1kojQiXrWYicrodLOzf96Sp-pcj71!69Pjp76trs44jGHBomB7ynkriBtU31h!MTNz!cCsPxXtpsqY7XTo1lR9LizX3wrzUEcIKkyZF8aWLmFCDOox2UXbk1BpEOZqXDi61x7tY07M4OkltU4YnUqWpMY7KhZ59Y5NuAhr2Z17STLa1rl3dN1G!!fFnZsrNcrNu2OnJ9ZvLv-obx3q2nbuDRMbIJOJ!3YJY8fdnVmcnz9!7kb2cAU51fTh6eKWRGIJDqWvMoYgQn04anLk!uOI2ASnsBlxjRurLAFuXKp!Gi43a5y8zK4uDpfIs7O1lzCRaSqxKrCukOLaj0fcXUqnUOc9TGAm0Kgm2I2l5sC2AcSJ5EosACpwJ6hZLYdvMSLb3drnhYr1rIfANJYmmPhOEJyH1OzmYGoD5Drk9wDWbvKY3OUFdFiht2ph3p2A3ccYt7d!YVP0Fgz4kiQ__",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9NKWVitWIkaT5PJuJkwOzOZmU1WikUFLehB8eMmKOhFqXf!BkEPBcGLoF5ExA-8CJ6cTTZtWtzTsPM-7zy!531Xv0Mx0VC-GLZwByOORYQW6i1K7Mzdt-cfT5oj3ANIFQAUjYY9G1UVKTnF4s0hffXdo78!PBipQbGDeUJdtYVdLMYR9VuKRk53IFKYIyYs1SixjBsUZNdizsoX119!e19Zee5BIYQC5lZaKPfc-JkbP3CiiOqZEIpYkKZswzKMhlBumDlqiGaKMCn63SyUhoSLVjMROd0O1ujf96Sp2syR9y99fvLsz7WVaccRDDg0TG7wnkriOtU3Vx9OjT34eDsPxXtlsqY7XTpVlR9L8-fcC7NSRwgrTJoUxZcvYUIN6jDaRdmRU2sQ5WhWOrjUHu9iTc!i6CS1Tdk4kSpNjXFULvTsGxl3E9CwP!OSZrKtde1w31jtzqdfmSk3y!W6jU5Pb9xa!F1bO9az7dwdJDJGJhH!6xbEin84szw9fuH-z-zlDHCi68PRw0v1xBDckLrKHIpo4NNJnTP3B1fcJiCF3YCrzEh9BWDrUuXTeLlW!fJ1aml-sFSehb29jJlEC4lViXWFFMd2OPr-QiqVOud5CkOBhpJgO5SWB9sCGCWSJ7EIoMCZoG6xFLbNjGR7b5frLtZ7FgLfUJJo6jNBeNKgficHUwMw3yG3B7hmndf0JieoywKlTRvz7gTsJs64pf0bm6p!hUQkig__"
     ]
-  },
-  {
-    "id": 276997,
-    "publicado": "2026-04-30",
-    "direccion": "Calle Dolores Ib\u00e1rruri, 20",
-    "municipio": "Fuenlabrada",
-    "planta": 6,
-    "precio": 856.71,
-    "metros": 68.74,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": true,
-    "trastero": false,
-    "imgs": []
   },
   {
     "id": 277007,

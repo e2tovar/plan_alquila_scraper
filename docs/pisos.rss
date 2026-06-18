@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 17 Jun 2026 15:10:52 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jun 2026 09:35:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -209,14 +209,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/259008?2026-06-16</guid>
 		</item>
 		<item>
-			<title>850€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/259692</link>
-			<description>Trª Poeta Blas de Otero, 7,&lt;br/&gt;5º sin ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/259692</description>
-			<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/259692?2026-06-10</guid>
-		</item>
-		<item>
 			<title>1500€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/260228</link>
 			<description>C/ Rafael Bergamín, 6,&lt;br/&gt;4º con ascensor,&lt;br/&gt;71m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/260228</description>
@@ -311,6 +303,14 @@
 			<pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Vicálvaro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269903?2026-06-04</guid>
+		</item>
+		<item>
+			<title>900€ Leganés</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269955</link>
+			<description>C/ Moraña, 16,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;63m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269955</description>
+			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Leganés</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269955?2026-06-18</guid>
 		</item>
 		<item>
 			<title>1200€ Puente de Vallecas</title>
@@ -663,14 +663,6 @@
 			<pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276381?2026-06-02</guid>
-		</item>
-		<item>
-			<title>1700€ Chamberí</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276411</link>
-			<description>C/ María de Guzmán, 54,&lt;br/&gt;1º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/276411</description>
-			<pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
-			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276411?2025-11-17</guid>
 		</item>
 		<item>
 			<title>1000€ Villa de Vallecas</title>
@@ -1615,6 +1607,22 @@
 			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277154?2026-06-17</guid>
+		</item>
+		<item>
+			<title>2300€ Majadahonda</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277155</link>
+			<description>C/ Huerta de la Sacedilla, 3,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;80m², 4 🛏,&lt;br/&gt;3 🛀, 0 📷.&lt;br/&gt;alq/277155</description>
+			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Majadahonda</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277155?2026-06-18</guid>
+		</item>
+		<item>
+			<title>1100€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277157</link>
+			<description>C/ Sierra Carbonera, 39,&lt;br/&gt;4º con ascensor,&lt;br/&gt;59m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277157</description>
+			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277157?2026-06-18</guid>
 		</item>
 	</channel>
 </rss>

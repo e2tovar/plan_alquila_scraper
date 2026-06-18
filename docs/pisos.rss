@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 18 Jun 2026 09:35:54 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jun 2026 11:30:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1623,6 +1623,22 @@
 			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277157?2026-06-18</guid>
+		</item>
+		<item>
+			<title>950€ Fuenlabrada</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277159</link>
+			<description>C/ Harina, 1,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;56m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277159</description>
+			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Fuenlabrada</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277159?2026-06-18</guid>
+		</item>
+		<item>
+			<title>1200€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277160</link>
+			<description>C/ Luis Gómez, 12,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277160</description>
+			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277160?2026-06-18</guid>
 		</item>
 	</channel>
 </rss>

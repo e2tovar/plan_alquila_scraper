@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 18 Jun 2026 11:30:10 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jun 2026 13:09:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1639,6 +1639,22 @@
 			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277160?2026-06-18</guid>
+		</item>
+		<item>
+			<title>1200€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277161</link>
+			<description>Pl. Mondariz, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;49m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277161</description>
+			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277161?2026-06-18</guid>
+		</item>
+		<item>
+			<title>1600€ Pozuelo de Alarcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277162</link>
+			<description>C/ Manuel García, 2,&lt;br/&gt;1º con ascensor,&lt;br/&gt;82m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277162</description>
+			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Pozuelo de Alarcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277162?2026-06-18</guid>
 		</item>
 	</channel>
 </rss>

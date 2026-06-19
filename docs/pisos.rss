@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 19 Jun 2026 13:13:57 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jun 2026 15:09:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -135,6 +135,14 @@
 			<pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/232065?2026-02-23</guid>
+		</item>
+		<item>
+			<title>850€ Valdemoro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/235771</link>
+			<description>C/ Antonio Van de Pere, 13,&lt;br/&gt;5º con ascensor,&lt;br/&gt;43m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/235771</description>
+			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Valdemoro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/235771?2026-06-19</guid>
 		</item>
 		<item>
 			<title>1370€ Retiro</title>

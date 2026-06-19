@@ -290,33 +290,6 @@
     "imgs": []
   },
   {
-    "id": 256775,
-    "publicado": "2026-02-20",
-    "direccion": "Calle Puerto de Maspalomas, 22",
-    "municipio": "Madrid",
-    "distrito": "Fuencarral-El Pardo",
-    "planta": 4,
-    "precio": 1250,
-    "metros": 55,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": true,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opDURRKEoeBJh9lqoF9OKLEQrVoLW02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Lt!g6CHguBFUC8i4gdeBE!ObpImLe5p2Hmfd57f875r36GYaKhcrLVwByOORYQWGi1K7Ozdt-cfT5kj3ANIFQAUjYY9w6qqlJxi8eaQvvru0d8fHowtQbGDeUJdtYVdLMYR9VuKRk53IFKYIyYs1SixjBsUZNdi3soX119!e19dfe5BoQYFzK20UMnd-JkbP3CiiOrZGhSxIE3ZhhUYr0ElNPPUEM0UYVL0ulkojwgXrWYicrodLOzd59JUbebo9y9!fvLsz7XVGccRDDg0TA15Tydxg-qbaw-nJx58vN0PxXtlsqY7XTp11T-WqyX3wpzUEcIKkyZF8eVLmFCDOox2UXbk1BpEOZqTDi61x7tY03M4OkVtU4YnUqWpMY7KhZ59YyU3AQ37My9pJtta167tm1i68-lXZsrNcqNu2OnpjVuLv5fWj-W2nbuDRMbIJOJ!3YJY8Q9nV2ZKF-7!zF7OACe7Phw9vNxIDMGh1HXmUESIzyQNztwfXHWbgBR2A64zI!UVgK1L1Z!Gy!X6l6!TyycHS-VZ2JtnzCRaSKxKrCukOLaj0fcWUqnUOe-nMBJoTRJsR9LyYFsA40TyJBYBFDgT1C2WwraZkWzPd7nhYr1nIfANJYmmPhOEJyH1O30wNQDzHXJ7gGs2eE0-OUFdFiht2ph3J2E3ccYt7d3YVP0D41AkOg__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH60pTURRKEoeBJh9lqoF9OKLEQrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Lt!g6CHguBFUC8i4gdeBE!ObjZNLO5p2Hmfd57f877r36AUa6hcqLVxFyOORYiWmm1K7PydN-cezZjDvACQKAAoGQ27h1VVKTnF4vVBfeXtwz!fCzDWgFIX85i6agu7WIRD6rUVDZ1uf6gwR0xYqlFsGTfIT6!FopXPr736-q669qwAxRoUMbfSQiVz46VuPN-JQqrna1DCgrRkB1ZhvAaVwCxSQzRThEnR72ahPCJctpqJ0Ol2sKB!n0kT9S9H3r!86fHT31fX5hyHP-DQMDPkPRVHTapvrD-Ynbj!4VYeSuGlSZvudOnUVX4sV6fcCwtShwgrTFoURZcuYkIN6jLaQ-mRU2sQ5WhBOrjEHuthTc!i8CS1LRkcT5SmxjgqF3r6jU26CWjYl3pJUtnWuk5t70Tj9sefqSk3y826Yacn128u!2psHM1sO3cHiIyQicX!uvmR4u!PrM5Nnr!3I305BZzueXDk0EozNgQHUteZQxEBPh03OXN!cNVtAlLYDbjOjNSXAbYuVT6NFxv1z19mV04MlqpgYU-WMZNoKbYqtq6Q4siORt9fSKUS5zxPYSTQmiTYjqRVgG0-jBPJ40j4UORMULdYCttWSrI92-Wmi!WuBd8zlMSaekwQHgfU6-ZgagDmOeTOANds8ppscoK6LFDSshHvTcMUccYt7d!YRP0F5VYkOw__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH602poIolAUPIkwey3Ui2lFFlYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6t2!QdBDQfAiqBcR8QMvgidnN5smFvc07LzPO8!ved-1b1CKNVQuBG3cxYhjEaLFRpsSO3fnzblH0-YwLwAkCgBKRsPuYVVVSk6xeH1QX3n78M!3AozVodTFPKau2sIOFuGQem1FQ6fbHyrMEROWahRbxg3y02uxYOXza6--vquuPitAMYAi5lZaqGRuvNSN5ztRSPVcACUsSEt2YAXGA6g0zQI1RDNFmBT9bhbKI8Ilq5kInW4ba!bvM2mi!uXI-5c!PX76--rqrOPwBxwapoe8p-KoQfWNtQczE!c!3MpDKbw0adPtLp2ayo!l6i73wrzUIcIKkxZF0aWLmFCDuoz2UHrk1BpEOZqXDi6xx3pY07M4PEltSzaPJ0pTYxyVCz39xibdBDTsS70kqWxzXSfYO1G!!fFnasrNcqNu2OnJ9ZtLv-rrRzPbzt0BIiNkYvG!bn6k-PszK7OT5-!9SF9OAad6Hhw5tNyIDcFNqWvMoYgmPh03OHN!cNVtAlLYDbjGjNSXATYvVT6NF-u1z19mlk8MlqpgYU-WMZNoMbYqtq6Q4siORt9fSKUS5zxPYSTQQBJsR9IqwBYfxonkcSR8KHImqFsshW0rJdma7XLDxXrXgu8ZSmJNPSYIj5vU6-ZgagDmOeTOANds8JpscoK6LFDSshHvTcFO4oxb2r-xifoL51wkPA__"
-    ]
-  },
-  {
     "id": 257271,
     "publicado": "2026-02-18",
     "direccion": "Calle M\u00e9ndez \u00c1lvaro, 64A",
@@ -4405,6 +4378,27 @@
     "piscina": false,
     "porteria": true,
     "trastero": true,
+    "imgs": []
+  },
+  {
+    "id": 277129,
+    "publicado": "2026-06-10",
+    "direccion": "Calle Londres, 29",
+    "municipio": "Torrej\u00f3n de Ardoz",
+    "planta": 3,
+    "precio": 910,
+    "metros": 72,
+    "dormitorios": 2,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
     "imgs": []
   },
   {

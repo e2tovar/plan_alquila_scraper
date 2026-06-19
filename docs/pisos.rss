@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 18 Jun 2026 15:10:37 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jun 2026 07:52:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -175,14 +175,6 @@
 			<pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/254417?2026-04-16</guid>
-		</item>
-		<item>
-			<title>1250€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/256775</link>
-			<description>C/ Puerto de Maspalomas, 22,&lt;br/&gt;4º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/256775</description>
-			<pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/256775?2026-02-20</guid>
 		</item>
 		<item>
 			<title>1700€ Arganzuela</title>
@@ -1503,6 +1495,14 @@
 			<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Torrejón de Ardoz</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277128?2026-06-10</guid>
+		</item>
+		<item>
+			<title>910€ Torrejón de Ardoz</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277129</link>
+			<description>C/ Londres, 29,&lt;br/&gt;3º con ascensor,&lt;br/&gt;72m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277129</description>
+			<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Torrejón de Ardoz</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277129?2026-06-10</guid>
 		</item>
 		<item>
 			<title>1450€ Moratalaz</title>

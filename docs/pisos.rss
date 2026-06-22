@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 22 Jun 2026 12:11:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jun 2026 14:16:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -679,14 +679,6 @@
 			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276669?2026-02-03</guid>
-		</item>
-		<item>
-			<title>1400€ Retiro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276675</link>
-			<description>C/ Granada, 35,&lt;br/&gt;1º con ascensor,&lt;br/&gt;58m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276675</description>
-			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276675?2026-01-29</guid>
 		</item>
 		<item>
 			<title>1500€ Moncloa-Aravaca</title>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 19 Jun 2026 15:09:02 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jun 2026 07:57:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -479,14 +479,6 @@
 			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274757?2026-05-22</guid>
-		</item>
-		<item>
-			<title>950€ Centro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274979</link>
-			<description>C/ Mesón de Paredes, 50,&lt;br/&gt;1º con ascensor,&lt;br/&gt;69m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274979</description>
-			<pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274979?2026-06-09</guid>
 		</item>
 		<item>
 			<title>1250€ Latina</title>
@@ -1145,12 +1137,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277054?2026-05-20</guid>
 		</item>
 		<item>
-			<title>1150€ Centro</title>
+			<title>1100€ Centro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277056</link>
 			<description>C/ Valencia, 20,&lt;br/&gt;5º con ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277056</description>
-			<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277056?2026-05-20</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277056?2026-06-22</guid>
 		</item>
 		<item>
 			<title>1600€ Chamberí</title>

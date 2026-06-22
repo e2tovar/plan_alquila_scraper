@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 22 Jun 2026 14:16:36 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jun 2026 17:41:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -161,6 +161,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/238096?2026-06-11</guid>
 		</item>
 		<item>
+			<title>1200€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/242511</link>
+			<description>C/ Antracita, 14,&lt;br/&gt;5º con ascensor,&lt;br/&gt;46m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/242511</description>
+			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/242511?2026-06-22</guid>
+		</item>
+		<item>
 			<title>810€ Torrejón de Ardoz</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/248428</link>
 			<description>Av. Carmen Martín Gaite, 7,&lt;br/&gt;3º con ascensor,&lt;br/&gt;51m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/248428</description>
@@ -313,6 +321,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269903?2026-06-04</guid>
 		</item>
 		<item>
+			<title>1350€ Chamberí</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269953</link>
+			<description>C/ Fernández de los Ríos, 54,&lt;br/&gt;3º con ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269953</description>
+			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Chamberí</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269953?2026-06-22</guid>
+		</item>
+		<item>
 			<title>900€ Leganés</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269955</link>
 			<description>C/ Moraña, 16,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;63m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269955</description>
@@ -463,6 +479,14 @@
 			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
 			<category>San Lorenzo de El Escorial</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274625?2026-03-06</guid>
+		</item>
+		<item>
+			<title>990€ Coslada</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274645</link>
+			<description>C/ Emilio Martín Encinas, 6,&lt;br/&gt;5º sin ascensor,&lt;br/&gt;57m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274645</description>
+			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Coslada</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274645?2026-06-22</guid>
 		</item>
 		<item>
 			<title>1600€ Ciudad Lineal</title>
@@ -1655,6 +1679,14 @@
 			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277170?2026-06-19</guid>
+		</item>
+		<item>
+			<title>1650€ Moratalaz</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277173</link>
+			<description>C/ Luis de Hoyos Sáinz, 132,&lt;br/&gt;6º con ascensor,&lt;br/&gt;100m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277173</description>
+			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Moratalaz</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277173?2026-06-22</guid>
 		</item>
 	</channel>
 </rss>

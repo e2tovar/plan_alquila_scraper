@@ -314,11 +314,12 @@
   {
     "id": 254417,
     "publicado": "2026-04-16",
+    "modificado": "2026-06-23",
     "direccion": "Calle Puente la Reina, 46",
     "municipio": "Madrid",
     "distrito": "Fuencarral-El Pardo",
     "planta": 6,
-    "precio": 1700,
+    "precio": 1650,
     "metros": 73.6,
     "dormitorios": 3,
     "aseos": 2,

@@ -709,11 +709,12 @@
   {
     "id": 269953,
     "publicado": "2026-06-22",
+    "modificado": "2026-06-24",
     "direccion": "Calle Fern\u00e1ndez de los R\u00edos, 54",
     "municipio": "Madrid",
     "distrito": "Chamber\u00ed",
     "planta": 3,
-    "precio": 1350,
+    "precio": 1200,
     "metros": 50,
     "dormitorios": 2,
     "aseos": 1,

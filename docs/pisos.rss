@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 25 Jun 2026 09:08:36 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jun 2026 11:02:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -79,14 +79,6 @@
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32429?2025-09-01</guid>
-		</item>
-		<item>
-			<title>1200€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/201879</link>
-			<description>C/ Milagrosa, 10,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;51m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/201879</description>
-			<pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/201879?2026-06-24</guid>
 		</item>
 		<item>
 			<title>1500€ Carabanchel</title>
@@ -191,14 +183,6 @@
 			<pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/257271?2026-02-18</guid>
-		</item>
-		<item>
-			<title>1400€ Villaverde</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/258905</link>
-			<description>C/ Domingo Párraga, 62,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;81m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/258905</description>
-			<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-			<category>Villaverde</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/258905?2026-05-29</guid>
 		</item>
 		<item>
 			<title>1500€ Ciudad Lineal</title>
@@ -1535,6 +1519,14 @@
 			<pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Guadarrama</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277180?2026-06-24</guid>
+		</item>
+		<item>
+			<title>1500€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277183</link>
+			<description>C/ Pinos Baja, 39,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277183</description>
+			<pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277183?2026-06-25</guid>
 		</item>
 	</channel>
 </rss>

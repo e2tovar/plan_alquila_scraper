@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 26 Jun 2026 09:08:23 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jun 2026 11:07:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1465,14 +1465,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277165?2026-06-19</guid>
 		</item>
 		<item>
-			<title>1000€ Fuenlabrada</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277166</link>
-			<description>C/ Mirasierra, 9,&lt;br/&gt;7º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277166</description>
-			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Fuenlabrada</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277166?2026-06-19</guid>
-		</item>
-		<item>
 			<title>1600€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277169</link>
 			<description>Ctra Canillas, 74,&lt;br/&gt;3º con ascensor,&lt;br/&gt;105m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277169</description>
@@ -1527,6 +1519,14 @@
 			<pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277183?2026-06-25</guid>
+		</item>
+		<item>
+			<title>1300€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277185</link>
+			<description>C/ Puentedeume, 3,&lt;br/&gt;3º con ascensor,&lt;br/&gt;49m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277185</description>
+			<pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277185?2026-06-26</guid>
 		</item>
 	</channel>
 </rss>

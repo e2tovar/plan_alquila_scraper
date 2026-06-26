@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 26 Jun 2026 11:07:47 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jun 2026 12:46:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -351,14 +351,6 @@
 			<pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273116?2026-04-30</guid>
-		</item>
-		<item>
-			<title>960€ Getafe</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273490</link>
-			<description>C/ Cedra, 19,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;70m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/273490</description>
-			<pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273490?2026-05-25</guid>
 		</item>
 		<item>
 			<title>975€ Tetuán</title>
@@ -1163,10 +1155,10 @@
 		<item>
 			<title>1150€ Torrejón de Ardoz</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277103</link>
-			<description>C/ Beatriz Galindo, 1,&lt;br/&gt;5º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277103</description>
-			<pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+			<description>C/ Beatriz Galindo, 1,&lt;br/&gt;5º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277103</description>
+			<pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Torrejón de Ardoz</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277103?2026-06-03</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277103?2026-06-26</guid>
 		</item>
 		<item>
 			<title>1100€ Usera</title>
@@ -1335,6 +1327,14 @@
 			<pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277140?2026-06-15</guid>
+		</item>
+		<item>
+			<title>1000€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277142</link>
+			<description>C/ Recesvinto, 86,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;40m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277142</description>
+			<pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277142?2026-06-25</guid>
 		</item>
 		<item>
 			<title>1500€ Latina</title>
@@ -1527,6 +1527,14 @@
 			<pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277185?2026-06-26</guid>
+		</item>
+		<item>
+			<title>1300€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277186</link>
+			<description>Av. Pablo Neruda, 77,&lt;br/&gt;3º con ascensor,&lt;br/&gt;67m², 3 🛏,&lt;br/&gt;3 🛀, 0 📷.&lt;br/&gt;alq/277186</description>
+			<pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277186?2026-06-26</guid>
 		</item>
 	</channel>
 </rss>

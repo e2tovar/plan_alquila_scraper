@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 26 Jun 2026 12:46:53 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jun 2026 14:59:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -841,14 +841,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276960?2026-04-21</guid>
 		</item>
 		<item>
-			<title>1151.68€ Getafe</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276961</link>
-			<description>Pº Diego Martínez Barrio, 1,&lt;br/&gt;2º con ascensor,&lt;br/&gt;86m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/276961</description>
-			<pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276961?2026-06-24</guid>
-		</item>
-		<item>
 			<title>1850€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276964</link>
 			<description>C/ Teruel, 37,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;75m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276964</description>
@@ -1535,6 +1527,14 @@
 			<pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277186?2026-06-26</guid>
+		</item>
+		<item>
+			<title>1690€ Salamanca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277188</link>
+			<description>Psaje Bisbal, 4,&lt;br/&gt;1º con ascensor,&lt;br/&gt;48m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277188</description>
+			<pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Salamanca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277188?2026-06-26</guid>
 		</item>
 	</channel>
 </rss>

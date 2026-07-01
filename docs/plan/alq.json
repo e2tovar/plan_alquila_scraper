@@ -4584,5 +4584,28 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 277196,
+    "publicado": "2026-07-01",
+    "direccion": "Calle Portalegre, 60",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "planta": 0,
+    "precio": 1100,
+    "metros": 57,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": true,
+    "amueblada": false,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]

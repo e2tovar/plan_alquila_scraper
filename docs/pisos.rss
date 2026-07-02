@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 01 Jul 2026 12:59:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 02 Jul 2026 08:48:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1073,14 +1073,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277088?2026-05-28</guid>
 		</item>
 		<item>
-			<title>1500€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277089</link>
-			<description>C/ Joaquín Mtnez. Borreguero, 16,&lt;br/&gt;2º con ascensor,&lt;br/&gt;4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277089</description>
-			<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277089?2026-05-28</guid>
-		</item>
-		<item>
 			<title>1150€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277091</link>
 			<description>C/ Peña Oville, 2,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;69m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277091</description>
@@ -1575,6 +1567,22 @@
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277196?2026-07-01</guid>
+		</item>
+		<item>
+			<title>1200€ Leganés</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277198</link>
+			<description>C/ Rioja, 113,&lt;br/&gt;4º con ascensor,&lt;br/&gt;73m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277198</description>
+			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Leganés</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277198?2026-07-02</guid>
+		</item>
+		<item>
+			<title>1450€ San Blas-Canillejas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277199</link>
+			<description>C/ Pirra, 14,&lt;br/&gt;5º con ascensor,&lt;br/&gt;77m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277199</description>
+			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+			<category>San Blas-Canillejas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277199?2026-07-02</guid>
 		</item>
 	</channel>
 </rss>

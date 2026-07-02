@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 02 Jul 2026 12:08:55 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 02 Jul 2026 14:07:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -161,6 +161,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/242511?2026-06-30</guid>
 		</item>
 		<item>
+			<title>1200€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/244123</link>
+			<description>C/ Maquinilla, 13,&lt;br/&gt;5º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/244123</description>
+			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/244123?2026-07-02</guid>
+		</item>
+		<item>
 			<title>900€ Alcorcón</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/247500</link>
 			<description>C/ Cantos, 24,&lt;br/&gt;7º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/247500</description>
@@ -239,14 +247,6 @@
 			<pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264962?2026-06-14</guid>
-		</item>
-		<item>
-			<title>1600€ Retiro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/265887</link>
-			<description>Av. Ciudad de Barcelona, 118,&lt;br/&gt;6º sin ascensor,&lt;br/&gt;80m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/265887</description>
-			<pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265887?2026-06-30</guid>
 		</item>
 		<item>
 			<title>1150€ Salamanca</title>
@@ -345,14 +345,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270752?2026-05-07</guid>
 		</item>
 		<item>
-			<title>1800€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272070</link>
-			<description>C/ Estrella Hadar, 8,&lt;br/&gt;8º con ascensor,&lt;br/&gt;75m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/272070</description>
-			<pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272070?2026-05-14</guid>
-		</item>
-		<item>
 			<title>2400€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272373</link>
 			<description>C/ María Mercedes de Borbón, 292,&lt;br/&gt;3º con ascensor,&lt;br/&gt;111m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/272373</description>
@@ -375,6 +367,14 @@
 			<pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273116?2026-04-30</guid>
+		</item>
+		<item>
+			<title>1700€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273599</link>
+			<description>C/ Oña, 7,&lt;br/&gt;7º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/273599</description>
+			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273599?2026-07-02</guid>
 		</item>
 		<item>
 			<title>975€ Tetuán</title>
@@ -1249,12 +1249,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277123?2026-06-17</guid>
 		</item>
 		<item>
-			<title>2000€ Arganzuela</title>
+			<title>1790€ Arganzuela</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277126</link>
 			<description>C/ Embajadores, 153,&lt;br/&gt;2º con ascensor,&lt;br/&gt;64m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277126</description>
-			<pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277126?2026-06-09</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277126?2026-07-02</guid>
 		</item>
 		<item>
 			<title>910€ Torrejón de Ardoz</title>

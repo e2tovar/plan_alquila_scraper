@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 02 Jul 2026 16:07:33 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 03 Jul 2026 08:52:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1033,14 +1033,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277070?2026-05-21</guid>
 		</item>
 		<item>
-			<title>900€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277085</link>
-			<description>Av. Águilas, 100,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277085</description>
-			<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277085?2026-05-28</guid>
-		</item>
-		<item>
 			<title>1100€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277086</link>
 			<description>C/ Horizon, 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277086</description>
@@ -1535,14 +1527,6 @@
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 			<category>San Sebastián de los Reyes</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277195?2026-07-01</guid>
-		</item>
-		<item>
-			<title>1100€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277196</link>
-			<description>C/ Portalegre, 60,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277196</description>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277196?2026-07-01</guid>
 		</item>
 		<item>
 			<title>1200€ Leganés</title>

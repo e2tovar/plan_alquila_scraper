@@ -262,6 +262,7 @@
   {
     "id": 244123,
     "publicado": "2026-07-02",
+    "modificado": "2026-07-03",
     "direccion": "Calle Maquinilla, 13",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -278,7 +279,7 @@
     "adaptada": true,
     "piscina": true,
     "porteria": true,
-    "trastero": false,
+    "trastero": true,
     "imgs": []
   },
   {
@@ -1669,33 +1670,6 @@
     "porteria": true,
     "trastero": false,
     "imgs": []
-  },
-  {
-    "id": 276702,
-    "publicado": "2026-02-10",
-    "direccion": "Calle Padre Rubio, 17",
-    "municipio": "Madrid",
-    "distrito": "Tetu\u00e1n",
-    "planta": 3,
-    "precio": 1500,
-    "metros": 54,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPKkwey3US9OKLEQrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Lt!g6CHguBFUC8i4gdeBE!ObjZNWtzTsPM-7zy!533XvkMx1lC-WG3hDkYcixAtNlqU2Nm7b88!njJHeAEgUQBQNBr2DKoqUnKKxZtD-uq7R39!FGCkDsUO5jF11RZ2sQiH1GspGjrdgVBhjpiwVKPYMm6Qn16LBStfXH!97X1l9XkBRqswirmVFsqZGy914!lOFFI9W4UiFqQp27ACY1UoB2aBGqKZIkyKXjcLpSHhktVMhE63gwW9-0yaqM0cef!S5yfP!lxbnXEcfp9Dw9SA93QcNai-ufZwevzBx9t5KIVXJm2606VTU!mxNHfUvTAvdYiwwqRJUXT5EibUoA6jXZQeObUGUY7mpYNL7FwXa3oOh6eobcrgRKI0NcZRudDTb2TCTUDD!tRLksq21rWr-8brdz79Sk25WW7UDTo9vXFr6Xd9!Xhm27k7SGSETCz-182PFP9wdmVm4sL9n-nLKeBk14Njh5cbsSE4kLrGHIoI8Jm4wZn7gytuE5DCbsA1ZqS-ArB1qfJpvFyvffk6vXyyv1QFC3uzjJlEi7FVsXWFFEd2OPreQiqVOOd5CkOBViXBdiitAmzzYYxIHkfCh1HOBHWLpbBtpiTbs11uuFjvWfA9Q0msqccE4XFAvU4OpvpgnkNu93HNBq!JJieoywIlTRvx7iTsJs64pb0bm6h!HgwkVw__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeJLC7LVQL00rshCtWAlaT5PZcTNhdmYyM5usFIsKWtCD4sdNUNCLUu!-DYIeCoIXQb2IiB94ETw5m2yatLinYed93nl-z!uuf4dioqF8sdrEbYw4FhFarDcpsbN3355!PGmOcQ8gVQBQNBr2DaoqUnKKxZsj-uq7R39!eDCyDMU25gl11Rb2sBhH1G8qGjndoUhhjpiwVKPEMm5QkF2LBStfXH!97X1l7bkHhSoUMLfSQrnrxs!c-IETRVTPVqGIBWnIFqzCaBXKoVmghmimCJOi181CaUi4ZDUTkdPtYmHvvitN1VaOvH!p85Nnf66tzTiOoM-hYXLAezqJ61TfXH84Nfbg4-08FO-VyZrudunUVH4szU27F-aljhBWmDQoii9fwoQa1Ga0g7Ijp9YgytG8dHCpnetgTc!h6BS1DRmeSJWmxjgqF3r2jYy7CWg4mHlJM9n2ulb1wNjynU-!MlNulpt1g05Pb9xa-r28cbxr27k7TGSMTCL-1y2IFf9wdnVm!ML9n9nLGeBEx4fpoyv1xBAcSl1jDkWE-ExS58z9wRW3CUhhN-AaM1JfAdi-VPk0Xm7UvnydWjnZXyrPwv5uxkyixcSqxLpCimM7HH1vIZVKnfM8haFAq5JgO5SWBzsCGCWSJ7EIoMCZoG6xFLaNjGRnd5frLtZ7FgLfUJJo6jNBeBJSv52DqT6Y75BbfVyzyWu6kxPUZYHSho15ZwL2Emfc0t6NTdU!IBIkWA__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkyey3US9OKLEQrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Lt!g6CHguBFUC8i4gdeBE!ObjZNWtzTsPM-7zy!533XvkMx1lC-WG3hDkYcixAtNlqU2Nm7b88!njJHeAEgUQBQNBr2DKoqUnKKxZtD-uq7R39!FGCkDsUO5jF11RZ2sQiH1GspGjrdgVBhjpiwVKPYMm6Qn16LBStfXH!97X1l9XkBRqswirmVFsqZGy914!lOFFI9W4UiFqQp27ACY1UoB2aBGqKZIkyKXjcLpSHhktVMhE63gwW9-0yaqM0cef!S5yfP!lxbnXEcfp9Dw9SA93QcNai-ufZwevzBx9t5KIVXJm2606VTU!mxNHfMvTAvdYiwwqRJUXT5EibUoA6jXZQeObUGUY7mpYNL7FwXa3oOh6eobcrgRKI0NcZRudDTb2TCTUDD!tRLksq21rWr-8brdz79Sk25WW7UDTo9vXFr6Xd9!Xhm27k7SGSETCz-182PFP9wdmVm4sL9n-nLKeBk14Ojh5cbsSE4kLrGHIoI8Jm4wZn7gytuE5DCbsA1ZqS-ArB1qfJpvFyvffk6vXyyv1QFC3uzjJlEi7FVsXWFFEd2OPreQiqVOOd5CkOBViXBdiitAmzzYYxIHkfCh1HOBHWLpbBtpiTbs11uuFjvWfA9Q0msqccE4XFAvU4OpvpgnkNu93HNBq!JJieoywIlTRvx7iTsJs64pb0bm6h!IhgkWQ__"
-    ]
   },
   {
     "id": 276736,
@@ -3367,28 +3341,6 @@
     ]
   },
   {
-    "id": 277107,
-    "publicado": "2026-06-03",
-    "direccion": "Calle Igualdad, 5",
-    "municipio": "San Fernando de Henares",
-    "planta": 3,
-    "precio": 947,
-    "metros": 76,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "C",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": true,
-    "imgs": []
-  },
-  {
     "id": 277110,
     "publicado": "2026-06-04",
     "direccion": "Calle L\u00f3pez de Hoyos, 371",
@@ -4189,6 +4141,28 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 277171,
+    "publicado": "2026-06-19",
+    "direccion": "Avda Pablo Iglesias, 84",
+    "municipio": "Rivas-Vaciamadrid",
+    "planta": 3,
+    "precio": 1500,
+    "metros": 78.78,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
     "imgs": []
   },
   {

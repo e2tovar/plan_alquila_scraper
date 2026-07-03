@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 03 Jul 2026 13:57:46 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 03 Jul 2026 15:54:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -247,6 +247,14 @@
 			<pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264962?2026-06-14</guid>
+		</item>
+		<item>
+			<title>1250€ Móstoles</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/265797</link>
+			<description>Av. Vía Láctea, 50,&lt;br/&gt;7º con ascensor,&lt;br/&gt;90m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/265797</description>
+			<pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Móstoles</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265797?2026-07-03</guid>
 		</item>
 		<item>
 			<title>1150€ Salamanca</title>

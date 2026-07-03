@@ -532,6 +532,28 @@
     ]
   },
   {
+    "id": 265797,
+    "publicado": "2026-07-03",
+    "direccion": "Avda V\u00eda L\u00e1ctea, 50",
+    "municipio": "M\u00f3stoles",
+    "planta": 7,
+    "precio": 1250,
+    "metros": 90,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": true,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
+    "imgs": []
+  },
+  {
     "id": 267699,
     "publicado": "2026-06-18",
     "modificado": "2026-06-19",

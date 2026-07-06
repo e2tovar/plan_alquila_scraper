@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 03 Jul 2026 15:54:16 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 06 Jul 2026 12:01:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -231,6 +231,14 @@
 			<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
 			<category>Salamanca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262540?2026-05-20</guid>
+		</item>
+		<item>
+			<title>1350€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/262921</link>
+			<description>Av. Campillo de San Isidro, 4,&lt;br/&gt;1º con ascensor,&lt;br/&gt;99m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/262921</description>
+			<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262921?2026-07-06</guid>
 		</item>
 		<item>
 			<title>1250€ Fuencarral-El Pardo</title>
@@ -1193,14 +1201,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277114?2026-06-04</guid>
 		</item>
 		<item>
-			<title>1100€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277115</link>
-			<description>C/ Guadiato, 3,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;59m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277115</description>
-			<pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277115?2026-06-04</guid>
-		</item>
-		<item>
 			<title>1100€ Torrejón de Ardoz</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277116</link>
 			<description>C/ Río Jarama, 10,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;52m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277116</description>
@@ -1583,6 +1583,14 @@
 			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277209?2026-07-02</guid>
+		</item>
+		<item>
+			<title>1300€ Ciudad Lineal</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277211</link>
+			<description>C/ Esteban Collantes, 57,&lt;br/&gt;5º con ascensor,&lt;br/&gt;84m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277211</description>
+			<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Ciudad Lineal</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277211?2026-07-06</guid>
 		</item>
 	</channel>
 </rss>

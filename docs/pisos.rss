@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 07 Jul 2026 09:08:17 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 07 Jul 2026 12:27:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -257,6 +257,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265797?2026-07-06</guid>
 		</item>
 		<item>
+			<title>1100€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/266274</link>
+			<description>C/ Cuart de Poblet, 91,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;50m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/266274</description>
+			<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266274?2026-07-07</guid>
+		</item>
+		<item>
 			<title>1150€ Salamanca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/267699</link>
 			<description>C/ Marqués de Monteagudo, 7,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/267699</description>
@@ -295,14 +303,6 @@
 			<pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269596?2026-06-29</guid>
-		</item>
-		<item>
-			<title>1150€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269690</link>
-			<description>C/ San Lamberto, 3,&lt;br/&gt;2º con ascensor,&lt;br/&gt;74m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269690</description>
-			<pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269690?2026-05-27</guid>
 		</item>
 		<item>
 			<title>900€ Leganés</title>
@@ -1233,14 +1233,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277130?2026-06-22</guid>
 		</item>
 		<item>
-			<title>800€ Retiro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277136</link>
-			<description>C/ Valderribas, 24,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277136</description>
-			<pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277136?2026-06-12</guid>
-		</item>
-		<item>
 			<title>700€ Chinchón</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277139</link>
 			<description>C/ Iglesia, 13,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;30m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277139</description>
@@ -1599,6 +1591,14 @@
 			<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277215?2026-07-07</guid>
+		</item>
+		<item>
+			<title>950€ Móstoles</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277216</link>
+			<description>C/ La Luna, 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;60m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277216</description>
+			<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Móstoles</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277216?2026-07-07</guid>
 		</item>
 	</channel>
 </rss>

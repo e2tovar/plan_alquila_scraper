@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 06 Jul 2026 15:08:36 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 07 Jul 2026 09:08:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1369,6 +1369,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277159?2026-06-19</guid>
 		</item>
 		<item>
+			<title>1250€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277160</link>
+			<description>C/ Luis Gómez, 12,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277160</description>
+			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277160?2026-06-18</guid>
+		</item>
+		<item>
 			<title>1200€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277161</link>
 			<description>Pl. Mondariz, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;49m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277161</description>
@@ -1411,10 +1419,10 @@
 		<item>
 			<title>1500€ Rivas-Vaciamadrid</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277171</link>
-			<description>Av. Pablo Iglesias, 84,&lt;br/&gt;3º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277171</description>
-			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+			<description>Av. Pablo Iglesias, 84,&lt;br/&gt;3º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277171</description>
+			<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277171?2026-06-19</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277171?2026-07-07</guid>
 		</item>
 		<item>
 			<title>1650€ Moratalaz</title>
@@ -1583,6 +1591,14 @@
 			<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277211?2026-07-06</guid>
+		</item>
+		<item>
+			<title>1800€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277215</link>
+			<description>Rda. Atocha, 16,&lt;br/&gt;5º con ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277215</description>
+			<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277215?2026-07-07</guid>
 		</item>
 	</channel>
 </rss>

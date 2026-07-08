@@ -27,6 +27,28 @@
     ]
   },
   {
+    "id": 206724,
+    "publicado": "2026-07-08",
+    "direccion": "Calle Hierro, 4 E",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "planta": 3,
+    "precio": 1650,
+    "metros": 72.17,
+    "dormitorios": 2,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": true,
+    "porteria": false,
+    "trastero": true,
+    "imgs": []
+  },
+  {
     "id": 216627,
     "publicado": "2026-06-30",
     "direccion": "Calle Isla de Arosa, 23",

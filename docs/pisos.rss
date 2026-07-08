@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 07 Jul 2026 16:25:23 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 08 Jul 2026 08:14:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -87,6 +87,14 @@
 			<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/204056?2026-06-11</guid>
+		</item>
+		<item>
+			<title>1650€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/206724</link>
+			<description>C/ Hierro, 4 E,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;72m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/206724</description>
+			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/206724?2026-07-08</guid>
 		</item>
 		<item>
 			<title>1400€ Fuencarral-El Pardo</title>

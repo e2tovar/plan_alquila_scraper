@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 08 Jul 2026 13:34:20 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 08 Jul 2026 16:09:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -103,14 +103,6 @@
 			<pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/216627?2026-06-30</guid>
-		</item>
-		<item>
-			<title>950€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/223427</link>
-			<description>C/ Loto, 10,&lt;br/&gt;1º con ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/223427</description>
-			<pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/223427?2026-05-14</guid>
 		</item>
 		<item>
 			<title>950€ Usera</title>
@@ -403,10 +395,10 @@
 		<item>
 			<title>1150€ Collado Villalba</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273115</link>
-			<description>C/ Granjilla, 3,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;78m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273115</description>
-			<pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+			<description>C/ Granjilla, 3,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;78m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/273115</description>
+			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Collado Villalba</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273115?2026-06-20</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273115?2026-07-08</guid>
 		</item>
 		<item>
 			<title>1200€ Hortaleza</title>
@@ -511,14 +503,6 @@
 			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275063?2026-06-17</guid>
-		</item>
-		<item>
-			<title>1150€ Fuenlabrada</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275431</link>
-			<description>Urb Nuevo Versalles, 8,&lt;br/&gt;5º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/275431</description>
-			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Fuenlabrada</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275431?2026-07-02</guid>
 		</item>
 		<item>
 			<title>1250€ Tetuán</title>
@@ -1631,6 +1615,14 @@
 			<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Móstoles</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277216?2026-07-07</guid>
+		</item>
+		<item>
+			<title>870€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277217</link>
+			<description>C/ Olvido, 117,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;31m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277217</description>
+			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277217?2026-07-08</guid>
 		</item>
 	</channel>
 </rss>

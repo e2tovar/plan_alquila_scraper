@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 08 Jul 2026 16:09:16 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 09 Jul 2026 09:08:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -151,6 +151,14 @@
 			<pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/236493?2026-06-24</guid>
+		</item>
+		<item>
+			<title>1350€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/237563</link>
+			<description>C/ Agila, 4,&lt;br/&gt;4º con ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/237563</description>
+			<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/237563?2026-07-09</guid>
 		</item>
 		<item>
 			<title>1500€ Puente de Vallecas</title>
@@ -1153,14 +1161,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277103?2026-06-26</guid>
 		</item>
 		<item>
-			<title>1100€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277104</link>
-			<description>C/ San Mario, 55,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;54m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277104</description>
-			<pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277104?2026-06-02</guid>
-		</item>
-		<item>
 			<title>1100€ Centro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277105</link>
 			<description>Trª Parada, 4,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;71m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277105</description>
@@ -1617,12 +1617,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277216?2026-07-07</guid>
 		</item>
 		<item>
-			<title>870€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277217</link>
-			<description>C/ Olvido, 117,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;31m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277217</description>
-			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277217?2026-07-08</guid>
+			<title>550€ Manzanares el Real</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277219</link>
+			<description>C/ Cañada, 65,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;46m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277219</description>
+			<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Manzanares el Real</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277219?2026-07-09</guid>
 		</item>
 	</channel>
 </rss>

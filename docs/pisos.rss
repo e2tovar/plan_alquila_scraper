@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 09 Jul 2026 16:29:20 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 10 Jul 2026 09:04:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1567,6 +1567,22 @@
 			<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277221?2026-07-09</guid>
+		</item>
+		<item>
+			<title>1100€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277222</link>
+			<description>C/ Ciruela, 20,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;97m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277222</description>
+			<pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277222?2026-07-10</guid>
+		</item>
+		<item>
+			<title>1275€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277223</link>
+			<description>C/ Fray José Cerdeiriña, 17,&lt;br/&gt;8º con ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277223</description>
+			<pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277223?2026-07-10</guid>
 		</item>
 	</channel>
 </rss>

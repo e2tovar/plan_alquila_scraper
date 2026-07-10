@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 10 Jul 2026 09:04:41 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 10 Jul 2026 12:28:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -127,14 +127,6 @@
 			<pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/232065?2026-02-23</guid>
-		</item>
-		<item>
-			<title>850€ Valdemoro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/235771</link>
-			<description>C/ Antonio Van de Pere, 13,&lt;br/&gt;5º con ascensor,&lt;br/&gt;43m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/235771</description>
-			<pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Valdemoro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/235771?2026-06-25</guid>
 		</item>
 		<item>
 			<title>1370€ Retiro</title>
@@ -351,6 +343,14 @@
 			<pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270670?2026-06-30</guid>
+		</item>
+		<item>
+			<title>1300€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270752</link>
+			<description>C/ Puerto del Monasterio, 18,&lt;br/&gt;4º con ascensor,&lt;br/&gt;102m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/270752</description>
+			<pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270752?2026-05-07</guid>
 		</item>
 		<item>
 			<title>1000€ Barajas</title>
@@ -1583,6 +1583,22 @@
 			<pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277223?2026-07-10</guid>
+		</item>
+		<item>
+			<title>2100€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277224</link>
+			<description>C/ Peñuelas, 18,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;98m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277224</description>
+			<pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277224?2026-07-10</guid>
+		</item>
+		<item>
+			<title>850€ Leganés</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277226</link>
+			<description>C/ Santa Rosa, 4,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;84m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277226</description>
+			<pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Leganés</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277226?2026-07-10</guid>
 		</item>
 	</channel>
 </rss>

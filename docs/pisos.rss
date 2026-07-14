@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 14 Jul 2026 11:24:13 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jul 2026 13:08:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -993,14 +993,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277068?2026-05-21</guid>
 		</item>
 		<item>
-			<title>1100€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277086</link>
-			<description>C/ Horizon, 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277086</description>
-			<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277086?2026-05-28</guid>
-		</item>
-		<item>
 			<title>1048€ Alcorcón</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277087</link>
 			<description>C/ Guindales, 15,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;60m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277087</description>
@@ -1555,10 +1547,10 @@
 		<item>
 			<title>1300€ Tres Cantos</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277228</link>
-			<description>Sect Pueblos, 8,&lt;br/&gt;1º con ascensor,&lt;br/&gt;99m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277228</description>
-			<pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+			<description>Sect Pueblos, 8,&lt;br/&gt;1º con ascensor,&lt;br/&gt;99m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277228</description>
+			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Tres Cantos</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277228?2026-07-10</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277228?2026-07-14</guid>
 		</item>
 		<item>
 			<title>1800€ Fuencarral-El Pardo</title>
@@ -1591,6 +1583,14 @@
 			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Móstoles</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277238?2026-07-14</guid>
+		</item>
+		<item>
+			<title>1100€ San Blas-Canillejas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277239</link>
+			<description>C/ Alfonso Gómez, 55,&lt;br/&gt;3º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277239</description>
+			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+			<category>San Blas-Canillejas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277239?2026-07-14</guid>
 		</item>
 	</channel>
 </rss>

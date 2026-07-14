@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 14 Jul 2026 09:51:36 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jul 2026 11:24:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -529,12 +529,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275525?2026-06-14</guid>
 		</item>
 		<item>
-			<title>1650€ Galapagar</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275676</link>
-			<description>C/ Jade, 17,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;110m², 4 🛏,&lt;br/&gt;3 🛀, 3 📷.&lt;br/&gt;alq/275676</description>
-			<pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-			<category>Galapagar</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275676?2026-05-11</guid>
+			<title>1400€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275804</link>
+			<description>C/ Teniente Coronel Noreña, 35,&lt;br/&gt;2º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/275804</description>
+			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275804?2026-07-14</guid>
 		</item>
 		<item>
 			<title>900€ Centro</title>
@@ -1561,12 +1561,36 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277228?2026-07-10</guid>
 		</item>
 		<item>
+			<title>1800€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277230</link>
+			<description>C/ La Serna del Monte, 1,&lt;br/&gt;4º con ascensor,&lt;br/&gt;112m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277230</description>
+			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277230?2026-07-14</guid>
+		</item>
+		<item>
 			<title>1500€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277231</link>
 			<description>C/ Gerardo Baena, 8,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;65m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277231</description>
 			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277231?2026-07-13</guid>
+		</item>
+		<item>
+			<title>1500€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277236</link>
+			<description>C/ Sebastián Elcano, 36,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277236</description>
+			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277236?2026-07-14</guid>
+		</item>
+		<item>
+			<title>1000€ Móstoles</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277238</link>
+			<description>C/ Helsinki, 5,&lt;br/&gt;1º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277238</description>
+			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Móstoles</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277238?2026-07-14</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 14 Jul 2026 13:08:02 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jul 2026 15:28:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -913,14 +913,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277024?2026-05-11</guid>
 		</item>
 		<item>
-			<title>1280€ Alcobendas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277028</link>
-			<description>C/ Concilio, 16,&lt;br/&gt;2º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277028</description>
-			<pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277028?2026-05-12</guid>
-		</item>
-		<item>
 			<title>1200€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277036</link>
 			<description>C/ Cardenal Mendoza, 47,&lt;br/&gt;2º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277036</description>
@@ -1097,12 +1089,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277110?2026-06-04</guid>
 		</item>
 		<item>
-			<title>1500€ Hortaleza</title>
+			<title>1300€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277111</link>
 			<description>C/ Corozal, 4,&lt;br/&gt;9º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277111</description>
-			<pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277111?2026-06-23</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277111?2026-07-14</guid>
 		</item>
 		<item>
 			<title>2700€ Rozas de Madrid, Las</title>

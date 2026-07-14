@@ -2940,32 +2940,6 @@
     "imgs": []
   },
   {
-    "id": 277092,
-    "publicado": "2026-06-11",
-    "direccion": "Calle Pinar de San Jos\u00e9, 7",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "planta": "Casa",
-    "precio": 1200,
-    "metros": 58.59,
-    "dormitorios": 2,
-    "aseos": 1,
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": true,
-    "piscina": false,
-    "porteria": false,
-    "trastero": true,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKxWrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1Lt!g6CHguBFUC8i4gdeBE!OJpsmLe5p2Hmfd57f875r36GYaChfDFu4gxHHIkKL9RYldu7u2!OPp80R7gGkCgCKRsOeYVVFSk6xeHNIX3336O8PD8ZqUOxgnlBXbWEXi3FE!ZaikdMdiBTmiAlLNUos4wYF2bVYsPLF9dff3ldWn3tQCKGAuZUWyj03fubGD5woonouhCIWpCnbsALjIZQbZoEaopkiTIp-NwulEeGS1UxETreDNfr3PWmqNnPk!Uufnzz7c2111nEEAw4N00Pe00lcp!rm2sOZiQcfb-eheK9M1nSnS6eq8mMpKLsX5qWOEFaYNCmKL1!ChBrUYbSLsiOn1iDK0bx0cKk93sWansPRKWqbsnEiVZoa46hc6Nk3NukmoGF!5iXNZFvr2uG-idqdT78yU26WG3XDTk9v3Fr6XVs!1rPt3B0kMkYmEf!rFsSKfzi7Mjt54f7P7OUMcKrrw9HDy!XEENyQusocimjgM0mdM!cHV9wmIIXdgKvMSH0FYOtS5dN4uV798nVm-eRgqTwLe3sZM4kWE6sS6wopju1o9P2FVCp1zvMURgINJcF2JC0PtgUwTiRPYhFAgTNB3WIpbJsZyfbeLtddrPcsBL6hJNHUZ4LwpEH9Tg6mBmC-Q24PcM0Gr-lNTlCXBUqbNubdKdhNnHFL-zc2Vf8A!6skSA__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poURKEoeBJh9lqoF9OKLKxWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqXf!BkEPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CUaKhcCFq4gxHHIkJLjRYldv7Om3OPps1hXgBIFQCUjIY9w6qqlJxi8fqgvvL24Z!vBRirQ6mDeUJdtYVdLMYR9VqKRk63P1KYIyYs1SixjBvkZ9di0crn1159fVdde1aAYgBFzK20UMndeJkbz3eiiOr5AEpYkKZswyqMB1AJzSI1RDNFmBS9bhbKI8Jlq5mInG4HC3v3uTRV!3L0-5c!PX76--ranOPwBxwapoe8p5K4QfWN9QezE!c!3OqHUnhpsqY7XTo11T-W!Rn3woLUEcIKkyZF8aWLmFCDOox2UXbk1BpEOVqQDi61x7pY07M4OkltU4bHU6WpMY7KhZ59Y5NuAhr2ZV7STLa1rh3snajf!vgzM-VmuVk37PTk-s3lX!WNo7lt5-4AkTEyifhfNz9W!P2Z1bnJ8!d-ZC9ngFNdD44cWmkkhuBQ6hpzKCLEp5MGZ-4PrrpNQAq7AdeYkfoywNal6k!jxUbt85fZlRODpSpYmMkzZhItJVYl1hVSHNvR6HsLqVTqnPdTGAk0kATbkbQKsM2HcSJ5EgsfipwJ6hZLYdvMSLbnu9xwsd614HuGkkRTjwnCk5B6nT6YGoB5Drk9wDWbvCafnKAuC5Q2bcy7U7CbOOOW9m5sqv4CAcAkSQ__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600pooolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Lt!g6CHguBFUC8i4gdeBE!ObpImFvc07LzPO8!ved-1b1BKNFQuBC3cwYhjEaHFRosSO3fnzblH0-YwLwCkCgBKRsOuYVVVSk6xeH1QX3n78M!3AozVodTBPKGu2sIOFuOIei1FI6fbHynMEROWapRYxg3ys2uxYOXza6--vquuPitAMYAi5lZaqORuvMyN5ztRRPVcACUsSFO2YQXGA6iEZoEaopkiTIpeNwvlEeGS1UxETreNhb37XJqqfzn6!cufHj!9fXV11nH4Aw4N00PeU0ncoPrG2oOZifsfbvVDKbw0WdPtLp2a6h!L!h73wrzUEcIKkyZF8aWLmFCDOox2UXbk1BpEOZqXDi61x7pY07M4OkltU4bHU6WpMY7KhZ59Y5NuAhr2ZV7STLa5rh3snajf!vgzM-VmuVE37PTk-s2lX!X1o7lt5-4AkTEyifhfNz9W!P2ZldnJ8!d-ZC9ngFNdD44cWm4khuBQ6hpzKCLEp5MGZ-4PrrpNQAq7AdeYkfoywOal6k!jxXrt85eZ5RODpSpY2J1nzCRaTKxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYIsP40TyJBY-FDkT1C2WwraZkWzNd7nhYr1rwfcMJYmmHhOEJyH1On0wNQDzHHJ7gGs2eE0-OUFdFiht2ph3p2AnccYt7d3YVP0FA8YkSg__"
-    ]
-  },
-  {
     "id": 277093,
     "publicado": "2026-05-29",
     "direccion": "Calle Valencia, 13",

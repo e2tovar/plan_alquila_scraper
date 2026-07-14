@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 14 Jul 2026 07:40:46 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jul 2026 09:51:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1023,14 +1023,6 @@
 			<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277091?2026-05-29</guid>
-		</item>
-		<item>
-			<title>1200€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277092</link>
-			<description>C/ Pinar de San José, 7,&lt;br/&gt;Casa con ascensor,&lt;br/&gt;59m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277092</description>
-			<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277092?2026-06-11</guid>
 		</item>
 		<item>
 			<title>990€ Centro</title>

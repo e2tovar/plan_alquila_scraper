@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 14 Jul 2026 15:28:51 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jul 2026 07:56:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -431,6 +431,14 @@
 			<pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273116?2026-04-30</guid>
+		</item>
+		<item>
+			<title>850€ Molar, El</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273519</link>
+			<description>Av. España, 67,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;75m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/273519</description>
+			<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Molar, El</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273519?2026-07-15</guid>
 		</item>
 		<item>
 			<title>1650€ Hortaleza</title>

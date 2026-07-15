@@ -1113,6 +1113,28 @@
     "imgs": []
   },
   {
+    "id": 273519,
+    "publicado": "2026-07-15",
+    "direccion": "Avda Espa\u00f1a, 67",
+    "municipio": "Molar, El",
+    "planta": 2,
+    "precio": 850,
+    "metros": 75.43,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 273599,
     "publicado": "2026-07-02",
     "modificado": "2026-07-10",

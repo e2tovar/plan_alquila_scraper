@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 15 Jul 2026 13:12:30 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jul 2026 15:23:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -95,6 +95,14 @@
 			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/206724?2026-07-08</guid>
+		</item>
+		<item>
+			<title>950€ Ciudad Lineal</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/207326</link>
+			<description>C/ Elfo, 8,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;29m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/207326</description>
+			<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Ciudad Lineal</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/207326?2026-07-15</guid>
 		</item>
 		<item>
 			<title>750€ Mejorada del Campo</title>
@@ -239,6 +247,14 @@
 			<pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/260250?2026-06-05</guid>
+		</item>
+		<item>
+			<title>1750€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/262271</link>
+			<description>C/ Fermín Caballero, 30,&lt;br/&gt;5º con ascensor,&lt;br/&gt;110m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/262271</description>
+			<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262271?2026-07-15</guid>
 		</item>
 		<item>
 			<title>1900€ Salamanca</title>

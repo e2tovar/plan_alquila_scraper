@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 15 Jul 2026 07:56:16 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jul 2026 09:55:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -503,14 +503,6 @@
 			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274757?2026-05-22</guid>
-		</item>
-		<item>
-			<title>1200€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274952</link>
-			<description>C/ Vélez Rubio, 123,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;68m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274952</description>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274952?2026-07-01</guid>
 		</item>
 		<item>
 			<title>1352€ Hortaleza</title>
@@ -1591,6 +1583,14 @@
 			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277239?2026-07-14</guid>
+		</item>
+		<item>
+			<title>950€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277243</link>
+			<description>C/ Ofelia Nieto, 20,&lt;br/&gt;2º con ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277243</description>
+			<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277243?2026-07-15</guid>
 		</item>
 	</channel>
 </rss>

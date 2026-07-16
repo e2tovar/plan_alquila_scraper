@@ -2551,33 +2551,6 @@
     "imgs": []
   },
   {
-    "id": 277015,
-    "publicado": "2026-05-07",
-    "direccion": "Calle Madridejos, 26",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "planta": 0,
-    "precio": 1390,
-    "metros": 72.8,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtkk1oE0EUx1!Xpn600poIolAUPIkwey3Ui2lVFlYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6t2bd0EPBcGLoF5ExA-8CJ46u0maWNzTsPP-b!6!!3ur36GQaChdCJu4jRHHIkILtSYldvbO23OPpswh7gGkCgAKRsOuQVVZSk6xeHNAX3n38O8PD0aqUGhjnlBXbWEHi3FE!aaikdPtixTmiAlLNUos4wYF2bWYt!L5tdff3pdXnnkwGsIo5lZaKOVu!MyNHzhRRPVsCAUsSEO2YBnGQijVzTw1RDNFmBTdbhaKQ8JFq5mInG4bq3fvc2mq!uXo9S9-fvz0z9WVGccR9Dk0TA14TyVxjeobqw-mx-9!vNULxXtpsqbbXToV1TsWj79yL8xJHSGsMGlQFF-6iAk1qM1oB2VHTq1BlKM56eBSe7SDNT2Lo5PUNmT9WKo0NcZRudCzb2TCTUDD3sxLmsk217XCPePV259-ZabcLDfqBp2eXL-5-Lu6diS37dztJzJGJhH!6xbEin84szwzcf7ez-zlDHCy48Phg0u1xBBcl7rCHIqo49NJjTP3B5fdJiCF3YArzEh9GWDzUvWm8WKt8uXr9NKJ!lJ5FnbnGTOJFhKrEusKKY7tcPTdhVQqdc57KQwFGkqC7VBaHmwJYIxInsQigFHOBHWLpbBtZCRb812uuVjvWgh8Q0miqc8E4Umd-u0emOqD-Q651cc1G7wmn5ygLguUNmzMO5OwkzjjlnZvbKrWAVW8JPE_",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtkk1oE0EUx1!Xpn600poIolAUPIkwey3Ui2lVFlYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6t2jZ0EPBcGLoF5ExA-8CJ46u0maWNzTsPP-b!6!!3ur36GQaChdCJu4jRHHIkILtSYldvbO23OPpswh7gGkCgAKRsOuQVVZSk6xeHNAX3n38O8PD0aqUGhjnlBXbWEHi3FE!aaikdPtixTmiAlLNUos4wYF2bWYt!L5tdff3pdXnnkwGsIo5lZaKOVu!MyNHzhRRPVsCAUsSEO2YBnGQijVzTw1RDNFmBTdbhaKQ8JFq5mInG4bq3fvc2mq!uXo9S9-fvz0z9WVGccR9Dk0TA14TyVxjeobqw-mx-9!vNULxXtpsqbbXToV1TsWj79yL8xJHSGsMGlQFF-6iAk1qM1oB2VHTq1BlKM56eBSe7SDNT2Lo5PUNmT9WKo0NcZRudCzb2TCTUDD3sxLmsk217XCPePV259-ZabcLDfqBp2eXL-5-Lu6diS37dztJzJGJhH!6xbEin84szwzcf7ez-zlDHCy48Phg0u1xBBcl7rCHIqo49NJjTP3B5fdJiCF3YArzEh9GWDzUvWm8WKt8uXr9NKJ!lJ5FnbnGTOJFhKrEusKKY7tcPTdhVQqdc57KQwFGkqC7VBaHmwJYIxInsQigFHOBHWLpbBtZCRb812uuVjvWgh8Q0miqc8E4Umd-u0emOqD-Q651cc1G7wmn5ygLguUNmzMO5OwkzjjlnZvbKrWAVfCJPI_",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtkk1oE0EUx1!Xpn600poIolAUPIkwey3Ui2lVFlYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6t2rV0EPBcGLoF5ExA-8CJ46u0maWNzTsPP-b!6!!3ur36GQaChdCJu4jRHHIkILtSYldvbO23OPpswh7gGkCgAKRsOuQVVZSk6xeHNAX3n38O8PD0aqUGhjnlBXbWEHi3FE!aaikdPtixTmiAlLNUos4wYF2bWYt!L5tdff3pdXnnkwGsIo5lZaKOVu!MyNHzhRRPVsCAUsSEO2YBnGQijVzTw1RDNFmBTdbhaKQ8JFq5mInG4bq3fvc2mq!uXo9S9-fvz0z9WVGccR9Dk0TA14TyVxjeobqw-mx-9!vNULxXtpsqbbXToV1TsWj79yL8xJHSGsMGlQFF-6iAk1qM1oB2VHTq1BlKM56eBSe7SDNT2Lo5PUNmT9WKo0NcZRudCzb2TCTUDD3sxLmsk217XCPePV259-ZabcLDfqBp2eXL-5-Lu6diS37dztJzJGJhH!6xbEin84szwzcf7ez-zlDHCy48Phg0u1xBBcl7rCHIqo49NJjTP3B5fdJiCF3YArzEh9GWDzUvWm8WKt8uXr9NKJ!lJ5FnbnGTOJFhKrEusKKY7tcPTdhVQqdc57KQwFGkqC7VBaHmwJYIxInsQigFHOBHWLpbBtZCRb812uuVjvWgh8Q0miqc8E4Umd-u0emOqD-Q651cc1G7wmn5ygLguUNmzMO5OwkzjjlnZvbKrWAVnIJPM_"
-    ]
-  },
-  {
     "id": 277018,
     "publicado": "2026-05-08",
     "direccion": "Calle Alcal\u00e1, 372",

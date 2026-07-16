@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 16 Jul 2026 13:19:24 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jul 2026 15:39:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -407,6 +407,14 @@
 			<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Villaverde</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271288?2026-07-09</guid>
+		</item>
+		<item>
+			<title>850€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271984</link>
+			<description>C/ Provisiones, 4,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;34m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/271984</description>
+			<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271984?2026-07-16</guid>
 		</item>
 		<item>
 			<title>1000€ Barajas</title>
@@ -1561,6 +1569,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277236?2026-07-14</guid>
 		</item>
 		<item>
+			<title>1250€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277237</link>
+			<description>C/ Cuenca, 8,&lt;br/&gt;5º con ascensor,&lt;br/&gt;77m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277237</description>
+			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277237?2026-07-14</guid>
+		</item>
+		<item>
 			<title>1000€ Móstoles</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277238</link>
 			<description>C/ Helsinki, 5,&lt;br/&gt;1º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277238</description>
@@ -1607,6 +1623,14 @@
 			<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277249?2026-07-16</guid>
+		</item>
+		<item>
+			<title>1600€ Salamanca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277250</link>
+			<description>C/ Antonio Toledano, 7,&lt;br/&gt;3º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277250</description>
+			<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Salamanca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277250?2026-07-16</guid>
 		</item>
 	</channel>
 </rss>

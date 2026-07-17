@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 16 Jul 2026 15:39:58 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 17 Jul 2026 07:57:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -367,6 +367,14 @@
 			<pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
 			<category>San Sebastián de los Reyes</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270358?2026-06-30</guid>
+		</item>
+		<item>
+			<title>1250€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270663</link>
+			<description>C/ Villamayor de Santiago, 23,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/270663</description>
+			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270663?2026-07-17</guid>
 		</item>
 		<item>
 			<title>1300€ Fuencarral-El Pardo</title>

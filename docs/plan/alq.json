@@ -909,6 +909,28 @@
     "imgs": []
   },
   {
+    "id": 270663,
+    "publicado": "2026-07-17",
+    "direccion": "Calle Villamayor de Santiago, 23",
+    "municipio": "Madrid",
+    "distrito": "Villa de Vallecas",
+    "planta": 2,
+    "precio": 1250,
+    "metros": 65,
+    "dormitorios": 2,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": true,
+    "porteria": true,
+    "trastero": true,
+    "imgs": []
+  },
+  {
     "id": 270670,
     "publicado": "2026-06-30",
     "direccion": "Avda Betanzos, 38",

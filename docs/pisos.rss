@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 20 Jul 2026 12:17:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jul 2026 15:51:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -423,14 +423,6 @@
 			<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271984?2026-07-16</guid>
-		</item>
-		<item>
-			<title>1000€ Barajas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272205</link>
-			<description>C/ Zodíaco, 30,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;52m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/272205</description>
-			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Barajas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272205?2026-07-08</guid>
 		</item>
 		<item>
 			<title>2400€ Hortaleza</title>

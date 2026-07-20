@@ -1073,34 +1073,6 @@
     "imgs": []
   },
   {
-    "id": 272205,
-    "publicado": "2026-06-30",
-    "modificado": "2026-07-08",
-    "direccion": "Calle Zod\u00edaco, 30",
-    "municipio": "Madrid",
-    "distrito": "Barajas",
-    "planta": 2,
-    "precio": 1000,
-    "metros": 52.06,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFVqIVK0EjHiaz42bC7MxkZjZZKRYVtKAHxY-boKAXpZ79HwQ9FAQvgnoRET!wInjq7GbTxOKehp33eef5Pe-7-h2KsYbyhWoLdzDiWIRoodGixM7efXvu8ZQ5xAsAiQKAotGwa1BVkZJTLN4c0FffPfr7owAjdSh2MI-pq7awg0U4pF5L0dDp9oUKc8SEpRrFlnGD!PRazFv54vrrb-8rK88LMFqFUcyttFDO3HipG893opDq2SoUsSBN2YZlGKtCOTDz1BDNFGFS9LpZKA0JF61mInS6bSzo3WfSRP3LkfcvfX7y7M-1lRnH4fc5NEwNeE!FUYPqm6sPp8cffLydh1J4ZdKm2106NZUfSycuuhfmpA4RVpg0KYouX8KEGtRhtIvSI6fWIMrRnHRwiT3axZqexeFJapsyOJYoTY1xVC709BuZcBPQsDf1kqSyzXXt6p7x-p1Pv1JTbpYbdYNOT2!cWvxdXzuS2Xbu9hMZIROL!3XzI8U!nFmemTh!!2f6cgo42fXg8MGlRmwIDqSuMYciAnw6bnDm!uCK2wSksBtwjRmprwBsXqp8Gi!Xal--Ti8d7y9VwcLuLGMm0UJsVWxdIcWRHY6-t5BKJc55nsJQoFVJsB1KqwBbfBgjkseR8GGUM0HdYilsmynJ1myXGy7WexZ8z1ASa-oxQXgcUK-Tg6k-mOeQ231cs8FrsskJ6rJASdNGvDsJO4kzbmnvxiZqHZViJJI_",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFVqIVK0EjCJPZcTNhdmYyM5usFIsKWtCD4sdNUNCLUs!-D4IeCoIXQb2IiB94ETx1drNpYnFPw877vPP8nvdd!Q7FWEP5QrWFOxhxLEK00GhRYmfvvj33eMoc4gWARAFA0WjYNaiqSMkpFm8O6KvvHv39UYCROhQ7mMfUVVvYwSIcUq-laOh0-0KFOWLCUo1iy7hBfnot5q18cf31t!eVlecFGK3CKOZWWihnbrzUjec7UUj1bBWKWJCmbMMyjFWhHJh5aohmijApet0slIaEi1YzETrdNhb07jNpov7lyPuXPj959ufayozj8PscGqYGvKfiqEH1zdWH0-MPPt7OQym8MmnT7S6dmsqPpRMX3QtzUocIK0yaFEWXL2FCDeow2kXpkVNrEOVoTjq4xB7tYk3P4vAktU0ZHEuUpsY4Khd6-o1MuAlo2Jt6SVLZ5rp2dc94!c6nX6kpN8uNukGnpzduLf6urx3JbDt3-4mMkInF!7r5keIfzizPTJy!!zN9OQWc7Hpw-OBSIzYEB1LXmEMRAT4dNzhzf3DFbQJS2A24xozUVwA2L1U-jZdrtS9fp5eO95eqYGF3ljGTaCG2KraukOLIDkffW0ilEuc8T2Eo0Kok2A6lVYAtPowRyeNI-DDKmaBusRS2zZRka7bLDRfrPQu-ZyiJNfWYIDwOqNfJwVQfzHPI7T6u2eA12eQEdVmgpGkj3p2EncQZt7R3YxO1DpdoJJM_",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFVqIVK0HjQSaz42bC7MxkZjZZKRYVtKAHxY-boKAXpZ79HwQ9FAQvgnoRET!wInjq7GbTxOKehp33eef5Pe-7-h2KsYbyhWoLdzDiWIRoodGixM7efXvu8ZQ5xAsAiQKAotGwa1BVkZJTLN4c0FffPfr7owAjdSh2MI-pq7awg0U4pF5L0dDp9oUKc8SEpRrFlnGD!PRazFv54vrrb-8rK88LMFqFUcyttFDO3HipG893opDq2SoUsSBN2YZlGKtCOTDz1BDNFGFS9LpZKA0JF61mInS6bSzo3WfSRP3LkfcvfX7y7M-1lRnH4fc5NEwNeE!FUYPqm6sPp8cffLydh1J4ZdKm2106NZUfSycuuhfmpA4RVpg0KYouX8KEGtRhtIvSI6fWIMrRnHRwiT3axZqexeFJapsyOJYoTY1xVC709BuZcBPQsDf1kqSyzXXt6p7x-p1Pv1JTbpYbdYNOT2!cWvxdXzuS2Xbu9hMZIROL!3XzI8U!nFmemTh!!2f6cgo42fXg8MGlRmwIDqSuMYciAnw6bnDm!uCK2wSksBtwjRmprwBsXqp8Gi!Xal--Ti8d7y9VwcLuLGMm0UJsVWxdIcWRHY6-t5BKJc55nsJQoFVJsB1KqwBbfBgjkseR8GGUM0HdYilsmynJ1myXGy7WexZ8z1ASa-oxQXgcUK-Tg6k-mOeQ231cs8FrsskJ6rJASdNGvDsJO4kzbmnvxiZqHZluJJQ_"
-    ]
-  },
-  {
     "id": 272373,
     "publicado": "2026-06-12",
     "direccion": "Calle Mar\u00eda Mercedes de Borb\u00f3n, 292",

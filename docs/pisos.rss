@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 17 Jul 2026 15:13:51 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jul 2026 08:40:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -111,6 +111,14 @@
 			<pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Mejorada del Campo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/210030?2026-07-03</guid>
+		</item>
+		<item>
+			<title>1200€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/214248</link>
+			<description>C/ Chantada, 9,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;45m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/214248</description>
+			<pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214248?2026-07-20</guid>
 		</item>
 		<item>
 			<title>700€ Carabanchel</title>
@@ -359,6 +367,14 @@
 			<pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270104?2026-06-02</guid>
+		</item>
+		<item>
+			<title>850€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270499</link>
+			<description>Av. Buenos Aires, 62,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270499</description>
+			<pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270499?2026-07-20</guid>
 		</item>
 		<item>
 			<title>1250€ Villa de Vallecas</title>
@@ -783,14 +799,6 @@
 			<pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276880?2026-03-31</guid>
-		</item>
-		<item>
-			<title>1100€ Alcobendas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276884</link>
-			<description>C/ Fuego, 31,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;51m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/276884</description>
-			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276884?2026-04-01</guid>
 		</item>
 		<item>
 			<title>1500€ Usera</title>
@@ -1537,12 +1545,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277230?2026-07-14</guid>
 		</item>
 		<item>
-			<title>1500€ Fuencarral-El Pardo</title>
+			<title>1350€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277231</link>
 			<description>C/ Gerardo Baena, 8,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;65m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277231</description>
-			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277231?2026-07-13</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277231?2026-07-20</guid>
 		</item>
 		<item>
 			<title>1500€ Arganzuela</title>
@@ -1647,6 +1655,22 @@
 			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Villaverde</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277255?2026-07-17</guid>
+		</item>
+		<item>
+			<title>980€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277256</link>
+			<description>C/ Carlos Martín Álvarez, 10,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;45m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277256</description>
+			<pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277256?2026-07-20</guid>
+		</item>
+		<item>
+			<title>900€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277257</link>
+			<description>C/ Vía Carpetana, 139,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277257</description>
+			<pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277257?2026-07-20</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 20 Jul 2026 15:51:43 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jul 2026 08:15:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1641,12 +1641,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277255?2026-07-17</guid>
 		</item>
 		<item>
-			<title>980€ Puente de Vallecas</title>
+			<title>950€ Puente de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277256</link>
-			<description>C/ Carlos Martín Álvarez, 10,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;45m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277256</description>
-			<pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+			<description>C/ Carlos Martín Álvarez, 10,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277256</description>
+			<pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277256?2026-07-20</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277256?2026-07-21</guid>
 		</item>
 		<item>
 			<title>900€ Carabanchel</title>
@@ -1663,6 +1663,14 @@
 			<pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277258?2026-07-20</guid>
+		</item>
+		<item>
+			<title>1400€ Moncloa-Aravaca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277260</link>
+			<description>C/ Valdevarnés, 8,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277260</description>
+			<pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Moncloa-Aravaca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277260?2026-07-21</guid>
 		</item>
 	</channel>
 </rss>

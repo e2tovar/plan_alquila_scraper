@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 21 Jul 2026 11:50:17 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jul 2026 13:15:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -319,14 +319,6 @@
 			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266245?2026-07-13</guid>
-		</item>
-		<item>
-			<title>1100€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/266274</link>
-			<description>C/ Cuart de Poblet, 91,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;50m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/266274</description>
-			<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266274?2026-07-07</guid>
 		</item>
 		<item>
 			<title>1150€ Salamanca</title>

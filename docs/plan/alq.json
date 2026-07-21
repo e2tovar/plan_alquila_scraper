@@ -745,33 +745,6 @@
     ]
   },
   {
-    "id": 266274,
-    "publicado": "2026-07-07",
-    "modificado": "2026-07-07",
-    "direccion": "Calle Cuart de Poblet, 91",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "planta": 1,
-    "precio": 1100,
-    "metros": 50,
-    "dormitorios": 3,
-    "aseos": 1,
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqol6YVWYlWrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObjZtWtzTsPM-7zy!531Xv0Mx1lC-WG3jLkYcixAtNNqU2Jm7b88!njRHuAeQKAAoGg17NqoqUnKKxZtD-uq7R39!eDBSh2IX85i6agu7WIRD6rcVDZ3uQKgwR0xYqlFsGTcoSK!FvJUvrr!-9r6y8tyDQhUKmFtpoZy58VM3fuBEIdUzVShiQVqyA8swWoVy08xTQzRThEnR72ahNCRctJqJ0Ol2sGb!PpMmajNH3r!0-cmzP9dWph1HMODQMLnBezqOGlTfXH04Nfbg4-08FO-VSZvudOnUVH4snZx1L8xJHSKsMGlRFF2-hAk1qMtoD6VHTq1BlKM56eASO9vDmp7D4SlqW7J5PFGaGuOoXOjpNzLuJqBhf-olSWVb6zrVfWP1O59-pabcLNfrNjo9vXFr8Xd97Vhm27k7SGSETCz-1y2IFP9wdnl6!ML9n-nLKeBEz4ejh5casSG4KXWNORTRxGfiBmfuD664TUAKuwHXmJH6CsDWpcqn8XKt9uXr1NKJwVJ5FvZmGTOJFmKrYusKKY7scPT9hVQqcc7zFIYCrUqC7VBaHmwLYJRIHkcigAJngrrFUti2UpLt2S43XKz3LAS-oSTW1GeC8LhJ!W4OpgZgvkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!XLokdg__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFVlYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QdBDQfAiqBcR8QMvgidnN5smFvc07LzPO8!ved-1b1CKNVQuBG3cxYhjEaLFRpsSO3fnzblH0-YQLwAkCgBKRsOuYVVVSk6xeH1AX3n78M!3AozVodTFPKau2sIOFuGQem1FQ6fbFyrMEROWahRbxg3y02uxYOXza6--vquuPitAMYAi5lZaqGRuvNSN5ztRSPVcACUsSEt2YAXGA6g0zQI1RDNFmBT9bhbKI8Ilq5kInW4ba!bvM2mi!uXI-5c!PX76--rqrOPwBxwapoe8p-KoQfWNtQczE!c!3MpDKbw0adPtLp2ayo!lE1X3wrzUIcIKkxZF0aWLmFCDuoz2UHrk1BpEOZqXDi6xR3tY07M4PEltSzaPJUpTYxyVCz39xibdBDTsTb0kqWxzXSfYM1G!!fFnasrNcqNu2OnJ9ZtLv-rrRzLbzt1-IiNkYvG!bn6k-PszK7OT5-!9SF9OAad6Hhw-uNyIDcFNqWvMoYgmPh03OHN!cNVtAlLYDbjGjNSXATYvVT6NF-u1z19mlo8PlqpgYXeWMZNoMbYqtq6Q4siORt9fSKUS5zxPYSTQQBJsR9IqwBYfxonkcSR8KHImqFsshW0rJdma7XLDxXrXgu8ZSmJNPSYIj5vU6-ZgagDmOeTOANds8JpscoK6LFDSshHvTcFO4oxb2r-xifoLXsAkdw__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rFDEYxt-Ou!WjldZdQRSKgicRMtdCvbhbkZHRipVF11M2E2ezZJJsktkdKRYVtKAHxY-boKAXpZ79HwQ9FAQvgnoRET!wIngysx!tWpxTmLzPm-f3vO!qNyimGsoXwhbuYMSxiNFCo0WJnbvz5tyjaXOIewCZAoCi0bBro6oiJadYvD6gr7x9-Oe7B2N1KHYwT6mrtrCDJTimfkvR2On2xQpzxISlGqWWcYOC!FrMW!n82quv7yorzzwohFDA3EoL5Z4bP3fjB04UUz0XQhEL0pRtWIbxEMqRmaeGaKYIk6LfzUJpRLhoNROx021jUf--J83UvxyD!qVPj5!-vroy6ziCIYeG6Q3eU2nSoPrG6oOZifsfbg1C8V6avOl2l05NDY6lE1X3QlXqGGGFSZOi5NJFTKhBHUa7KD9yag2iHFWlg8vs0S7W9CyOT1LblNGxTGlqjKNyoeff2KSbgIa9uZcsl22ua4d7Juq3P!7MTblZrtdtdHpy!ebir!rakZ5t524!kQkyqfhftyBR!P2Z5dnJ8!d-5C!ngFNdHw4fXGqkhuBI6hpzKCLCp9MGZ-4PrrhNQAq7AdeYkfoywOalGkzjxVrt85eZpePDpfIs7O5lzCRaSK1KrSukOLGj0fcXUqnMOR-kMBJoKAm2I2l5sCWAcSJ5mogACpwJ6hZLYdvMSbb2drnhYr1rIfANJammPhOEpxH1OwMwNQTzHXJ7iGvWeU1vcoK6LFDWtAnvTsFO4oxb2r-xmfoLYMYkeA__"
-    ]
-  },
-  {
     "id": 267699,
     "publicado": "2026-06-18",
     "modificado": "2026-06-19",

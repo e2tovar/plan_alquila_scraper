@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 21 Jul 2026 13:15:33 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jul 2026 15:38:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1615,6 +1615,14 @@
 			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Salamanca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277250?2026-07-17</guid>
+		</item>
+		<item>
+			<title>1449€ Villaverde</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277252</link>
+			<description>C/ El Asombro de Damasco, 17,&lt;br/&gt;5º con ascensor,&lt;br/&gt;80m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277252</description>
+			<pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Villaverde</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277252?2026-07-21</guid>
 		</item>
 		<item>
 			<title>1450€ Latina</title>

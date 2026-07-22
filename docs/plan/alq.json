@@ -1344,29 +1344,6 @@
     ]
   },
   {
-    "id": 274757,
-    "publicado": "2026-05-22",
-    "direccion": "Calle Simca, 18",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "planta": 2,
-    "precio": 1450,
-    "metros": 77.89,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 274859,
     "publicado": "2026-07-17",
     "direccion": "Calle Mar\u00eda Ben\u00edtez, 40",
@@ -2740,6 +2717,7 @@
   {
     "id": 277087,
     "publicado": "2026-05-28",
+    "modificado": "2026-07-22",
     "direccion": "Calle Guindales, 15",
     "municipio": "Alcorc\u00f3n",
     "planta": 2,

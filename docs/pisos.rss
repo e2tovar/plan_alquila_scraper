@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 22 Jul 2026 13:24:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Jul 2026 15:39:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -513,14 +513,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274678?2026-05-25</guid>
 		</item>
 		<item>
-			<title>1450€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274757</link>
-			<description>C/ Simca, 18,&lt;br/&gt;2º con ascensor,&lt;br/&gt;78m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274757</description>
-			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274757?2026-05-22</guid>
-		</item>
-		<item>
 			<title>2600€ Pozuelo de Alarcón</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274859</link>
 			<description>C/ María Benítez, 40,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;217m², 5 🛏,&lt;br/&gt;5 🛀, 0 📷.&lt;br/&gt;alq/274859</description>
@@ -972,9 +964,9 @@
 			<title>1048€ Alcorcón</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277087</link>
 			<description>C/ Guindales, 15,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;60m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277087</description>
-			<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277087?2026-05-28</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277087?2026-07-22</guid>
 		</item>
 		<item>
 			<title>1250€ Latina</title>

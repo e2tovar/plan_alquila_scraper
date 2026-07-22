@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 22 Jul 2026 08:17:39 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Jul 2026 11:50:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -407,6 +407,14 @@
 			<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271984?2026-07-16</guid>
+		</item>
+		<item>
+			<title>1400€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272207</link>
+			<description>C/ Fresno de Cantespino, 40,&lt;br/&gt;4º con ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/272207</description>
+			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272207?2026-07-22</guid>
 		</item>
 		<item>
 			<title>2400€ Hortaleza</title>
@@ -1529,14 +1537,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277236?2026-07-17</guid>
 		</item>
 		<item>
-			<title>1250€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277237</link>
-			<description>C/ Cuenca, 8,&lt;br/&gt;5º con ascensor,&lt;br/&gt;77m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277237</description>
-			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277237?2026-07-14</guid>
-		</item>
-		<item>
 			<title>1000€ Móstoles</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277238</link>
 			<description>C/ Helsinki, 5,&lt;br/&gt;1º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277238</description>
@@ -1567,6 +1567,14 @@
 			<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277243?2026-07-15</guid>
+		</item>
+		<item>
+			<title>1550€ Paracuellos de Jarama</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277244</link>
+			<description>Av. Juan Pablo II, 58,&lt;br/&gt;1º con ascensor,&lt;br/&gt;119m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277244</description>
+			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Paracuellos de Jarama</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277244?2026-07-17</guid>
 		</item>
 		<item>
 			<title>746€ Villa de Vallecas</title>
@@ -1665,14 +1673,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277260?2026-07-21</guid>
 		</item>
 		<item>
-			<title>950€ Torrejón de Ardoz</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277262</link>
-			<description>C/ Encina, 3,&lt;br/&gt;4º con ascensor,&lt;br/&gt;86m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277262</description>
-			<pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Torrejón de Ardoz</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277262?2026-07-21</guid>
-		</item>
-		<item>
 			<title>1100€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277264</link>
 			<description>C/ El Rompedizo, 5,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;46m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277264</description>
@@ -1687,6 +1687,30 @@
 			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Tres Cantos</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277266?2026-07-22</guid>
+		</item>
+		<item>
+			<title>1000€ Cobeña</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277267</link>
+			<description>Av. Guadalajara, 27,&lt;br/&gt;4º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277267</description>
+			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Cobeña</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277267?2026-07-22</guid>
+		</item>
+		<item>
+			<title>1300€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277268</link>
+			<description>C/ Illescas, 39,&lt;br/&gt;3º con ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277268</description>
+			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277268?2026-07-22</guid>
+		</item>
+		<item>
+			<title>950€ Pinto</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277269</link>
+			<description>C/ Pedro Faura, 8,&lt;br/&gt;1º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277269</description>
+			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Pinto</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277269?2026-07-22</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 22 Jul 2026 11:50:43 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Jul 2026 13:24:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -191,14 +191,6 @@
 			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/244123?2026-07-17</guid>
-		</item>
-		<item>
-			<title>900€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/247500</link>
-			<description>C/ Cantos, 24,&lt;br/&gt;7º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/247500</description>
-			<pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/247500?2026-06-25</guid>
 		</item>
 		<item>
 			<title>810€ Torrejón de Ardoz</title>
@@ -583,14 +575,6 @@
 			<pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276142?2026-06-14</guid>
-		</item>
-		<item>
-			<title>890€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276204</link>
-			<description>C/ Bustamante, 10,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;32m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/276204</description>
-			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276204?2026-07-13</guid>
 		</item>
 		<item>
 			<title>990€ Tetuán</title>

@@ -898,28 +898,6 @@
     ]
   },
   {
-    "id": 270670,
-    "publicado": "2026-06-30",
-    "direccion": "Avda Betanzos, 38",
-    "municipio": "Madrid",
-    "distrito": "Fuencarral-El Pardo",
-    "planta": 5,
-    "precio": 1300,
-    "metros": 43,
-    "dormitorios": 2,
-    "aseos": 1,
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": true,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 270674,
     "publicado": "2026-07-07",
     "direccion": "Calle Manuel Jim\u00e9nez, 26",
@@ -4179,34 +4157,6 @@
     "imgs": []
   },
   {
-    "id": 277215,
-    "publicado": "2026-07-07",
-    "modificado": "2026-07-13",
-    "direccion": "Ronda Atocha, 16",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "planta": 5,
-    "precio": 1800,
-    "metros": 84.55,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": true,
-    "piscina": false,
-    "porteria": true,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKrEQrVoLG02QybibMzkxmZpOVYlFBC4ooftwEBb0o9ez!IOihIHgR1IuI-IEXwVNnN5smFvc07LzPO8!ved!V71CINZQuVFq4gxHHIkQL9RYldvbu23OPp8wh7gEkCgAKRsOuQVVZSk6xeHNAX3n36O8PD0ZqUOhgHlNXbWEHi3BI!ZaiodPtCxXmiAlLNYot4wYF6bWYt!LFtdff3pdXnnswWoFRzK20UMrc-KkbP3CikOrZChSwIE3ZhmUYq0CpYeapIZopwqTodbNQHBIuWs1E6HTbWKN3n0kT9S9H3r!4-cmzP1dXZhxH0OfQMDXgPRVHdapvrD6cHn!w8VYeivfKpE23u3SqKj8WT9x2L8xJHSKsMGlSFF26iAk1qMNoF6VHTq1BlKM56eASe7SLNT2Lw5PUNmXjWKI0NcZRudDTb2TCTUDD3tRLkso217Ure8Zrdz79Sk25WW7UDTo9vX5z8Xdt7Uhm27nbT2SETCz-1y2IFP9wZnlm4vz9n-nLKeBk14fDB5fqsSG4IXWVORTRwKfjOmfuDy67TUAKuwFXmZH6MsDmpcqn8XKt-uXr9NLx!lJ5FnZnGTOJFmKrYusKKY7scPS9hVQqcc7zFIYCrUiC7VBaHmwJYIxIHkcigFHOBHWLpbBtpiRbs12uu1jvWQh8Q0msqc8E4XGD-p0cTPXBfIfc7uOaDV6TTU5QlwVKmjbi3UnYSZxxS3s3NlHr9oIkwg__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKrEQrVoLG02QybibMzkxmZpOVYlFBCwoqftwEBb0o9ez!IOihIHgR1IuI-IEXwVNnN5smFvc07LzPO8!ved!V71CINZQuVFq4gxHHIkQL9RYldvbu23OPp8wh7gEkCgAKRsOuQVVZSk6xeHNAX3n36O8PD0ZqUOhgHlNXbWEHi3BI!ZaiodPtCxXmiAlLNYot4wYF6bWYt!LFtdff3pdXnnswWoFRzK20UMrc-KkbP3CikOrZChSwIE3ZhmUYq0CpYeapIZopwqTodbNQHBIuWs1E6HTbWKN3n0kT9S9H3r!4-cmzP1dXZhxH0OfQMDXgPRVHdapvrD6cHn!w8VYeivfKpE23u3SqKj8WT9x2L8xJHSKsMGlSFF26iAk1qMNoF6VHTq1BlKM56eASe7SLNT2Lw5PUNmXjWKI0NcZRudDTb2TCTUDD3tRLkso217Ure8Zrdz79Sk25WW7UDTo9vX5z8Xdt7Uhm27nbT2SETCz-1y2IFP9wZnlm4vz9n-nLKeBk14fDB5fqsSG4IXWVORTRwKfjOmfuDy67TUAKuwFXmZH6MsDmpcqn8XKt-uXr9NLx!lJ5FnZnGTOJFmKrYusKKY7scPS9hVQqcc7zFIYCrUiC7VBaHmwJYIxIHkcigFHOBHWLpbBtpiRbs12uu1jvWQh8Q0msqc8E4XGD-p0cTPXBfIfc7uOaDV6TTU5QlwVKmjbi3UnYSZxxS3s3NlHr-Igkww__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKrEQrVoLG02QybibMzkxmZpOVYlFBC3qo-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObjZtWtzTsPM-7zy!531Xv0Mx1lC-VG3jLkYcixDNN9qU2Jm7by88njRHuAeQKAAoGg17NqoqUnKKxZtD-tq7R39!eDBSh2IX85i6agu7WIRD6rcVDZ3uQKgwR0xYqlFsGTcoSK!FnJUvbrz-9r6y!NyDQhUKmFtpoZy58VM3fuBEIdUzVShiQVqyA0swWoVy08xRQzRThEnR72ahNCRcsJqJ0Ol2sGb!PpMmajNH3r!0-cmzP9eXpx1HMODQMLnBeyaOGlTfWn04Nfbg4508FO-VSZvudOnUVH4snVpxL8xKHSKsMGlRFF25jAk1qMtoD6VHTq1BlKNZ6eASe7yHNT2Pw9PUtmTzRKI0NcZRudDTb2TcTUDD!tRLksq21nWq-8bqK59-pabcLNfrNjo9vXl74Xd97Vhm27k7SGSETCz-1y2IFP9wbml6!OL9n-nLKeBEz4ejhxcbsSG4KXWNORTRxGfjBmfuD664TUAKuwHXmJH6KsDWpcqn8XKt9uXr1OLJwVJ5FvZmGTOJ5mOrYusKKY7scPT9hVQqcc7zFIYCrUqC7VBaHmwLYJRIHkcigAJngrrFUti2UpLt2S43XKz3LAS-oSTW1GeC8LhJ!W4OpgZgvkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!-o4kxA__"
-    ]
-  },
-  {
     "id": 277216,
     "publicado": "2026-07-07",
     "direccion": "Calle La Luna, 1",
@@ -4940,6 +4890,27 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 277266,
+    "publicado": "2026-07-22",
+    "direccion": "Avda Comunidad Valenciana, 19",
+    "municipio": "Tres Cantos",
+    "planta": 7,
+    "precio": 1950,
+    "metros": 114.82,
+    "dormitorios": 4,
+    "aseos": 3,
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
     "imgs": []
   }
 ]

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 21 Jul 2026 15:38:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Jul 2026 08:17:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -367,14 +367,6 @@
 			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270663?2026-07-17</guid>
-		</item>
-		<item>
-			<title>1300€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270670</link>
-			<description>Av. Betanzos, 38,&lt;br/&gt;5º con ascensor,&lt;br/&gt;43m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270670</description>
-			<pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270670?2026-06-30</guid>
 		</item>
 		<item>
 			<title>825€ San Sebastián de los Reyes</title>
@@ -1433,14 +1425,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277211?2026-07-06</guid>
 		</item>
 		<item>
-			<title>1800€ Centro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277215</link>
-			<description>Rda. Atocha, 16,&lt;br/&gt;5º con ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277215</description>
-			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277215?2026-07-13</guid>
-		</item>
-		<item>
 			<title>950€ Móstoles</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277216</link>
 			<description>C/ La Luna, 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;60m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277216</description>
@@ -1695,6 +1679,14 @@
 			<pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277264?2026-07-21</guid>
+		</item>
+		<item>
+			<title>1950€ Tres Cantos</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277266</link>
+			<description>Av. Comunidad Valenciana, 19,&lt;br/&gt;7º con ascensor,&lt;br/&gt;115m², 4 🛏,&lt;br/&gt;3 🛀, 0 📷.&lt;br/&gt;alq/277266</description>
+			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Tres Cantos</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277266?2026-07-22</guid>
 		</item>
 	</channel>
 </rss>

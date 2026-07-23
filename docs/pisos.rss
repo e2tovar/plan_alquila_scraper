@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 23 Jul 2026 11:54:42 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jul 2026 13:25:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -359,14 +359,6 @@
 			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270663?2026-07-17</guid>
-		</item>
-		<item>
-			<title>825€ San Sebastián de los Reyes</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270674</link>
-			<description>C/ Manuel Jiménez, 26,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;51m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270674</description>
-			<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-			<category>San Sebastián de los Reyes</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270674?2026-07-07</guid>
 		</item>
 		<item>
 			<title>1300€ Puente de Vallecas</title>
@@ -1146,14 +1138,6 @@
 		</item>
 		<item>
 			<title>1100€ Moncloa-Aravaca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277150</link>
-			<description>C/ Alcalde Martín de Alzaga, 17,&lt;br/&gt;2º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277150</description>
-			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Moncloa-Aravaca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277150?2026-06-17</guid>
-		</item>
-		<item>
-			<title>1100€ Moncloa-Aravaca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277152</link>
 			<description>C/ Sánchez Preciado, 40,&lt;br/&gt;2º con ascensor,&lt;br/&gt;40m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277152</description>
 			<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
@@ -1655,6 +1639,14 @@
 			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Pinto</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277269?2026-07-22</guid>
+		</item>
+		<item>
+			<title>1350€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277274</link>
+			<description>C/ Participación, 3,&lt;br/&gt;2º con ascensor,&lt;br/&gt;111m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277274</description>
+			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277274?2026-07-23</guid>
 		</item>
 	</channel>
 </rss>

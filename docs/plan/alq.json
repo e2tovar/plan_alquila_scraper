@@ -3374,32 +3374,6 @@
     ]
   },
   {
-    "id": 277155,
-    "publicado": "2026-06-18",
-    "direccion": "Calle Huerta de la Sacedilla, 3",
-    "municipio": "Majadahonda",
-    "planta": "Casa",
-    "precio": 2300,
-    "metros": 80,
-    "dormitorios": 4,
-    "aseos": 3,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": true,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx19jUn-00poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSgqL0JCnpR6tn!QdBDQfAiqBcR8QdeBE!ObpImFvc07Lzvm-!n-976NyglGioXgxbuYMSxiNBio0WJnbv75vyjaXOEFwBSBQAlo2HPsKoqJadYvD6kr759-Od7AcbqUOpgnlBXbWEXi3FEvZaikdMdiBTmiAlLNUos4wb52bVYsPL59Vdf31VXnxWgGEARcystVHI3XubG850oonougBIWpCnbsALjAVRCs0AN0UwRJkWvm4XyiHDJaiYip9vBwt59Lk3Vvxz9!uVPj5!-vrY66zj8AYeG6SHv6SRuUH1zfW1m4sGH2!1QCi9N1nSnS6em-seyv-ZemJc6Qlhh0qQovnwJE2pQh9Euyo6cWoMoR!PSwaX2eBdreg5Hp6htyvBEqjQ1xlG50LNvbNJNQMP-zEuaybbWtYN9E!U7H39mptwsN-uGnZ7cuLX0q75xLLft3B0kMkYmEf!r5seKvz-7Mjt54f6P7OUMcKrrwdHDy43EEBxKXWMORYT4TNLgzP3BVbcJSGE34BozUl8B2LpU!Wm82Kh9!jKzfHKwVAULe!OMmUSLiVWJdYUUx3Y0-t5CKpU65!0URgINJMF2JK0CbPNhnEiexMKHImeCusVS2DYzku35LjdcrPcs-J6hJNHUY4LwJKRepw-mBmCeQ24PcM0mr8knJ6jLAqVNG!PuFOwmzrilvRubqr8EuiTJ",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HUSFPSi1LP!g6CHguBFUC8i4gdeBE!OJpsmFvc07LzPO8!ved-1b1BKNFTOBy3cwYhjEaHFRosSO3f7zdlH0-YQLwCkCgBKRsOuYVVVSk6xeH1AX3778M!3AozVodTBPKGu2sIOFuOIei1FI6fbFynMEROWapRYxg3ys2uxYOXzq6--vquuPitAMYAi5lZaqPTceJkbz3eiiOq5AEpYkKZswwqMB1AJzQI1RDNFmBT9bhbKI8Ilq5mInG4bC!v3PWmq!uXI-5c!PX76-8rqrOPwBxwapoe8J5O4QfX1tfszE!c-3MxDKbw0WdPtLp2ayo9l!4F7YV7qCGGFSZOi-OIFTKhBHUa7KDtyag2iHM1LB5fao12s6RkcnaC2KcNjqdLUGEflQs--sUk3AQ17My9pJttc1w72TNRvffyZmXKz3Kgbdnpy7cbSr!r6kZ5t524!kTEyifhfNz9W!P3pldnJc3d!ZC9ngFNdDw4fXG4khuBQ6hpzKCLEp5IGZ-4PrrpNQAq7AdeYkfoSwOalyqfxYr32-cvM8vHBUhUs7O5lzCRaTKxKrCukOLaj0fcXUqnUOc9TGAk0kATbkbQKsMWHcSJ5EgsfipwJ6hZLYdvMSLb2drnhYr1jwfcMJYmmHhOEJyH1OjmYGoB5Drk9wDUbvKY3OUFdFiht2ph3p2AnccYt7d!YVP0FBsAkyg__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-IEXQUEvSj37Pwh6KAheBPUiIn7gRfDkbLJpYnFPw877vPP8nvdd-walREPlfNDCHYw4FhFabLQosXO335x9NG0O8QJAqgCgZDTsGlZVpeQUi9cH9OW3D!98L8BYHUodzBPqqi3sYDGOqNdSNHK6fZHCHDFhqUaJZdwgP7sWC1Y-v!rq67vq6rMCFAMoYm6lhUrPjZe58XwniqieC6CEBWnKNqzAeACV0CxQQzRThEnR72ahPCJcspqJyOm2sbB!35Om6l-OvH!50-Onv6-szjoOf8ChYXrIezKJG1RfX7s!M3Hvw808lMJLkzXd7tKpqfxY9h-4F-aljhBWmDQpii9ewIQa1GG0i7Ijp9YgytG8dHCpPdrFmp7B0QlqmzI8lipNjXFULvTsG5t0E9CwN!OSZrLNde1gz0T91sefmSk3y426Yacn124s!aqvH-nZdu72Exkjk4j!dfNjxd-fXpmdPHf3R!ZyBjjV9eDwweVGYggOpa4xhyJCfCppcOb-4KrbBKSwG3CNGakvAWxeqnwaL9Zrn7!MLB8fLFXBwu5exkyixcSqxLpCimM7Gn1!IZVKnfM8hZFAA0mwHUmrAFt8GCeSJ7HwociZoG6xFLbNjGRrb5cbLtY7FnzPUJJo6jFBeBJSr5ODqQGY55DbA1yzwWt6kxPUZYHSpo15dwp2Emfc0v6NTdVfCMYkyw__"
-    ]
-  },
-  {
     "id": 277157,
     "publicado": "2026-06-18",
     "direccion": "Calle Sierra Carbonera, 39",

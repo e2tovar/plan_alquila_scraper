@@ -1322,28 +1322,6 @@
     ]
   },
   {
-    "id": 274859,
-    "publicado": "2026-07-17",
-    "direccion": "Calle Mar\u00eda Ben\u00edtez, 40",
-    "municipio": "Pozuelo de Alarc\u00f3n",
-    "planta": "Casa",
-    "precio": 2600,
-    "metros": 217,
-    "dormitorios": 5,
-    "aseos": 5,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 275044,
     "publicado": "2025-10-17",
     "direccion": "Avda Fco Javier S\u00e1enz de Oiza, 230",

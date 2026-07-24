@@ -4686,5 +4686,26 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 277276,
+    "publicado": "2026-07-24",
+    "direccion": "Calle Polvoranca, 23",
+    "municipio": "Alcorc\u00f3n",
+    "planta": 1,
+    "precio": 900,
+    "metros": 51,
+    "dormitorios": 2,
+    "aseos": 1,
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]

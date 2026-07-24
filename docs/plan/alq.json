@@ -746,28 +746,6 @@
     ]
   },
   {
-    "id": 269955,
-    "publicado": "2026-06-18",
-    "direccion": "Calle Mora\u00f1a, 16",
-    "municipio": "Legan\u00e9s",
-    "planta": 4,
-    "precio": 900,
-    "metros": 62.77,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 270104,
     "publicado": "2026-06-02",
     "direccion": "Calle Tom\u00e1s Esteban, 1",

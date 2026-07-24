@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 24 Jul 2026 11:39:15 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jul 2026 13:21:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -319,14 +319,6 @@
 			<pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
 			<category>Arganda del Rey</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268757?2026-05-18</guid>
-		</item>
-		<item>
-			<title>900€ Leganés</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269955</link>
-			<description>C/ Moraña, 16,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;63m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269955</description>
-			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Leganés</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269955?2026-06-18</guid>
 		</item>
 		<item>
 			<title>1200€ Puente de Vallecas</title>

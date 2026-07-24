@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 24 Jul 2026 08:12:20 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jul 2026 11:39:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -79,14 +79,6 @@
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32429?2025-09-01</guid>
-		</item>
-		<item>
-			<title>1500€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/204056</link>
-			<description>C/ Solana de Opañel, 24,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/204056</description>
-			<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/204056?2026-06-11</guid>
 		</item>
 		<item>
 			<title>1650€ Arganzuela</title>
@@ -545,12 +537,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276042?2026-07-16</guid>
 		</item>
 		<item>
-			<title>900€ Centro</title>
+			<title>925€ Centro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276142</link>
 			<description>C/ Minas, 21,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;26m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276142</description>
-			<pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276142?2026-06-14</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276142?2026-07-24</guid>
 		</item>
 		<item>
 			<title>990€ Tetuán</title>
@@ -1471,14 +1463,6 @@
 			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Móstoles</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277238?2026-07-14</guid>
-		</item>
-		<item>
-			<title>1100€ San Blas-Canillejas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277239</link>
-			<description>C/ Alfonso Gómez, 55,&lt;br/&gt;3º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277239</description>
-			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-			<category>San Blas-Canillejas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277239?2026-07-14</guid>
 		</item>
 		<item>
 			<title>920€ San Sebastián de los Reyes</title>

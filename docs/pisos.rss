@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 24 Jul 2026 15:27:41 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jul 2026 09:09:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -671,14 +671,6 @@
 			<pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276846?2026-03-16</guid>
-		</item>
-		<item>
-			<title>850€ Alcobendas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276849</link>
-			<description>C/ Marquesa Viuda de Aldama, 48,&lt;br/&gt;2º con ascensor,&lt;br/&gt;30m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276849</description>
-			<pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276849?2026-03-16</guid>
 		</item>
 		<item>
 			<title>1300€ Ciudad Lineal</title>
@@ -1575,6 +1567,14 @@
 			<pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277264?2026-07-21</guid>
+		</item>
+		<item>
+			<title>1285€ Paracuellos de Jarama</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277265</link>
+			<description>C/ Cuadros, 35,&lt;br/&gt;3º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277265</description>
+			<pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Paracuellos de Jarama</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277265?2026-07-27</guid>
 		</item>
 		<item>
 			<title>1950€ Tres Cantos</title>

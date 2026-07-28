@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 28 Jul 2026 08:19:11 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jul 2026 12:08:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -113,6 +113,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214248?2026-07-20</guid>
 		</item>
 		<item>
+			<title>1100€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/228888</link>
+			<description>C/ Cervantes, 30,&lt;br/&gt;1º con ascensor,&lt;br/&gt;35m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/228888</description>
+			<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/228888?2026-07-28</guid>
+		</item>
+		<item>
 			<title>950€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/229817</link>
 			<description>C/ Verja, 38,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/229817</description>
@@ -180,9 +188,9 @@
 			<title>810€ Torrejón de Ardoz</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/248428</link>
 			<description>Av. Carmen Martín Gaite, 7,&lt;br/&gt;3º con ascensor,&lt;br/&gt;51m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/248428</description>
-			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Torrejón de Ardoz</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/248428?2026-06-01</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/248428?2026-07-28</guid>
 		</item>
 		<item>
 			<title>1700€ Retiro</title>
@@ -1065,14 +1073,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277152?2026-07-09</guid>
 		</item>
 		<item>
-			<title>1100€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277157</link>
-			<description>C/ Sierra Carbonera, 39,&lt;br/&gt;4º con ascensor,&lt;br/&gt;59m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277157</description>
-			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277157?2026-06-18</guid>
-		</item>
-		<item>
 			<title>950€ Fuenlabrada</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277159</link>
 			<description>C/ Harina, 1,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;56m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277159</description>
@@ -1567,6 +1567,22 @@
 			<pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Alcorcón</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277276?2026-07-24</guid>
+		</item>
+		<item>
+			<title>1350€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277281</link>
+			<description>C/ Bustamante, 22,&lt;br/&gt;4º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277281</description>
+			<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277281?2026-07-28</guid>
+		</item>
+		<item>
+			<title>1900€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277284</link>
+			<description>C/ Divino Pastor, 28,&lt;br/&gt;1º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277284</description>
+			<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277284?2026-07-28</guid>
 		</item>
 	</channel>
 </rss>

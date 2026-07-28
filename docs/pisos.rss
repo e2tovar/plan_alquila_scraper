@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 27 Jul 2026 12:57:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jul 2026 08:19:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -295,14 +295,6 @@
 			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266245?2026-07-13</guid>
-		</item>
-		<item>
-			<title>1150€ Salamanca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/267699</link>
-			<description>C/ Marqués de Monteagudo, 7,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/267699</description>
-			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Salamanca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267699?2026-06-19</guid>
 		</item>
 		<item>
 			<title>1050€ Arganda del Rey</title>
@@ -841,14 +833,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277036?2026-05-14</guid>
 		</item>
 		<item>
-			<title>1200€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277043</link>
-			<description>C/ Joaquín Mtnez. Borreguero, 16,&lt;br/&gt;2º con ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277043</description>
-			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277043?2026-06-17</guid>
-		</item>
-		<item>
 			<title>1100€ Puente de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277044</link>
 			<description>C/ Puerto de Cardoso, 2,&lt;br/&gt;3º con ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277044</description>
@@ -903,14 +887,6 @@
 			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Alcorcón</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277087?2026-07-22</guid>
-		</item>
-		<item>
-			<title>1250€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277088</link>
-			<description>C/ Villamanín, 39,&lt;br/&gt;7º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277088</description>
-			<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277088?2026-05-28</guid>
 		</item>
 		<item>
 			<title>990€ Centro</title>

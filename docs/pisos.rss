@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 30 Jul 2026 15:55:20 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jul 2026 08:35:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -287,14 +287,6 @@
 			<pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
 			<category>Arganda del Rey</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268757?2026-05-18</guid>
-		</item>
-		<item>
-			<title>700€ Leganés</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269480</link>
-			<description>C/ Madrid, 28,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269480</description>
-			<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Leganés</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269480?2026-07-30</guid>
 		</item>
 		<item>
 			<title>1200€ Puente de Vallecas</title>
@@ -1607,6 +1599,14 @@
 			<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277299?2026-07-30</guid>
+		</item>
+		<item>
+			<title>1650€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277300</link>
+			<description>C/ Antonio de Leyva, 52,&lt;br/&gt;2º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277300</description>
+			<pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277300?2026-07-31</guid>
 		</item>
 	</channel>
 </rss>

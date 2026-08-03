@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 31 Jul 2026 16:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Aug 2026 09:02:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -81,14 +81,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32429?2025-09-01</guid>
 		</item>
 		<item>
-			<title>950€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/207326</link>
-			<description>C/ Elfo, 8,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;29m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/207326</description>
-			<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/207326?2026-07-15</guid>
-		</item>
-		<item>
 			<title>950€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/207364</link>
 			<description>C/ Alfredo Aleix, 37,&lt;br/&gt;3º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/207364</description>
@@ -137,12 +129,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/232065?2026-02-23</guid>
 		</item>
 		<item>
-			<title>1475€ Tetuán</title>
+			<title>1400€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/233219</link>
 			<description>C/ Jerónima Llorente, 44,&lt;br/&gt;3º con ascensor,&lt;br/&gt;43m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/233219</description>
-			<pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/233219?2026-06-30</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/233219?2026-08-03</guid>
 		</item>
 		<item>
 			<title>1370€ Retiro</title>
@@ -391,14 +383,6 @@
 			<pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273116?2026-04-30</guid>
-		</item>
-		<item>
-			<title>1650€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273599</link>
-			<description>C/ Oña, 7,&lt;br/&gt;7º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/273599</description>
-			<pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273599?2026-07-10</guid>
 		</item>
 		<item>
 			<title>1200€ Hortaleza</title>

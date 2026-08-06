@@ -976,6 +976,7 @@
   {
     "id": 273035,
     "publicado": "2026-08-05",
+    "modificado": "2026-08-06",
     "direccion": "Calle Socu\u00e9llamos, 4",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -994,7 +995,11 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKLEYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QVChIHgR1IuI-IEXwVNnN5smFvc07LzPO8!ved!V71CINZQuVFq4gxHHIkQL9RYldvbOm3OPpswh7gEkCgAKRsOuQVVZSk6xeH1AX3n38O8PD0ZqUOhgHlNXbWEHi3BI!ZaiodPtCxXmiAlLNYot4wYF6bWYt!L5tVff3pdXnnkwWoFRzK20UMrc-KkbP3CikOrZChSwIE3ZhmUYq0CpYeapIZopwqTodbNQHBIuWs1E6HTbWKN3n0kT9S9H3r!4-fHTP1dXZhxH0OfQMDXgPRVHdapvrD6YHr!!8VYeivfSpE23u3SqKj8WT7x1L8xJHSKsMGlSFF26iAk1qMNoF6VHTq1BlKM56eASe7SLNT2Lw5PUNmXjWKI0NcZRudDTb2TCTUDD3tRLkso217Ure8Zrtz!9Sk25WW7UDTo9uX5z8Xdt7Uhm27nbT2SETCz-1y2IFP9wZnlm4vy9n-nLKeBk14fDB5fqsSG4IXWVORTRwKfjOmfuDy67TUAKuwFXmZH6MsDmpcqn8WKt-uXr9NLx!lJ5FnZnGTOJFmKrYusKKY7scPS9hVQqcc7zFIYCrUiC7VBaHmwJYIxIHkcigFHOBHWLpbBtpiRbs12uu1jvWgh8Q0msqc8E4XGD-p0cTPXBfIfc7uOaDV6TTU5QlwVKmjbi3UnYSZxxS3s3NlHrfiQlBQ__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKLEYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QVCkIHgR1IuI-IEXwVNnN5smFvc07LzPO8!ved!V71CINZQuVFq4gxHHIkQL9RYldvbOm3OPpswh7gEkCgAKRsOuQVVZSk6xeH1AX3n38O8PD0ZqUOhgHlNXbWEHi3BI!ZaiodPtCxXmiAlLNYot4wYF6bWYt!L5tVff3pdXnnkwWoFRzK20UMrc-KkbP3CikOrZChSwIE3ZhmUYq0CpYeapIZopwqTodbNQHBIuWs1E6HTbWKN3n0kT9S9H3r!4-fHTP1dXZhxH0OfQMDXgPRVHdapvrD6YHr!!8VYeivfSpE23u3SqKj8WT7x1L8xJHSKsMGlSFF26iAk1qMNoF6VHTq1BlKM56eASe7SLNT2Lw5PUNmXjWKI0NcZRudDTb2TCTUDD3tRLkso217Ure8Zrtz!9Sk25WW7UDTo9uX5z8Xdt7Uhm27nbT2SETCz-1y2IFP9wZnlm4vy9n-nLKeBk14fDB5fqsSG4IXWVORTRwKfjOmfuDy67TUAKuwFXmZH6MsDmpcqn8WKt-uXr9NLx!lJ5FnZnGTOJFmKrYusKKY7scPS9hVQqcc7zFIYCrUiC7VBaHmwJYIxIHkcigFHOBHWLpbBtpiRbs12uu1jvWgh8Q0msqc8E4XGD-p0cTPXBfIfc7uOaDV6TTU5QlwVKmjbi3UnYSZxxS3s3NlHrgColBg__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKLEYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QVCwIHgR1IuI-IEXwVNnN5smFvc07LzPO8!ved!V71CINZQuVFq4gxHHIkQL9RYldvbOm3OPpswh7gEkCgAKRsOuQVVZSk6xeH1AX3n38O8PD0ZqUOhgHlNXbWEHi3BI!ZaiodPtCxXmiAlLNYot4wYF6bWYt!L5tVff3pdXnnkwWoFRzK20UMrc-KkbP3CikOrZChSwIE3ZhmUYq0CpYeapIZopwqTodbNQHBIuWs1E6HTbWKN3n0kT9S9H3r!4-fHTP1dXZhxH0OfQMDXgPRVHdapvrD6YHr!!8VYeivfSpE23u3SqKj8WT7x1L8xJHSKsMGlSFF26iAk1qMNoF6VHTq1BlKM56eASe7SLNT2Lw5PUNmXjWKI0NcZRudDTb2TCTUDD3tRLkso217Ure8Zrtz!9Sk25WW7UDTo9uX5z8Xdt7Uhm27nbT2SETCz-1y2IFP9wZnlm4vy9n-nLKeBk14fDB5fqsSG4IXWVORTRwKfjOmfuDy67TUAKuwFXmZH6MsDmpcqn8WKt-uXr9NLx!lJ5FnZnGTOJFmKrYusKKY7scPS9hVQqcc7zFIYCrUiC7VBaHmwJYIxIHkcigFHOBHWLpbBtpiRbs12uu1jvWgh8Q0msqc8E4XGD-p0cTPXBfIfc7uOaDV6TTU5QlwVKmjbi3UnYSZxxS3s3NlHrgjAlBw__"
+    ]
   },
   {
     "id": 273115,
@@ -2335,24 +2340,25 @@
   {
     "id": 277013,
     "publicado": "2026-05-06",
+    "modificado": "2026-08-06",
     "direccion": "Calle Huerta de Casta\u00f1eda, 4",
     "municipio": "Madrid",
     "distrito": "Latina",
     "planta": 3,
-    "precio": 1800,
+    "precio": 1700,
     "metros": 75,
     "dormitorios": 3,
     "aseos": 2,
     "cee": "B",
     "mascotas": false,
     "amueblada": false,
-    "ascensor": false,
+    "ascensor": true,
     "calefacion": true,
     "garaje": true,
-    "adaptada": false,
-    "piscina": false,
+    "adaptada": true,
+    "piscina": true,
     "porteria": false,
-    "trastero": false,
+    "trastero": true,
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLEYrVoLG02QybibMzkxmZpOVYlFBC3qo-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObjZtWtzTsPM-7zy!531Xv0Mx1lC-VG3jLkYcixDNN9qU2Jm7by88njRHuAeQKAAoGg17NqoqUnKKxZtD-tq7R39!eDBSh2IX85i6agu7WIRD6rcVDZ3uQKgwR0xYqlFsGTcoSK!FnJUvbrz-9r6y!NyDQhUKmFtpoZy58VM3fuBEIdUzVShiQVqyA0swWoVy08xRQzRThEnR72ahNCRcsJqJ0Ol2sGb!PpMmajNH3r!0-cmzP9eXpx1HMODQMLnBeyaOGlTfWn04Nfbg4508FO-VSZvudOnUVH4snVpxL8xKHSKsMGlRFF25jAk1qMtoD6VHTq1BlKNZ6eASe7yHNT2Pw9PUtmTzRKI0NcZRudDTb2TcTUDD!tRLksq21nWq-8bqK59-pabcLNfrNjo9vXl74Xd97Vhm27k7SGSETCz-1y2IFP9wbml6!OL9n-nLKeBEz4ejhxcbsSG4KXWNORTRxGfjBmfuD664TUAKuwHXmJH6KsDWpcqn8XKt9uXr1OLJwVJ5FvZmGTOJ5mOrYusKKY7scPT9hVQqcc7zFIYCrUqC7VBaHmwLYJRIHkcigAJngrrFUti2UpLt2S43XKz3LAS-oSTW1GeC8LhJ!W4OpgZgvkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!!JUkxQ__",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLEYrVoLG02QybibMzkxmZpOVYlFBC3qw-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObjZtWtzTsPM-7zy!531Xv0Mx1lC-VG3jLkYcixDNN9qU2JmVtxceT5oj3ANIFAAUjYY9G1UVKTnF4s0hfe3do78!PBipQ7GLeUxdtYVdLMIh9duKhk53IFSYIyYs1Si2jBsUpNdizsoXN15!e19Zfu5BoQoFzK20UM7c-KkbP3CikOqZKhSxIC3ZgSUYrUK5aeaoIZopwqTod7NQGhIuWM1E6HQ7WLN!n0kTtZkj71!6!OTZn-vL044jGHBomNzgPRNHDapvrT6cGnvw8U4eivfKpE13unRqKj-WTq24F2alDhFWmLQoiq5cxoQa1GW0h9Ijp9YgytGsdHCJPd7Dmp7H4WlqW7J5IlGaGuOoXOjpNzLuJqBhf-olSWVb6zrVfWP1u59-pabcLNfrNjo9vXl74Xd97Vhm27k7SGSETCz-1y2IFP9wbml6!OL9n-nLKeBEz4ejhxcbsSG4KXWNORTRxGfjBmfuD664TUAKuwHXmJH6KsDWpcqn8XKt9uXr1OLJwVJ5FvZmGTOJ5mOrYusKKY7scPT9hVQqcc7zFIYCrUqC7VBaHmwLYJRIHkcigAJngrrFUti2UpLt2S43XKz3LAS-oSTW1GeC8LhJ!W4OpgZgvkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!!pskxg__",
@@ -3864,29 +3870,6 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKLEYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!wIOgh4LgRVAvIuIHXgRPnd1smljc07DzPu88v-d9V79DIdZQulBp4Q5GHIsQLdRblNjZO2!PPZoyh7gHkCgAKBgNuwZVZSk5xeLNAX3l3cO!PzwYqUGhg3lMXbWFHSzCIfVbioZOty9UmCMmLNUotowbFKTXYt7K59def3tfXnnmwWgFRjG30kIpc-OnbvzAiUKqZytQwII0ZRuWYawCpYaZp4ZopgiTotfNQnFIuGg1E6HTbWON3n0mTdS!HHn!4ufHT!9cXZlxHEGfQ8PUgPdUHNWpvrH6YHr8!sdbeSjeS5M23e7Sqar8WDzxyr0wJ3WIsMKkSVF06SIm1KAOo12UHjm1BlGO5qSDS-zRLtb0LA5PUtuUjWOJ0tQYR-VCT7-RCTcBDXtTL0kq21zXruwZr93-9Cs15Wa5UTfo9OT6zcXftbUjmW3nbj-RETKx-F-3IFL8w5nlmYnz936mL6eAk10fDh9cqseG4IbUVeZQRAOfjuucuT-47DYBKewGXGVG6ssAm5cqn8aLteqXr9NLx!tL5VnYnWXMJFqIrYqtK6Q4ssPR9xZSqcQ5z1MYCrQiCbZDaXmwJYAxInkciQBGORPULZbCtpmSbM12ue5ivWsh8A0lsaY-E4THDep3cjDVB!MdcruPazZ4TTY5QV0WKGnaiHcnYSdxxi3t3dhErQNr7iT8",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKLEYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tk!QRD0UBC8COpFRPzAi-Cps5tNE4t7Gnbe553n97zv6ncoxBpKFyot3MGIYxGihXqLEjt75-25R1PmEPcAEgUABaNh16CqLCWnWLw5oK-8e!j3hwcjNSh0MI-pq7awg0U4pH5L0dDp9oUKc8SEpRrFlnGDgvRazFv5!Nrrb-!LK888GK3AKOZWWihlbvzUjR84UUj1bAUKWJCmbMMyjFWg1DDz1BDNFGFS9LpZKA4JF61mInS6bazRu8-kifqXI-9f!Pz46Z-rKzOOI-hzaJga8J6KozrVN1YfTI!f!3grD8V7adKm2106VZUfiydeuRfmpA4RVpg0KYouXcSEGtRhtIvSI6fWIMrRnHRwiT3axZqexeFJapuycSxRmhrjqFzo6Tcy4SagYW!qJUllm-valT3jtduffqWm3Cw36gadnly!ufi7tnYks-3c7ScyQiYW!-sWRIp!OLM8M3H-3s!05RRwsuvD4YNL9dgQ3JC6yhyKaODTcZ0z9weX3SYghd2Aq8xIfRlg81Ll03ixVv3ydXrpeH-pPAu7s4yZRAuxVbF1hRRHdjj63kIqlTjneQpDgVYkwXYoLQ-2BDBGJI8jEcAoZ4K6xVLYNlOSrdku112sdy0EvqEk1tRngvC4Qf1ODqb6YL5DbvdxzQavySYnqMsCJU0b8e4k7CTOuKW9G5uodW30JP0_"
     ]
-  },
-  {
-    "id": 277245,
-    "publicado": "2026-07-16",
-    "direccion": "Calle Mart\u00edn Mu\u00f1oz de las Posad, 10",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "planta": 0,
-    "precio": 746,
-    "metros": 55,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": true,
-    "imgs": []
   },
   {
     "id": 277246,

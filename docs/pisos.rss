@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 06 Aug 2026 13:35:41 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Aug 2026 07:05:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -305,12 +305,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270104?2026-06-02</guid>
 		</item>
 		<item>
-			<title>1150€ San Blas-Canillejas</title>
+			<title>1100€ San Blas-Canillejas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270350</link>
 			<description>C/ Pirra, 14,&lt;br/&gt;5º con ascensor,&lt;br/&gt;47m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270350</description>
-			<pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270350?2026-08-05</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270350?2026-08-07</guid>
 		</item>
 		<item>
 			<title>1100€ Parla</title>
@@ -1463,14 +1463,6 @@
 			<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277284?2026-07-28</guid>
-		</item>
-		<item>
-			<title>850€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277285</link>
-			<description>C/ Sierra Gador, 50,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;43m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277285</description>
-			<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277285?2026-07-30</guid>
 		</item>
 		<item>
 			<title>1100€ Moratalaz</title>

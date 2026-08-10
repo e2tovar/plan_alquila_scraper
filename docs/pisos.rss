@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 10 Aug 2026 12:46:34 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Aug 2026 14:59:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -551,6 +551,14 @@
 			<pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275525?2026-06-14</guid>
+		</item>
+		<item>
+			<title>1210€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275609</link>
+			<description>C/ Estanislao Perez Pita, 40,&lt;br/&gt;1º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275609</description>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275609?2026-08-10</guid>
 		</item>
 		<item>
 			<title>800€ Carabanchel</title>

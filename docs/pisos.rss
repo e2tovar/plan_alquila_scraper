@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 10 Aug 2026 07:11:46 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Aug 2026 09:13:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -89,12 +89,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/207364?2026-07-31</guid>
 		</item>
 		<item>
-			<title>900€ Carabanchel</title>
+			<title>1000€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/228460</link>
 			<description>C/ Garceta, 25,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;45m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/228460</description>
-			<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/228460?2026-07-30</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/228460?2026-08-10</guid>
 		</item>
 		<item>
 			<title>1100€ Centro</title>
@@ -251,10 +251,10 @@
 		<item>
 			<title>1400€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/264834</link>
-			<description>C/ Aramis, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/264834</description>
-			<pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+			<description>C/ Aramis, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/264834</description>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264834?2026-08-07</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264834?2026-08-10</guid>
 		</item>
 		<item>
 			<title>1200€ Tetuán</title>
@@ -355,10 +355,10 @@
 		<item>
 			<title>830€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271734</link>
-			<description>C/ Arte Expresionista, 30,&lt;br/&gt;3º con ascensor,&lt;br/&gt;37m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/271734</description>
-			<pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+			<description>C/ Arte Expresionista, 30,&lt;br/&gt;3º con ascensor,&lt;br/&gt;37m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/271734</description>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271734?2026-08-04</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271734?2026-08-10</guid>
 		</item>
 		<item>
 			<title>1450€ Tres Cantos</title>
@@ -531,10 +531,10 @@
 		<item>
 			<title>1475€ Arganzuela</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275411</link>
-			<description>Pº Virgen del Puerto, 51,&lt;br/&gt;5º con ascensor,&lt;br/&gt;32m², 1 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275411</description>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+			<description>Pº Virgen del Puerto, 51,&lt;br/&gt;5º con ascensor,&lt;br/&gt;32m², 1 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/275411</description>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275411?2026-07-01</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275411?2026-08-10</guid>
 		</item>
 		<item>
 			<title>1250€ Tetuán</title>
@@ -1235,7 +1235,7 @@
 		<item>
 			<title>850€ Valdemoro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277205</link>
-			<description>Pº Prado, 10,&lt;br/&gt;1º con ascensor,&lt;br/&gt;94m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277205</description>
+			<description>Pº Prado, 10,&lt;br/&gt;1º con ascensor,&lt;br/&gt;94m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277205</description>
 			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Valdemoro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277205?2026-08-10</guid>
@@ -1627,10 +1627,18 @@
 		<item>
 			<title>1000€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277309</link>
-			<description>C/ Clara del Rey, 39,&lt;br/&gt;1º con ascensor,&lt;br/&gt;42m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277309</description>
-			<pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+			<description>C/ Clara del Rey, 39,&lt;br/&gt;1º con ascensor,&lt;br/&gt;42m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277309</description>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277309?2026-08-06</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277309?2026-08-10</guid>
+		</item>
+		<item>
+			<title>1100€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277310</link>
+			<description>C/ Costa del Sol, 19,&lt;br/&gt;3º con ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277310</description>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277310?2026-08-10</guid>
 		</item>
 		<item>
 			<title>2000€ Tetuán</title>
@@ -1687,6 +1695,14 @@
 			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277321?2026-08-10</guid>
+		</item>
+		<item>
+			<title>1350€ Villa del Prado</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277322</link>
+			<description>C/ Cuenca, 222,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277322</description>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Villa del Prado</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277322?2026-08-10</guid>
 		</item>
 	</channel>
 </rss>

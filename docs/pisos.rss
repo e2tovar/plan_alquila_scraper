@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 10 Aug 2026 09:13:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Aug 2026 11:02:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -339,7 +339,7 @@
 		<item>
 			<title>850€ Torres de la Alameda</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271166</link>
-			<description>C/ Baños, 11,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/271166</description>
+			<description>C/ Baños, 11,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/271166</description>
 			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Torres de la Alameda</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271166?2026-08-10</guid>
@@ -1041,6 +1041,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277126?2026-07-02</guid>
 		</item>
 		<item>
+			<title>874.95€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277135</link>
+			<description>C/ Gavia Seca, 29,&lt;br/&gt;3º con ascensor,&lt;br/&gt;70m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277135</description>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277135?2026-08-10</guid>
+		</item>
+		<item>
 			<title>1900€ San Blas-Canillejas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277140</link>
 			<description>C/ Yécora, 49,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;89m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277140</description>
@@ -1703,6 +1711,14 @@
 			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Villa del Prado</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277322?2026-08-10</guid>
+		</item>
+		<item>
+			<title>1200€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277324</link>
+			<description>C/ Biosca, 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;61m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277324</description>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277324?2026-08-10</guid>
 		</item>
 	</channel>
 </rss>

@@ -824,6 +824,7 @@
   {
     "id": 271166,
     "publicado": "2026-08-10",
+    "modificado": "2026-08-10",
     "direccion": "Calle Ba\u00f1os, 11",
     "municipio": "Torres de la Alameda",
     "planta": 1,
@@ -841,7 +842,11 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9hqoF9OKLKxWrAStp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!OJpsmLe5p2Hmfd57f875r36GYaChfDFu4gxHHIkIL9RYldvbu2!OPp80R7gGkCgCKRsOeYVVVSk6xeHNIX3336O8PD8aWoNjBPKGu2sIuFuOI-i1FI6c7ECnMEROWapRYxg0Ksmsxb-WL66-!va-uPvegEEIBcystlHtu!MyNHzhRRPVsCEUsSFO2YQXGQyg3zDw1RDNFmBT9bhZKI8JFq5mInG4Ha!Tve9JUbebI-5c-P3n259pqxXEEAw4N00Pe00lcp!rm2sOZiQcfb-eheK9M1nSnS6em8mMprLgX5qSOEFaYNCmKL1!ChBrUYbSLsiOn1iDK0Zx0cKk93sWansPRKWqbsnEiVZoa46hc6Nk3NukmoGF!5iXNZFvr2uG-iaU7n35lptwsN-qGnZ7euLX4e2n9WM-2c3eQyBiZRPyvWxAr!uHsSmXywv2f2csZ4FTXh6OHl-uJIbghdY05FNHAZ5I6Z-4PrrpNQAq7AdeYkfoKwNalyqfxcr325evM8snBUnkW9vYyZhItJFYl1hVSHNvR6PsLqVTqnOcpjAQaSoLtSFoebAtgnEiexCKAAmeCusVS2DYzku29Xa67WO9ZCHxDSaKpzwThSYP6nRxMDcB8h9we4JoNXtObnKAuC5Q2bcy7U7CbOOOW9m9sqv4BTpIkbw__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwe63Ui2lFFlYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QdBDQfAiqBcR8QMvgidnN5smFvc07LzPO8!ved-1b1CKNVQuBG3cxYhjEaLFRpsSO3fnzblH0-YQLwAkCgBKRsOuYVVVSk6xeH1AX3n78M!3AozVodTFPKau2sIOFuGQem1FQ6fbFyrMEROWahRbxg3y02uxYOXza6--vquuPitAMYAi5lZaqGRuvNSN5ztRSPVcACUsSEt2YAXGA6g0zQI1RDNFmBT9bhbKI8Ilq5kInW4ba!bvM2mi!uXI-5c!PX76--rqrOPwBxwapoe8p-KoQfWNtQczE!c!3MpDKbw0adPtLp2ayo!l4Ih7YV7qEGGFSYui6NJFTKhBXUZ7KD1yag2iHM1LB5fYYz2s6VkcnqS2JZvHE6WpMY7KhZ5-Y5NuAhr2pl6SVLa5rhPsmajf!vgzNeVmuVE37PTk-s2lX!X1o5lt524!kREysfhfNz9S!P2ZldnJ8!d-pC-ngFM9Dw4fXG7EhuCm1DXmUEQTn44bnLk!uOo2ASnsBlxjRurLAJuXKp!Gi!Xa5y8zyycGS1WwsDvLmEm0GFsVW1dIcWRHo-8vpFKJc56nMBJoIAm2I2kVYIsP40TyOBI-FDkT1C2WwraVkmzNdrnhYr1rwfcMJbGmHhOEx03qdXMwNQDzHHJngGs2eE02OUFdFihp2Yj3pmAnccYt7d!YRP0FUJgkcA__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Wi2lFFlYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QdBDQfAiqBcR8QMvgidnN5smFvc07LzPO8!ved-1b1CKNVQuBG3cxYhjEaLFRpsSO3fnzblH0-YQLwAkCgBKRsOuYVVVSk6xeH1AX3n78M!3AozVodTFPKau2sIOFuGQem1FQ6fbFyrMEROWahRbxg3y02uxYOXza6--vquuPitAMYAi5lZaqGRuvNSN5ztRSPVcACUsSEt2YAXGA6g0zQI1RDNFmBT9bhbKI8Ilq5kInW4ba!bvM2mi!uXI-5c!PX76--rqrOPwBxwapoe8p-KoQfWNtQczE!c!3MpDKbw0adPtLp2ayo!l4Ih7YV7qEGGFSYui6NJFTKhBXUZ7KD1yag2iHM1LB5fYYz2s6VkcnqS2JZvHE6WpMY7KhZ5-Y5NuAhr2pl6SVLa5rhPsmajf!vgzNeVmuVE37PTk-s2lX!X1o5lt524!kREysfhfNz9S!P2ZldnJ8!d-pC-ngFM9Dw4fXG7EhuCm1DXmUEQTn44bnLk!uOo2ASnsBlxjRurLAJuXKp!Gi!Xa5y8zyycGS1WwsDvLmEm0GFsVW1dIcWRHo-8vpFKJc56nMBJoIAm2I2kVYIsP40TyOBI-FDkT1C2WwraVkmzNdrnhYr1rwfcMJbGmHhOEx03qdXMwNQDzHHJngGs2eE02OUFdFihp2Yj3pmAnccYt7d!YRP0FUp4kcQ__"
+    ]
   },
   {
     "id": 271575,
@@ -3034,6 +3039,28 @@
     ]
   },
   {
+    "id": 277135,
+    "publicado": "2026-08-10",
+    "direccion": "Calle Gavia Seca, 29",
+    "municipio": "Madrid",
+    "distrito": "Villa de Vallecas",
+    "planta": 3,
+    "precio": 874.95,
+    "metros": 70,
+    "dormitorios": 2,
+    "aseos": 1,
+    "mascotas": true,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": true,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 277140,
     "publicado": "2026-06-15",
     "modificado": "2026-08-05",
@@ -5055,6 +5082,29 @@
     "ascensor": false,
     "calefacion": true,
     "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 277324,
+    "publicado": "2026-08-10",
+    "direccion": "Calle Biosca, 1",
+    "municipio": "Madrid",
+    "distrito": "Hortaleza",
+    "planta": 1,
+    "precio": 1200,
+    "metros": 60.93,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
     "adaptada": false,
     "piscina": false,
     "porteria": false,

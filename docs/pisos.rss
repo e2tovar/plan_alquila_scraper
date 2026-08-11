@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 11 Aug 2026 06:49:39 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Aug 2026 08:49:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -420,9 +420,9 @@
 			<title>775€ Puente de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273012</link>
 			<description>C/ Puerto de Almansa, 24,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;43m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273012</description>
-			<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273012?2026-07-30</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273012?2026-08-11</guid>
 		</item>
 		<item>
 			<title>1100€ Usera</title>
@@ -457,12 +457,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273160?2026-07-30</guid>
 		</item>
 		<item>
-			<title>1500€ Fuencarral-El Pardo</title>
+			<title>1700€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273301</link>
 			<description>Av. Monasterio de Silos, 73,&lt;br/&gt;3º con ascensor,&lt;br/&gt;75m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/273301</description>
-			<pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273301?2026-08-05</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273301?2026-08-11</guid>
 		</item>
 		<item>
 			<title>1200€ Hortaleza</title>
@@ -567,14 +567,6 @@
 			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275609?2026-08-10</guid>
-		</item>
-		<item>
-			<title>800€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275644</link>
-			<description>Av. Euro, 27,&lt;br/&gt;2º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275644</description>
-			<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275644?2026-07-16</guid>
 		</item>
 		<item>
 			<title>1400€ Arganzuela</title>

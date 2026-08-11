@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 10 Aug 2026 14:59:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Aug 2026 06:49:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -87,6 +87,14 @@
 			<pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/207364?2026-07-31</guid>
+		</item>
+		<item>
+			<title>950€ Moncloa-Aravaca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/223146</link>
+			<description>Av. Dr. Federico Rubio y Galí, 50,&lt;br/&gt;5º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/223146</description>
+			<pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Moncloa-Aravaca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/223146?2026-08-11</guid>
 		</item>
 		<item>
 			<title>1000€ Carabanchel</title>

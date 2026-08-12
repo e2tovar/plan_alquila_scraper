@@ -1475,6 +1475,28 @@
     ]
   },
   {
+    "id": 275324,
+    "publicado": "2026-08-12",
+    "direccion": "Calle Egido, 32",
+    "municipio": "Pedrezuela",
+    "planta": 7,
+    "precio": 1200,
+    "metros": 110,
+    "dormitorios": 3,
+    "aseos": 3,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 275411,
     "publicado": "2026-07-01",
     "modificado": "2026-08-10",

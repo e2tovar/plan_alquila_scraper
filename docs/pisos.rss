@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 12 Aug 2026 12:47:28 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Aug 2026 09:07:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -385,6 +385,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271734?2026-08-10</guid>
 		</item>
 		<item>
+			<title>850€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272153</link>
+			<description>C/ Lebreles, 9,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;47m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/272153</description>
+			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272153?2026-07-08</guid>
+		</item>
+		<item>
 			<title>2400€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272373</link>
 			<description>C/ María Mercedes de Borbón, 292,&lt;br/&gt;3º con ascensor,&lt;br/&gt;111m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/272373</description>
@@ -479,6 +487,14 @@
 			<pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Torrejón de Ardoz</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273664?2026-08-05</guid>
+		</item>
+		<item>
+			<title>830€ Ciudad Lineal</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273838</link>
+			<description>C/ Albacete, 2,&lt;br/&gt;6º con ascensor,&lt;br/&gt;25m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273838</description>
+			<pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Ciudad Lineal</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273838?2026-08-13</guid>
 		</item>
 		<item>
 			<title>975€ Tetuán</title>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 13 Aug 2026 09:07:34 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Aug 2026 10:57:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -593,6 +593,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275609?2026-08-10</guid>
 		</item>
 		<item>
+			<title>1250€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275639</link>
+			<description>C/ Pico Almanzor, 6,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275639</description>
+			<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275639?2026-07-28</guid>
+		</item>
+		<item>
 			<title>1400€ Arganzuela</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275804</link>
 			<description>C/ Teniente Coronel Noreña, 35,&lt;br/&gt;2º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/275804</description>
@@ -791,14 +799,6 @@
 			<pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276880?2026-03-31</guid>
-		</item>
-		<item>
-			<title>1450€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276891</link>
-			<description>C/ Jaime el Conquistador, 28,&lt;br/&gt;3º con ascensor,&lt;br/&gt;81m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/276891</description>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276891?2026-07-01</guid>
 		</item>
 		<item>
 			<title>1450€ Barajas</title>
@@ -1543,14 +1543,6 @@
 			<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Moratalaz</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277286?2026-07-30</guid>
-		</item>
-		<item>
-			<title>1100€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277287</link>
-			<description>Pl. Movimiento Ciudadano, 7,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;99m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277287</description>
-			<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277287?2026-07-30</guid>
 		</item>
 		<item>
 			<title>950€ Villa de Vallecas</title>

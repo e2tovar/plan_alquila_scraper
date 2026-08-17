@@ -1289,34 +1289,6 @@
     ]
   },
   {
-    "id": 274197,
-    "publicado": "2026-08-04",
-    "modificado": "2026-08-07",
-    "direccion": "Calle Santa Casilda, 10",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "planta": 7,
-    "precio": 1500,
-    "metros": 67,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": true,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKLEYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QdBDQfAiqBcR8QMPCp46u9k0sbinYed93nl-z!uufoNCrKF0odLCHYw4FiFaqLcosbN33px7NGUOcQ8gUQBQMBp2DarKUnKKxesD-srbh3-!ezBSg0IH85i6ags7WIRD6rcUDZ1uX6gwR0xYqlFsGTcoSK!FvJXPr736-q688syD0QqMYm6lhVLmxk!d-IEThVTPVqCABWnKNizDWAVKDTNPDdFMESZFr5uF4pBw0WomQqfbxhq9-0yaqH858v7FT4-f!rm6MuM4gj6HhqkB76k4qlN9Y!XB9Pj9D7fyULyXJm263aVTVfmxeOK3e2FO6hBhhUmToujSRUyoQR1Guyg9cmoNohzNSQeX2KNdrOlZHJ6ktikbxxKlqTGOyoWefiMTbgIa9qZeklS2ua5d2TNeu!3xZ2rKzXKjbtDpyfWbi79qa0cy287dfiIjZGLxv25BpPj7M8szE-fv!UhfTgEnuz4cPrhUjw3BDamrzKGIBj4d1zlzf3DZbQJS2A24yozUlwE2L1U-jRdr1c9fppeO95fKs7A7y5hJtBBbFVtXSHFkh6PvLaRSiXOepzAUaEUSbIfS8mBLAGNE8jgSAYxyJqhbLIVtMyXZmu1y3cV610LgG0piTX0mCI8b1O!kYKoP5jvkdh!XbPCabHKCuixQ0rQR707CTuKMW9q7sYlaB80OJSw_",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFFlcrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeCp6c3SRNWtzTsPM-7zy!531Xf0Ax0VC-FDRxGyOORYQW6k1K7Oy9dxeeTJkjvACQKgAoGg17BlUVKTnF4u0hfe39478!CzBSg2Ib84S6agu7WIwj6jUVjZzuQKQwR0xYqlFiGTfIz67FvJUvb7z5!qGy8qIAowGMYm6lhXLuxsvceL4TRVTPBlDEgjRkC5ZhLIByaOapIZopwqTodrNQGhIuWs1E5HQ7WNi9z6Wp2szR61!68vT5-vWVGcfh9zk0TA14zyRxnepbq4-mxx9-utMLpfDaZE13unSqqncsnVp3L8xJHSGsMGlQFF-5jAk1qM1oB2VHTq1BlKM56eBSe7yDNT2Po9PUNmR4IlWaGuOoXOjZNzLhJqBhf-YlzWRb61rBvvHa3c-!M1Nulht1g07Pbt5e!FNbO5bbdu4OEhkjk4j!dfNjxT-eW56ZuPjgV!ZyBjjZ8eDo4aV6YggOpa4yhyJCfDapc-b-4IrbBKSwG3CVGamvAmxdqt40Xq1Vv36bXjrZX6qChb15xkyihcSqxLpCimM7HH13IZVKnfNeCkOBBpJgO5RWAbb5MEYkT2LhwyhngrrFUtg2MpLt-S7XXaz3LfieoSTR1GOC8CSkXrsHpvpgnkNu9XHNBq!JJyeoywKlDRvzziTsJs64pd0bm6p!zxQlLQ__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKLEYrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QdBDQfAiqBcR8QMviqfObjZNLO5p2Hmfd57f876r36AQayhdqLRwByOORYgW6i1K7OydN-ceTZlD3ANIFAAUjIZdg6qylJxi8fqAvvL24d!vHozUoNDBPKau2sIOFuGQ-i1FQ6fbFyrMEROWahRbxg0K0msxb-Xza6--viuvPPNgtAKjmFtpoZS58VM3fuBEIdWzFShgQZqyDcswVoFSw8xTQzRThEnR62ahOCRctJqJ0Om2sUbvPpMm6l-OvH!x0-Onv6-uzDiOoM-hYWrAeyqO6lTfWH0wPX7!w608FO-lSZtud-lUVX4snvjjXpiTOkRYYdKkKLp0ERNqUIfRLkqPnFqDKEdz0sEl9mgXa3oWhyepbcrGsURpaoyjcqGn38iEm4CGvamXJJVtrmtX9ozXbn!8mZpys9yoG3R6cv3m4q!a2pHMtnO3n8gImVj8r1sQKf7-zPLMxPl7P9KXU8DJrg-HDy7VY0NwQ-oqcyiigU!Hdc7cH1x2m4AUdgOuMiP1ZYDNS5VP48Va9fOX6aXj!aXyLOzOMmYSLcRWxdYVUhzZ4eh7C6lU4pznKQwFWpEE26G0PNgSwBiRPI5EAKOcCeoWS2HbTEm2Zrtcd7HetRD4hpJYU58JwuMG9Ts5mOqD-Q653cc1G7wmm5ygLguUNG3Eu5OwkzjjlvZubKLWAdEaJS4_"
-    ]
-  },
-  {
     "id": 274240,
     "publicado": "2026-05-27",
     "direccion": "Calle Oso, 3",

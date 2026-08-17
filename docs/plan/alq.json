@@ -23,6 +23,29 @@
     "imgs": []
   },
   {
+    "id": 214248,
+    "publicado": "2026-07-20",
+    "direccion": "Calle Chantada, 9",
+    "municipio": "Madrid",
+    "distrito": "Fuencarral-El Pardo",
+    "planta": 1,
+    "precio": 1200,
+    "metros": 45.08,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "E",
+    "mascotas": true,
+    "amueblada": false,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 223146,
     "publicado": "2026-08-11",
     "modificado": "2026-08-11",
@@ -3746,28 +3769,6 @@
     "imgs": []
   },
   {
-    "id": 277219,
-    "publicado": "2026-07-09",
-    "direccion": "Calle Ca\u00f1ada, 65",
-    "municipio": "Manzanares el Real",
-    "planta": "Casa",
-    "precio": 550,
-    "metros": 45.5,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 277220,
     "publicado": "2026-07-09",
     "direccion": "Calle Berrocal, 52",
@@ -4063,28 +4064,6 @@
     "aseos": 1,
     "mascotas": false,
     "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
-    "id": 277257,
-    "publicado": "2026-07-20",
-    "direccion": "Calle V\u00eda Carpetana, 139",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "planta": 2,
-    "precio": 900,
-    "metros": 53,
-    "dormitorios": 2,
-    "aseos": 1,
-    "mascotas": false,
-    "amueblada": true,
     "ascensor": false,
     "calefacion": true,
     "garaje": false,
@@ -4705,29 +4684,6 @@
     "imgs": []
   },
   {
-    "id": 277305,
-    "publicado": "2026-08-04",
-    "direccion": "Calle Palm\u00edpedo, 20",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "planta": 3,
-    "precio": 1000,
-    "metros": 56.92,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": true,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 277306,
     "publicado": "2026-08-07",
     "direccion": "Calle F\u00e9lix Candela, 86",
@@ -5159,6 +5115,7 @@
   {
     "id": 277339,
     "publicado": "2026-08-17",
+    "modificado": "2026-08-17",
     "direccion": "Paseo Ermita del Santo, 27",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -5177,6 +5134,10 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKxWrASNp8lk3EyYnZnMzCYrxaIFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6cTTZNLO5p2Hmfd57f877r36CYaChfDFu4gxHHIkKL9RYldu7Om!OPps0R7gGkCgCKRsOeYVVFSk6xeH1IX3378M93D8ZqUOxgnlBXbWEXi3FE!ZaikdMdiBTmiAlLNUos4wYF2bVYsPL56quv7yprzzwohFDA3EoL5Z4bP3PjB04UUT0XQhEL0pRtWIHxEMoNs0AN0UwRJkW!m4XSiHDJaiYip9vBGv37njRV!3Lk!UufHj!9fW1t1nEEAw4N00Pe00lcp!rG-oOZifsfbuWheC9N1nSnS6eq8mMpXHUvzEsdIawwaVIUX76ECTWow2gXZUdOrUGUo3np4FJ7vIs1PYejU9Q2ZeNEqjQ1xlG50LNvbNJNQMP-zEuaybbWtcN9E7XbH39mptwsN-uGnZ5cv7n0q7ZxrGfbuTtIZIxMIv7XLYgVf392ZXbywr0f2csZ4FTXh6OHl-uJIbghdZU5FNHAZ5I6Z-4PrrhNQAq7AVeZkfoKwNalyqfxYqP6-cvM8snBUnkW9vYyZhItJlYl1hVSHNvR6PsLqVTqnOcpjAQaSoLtSFoebAtgnEiexCKAAmeCusVS2DYzku29Xa67WO9aCHxDSaKpzwThSYP6nRxMDcB8h9we4JpNXtObnKAuC5Q2bcy7U7CbOOOW9m9sqv4C5E4kuQ__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKxWrASNp8lk3EyYnZnMzCYrxeIHWtCD4sdNUNCLUs!-D4IeCoIXQb2IiB94ETw5m2yaWNzTsPM-7zy!533XvkEx0VA-H7ZwByOORYQW6y1K7NydN2cfTZtD3ANIFQAUjYZdw6qKlJxi8fqAvvz24Z!vHozVoNjBPKGu2sIOFuOI-i1FI6fbFynMEROWapRYxg0KsmuxYOXzq6--vqusPvOgEEIBcystlHtu!MyNHzhRRPVcCEUsSFO2YQXGQyg3zAI1RDNFmBT9bhZKI8Ilq5mInG4ba!Tve9JU!cuR9y99evz095XVWccRDDg0TA95TyZxneobaw9mJu5!uJWH4r00WdPtLp2qyo-l8Jp7YV7qCGGFSZOi-OIFTKhBHUa7KDtyag2iHM1LB5fao12s6RkcnaC2KRvHUqWpMY7KhZ59Y5NuAhr2Zl7STLa5rh3umajd!vgzM-VmuVE37PTk-s2lX7X1Iz3bzt1-ImNkEvG!bkGs-PvTK7OT5-79yF7OAKe6Phw-uFxPDMENqavMoYgGPpXUOXN!cMVtAlLYDbjKjNSXADYvVT6NF-vVz19mlo8PlsqzsLuXMZNoMbEqsa6Q4tiORt9fSKVS5zxPYSTQUBJsR9LyYEsA40TyJBYBFDgT1C2WwraZkWzt7XLdxXrXQuAbShJNfSYITxrU7-RgagDmO-T2ANds8Jre5AR1WaC0aWPenYKdxBm3tH9jU!UX5lQkug__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKxWrASNp8lk3EyYnZnMzCYrxaKiFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!OJpsmFvc07LzPO8!ved-1b1BMNJTPhy3cwYhjEaHFeosSO3fnzdlH0-YQ9wBSBQBFo2HXsKoiJadYvD6gL799-Oe7B2M1KHYwT6irtrCDxTiifkvRyOn2RQpzxISlGiWWcYOC7FosWPn86quv7yqrzzwohFDA3EoL5Z4bP3PjB04UUT0XQhEL0pRtWIHxEMoNs0AN0UwRJkW!m4XSiHDJaiYip9vGGv37njRV!3Lk!UufHj!9fWV11nEEAw4N00Pek0lcp!rG2oOZifsfbuWheC9N1nS7S6eq8mMpvOZemJc6Qlhh0qQovngBE2pQh9Euyo6cWoMoR!PSwaX2aBdregZHJ6htysaxVGlqjKNyoWff2KSbgIa9mZc0k22ua4d7Jmq3P!7MTLlZbtQNOz25fnPpV239SM-2c7efyBiZRPyvWxAr!v70yuzkuXs!spczwKmuD4cPLtcTQ3BD6ipzKKKBTyV1ztwfXHGbgBR2A64yI!UlgM1LlU!jxXr185eZ5eODpfIs7O5lzCRaTKxKrCukOLaj0fcXUqnUOc9TGAk0lATbkbQ82BLAOJE8iUUABc4EdYulsG1mJFt7u1x3sd61EPiGkkRTnwnCkwb1OzmYGoD5Drk9wDUbvKY3OUFdFiht2ph3p2AnccYt7d!YVP0F6Fokuw__"
+    ]
   }
 ]

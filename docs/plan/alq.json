@@ -3947,29 +3947,6 @@
     ]
   },
   {
-    "id": 277243,
-    "publicado": "2026-07-15",
-    "direccion": "Calle Ofelia Nieto, 20",
-    "municipio": "Madrid",
-    "distrito": "Tetu\u00e1n",
-    "planta": 2,
-    "precio": 950,
-    "metros": 62,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": false,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 277244,
     "publicado": "2026-07-17",
     "modificado": "2026-08-05",
@@ -5108,6 +5085,7 @@
   {
     "id": 277328,
     "publicado": "2026-08-12",
+    "modificado": "2026-08-17",
     "direccion": "Calle Esteban Mora, 53",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -5125,7 +5103,11 @@
     "piscina": false,
     "porteria": true,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYr1aKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!OJpsmFvc07LzPO8!ved-1b1BKNFTOBy3cwYhjEaHFRosSO3fnzdlH0-YQLwCkCgBKRsOuYVVVSk6xeH1AX3n78M!3AozVodTBPKGu2sIOFuOIei1FI6fbFynMEROWapRYxg3ys2uxYOXza6--vquuPitAMYAi5lZaqPTceJkbz3eiiOq5AEpYkKZswwqMB1AJzQI1RDNFmBT9bhbKI8Ilq5mInG4bC!v3PWmq!uXI-5c!PX76--rqrOPwBxwapoe8J5O4QfWNtQczE!c!3MpDKbw0WdPtLp2ayo!l4JJ7YV7qCGGFSZOi-OIFTKhBHUa7KDtyag2iHM1LB5fao12s6RkcnaC2KcNjqdLUGEflQs--sUk3AQ17My9pJttc1w72TNRvf!yZmXKz3Kgbdnpy!ebSr!r6kZ5t524!kTEyifhfNz9W!P3pldnJc!d-ZC9ngFNdDw4fXG4khuBQ6hpzKCLEp5IGZ-4PrrpNQAq7AdeYkfoywOalyqfxYr32-cvM8vHBUhUs7O5lzCRaTKxKrCukOLaj0fcXUqnUOc9TGAk0kATbkbQKsMWHcSJ5EgsfipwJ6hZLYdvMSLb2drnhYr1rwfcMJYmmHhOEJyH1OjmYGoB5Drk9wDUbvKY3OUFdFiht2ph3p2AnccYt7d!YVP0F2Coksw__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKxWrASNp8lk3EyYnZnMzCYrpUUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6cTTZNLO5p2Hmfd57f877r36CYaChfDFu4gxHHIkKL9RYldu7Om!OPps0R7gGkCgCKRsOeYVVFSk6xeH1IX3n78M93D8ZqUOxgnlBXbWEXi3FE!ZaikdMdiBTmiAlLNUos4wYF2bVYsPL5tVdf31XWnnlQCKGAuZUWyj03fubGD5woonouhCIWpCnbsArjIZQbZoEaopkiTIp-NwulEeGS1UxETreDNfr3PWmq!uXI-5c-PX76--rarOMIBhwapoe8p5O4TvWN9QczE!c!3MpD8V6arOlOl05V5cdSuOJemJc6Qlhh0qQovnwJE2pQh9Euyo6cWoMoR!PSwaX2eBdreg5Hp6htysaJVGlqjKNyoWff2KSbgIb9mZc0k22ta4f7Jmq3P!7MTLlZbtYNOz25fnPpV23jWM-2c3eQyBiZRPyvWxAr!v7s6uzkhXs!spczwKmuD0cPL9cTQ3BD6ipzKKKBzyR1ztwfXHGbgBR2A64yI!UKwNalyqfxYqP6-cvM8snBUnkW9vYyZhItJlYl1hVSHNvR6PsLqVTqnOcpjAQaSoLtSFoebAtgnEiexCKAAmeCusVS2DYzku29Xa67WO9aCHxDSaKpzwThSYP6nRxMDcB8h9we4JpNXtObnKAuC5Q2bcy7U7CbOOOW9m9sqv4C2jAktA__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKxWrAStp8lk3EyYnZnMzCYrxaCCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!OJpsmLe5p2Hmfd57f875r36GYaChfDJu4jRHHIkKLtSYldu7u2!OPp80R7gGkCgCKRsOeYVVFSk6xeHNIX3336O8PD8aWodjGPKGu2sIuFuOI-k1FI6c7ECnMEROWapRYxg0KsmuxYOWL66-!va-sPvegEEIBcystlHtu!MyNHzhRRPVcCEUsSEO2oAvjIZTrZoEaopkiTIp-NwulEeGS1UxETreD1fv3PWmqNnPk!Uufnzz7c2111nEEAw4N00Pe00lco!rm2sOZiQcfb-eheK9M1nSnS6eq8mMp7LoX5qWOEFaYNCiKL1!ChBrUZrSDsiOn1iDK0bx0cKk93sGansPRKWobsn4iVZoa46hc6Nk3NukmoGF!5iXNZFvrWuG-ieU7n35lptwsN-qGnZ7euLX0e3n9WM-2c3eQyBiZRPyvWxAr!uFsd3bywv2f2csZ4FTHh6OHV2qJIbgudZU5FFHHZ5IaZ-4PrrhNQAq7AVeZkfoKwNalyqfxcr365evMysnBUnkW9vYyZhItJlYl1hVSHNvR6PsLqVTqnOcpjAQaSoLtSFoebAtgnEiexCKAAmeCusVS2DYyku29Xa65WO9ZCHxDSaKpzwThSZ367RxMDcB8h9wa4JoNXtObnKAuC5Q2bMw7U7CbOOOW9m9sqv4B3DYktQ__"
+    ]
   },
   {
     "id": 277329,
@@ -5217,6 +5199,29 @@
     "calefacion": true,
     "garaje": false,
     "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 277339,
+    "publicado": "2026-08-17",
+    "direccion": "Paseo Ermita del Santo, 27",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "planta": 6,
+    "precio": 1500,
+    "metros": 70,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": true,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": true,
     "piscina": false,
     "porteria": false,
     "trastero": false,

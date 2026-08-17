@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 17 Aug 2026 06:35:54 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Aug 2026 08:38:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1337,14 +1337,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277238?2026-08-05</guid>
 		</item>
 		<item>
-			<title>950€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277243</link>
-			<description>C/ Ofelia Nieto, 20,&lt;br/&gt;2º con ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277243</description>
-			<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277243?2026-07-15</guid>
-		</item>
-		<item>
 			<title>1550€ Paracuellos de Jarama</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277244</link>
 			<description>Av. Juan Pablo II, 58,&lt;br/&gt;1º con ascensor,&lt;br/&gt;119m², 4 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277244</description>
@@ -1723,10 +1715,10 @@
 		<item>
 			<title>1400€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277328</link>
-			<description>C/ Esteban Mora, 53,&lt;br/&gt;2º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277328</description>
-			<pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+			<description>C/ Esteban Mora, 53,&lt;br/&gt;2º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277328</description>
+			<pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277328?2026-08-12</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277328?2026-08-17</guid>
 		</item>
 		<item>
 			<title>1300€ Móstoles</title>
@@ -1759,6 +1751,14 @@
 			<pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277337?2026-08-14</guid>
+		</item>
+		<item>
+			<title>1500€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277339</link>
+			<description>Pº Ermita del Santo, 27,&lt;br/&gt;6º con ascensor,&lt;br/&gt;70m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277339</description>
+			<pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277339?2026-08-17</guid>
 		</item>
 	</channel>
 </rss>

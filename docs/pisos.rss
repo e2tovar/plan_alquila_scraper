@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 17 Aug 2026 12:24:16 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Aug 2026 14:25:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1727,6 +1727,14 @@
 			<pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277339?2026-08-17</guid>
+		</item>
+		<item>
+			<title>1800€ Getafe</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277342</link>
+			<description>Pº Estación, 3,&lt;br/&gt;5º con ascensor,&lt;br/&gt;103m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277342</description>
+			<pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Getafe</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277342?2026-08-17</guid>
 		</item>
 	</channel>
 </rss>

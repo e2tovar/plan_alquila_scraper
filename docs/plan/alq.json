@@ -5139,5 +5139,26 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKxWrASNp8lk3EyYnZnMzCYrxeIHWtCD4sdNUNCLUs!-D4IeCoIXQb2IiB94ETw5m2yaWNzTsPM-7zy!533XvkEx0VA-H7ZwByOORYQW6y1K7NydN2cfTZtD3ANIFQAUjYZdw6qKlJxi8fqAvvz24Z!vHozVoNjBPKGu2sIOFuOI-i1FI6fbFynMEROWapRYxg0KsmuxYOXzq6--vqusPvOgEEIBcystlHtu!MyNHzhRRPVcCEUsSFO2YQXGQyg3zAI1RDNFmBT9bhZKI8Ilq5mInG4ba!Tve9JU!cuR9y99evz095XVWccRDDg0TA95TyZxneobaw9mJu5!uJWH4r00WdPtLp2qyo-l8Jp7YV7qCGGFSZOi-OIFTKhBHUa7KDtyag2iHM1LB5fao12s6RkcnaC2KRvHUqWpMY7KhZ59Y5NuAhr2Zl7STLa5rh3umajd!vgzM-VmuVE37PTk-s2lX7X1Iz3bzt1-ImNkEvG!bkGs-PvTK7OT5-79yF7OAKe6Phw-uFxPDMENqavMoYgGPpXUOXN!cMVtAlLYDbjKjNSXADYvVT6NF-vVz19mlo8PlsqzsLuXMZNoMbEqsa6Q4tiORt9fSKVS5zxPYSTQUBJsR9LyYEsA40TyJBYBFDgT1C2WwraZkWzt7XLdxXrXQuAbShJNfSYITxrU7-RgagDmO-T2ANds8Jre5AR1WaC0aWPenYKdxBm3tH9jU!UX5lQkug__",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKxWrASNp8lk3EyYnZnMzCYrxaKiFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!OJpsmFvc07LzPO8!ved-1b1BMNJTPhy3cwYhjEaHFeosSO3fnzdlH0-YQ9wBSBQBFo2HXsKoiJadYvD6gL799-Oe7B2M1KHYwT6irtrCDxTiifkvRyOn2RQpzxISlGiWWcYOC7FosWPn86quv7yqrzzwohFDA3EoL5Z4bP3PjB04UUT0XQhEL0pRtWIHxEMoNs0AN0UwRJkW!m4XSiHDJaiYip9vGGv37njRV!3Lk!UufHj!9fWV11nEEAw4N00Pek0lcp!rG2oOZifsfbuWheC9N1nS7S6eq8mMpvOZemJc6Qlhh0qQovngBE2pQh9Euyo6cWoMoR!PSwaX2aBdregZHJ6htysaxVGlqjKNyoWff2KSbgIa9mZc0k22ua4d7Jmq3P!7MTLlZbtQNOz25fnPpV239SM-2c7efyBiZRPyvWxAr!v70yuzkuXs!spczwKmuD4cPLtcTQ3BD6ipzKKKBTyV1ztwfXHGbgBR2A64yI!UlgM1LlU!jxXr185eZ5eODpfIs7O5lzCRaTKxKrCukOLaj0fcXUqnUOc9TGAk0lATbkbQ82BLAOJE8iUUABc4EdYulsG1mJFt7u1x3sd61EPiGkkRTnwnCkwb1OzmYGoD5Drk9wDUbvKY3OUFdFiht2ph3p2AnccYt7d!YVP0F6Fokuw__"
     ]
+  },
+  {
+    "id": 277342,
+    "publicado": "2026-08-17",
+    "direccion": "Paseo Estaci\u00f3n, 3",
+    "municipio": "Getafe",
+    "planta": 5,
+    "precio": 1800,
+    "metros": 103.42,
+    "dormitorios": 2,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": true,
+    "piscina": true,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
   }
 ]

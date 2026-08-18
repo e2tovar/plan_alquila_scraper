@@ -5356,5 +5356,27 @@
     "porteria": true,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 277350,
+    "publicado": "2026-08-18",
+    "direccion": "Calle Francos Rodr\u00edguez, 69",
+    "municipio": "Madrid",
+    "distrito": "Moncloa-Aravaca",
+    "planta": 4,
+    "precio": 2000,
+    "metros": 83,
+    "dormitorios": 2,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
   }
 ]

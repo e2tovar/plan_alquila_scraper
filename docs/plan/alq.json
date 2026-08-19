@@ -3611,28 +3611,6 @@
     ]
   },
   {
-    "id": 277187,
-    "publicado": "2026-06-26",
-    "direccion": "Calle Tirvia, 6",
-    "municipio": "Madrid",
-    "distrito": "Barajas",
-    "planta": 1,
-    "precio": 1200,
-    "metros": 49,
-    "dormitorios": 2,
-    "aseos": 1,
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 277188,
     "publicado": "2026-06-26",
     "direccion": "Psaje Bisbal, 4",

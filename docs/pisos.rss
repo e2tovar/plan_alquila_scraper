@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 19 Aug 2026 06:31:33 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Aug 2026 08:33:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -135,14 +135,6 @@
 			<pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/229817?2026-04-15</guid>
-		</item>
-		<item>
-			<title>900€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/231393</link>
-			<description>C/ Servando Batanero, 56,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;47m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/231393</description>
-			<pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/231393?2026-08-14</guid>
 		</item>
 		<item>
 			<title>1000€ Tetuán</title>
@@ -319,14 +311,6 @@
 			<pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
 			<category>Arganda del Rey</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268757?2026-05-18</guid>
-		</item>
-		<item>
-			<title>840€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269850</link>
-			<description>C/ Isidro Fernández, 12,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;38m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/269850</description>
-			<pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269850?2026-08-06</guid>
 		</item>
 		<item>
 			<title>1200€ Puente de Vallecas</title>
@@ -539,10 +523,10 @@
 		<item>
 			<title>950€ Alcobendas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274822</link>
-			<description>C/ Libertad, 41,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;35m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274822</description>
-			<pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+			<description>C/ Libertad, 41,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;35m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/274822</description>
+			<pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274822?2026-08-18</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274822?2026-08-19</guid>
 		</item>
 		<item>
 			<title>1200€ Arganda del Rey</title>
@@ -1183,14 +1167,6 @@
 			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277170?2026-07-13</guid>
-		</item>
-		<item>
-			<title>1500€ Rivas-Vaciamadrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277171</link>
-			<description>Av. Pablo Iglesias, 84,&lt;br/&gt;3º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277171</description>
-			<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277171?2026-07-07</guid>
 		</item>
 		<item>
 			<title>1200€ Móstoles</title>

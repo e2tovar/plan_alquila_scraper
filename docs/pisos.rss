@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 20 Aug 2026 10:26:37 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Aug 2026 12:30:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -363,10 +363,10 @@
 		<item>
 			<title>850€ Torres de la Alameda</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271166</link>
-			<description>C/ Baños, 11,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/271166</description>
-			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+			<description>C/ Baños, 9,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/271166</description>
+			<pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Torres de la Alameda</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271166?2026-08-10</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271166?2026-08-20</guid>
 		</item>
 		<item>
 			<title>1100€ Vicálvaro</title>
@@ -1527,6 +1527,14 @@
 			<pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Mejorada del Campo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277315?2026-08-07</guid>
+		</item>
+		<item>
+			<title>900€ Ciudad Lineal</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277317</link>
+			<description>Av. Donostiarra, 25,&lt;br/&gt;6º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277317</description>
+			<pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Ciudad Lineal</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277317?2026-08-07</guid>
 		</item>
 		<item>
 			<title>1100€ Usera</title>

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 21 Aug 2026 10:27:51 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Aug 2026 12:28:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -79,14 +79,6 @@
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32429?2025-09-01</guid>
-		</item>
-		<item>
-			<title>950€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/207364</link>
-			<description>C/ Alfredo Aleix, 37,&lt;br/&gt;3º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/207364</description>
-			<pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/207364?2026-07-31</guid>
 		</item>
 		<item>
 			<title>1200€ Fuencarral-El Pardo</title>
@@ -463,14 +455,6 @@
 			<pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273301?2026-08-11</guid>
-		</item>
-		<item>
-			<title>1200€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273605</link>
-			<description>Pl. Villalcázar de Sirga, 2,&lt;br/&gt;4º con ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273605</description>
-			<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273605?2026-07-16</guid>
 		</item>
 		<item>
 			<title>1300€ Torrejón de Ardoz</title>
@@ -1057,14 +1041,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277165?2026-06-19</guid>
 		</item>
 		<item>
-			<title>1600€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277169</link>
-			<description>Ctra Canillas, 74,&lt;br/&gt;3º con ascensor,&lt;br/&gt;105m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277169</description>
-			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277169?2026-06-19</guid>
-		</item>
-		<item>
 			<title>1500€ Rivas-Vaciamadrid</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277171</link>
 			<description>Av. Pablo Iglesias, 84,&lt;br/&gt;3º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277171</description>
@@ -1311,14 +1287,6 @@
 			<pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277264?2026-08-04</guid>
-		</item>
-		<item>
-			<title>1000€ Cobeña</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277267</link>
-			<description>Av. Guadalajara, 27,&lt;br/&gt;4º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277267</description>
-			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Cobeña</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277267?2026-07-22</guid>
 		</item>
 		<item>
 			<title>1300€ Latina</title>

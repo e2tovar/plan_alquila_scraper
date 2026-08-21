@@ -4521,28 +4521,6 @@
     "imgs": []
   },
   {
-    "id": 277317,
-    "publicado": "2026-08-07",
-    "direccion": "Avda Donostiarra, 25",
-    "municipio": "Madrid",
-    "distrito": "Ciudad Lineal",
-    "planta": 6,
-    "precio": 900,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": true,
-    "piscina": false,
-    "porteria": true,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 277318,
     "publicado": "2026-08-07",
     "modificado": "2026-08-10",

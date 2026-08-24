@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 24 Aug 2026 06:41:12 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Aug 2026 08:48:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -137,12 +137,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/231393?2026-08-14</guid>
 		</item>
 		<item>
-			<title>1000€ Tetuán</title>
+			<title>1150€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/232065</link>
 			<description>C/ Lérida, 18,&lt;br/&gt;5º con ascensor,&lt;br/&gt;39m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/232065</description>
-			<pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/232065?2026-02-23</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/232065?2026-08-24</guid>
 		</item>
 		<item>
 			<title>1370€ Tetuán</title>
@@ -191,6 +191,14 @@
 			<pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Rivas-Vaciamadrid</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/241761?2026-08-11</guid>
+		</item>
+		<item>
+			<title>1400€ Moncloa-Aravaca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/247682</link>
+			<description>C/ Ribera del Manzanares, 33,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/247682</description>
+			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Moncloa-Aravaca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/247682?2026-08-24</guid>
 		</item>
 		<item>
 			<title>1300€ Fuencarral-El Pardo</title>
@@ -391,6 +399,14 @@
 			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272583?2026-07-14</guid>
+		</item>
+		<item>
+			<title>1250€ Vicálvaro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272776</link>
+			<description>C/ Enrique Urquijo, 136,&lt;br/&gt;4º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/272776</description>
+			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Vicálvaro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272776?2026-08-24</guid>
 		</item>
 		<item>
 			<title>1350€ Rivas-Vaciamadrid</title>
@@ -1687,6 +1703,22 @@
 			<pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277359?2026-08-21</guid>
+		</item>
+		<item>
+			<title>1200€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277363</link>
+			<description>C/ Faustina Calvo, 7,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;46m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277363</description>
+			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277363?2026-08-24</guid>
+		</item>
+		<item>
+			<title>1300€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277364</link>
+			<description>C/ Palma, 66,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;50m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277364</description>
+			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277364?2026-08-24</guid>
 		</item>
 	</channel>
 </rss>

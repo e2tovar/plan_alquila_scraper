@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 24 Aug 2026 10:34:56 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Aug 2026 12:30:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -195,7 +195,7 @@
 		<item>
 			<title>1400€ Moncloa-Aravaca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/247682</link>
-			<description>C/ Ribera del Manzanares, 33,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/247682</description>
+			<description>C/ Ribera del Manzanares, 33,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/247682</description>
 			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/247682?2026-08-24</guid>
@@ -305,6 +305,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266245?2026-07-13</guid>
 		</item>
 		<item>
+			<title>680€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/267234</link>
+			<description>C/ Palomeras, 7,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;39m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/267234</description>
+			<pubDate>Thu, 10 Jul 2008 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267234?2008-07-10</guid>
+		</item>
+		<item>
 			<title>1050€ Arganda del Rey</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268757</link>
 			<description>C/ San Sebastián, 29,&lt;br/&gt;4º con ascensor,&lt;br/&gt;46m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/268757</description>
@@ -395,7 +403,7 @@
 		<item>
 			<title>1250€ Vicálvaro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272776</link>
-			<description>C/ Enrique Urquijo, 136,&lt;br/&gt;4º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/272776</description>
+			<description>C/ Enrique Urquijo, 136,&lt;br/&gt;4º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/272776</description>
 			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Vicálvaro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272776?2026-08-24</guid>
@@ -1403,10 +1411,10 @@
 		<item>
 			<title>950€ Villaverde</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277295</link>
-			<description>C/ Lenguas, 22,&lt;br/&gt;5º con ascensor,&lt;br/&gt;37m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277295</description>
-			<pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+			<description>C/ Lenguas, 22,&lt;br/&gt;5º con ascensor,&lt;br/&gt;37m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277295</description>
+			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Villaverde</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277295?2026-08-04</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277295?2026-08-24</guid>
 		</item>
 		<item>
 			<title>800€ Tetuán</title>
@@ -1463,14 +1471,6 @@
 			<pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277306?2026-08-07</guid>
-		</item>
-		<item>
-			<title>1000€ Chamartín</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277309</link>
-			<description>C/ Clara del Rey, 39,&lt;br/&gt;1º con ascensor,&lt;br/&gt;42m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277309</description>
-			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Chamartín</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277309?2026-08-10</guid>
 		</item>
 		<item>
 			<title>1100€ Hortaleza</title>
@@ -1659,10 +1659,10 @@
 		<item>
 			<title>1200€ Rivas-Vaciamadrid</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277349</link>
-			<description>C/ Miralrío, 111,&lt;br/&gt;1º con ascensor,&lt;br/&gt;82m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277349</description>
-			<pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+			<description>C/ Miralrío, 111,&lt;br/&gt;1º con ascensor,&lt;br/&gt;82m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277349</description>
+			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277349?2026-08-19</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277349?2026-08-24</guid>
 		</item>
 		<item>
 			<title>2000€ Moncloa-Aravaca</title>

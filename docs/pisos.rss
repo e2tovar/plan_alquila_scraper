@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 25 Aug 2026 10:28:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Aug 2026 12:29:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -107,10 +107,10 @@
 		<item>
 			<title>1000€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/227490</link>
-			<description>C/ González Feito, 17,&lt;br/&gt;1º con ascensor,&lt;br/&gt;31m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/227490</description>
-			<pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+			<description>C/ González Feito, 17,&lt;br/&gt;1º con ascensor,&lt;br/&gt;31m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/227490</description>
+			<pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/227490?2026-08-18</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/227490?2026-08-25</guid>
 		</item>
 		<item>
 			<title>1000€ Carabanchel</title>
@@ -135,14 +135,6 @@
 			<pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/229817?2026-04-15</guid>
-		</item>
-		<item>
-			<title>900€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/231393</link>
-			<description>C/ Servando Batanero, 56,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;47m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/231393</description>
-			<pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/231393?2026-08-14</guid>
 		</item>
 		<item>
 			<title>1150€ Tetuán</title>
@@ -337,6 +329,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268757?2026-05-18</guid>
 		</item>
 		<item>
+			<title>1500€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268802</link>
+			<description>C/ Magín Calvo, 2,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;73m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/268802</description>
+			<pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268802?2026-08-25</guid>
+		</item>
+		<item>
 			<title>1200€ Puente de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270104</link>
 			<description>C/ Tomás Esteban, 1,&lt;br/&gt;2º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/270104</description>
@@ -411,7 +411,7 @@
 		<item>
 			<title>1225€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272571</link>
-			<description>Av. Manzanares, 196,&lt;br/&gt;4º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/272571</description>
+			<description>Av. Manzanares, 196,&lt;br/&gt;4º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/272571</description>
 			<pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272571?2026-08-25</guid>

@@ -704,6 +704,29 @@
     ]
   },
   {
+    "id": 265807,
+    "publicado": "2026-08-25",
+    "direccion": "Calle Marsella, 5",
+    "municipio": "Madrid",
+    "distrito": "San Blas-Canillejas",
+    "planta": 1,
+    "precio": 1200,
+    "metros": 76.65,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
+    "imgs": []
+  },
+  {
     "id": 266245,
     "publicado": "2026-06-30",
     "modificado": "2026-07-13",
@@ -1015,6 +1038,29 @@
     "imgs": []
   },
   {
+    "id": 272571,
+    "publicado": "2026-08-25",
+    "direccion": "Avda Manzanares, 196",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "planta": 4,
+    "precio": 1225,
+    "metros": 67,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": true,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 272583,
     "publicado": "2026-07-14",
     "direccion": "Calle Entrepe\u00f1as, 62",
@@ -1255,6 +1301,29 @@
     "adaptada": false,
     "piscina": false,
     "porteria": true,
+    "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 273381,
+    "publicado": "2026-08-25",
+    "direccion": "Calle Le\u00f1eros, 8",
+    "municipio": "Madrid",
+    "distrito": "Tetu\u00e1n",
+    "planta": 4,
+    "precio": 1600,
+    "metros": 76.89,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
     "trastero": false,
     "imgs": []
   },
@@ -4654,6 +4723,7 @@
   {
     "id": 277327,
     "publicado": "2026-08-11",
+    "modificado": "2026-08-25",
     "direccion": "Calle Fuente de Lima, 3",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -4672,7 +4742,11 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHgqAHQb2IiB94ETw5m2yaWNzTsPM-7zy!533XvkEp0VA5H7RwByOORYQWGy1K7Nzt12cfTptDvACQKgAoGQ27hlVVKTnF4tUBffnNgz!fCzBWh1IH84S6ags7WIwj6rUUjZxuX6QwR0xYqlFiGTfIz67FgpXPrr78-ra6-rQAxQCKmFtpodJz42VuPN-JIqrnAihhQZqyDSswHkAlNAvUEM0UYVL0u1kojwiXrGYicrptLOzf96Sp-pcj71!-9OjJ7yurs47DH3BomB7ynkziBtXX1-7PTNz7cDMPpfDCZE23u3RqKj-Wg3fuhXmpI4QVJk2K4osXMKEGdRjtouzIqTWIcjQvHVxqj3axpmdwdILapgyPpUpTYxyVCz37xibdBDTszbykmWxzXTvYM1G!9fFnZsrNcqNu2OnxtRtLv-rrR3q2nbv9RMbIJOJ!3fxY8fenV2Ynz939kb2cAU51PTh8cLmRGIJDqWvMoYgQn0oanLk!uOo2ASnsBlxjRupLAJuXKp!G8!Xa5y8zy8cHS1WwsLuXMZNoMbEqsa6Q4tiORt9fSKVS5zxPYSTQQBJsR9IqwBYfxonkSSx8KHImqFsshW0zI9na2-WGi!WOBd8zlCSaekwQnoTU6-RgagDmOeT2ANds8Jre5AR1WaC0aWPenYKdxBm3tH9jU!UXlGclEA__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHgiCCoF5ExA-8CJ6cTTZNLO5p2Hmfd57f875r36CUaKicD1q4gxHHIkKLjRYldu7267MPp80hXgBIFQCUjIZdw6qqlJxi8eqAvvzmwZ!vBRirQ6mDeUJdtYUdLMYR9VqKRk63L1KYIyYs1SixjBvkZ9diwcpnV19-fVtdfVqAYgBFzK20UOm58TI3nu9EEdVzAZSwIE3ZhhUYD6ASmgVqiGaKMCn63SyUR4RLVjMROd02Fvbve9JU!cuR9y9!evTk95XVWcfhDzg0TA95TyZxg-rra!dnJu59uJmHUnhhsqbbXTo1lR!LwTv3wrzUEcIKkyZF8cULmFCDOox2UXbk1BpEOZqXDi61R7tY0zM4OkFtU4bHUqWpMY7KhZ59Y5NuAhr2Zl7STLa5rh3smajf-vgzM-VmuVE37PT42o2lX!X1Iz3bzt1-ImNkEvG!bn6s-PvTK7OT5-7-yF7OAKe6Hhw-uNxIDMGh1DXmUESITyUNztwfXHWbgBR2A64xI!UlgM1LlU!j-Xrt85eZ5eODpSpY2N3LmEm0mFiVWFdIcWxHo-8vpFKpc56nMBJoIAm2I2kVYIsP40TyJBY-FDkT1C2WwraZkWzt7XLDxXrHgu8ZShJNPSYIT0LqdXIwNQDzHHJ7gGs2eE1vcoK6LFDatDHvTsFO4oxb2r-xqfoLlm0lEQ__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHgiCIoF5ExA-8CJ6cTTZNLO5p2Hmfd57f875r36CUaKicD1q4gxHHIkKLjRYldu7267MPp80hXgBIFQCUjIZdw6qqlJxi8eqAvvzmwZ!vBRirQ6mDeUJdtYUdLMYR9VqKRk63L1KYIyYs1SixjBvkZ9diwcpnV19-fVtdfVqAYgBFzK20UOm58TI3nu9EEdVzAZSwIE3ZhhUYD6ASmgVqiGaKMCn63SyUR4RLVjMROd02Fvbve9JU!cuR9y9!evTk95XVWcfhDzg0TA95TyZxg-rra!dnJu59uJmHUnhhsqbbXTo1lR!LwTv3wrzUEcIKkyZF8cULmFCDOox2UXbk1BpEOZqXDi61R7tY0zM4OkFtU4bHUqWpMY7KhZ59Y5NuAhr2Zl7STLa5rh3smajf-vgzM-VmuVE37PT42o2lX!X1Iz3bzt1-ImNkEvG!bn6s-PvTK7OT5-7-yF7OAKe6Hhw-uNxIDMGh1DXmUESITyUNztwfXHWbgBR2A64xI!UlgM1LlU!j-Xrt85eZ5eODpSpY2N3LmEm0mFiVWFdIcWxHo-8vpFKpc56nMBJoIAm2I2kVYIsP40TyJBY-FDkT1C2WwraZkWzt7XLDxXrHgu8ZShJNPSYIT0LqdXIwNQDzHHJ7gGs2eE1vcoK6LFDatDHvTsFO4oxb2r-xqfoLmHMlEg__"
+    ]
   },
   {
     "id": 277328,

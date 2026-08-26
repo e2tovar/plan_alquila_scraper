@@ -708,32 +708,6 @@
     "imgs": []
   },
   {
-    "id": 267234,
-    "publicado": "2008-07-10",
-    "direccion": "Calle Palomeras, 7",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "planta": 2,
-    "precio": 680,
-    "metros": 38.6,
-    "dormitorios": 2,
-    "aseos": 1,
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600o-IolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6KHguBFUC8i4gdeBE!OJpsmFvc07LzPO8!ved-1b1BKNJTPB03cxohjEaHFepMSO3f7zdmHk-YQLwCkCgBKRsPUoKoiJadYvD6gL7998Od7AUZqUGpjnlBXbWEHi3FEvaaikdPtixTmiAlLNUos4wb52bVYsPLZ1Zdf31VWnxagGEARcystlLtuvMyN5ztRRPVcACUsSEO2YAVGAyiHZoEaopkiTIpeNwvTQ8Ilq5mInG4bC3v3XWmq!uXI-09!evTk95XVWcfh9zk0TA54TyZxnerra!dnxu59uJmHUnhhsqbbXTpVlR-ndr9yL8xLHSGsMGlQFF-8gAk1qM1oB2VHTq1BlKN56eBSe7SDNT2DoxPUNmR4LFWaGuOoXOjZNzLuJqBhb-YlzWSb61rBnrHarY8!M1Nulht1g06Pr91Y-lVbP9K17dztJzJGJhH!6-bHir8!vTI7fu7uj-zlDHCi48Hhg8v1xBAcSl1lDkWE-FRS58z9wRW3CUhhN-AqM1JfAti8VPk0nq9XP3-ZWT7eX6qChV3djJlEi4lViXWFFMd2OPreQiqVOud5CkOBBpJgO5RWAbb4MEokT2LhQ5EzQd1iKWwbGcnW7i7XXax3LPieoSTR1GOC8CSkXjsHU30wzyG3-rhmg9d0JyeoywKlDRvzzgTsJM64pb0bm6q!CJEkyw__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600o-IolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6iHguBFUC8i4gdeBE!OJpsmFvc07LzPO8!ved-1b1BKNJTPB03cxohjEaHFepMSO3f7zdmHk-YQLwCkCgBKRsPUoKoiJadYvD6gL7998Od7AUZqUGpjnlBXbWEHi3FEvaaikdPtixTmiAlLNUos4wb52bVYsPLZ1Zdf31VWnxagGEARcystlLtuvMyN5ztRRPVcACUsSEO2YAVGAyiHZoEaopkiTIpeNwvTQ8Ilq5mInG4bC3v3XWmq!uXI-09!evTk95XVWcfh9zk0TA54TyZxnerra!dnxu59uJmHUnhhsqbbXTpVlR-ndr9yL8xLHSGsMGlQFF-8gAk1qM1oB2VHTq1BlKN56eBSe7SDNT2DoxPUNmR4LFWaGuOoXOjZNzLuJqBhb-YlzWSb61rBnrHarY8!M1Nulht1g06Pr91Y-lVbP9K17dztJzJGJhH!6-bHir8!vTI7fu7uj-zlDHCi48Hhg8v1xBAcSl1lDkWE-FRS58z9wRW3CUhhN-AqM1JfAti8VPk0nq9XP3-ZWT7eX6qChV3djJlEi4lViXWFFMd2OPreQiqVOud5CkOBBpJgO5RWAbb4MEokT2LhQ5EzQd1iKWwbGcnW7i7XXax3LPieoSTR1GOC8CSkXjsHU30wzyG3-rhmg9d0JyeoywKlDRvzzgTsJM64pb0bm6q!CpckzA__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opR8RRaEoeBJh9lqoF9OKLKxWrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g1APBcGLoF5ExA-8CJ6cTTZNLO5p2Hmfd57f875r36CYaChdDJu4jRHHIkKLtSYldu7um!OPJ80R7gGkCgCKRsPUoKosJadYrB!SV98--vPdg5EqFNuYJ9RVW9jFYhxRv6lo5HQHIoU5YsJSjRLLuEFBdi0WrHxx!fXXd-XV5x4UQihgbqWFUteNn7nxAyeKqJ4LoYgFacgWrMBoCKW6WaCGaKYIk6LXzcL0kHDJaiYip9vB6r37rjRV!3Lk!ac!PXn2-9rqrOMI-hwaJge8p5O4RvXNtYczYw8-3M5D8V6ZrOlOl05F5cepvevuhXmpI4QVJg2K4suXMKEGtRntoOzIqTWIcjQvHVxqj3ewpudwdIrahqyfSJWmxjgqF3r2jYy7CWjYn3lJM9nWula4b6x65-PPzJSb5WbdoNPTG7eWflU3jnVtO3cHiYyRScT!ugWx4u!PrsyOX7j!I3s5A5zo-HD08HItMQTXpa4whyLq-ExS48z9wWW3CUhhN-AKM1JfAdi6VPk0Xm5UPn-ZWT7ZXyrPwp5uxkyixcSqxLpCimM7HH1vIZVKnfM8haFAQ0mwHUrLg20BjBLJk1gEUOBMULdYCttGRrK9u8s1F-s9C4FvKEk09ZkgPKlTv52DqT6Y75BbfVyzyWu6kxPUZYHSho15ZwJ2E2fc0t6NTdVfDJ0kzQ__"
-    ]
-  },
-  {
     "id": 268757,
     "publicado": "2026-05-18",
     "direccion": "Calle San Sebasti\u00e1n, 29",

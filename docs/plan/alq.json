@@ -792,6 +792,7 @@
   {
     "id": 268802,
     "publicado": "2026-08-25",
+    "modificado": "2026-08-26",
     "direccion": "Calle Mag\u00edn Calvo, 2",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -810,7 +811,11 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBPHgbLJpYnFPw877vPP8nvdd-wqlREPlfNDCHYw4FhFabLQosXO3X599OG0O8QJAqgCgZDTsGlZVpeQUi1cH9OU3D35!K8BYHUodzBPqqi3sYDGOqNdSNHK6fZHCHDFhqUaJZdwgP7sWC1Y-u!ryy9vq6tMCFAMoYm6lhUrPjZe58XwniqieC6CEBWnKNqzAeACV0CxQQzRThEnR72ahPCJcspqJyOm2sbB!35Om6l-OvH!546Mnv66szjoOf8ChYXrIezKJG1RfX7s!M3Hv!c08lMILkzXd7tKpqfxYDv64F-aljhBWmDQpii9ewIQa1GG0i7Ijp9YgytG8dHCpPdrFmp7B0QlqmzI8lipNjXFULvTsG5t0E9CwN!OSZrLNde1gz0T91ocfmSk3y426YafH124s!ayvH-nZdu72Exkjk4j!dfNjxd-dXpmdPHf3e!ZyBjjV9eDwweVGYggOpa4xhyJCfCppcOb-4KrbBKSwG3CNGakvAWxeqnwaz9drnz7PLB8fLFXBwu5exkyixcSqxLpCimM7Gn1!IZVKnfM8hZFAA0mwHUmrAFt8GCeSJ7HwociZoG6xFLbNjGRrb5cbLtY7FnzPUJJo6jFBeBJSr5ODqQGY55DbA1yzwWt6kxPUZYHSpo15dwp2Emfc0v6NTdVf2zklMw__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBEFwNtk0sbinYed93nl-z!uufYVSoqFyPmjhDkYciwgtNlqU2Lnbr88-nDaHeAEgVQBQMhp2DauqUnKKxasD-vKbB7-!FWCsDqUO5gl11RZ2sBhH1GspGjndvkhhjpiwVKPEMm6Qn12LBSufXX355W119WkBigEUMbfSQqXnxsvceL4TRVTPBVDCgjRlG1ZgPIBKaBaoIZopwqTod7NQHhEuWc1E5HTbWNi!70lT9S9H3r!88dGTX1dWZx2HP-DQMD3kPZnEDaqvr92fmbj3!mYeSuGFyZpud-nUVH4sB3!cC!NSRwgrTJoUxRcvYEIN6jDaRdmRU2sQ5WheOrjUHu1iTc!g6AS1TRkeS5WmxjgqF3r2jU26CWjYm3lJM9nmunawZ6J-68OPzJSb5UbdsNPjazeWftbXj!RsO3f7iYyRScT!uvmx4u9Or8xOnrv7PXs5A5zqenD44HIjMQSHUteYQxEhPpU0OHN!cNVtAlLYDbjGjNSXADYvVT6N5-u1T59nlo8PlqpgYXcvYybRYmJVYl0hxbEdjb6!kEqlznmewkiggSTYjqRVgC0-jBPJk1j4UORMULdYCttmRrK1t8sNF-sdC75nKEk09ZggPAmp18nB1ADMc8jtAa7Z4DW9yQnqskBp08a8OwU7iTNuaf!Gpuov3T8lNA__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBA!ibLJpYnFPw877vPP8nvdd-wqlREPlfNDCHYw4FhFabLQosXO3X599OG0O8QJAqgCgZDTsGlZVpeQUi1cH9OU3D35!K8BYHUodzBPqqi3sYDGOqNdSNHK6fZHCHDFhqUaJZdwgP7sWC1Y-u!ryy9vq6tMCFAMoYm6lhUrPjZe58XwniqieC6CEBWnKNqzAeACV0CxQQzRThEnR72ahPCJcspqJyOm2sbB!35Om6l-OvH!546Mnv66szjoOf8ChYXrIezKJG1RfX7s!M3Hv!c08lMILkzXd7tKpqfxYDv64F-aljhBWmDQpii9ewIQa1GG0i7Ijp9YgytG8dHCpPdrFmp7B0QlqmzI8lipNjXFULvTsG5t0E9CwN!OSZrLNde1gz0T91ocfmSk3y426YafH124s!ayvH-nZdu72Exkjk4j!dfNjxd-dXpmdPHf3e!ZyBjjV9eDwweVGYggOpa4xhyJCfCppcOb-4KrbBKSwG3CNGakvAWxeqnwaz9drnz7PLB8fLFXBwu5exkyixcSqxLpCimM7Gn1!IZVKnfM8hZFAA0mwHUmrAFt8GCeSJ7HwociZoG6xFLbNjGRrb5cbLtY7FnzPUJJo6jFBeBJSr5ODqQGY55DbA1yzwWt6kxPUZYHSpo15dwp2Emfc0v6NTdVf30UlNQ__"
+    ]
   },
   {
     "id": 270104,
@@ -5214,6 +5219,27 @@
     "imgs": []
   },
   {
+    "id": 277356,
+    "publicado": "2026-08-26",
+    "direccion": "Calle Gardenias, 3",
+    "municipio": "Alcorc\u00f3n",
+    "planta": 1,
+    "precio": 1200,
+    "metros": 93,
+    "dormitorios": 3,
+    "aseos": 4,
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 277359,
     "publicado": "2026-08-19",
     "modificado": "2026-08-21",
@@ -5284,6 +5310,52 @@
     "adaptada": false,
     "piscina": false,
     "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 277365,
+    "publicado": "2026-08-26",
+    "direccion": "Calle Frida Kahlo, 32",
+    "municipio": "Madrid",
+    "distrito": "Villa de Vallecas",
+    "planta": 3,
+    "precio": 930,
+    "metros": 60,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": true,
+    "imgs": []
+  },
+  {
+    "id": 277368,
+    "publicado": "2026-08-26",
+    "direccion": "Calle Marqu\u00e9s de Zafra, 27",
+    "municipio": "Madrid",
+    "distrito": "Salamanca",
+    "planta": 1,
+    "precio": 1930,
+    "metros": 94,
+    "dormitorios": 4,
+    "aseos": 2,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": false,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
     "trastero": false,
     "imgs": []
   }

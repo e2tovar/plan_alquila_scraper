@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 26 Aug 2026 06:37:56 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Aug 2026 08:36:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -331,10 +331,10 @@
 		<item>
 			<title>1500€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268802</link>
-			<description>C/ Magín Calvo, 2,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;73m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/268802</description>
-			<pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+			<description>C/ Magín Calvo, 2,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;73m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/268802</description>
+			<pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268802?2026-08-25</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268802?2026-08-26</guid>
 		</item>
 		<item>
 			<title>1200€ Puente de Vallecas</title>
@@ -1753,6 +1753,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277355?2026-08-19</guid>
 		</item>
 		<item>
+			<title>1200€ Alcorcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277356</link>
+			<description>C/ Gardenias, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;93m², 3 🛏,&lt;br/&gt;4 🛀, 0 📷.&lt;br/&gt;alq/277356</description>
+			<pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Alcorcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277356?2026-08-26</guid>
+		</item>
+		<item>
 			<title>1300€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277359</link>
 			<description>C/ Limonero, 39,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277359</description>
@@ -1775,6 +1783,22 @@
 			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277364?2026-08-24</guid>
+		</item>
+		<item>
+			<title>930€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277365</link>
+			<description>C/ Frida Kahlo, 32,&lt;br/&gt;3º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277365</description>
+			<pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277365?2026-08-26</guid>
+		</item>
+		<item>
+			<title>1930€ Salamanca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277368</link>
+			<description>C/ Marqués de Zafra, 27,&lt;br/&gt;1º con ascensor,&lt;br/&gt;94m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277368</description>
+			<pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Salamanca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277368?2026-08-26</guid>
 		</item>
 	</channel>
 </rss>

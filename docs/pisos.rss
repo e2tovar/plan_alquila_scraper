@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 31 Aug 2026 10:22:41 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Aug 2026 18:25:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -97,20 +97,20 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214248?2026-07-20</guid>
 		</item>
 		<item>
+			<title>2500€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/214376</link>
+			<description>Pº Virgen del Puerto, 41,&lt;br/&gt;4º con ascensor,&lt;br/&gt;106m², 5 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/214376</description>
+			<pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214376?2026-08-31</guid>
+		</item>
+		<item>
 			<title>950€ Moncloa-Aravaca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/223146</link>
 			<description>Av. Dr. Federico Rubio y Galí, 50,&lt;br/&gt;5º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/223146</description>
 			<pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/223146?2026-08-11</guid>
-		</item>
-		<item>
-			<title>900€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/224447</link>
-			<description>Av. Donostiarra, 2,&lt;br/&gt;6º con ascensor,&lt;br/&gt;54m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/224447</description>
-			<pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/224447?2026-08-25</guid>
 		</item>
 		<item>
 			<title>1000€ Usera</title>
@@ -1028,9 +1028,9 @@
 			<title>1500€ Rivas-Vaciamadrid</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277171</link>
 			<description>Av. Pablo Iglesias, 84,&lt;br/&gt;3º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277171</description>
-			<pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277171?2026-08-19</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277171?2026-08-31</guid>
 		</item>
 		<item>
 			<title>1200€ Móstoles</title>
@@ -1063,14 +1063,6 @@
 			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277185?2026-07-17</guid>
-		</item>
-		<item>
-			<title>1300€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277186</link>
-			<description>Av. Pablo Neruda, 77,&lt;br/&gt;3º con ascensor,&lt;br/&gt;67m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277186</description>
-			<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277186?2026-07-06</guid>
 		</item>
 		<item>
 			<title>1690€ Salamanca</title>
@@ -1711,6 +1703,22 @@
 			<pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Alcalá de Henares</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277372?2026-08-28</guid>
+		</item>
+		<item>
+			<title>1300€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277375</link>
+			<description>Pl. Campillo del Mundo Nuevo, 1,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;35m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277375</description>
+			<pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277375?2026-08-31</guid>
+		</item>
+		<item>
+			<title>1600€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277377</link>
+			<description>C/ Monasterio de Oseira, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;63m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277377</description>
+			<pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277377?2026-08-31</guid>
 		</item>
 	</channel>
 </rss>

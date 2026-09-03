@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 02 Sep 2026 17:37:53 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 03 Sep 2026 12:25:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -379,10 +379,10 @@
 		<item>
 			<title>800€ Salamanca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272542</link>
-			<description>C/ Fundadores, 7,&lt;br/&gt;5º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/272542</description>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+			<description>C/ Fundadores, 7,&lt;br/&gt;5º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/272542</description>
+			<pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Salamanca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272542?2026-07-01</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272542?2026-09-03</guid>
 		</item>
 		<item>
 			<title>1225€ Usera</title>
@@ -551,14 +551,6 @@
 			<pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275183?2026-08-14</guid>
-		</item>
-		<item>
-			<title>1200€ Pedrezuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275324</link>
-			<description>C/ Egido, 32,&lt;br/&gt;7º sin ascensor,&lt;br/&gt;110m², 3 🛏,&lt;br/&gt;3 🛀, 0 📷.&lt;br/&gt;alq/275324</description>
-			<pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Pedrezuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275324?2026-08-12</guid>
 		</item>
 		<item>
 			<title>1210€ Hortaleza</title>
@@ -801,12 +793,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276993?2026-08-05</guid>
 		</item>
 		<item>
-			<title>1700€ Latina</title>
+			<title>1590€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277013</link>
 			<description>C/ Huerta de Castañeda, 4,&lt;br/&gt;3º con ascensor,&lt;br/&gt;75m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277013</description>
-			<pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277013?2026-08-06</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277013?2026-09-03</guid>
 		</item>
 		<item>
 			<title>1800€ Ciudad Lineal</title>
@@ -993,14 +985,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277165?2026-06-19</guid>
 		</item>
 		<item>
-			<title>1500€ Rivas-Vaciamadrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277171</link>
-			<description>Av. Pablo Iglesias, 84,&lt;br/&gt;3º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277171</description>
-			<pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277171?2026-08-31</guid>
-		</item>
-		<item>
 			<title>1200€ Móstoles</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277177</link>
 			<description>C/ Joaquín Blume, 11,&lt;br/&gt;9º con ascensor,&lt;br/&gt;82m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277177</description>
@@ -1015,14 +999,6 @@
 			<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277181?2026-07-09</guid>
-		</item>
-		<item>
-			<title>1400€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277183</link>
-			<description>C/ Pinos Baja, 39,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277183</description>
-			<pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277183?2026-06-25</guid>
 		</item>
 		<item>
 			<title>1300€ Fuencarral-El Pardo</title>

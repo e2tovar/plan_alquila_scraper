@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 03 Sep 2026 12:25:23 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 03 Sep 2026 17:29:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -567,6 +567,14 @@
 			<pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275639?2026-08-13</guid>
+		</item>
+		<item>
+			<title>1100€ San Blas-Canillejas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275849</link>
+			<description>C/ Alconera, 36,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;53m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275849</description>
+			<pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+			<category>San Blas-Canillejas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275849?2026-09-03</guid>
 		</item>
 		<item>
 			<title>900€ Alpedrete</title>
@@ -1647,6 +1655,14 @@
 			<pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Galapagar</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277380?2026-09-02</guid>
+		</item>
+		<item>
+			<title>1300€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277386</link>
+			<description>C/ José María Pemán, 38,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;70m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277386</description>
+			<pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277386?2026-09-03</guid>
 		</item>
 	</channel>
 </rss>

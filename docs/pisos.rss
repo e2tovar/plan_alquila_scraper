@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 10 Sep 2026 12:32:59 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 10 Sep 2026 17:29:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -303,6 +303,14 @@
 			<pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268802?2026-09-08</guid>
+		</item>
+		<item>
+			<title>1400€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270029</link>
+			<description>C/ Torres Miranda, 18,&lt;br/&gt;1º con ascensor,&lt;br/&gt;68m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270029</description>
+			<pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270029?2026-09-10</guid>
 		</item>
 		<item>
 			<title>1200€ Puente de Vallecas</title>
@@ -857,14 +865,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277118?2026-06-05</guid>
 		</item>
 		<item>
-			<title>1790€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277126</link>
-			<description>C/ Embajadores, 153,&lt;br/&gt;2º con ascensor,&lt;br/&gt;64m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277126</description>
-			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277126?2026-07-02</guid>
-		</item>
-		<item>
 			<title>1900€ San Blas-Canillejas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277140</link>
 			<description>C/ Yécora, 49,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;89m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277140</description>
@@ -1111,14 +1111,6 @@
 			<pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277274?2026-08-04</guid>
-		</item>
-		<item>
-			<title>950€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277276</link>
-			<description>C/ Polvoranca, 23,&lt;br/&gt;1º con ascensor,&lt;br/&gt;51m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277276</description>
-			<pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277276?2026-08-18</guid>
 		</item>
 		<item>
 			<title>1400€ Carabanchel</title>
@@ -1559,6 +1551,14 @@
 			<pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277406?2026-09-09</guid>
+		</item>
+		<item>
+			<title>1045€ Alcalá de Henares</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277407</link>
+			<description>Av. Víctimas del Terrorismo, 5,&lt;br/&gt;1º con ascensor,&lt;br/&gt;83m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277407</description>
+			<pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+			<category>Alcalá de Henares</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277407?2026-09-10</guid>
 		</item>
 		<item>
 			<title>1700€ San Blas-Canillejas</title>

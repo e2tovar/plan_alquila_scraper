@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 15 Sep 2026 13:05:42 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 15 Sep 2026 17:56:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -183,6 +183,14 @@
 			<pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/241544?2026-09-11</guid>
+		</item>
+		<item>
+			<title>1300€ San Sebastián de los Reyes</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/246892</link>
+			<description>Av. España, 34,&lt;br/&gt;3º con ascensor,&lt;br/&gt;93m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/246892</description>
+			<pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+			<category>San Sebastián de los Reyes</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/246892?2026-09-15</guid>
 		</item>
 		<item>
 			<title>1250€ Moncloa-Aravaca</title>
@@ -399,14 +407,6 @@
 			<pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272571?2026-08-25</guid>
-		</item>
-		<item>
-			<title>1550€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272583</link>
-			<description>C/ Entrepeñas, 62,&lt;br/&gt;1º con ascensor,&lt;br/&gt;75m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/272583</description>
-			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272583?2026-07-14</guid>
 		</item>
 		<item>
 			<title>1250€ Vicálvaro</title>

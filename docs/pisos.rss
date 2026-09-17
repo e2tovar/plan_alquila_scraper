@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 16 Sep 2026 13:00:43 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 17 Sep 2026 12:57:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -375,14 +375,6 @@
 			<pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Moratalaz</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271754?2026-09-11</guid>
-		</item>
-		<item>
-			<title>769€ Getafe</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271890</link>
-			<description>C/ José María Pérez Peridis, 4,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;47m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/271890</description>
-			<pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271890?2026-08-26</guid>
 		</item>
 		<item>
 			<title>1050€ San Sebastián de los Reyes</title>
@@ -1313,28 +1305,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277355?2026-08-19</guid>
 		</item>
 		<item>
-			<title>1200€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277363</link>
-			<description>C/ Faustina Calvo, 7,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;46m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277363</description>
-			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277363?2026-08-24</guid>
-		</item>
-		<item>
 			<title>1300€ Centro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277364</link>
 			<description>C/ Palma, 66,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;50m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277364</description>
 			<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277364?2026-08-24</guid>
-		</item>
-		<item>
-			<title>1050€ San Sebastián de los Reyes</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277366</link>
-			<description>Bulev Picos de Europa, 31,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;70m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277366</description>
-			<pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-			<category>San Sebastián de los Reyes</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277366?2026-08-27</guid>
 		</item>
 		<item>
 			<title>1930€ Salamanca</title>
@@ -1567,6 +1543,14 @@
 			<pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Getafe</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277433?2026-09-15</guid>
+		</item>
+		<item>
+			<title>1174.28€ Getafe</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277435</link>
+			<description>Av. Mari Pepa Colomer, 5,&lt;br/&gt;3º con ascensor,&lt;br/&gt;84m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277435</description>
+			<pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+			<category>Getafe</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277435?2026-09-17</guid>
 		</item>
 		<item>
 			<title>900€ Villa de Vallecas</title>

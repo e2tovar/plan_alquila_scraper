@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 18 Sep 2026 12:31:59 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 18 Sep 2026 17:29:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -329,6 +329,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268802?2026-09-08</guid>
 		</item>
 		<item>
+			<title>1500€ Retiro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268932</link>
+			<description>C/ Valderribas, 62,&lt;br/&gt;1º con ascensor,&lt;br/&gt;58m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/268932</description>
+			<pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+			<category>Retiro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268932?2026-09-18</guid>
+		</item>
+		<item>
 			<title>1650€ Retiro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269481</link>
 			<description>C/ Estrella Polar, 9,&lt;br/&gt;3º con ascensor,&lt;br/&gt;94m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/269481</description>
@@ -351,14 +359,6 @@
 			<pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270029?2026-09-10</guid>
-		</item>
-		<item>
-			<title>1200€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270104</link>
-			<description>C/ Tomás Esteban, 1,&lt;br/&gt;2º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/270104</description>
-			<pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270104?2026-06-02</guid>
 		</item>
 		<item>
 			<title>1200€ Fuencarral-El Pardo</title>
@@ -1567,14 +1567,6 @@
 			<pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Getafe</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277433?2026-09-15</guid>
-		</item>
-		<item>
-			<title>1174.28€ Getafe</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277435</link>
-			<description>Av. Mari Pepa Colomer, 5,&lt;br/&gt;3º con ascensor,&lt;br/&gt;84m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277435</description>
-			<pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277435?2026-09-17</guid>
 		</item>
 		<item>
 			<title>900€ Villa de Vallecas</title>

@@ -4827,5 +4827,28 @@
     "porteria": true,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 277466,
+    "publicado": "2026-09-21",
+    "direccion": "Calle Tarragona, 32",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "planta": 4,
+    "precio": 1500,
+    "metros": 69,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "F",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]

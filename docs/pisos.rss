@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 23 Sep 2026 13:13:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Sep 2026 18:07:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -521,14 +521,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275609?2026-08-10</guid>
 		</item>
 		<item>
-			<title>1000€ Alcalá de Henares</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275653</link>
-			<description>C/ Santa Fe, 13,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;63m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275653</description>
-			<pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Alcalá de Henares</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275653?2026-09-08</guid>
-		</item>
-		<item>
 			<title>1050€ Alcalá de Henares</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275793</link>
 			<description>C/ Bolarque, 4,&lt;br/&gt;6º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275793</description>
@@ -705,14 +697,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276971?2026-04-23</guid>
 		</item>
 		<item>
-			<title>1590€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277013</link>
-			<description>C/ Huerta de Castañeda, 4,&lt;br/&gt;3º con ascensor,&lt;br/&gt;75m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277013</description>
-			<pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277013?2026-09-03</guid>
-		</item>
-		<item>
 			<title>1800€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277018</link>
 			<description>C/ Alcalá, 372,&lt;br/&gt;4º con ascensor,&lt;br/&gt;63m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277018</description>
@@ -799,14 +783,6 @@
 			<pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277101?2026-06-03</guid>
-		</item>
-		<item>
-			<title>1200€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277102</link>
-			<description>C/ Puerto de la Bonaigua, 56,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277102</description>
-			<pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277102?2026-06-03</guid>
 		</item>
 		<item>
 			<title>1100€ Arganzuela</title>
@@ -905,14 +881,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277190?2026-06-30</guid>
 		</item>
 		<item>
-			<title>1100€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277191</link>
-			<description>Av. Betanzos, 22,&lt;br/&gt;1º con ascensor,&lt;br/&gt;52m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277191</description>
-			<pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277191?2026-08-26</guid>
-		</item>
-		<item>
 			<title>1200€ Leganés</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277198</link>
 			<description>C/ Rioja, 113,&lt;br/&gt;4º con ascensor,&lt;br/&gt;73m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277198</description>
@@ -959,14 +927,6 @@
 			<pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277224?2026-08-04</guid>
-		</item>
-		<item>
-			<title>1300€ Torrejón de Ardoz</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277225</link>
-			<description>C/ Lisboa, 19,&lt;br/&gt;4º con ascensor,&lt;br/&gt;52m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277225</description>
-			<pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Torrejón de Ardoz</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277225?2026-07-10</guid>
 		</item>
 		<item>
 			<title>1350€ Chamartín</title>

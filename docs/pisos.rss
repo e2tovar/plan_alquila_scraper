@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 24 Sep 2026 13:10:04 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 24 Sep 2026 18:07:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -225,12 +225,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/260410?2026-09-24</guid>
 		</item>
 		<item>
-			<title>1900€ Salamanca</title>
+			<title>1800€ Salamanca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/262540</link>
 			<description>C/ Tomás López, 12,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/262540</description>
-			<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Salamanca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262540?2026-05-20</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262540?2026-09-24</guid>
 		</item>
 		<item>
 			<title>1100€ Carabanchel</title>
@@ -287,6 +287,14 @@
 			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266245?2026-07-13</guid>
+		</item>
+		<item>
+			<title>1400€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268676</link>
+			<description>C/ Miosotis, 19,&lt;br/&gt;3º con ascensor,&lt;br/&gt;100m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/268676</description>
+			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268676?2026-09-24</guid>
 		</item>
 		<item>
 			<title>1050€ Arganda del Rey</title>
@@ -495,14 +503,6 @@
 			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275609?2026-09-24</guid>
-		</item>
-		<item>
-			<title>1050€ Alcalá de Henares</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275793</link>
-			<description>C/ Bolarque, 4,&lt;br/&gt;6º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/275793</description>
-			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Alcalá de Henares</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275793?2026-09-24</guid>
 		</item>
 		<item>
 			<title>1100€ San Blas-Canillejas</title>
@@ -1177,6 +1177,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277372?2026-09-07</guid>
 		</item>
 		<item>
+			<title>1600€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277377</link>
+			<description>C/ Monasterio de Oseira, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;63m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277377</description>
+			<pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277377?2026-08-31</guid>
+		</item>
+		<item>
 			<title>1500€ Rozas de Madrid, Las</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277379</link>
 			<description>C/ San Juan Bautista, 4,&lt;br/&gt;1º con ascensor,&lt;br/&gt;71m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277379</description>
@@ -1379,7 +1387,7 @@
 		<item>
 			<title>1200€ Pinto</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277426</link>
-			<description>C/ Francisco Farreras, 14,&lt;br/&gt;1º con ascensor,&lt;br/&gt;73m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277426</description>
+			<description>C/ Francisco Farreras, 14,&lt;br/&gt;1º con ascensor,&lt;br/&gt;73m², 2 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277426</description>
 			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Pinto</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277426?2026-09-24</guid>
@@ -1603,7 +1611,7 @@
 		<item>
 			<title>1200€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277477</link>
-			<description>Cmno Ganapanes, 33,&lt;br/&gt;1º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277477</description>
+			<description>Cmno Ganapanes, 33,&lt;br/&gt;1º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277477</description>
 			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277477?2026-09-24</guid>

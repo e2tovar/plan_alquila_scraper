@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 25 Sep 2026 14:53:49 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 28 Sep 2026 10:17:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -127,14 +127,6 @@
 			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/232065?2026-09-24</guid>
-		</item>
-		<item>
-			<title>900€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/232261</link>
-			<description>C/ Almonacid, 8,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;49m², 2 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/232261</description>
-			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/232261?2026-09-24</guid>
 		</item>
 		<item>
 			<title>1290€ Retiro</title>
@@ -375,14 +367,6 @@
 			<pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Moratalaz</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271754?2026-09-11</guid>
-		</item>
-		<item>
-			<title>1050€ San Sebastián de los Reyes</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272168</link>
-			<description>Bulev Picos de Europa, 27,&lt;br/&gt;3º con ascensor,&lt;br/&gt;71m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/272168</description>
-			<pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-			<category>San Sebastián de los Reyes</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272168?2026-08-31</guid>
 		</item>
 		<item>
 			<title>1350€ Ciudad Lineal</title>
@@ -1375,14 +1359,6 @@
 			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277438?2026-09-24</guid>
-		</item>
-		<item>
-			<title>900€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277439</link>
-			<description>Pl. Brasil, 12,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;82m², 3 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277439</description>
-			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277439?2026-09-24</guid>
 		</item>
 		<item>
 			<title>850€ Torrejón de Ardoz</title>

@@ -162,32 +162,6 @@
     ]
   },
   {
-    "id": 232261,
-    "publicado": "2026-09-16",
-    "modificado": "2026-09-24",
-    "direccion": "Calle Almonacid, 8",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "planta": 3,
-    "precio": 900,
-    "metros": 49,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtkstrU0EUxk9jUh-ttCaCKBQFVyLM3RbqxrQiF2IrVoLG1WTueDNh7sxkHsmVYlFBC7pQfOwEBd0ode3!IOiiILgR1I2I-MCN4Mq5eTSxeFfDnfOd-X7fOevfoOA0lC5UmriNEcciRkv1JiV27s6bc4-mzRGeA0gVABSMhj3DqrKUnGLx-pC-8vbhn-85GKtBoY25o77awi6W4JgGTUVjrzsQK8wRE5Zq5CzjBoXZtViw8vm1V1!fldee5SBfgTzmVloodd0EmZsg9KKY6rkKFLAgDdmCVRivQCkyC9QQzRRhUvS6WSiOCJetZiL2uh0s6t13pan6l6Pfv!jp8dPfV9dmPUc44NAwPeRddEmd6hvrD2Ym7n-41Q8l99JkTXf6dKqqfywuOv!CvNQxwgqTBkXJpYuYUIPajHZQduTUGkQ5mpceLrXHO1jTszg-RW1DRidSpakxnsqHnn1jk34CGvZnXtJMtrWuVdk3Ubv98Wdmys9ys27Y6cn1m8u!ahvHura9u4NEJsg48b9uYaL4-zOrs5Pn7!3IXs4ApzoBHD28UneG4EjqKvMoIsKnXZ0z!weX!SYghf2Aq8xIfRlg61L1p!Fio!r5y8zKycFS5Szs7WbMJFpyVjnrCylO7Gj0vYVUKvXO-ymMBFqRBNuRtHKwLYRxIrlLRAh5zgT1i6WwbWQk27u7XPex3rUQBoYSp2nABOEuokG7D6YGYIFHbg1wzSav6U5OUJ8FShs24Z0p2E28cUt7NzZVfwHODiSu"
-    ]
-  },
-  {
     "id": 236493,
     "publicado": "2026-06-24",
     "modificado": "2026-06-24",
@@ -984,32 +958,6 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKLKRWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmVNCLUs!-D4IeCoIXQb2IiB94ETw5m2yatLinYed93nl-z!uuf4dCoqF0qdLEbYw4FhFarDcpsbP33l5YmzLHuAeQKgAoGA37BlVlKTnF4s0Rfe3d478!PBipQaGNeUJdtYU9LMYR9ZuKRk53KFKYIyYs1SixjBsUZNdi3soXN15!e19efe7BaAVGMbfSQqnrxs!c-IETRVTPVqCABWnIFqzAWAVKoZmnhmimCJOi181CcUi4ZDUTkdPtYmHvvitN1VaOvH!x85Nnf66vzjiOoM-hYWrAeyaJ61TfWn80Pf7w4508FO-VyZrudulUVX4sLqy5F-akjhBWmDQoiq9cxoQa1Ga0g7Ijp9YgytGcdHCpPdnBmp7H0QK1DRmeSpWmxjgqF3r2jUy4CWg4mHlJM9n2ulblwHjt7qdfmSk3y826QaenN28v!a5tnOjadu4OExkjk4j!dQtixT-cW5mZuPjgZ!ZyBjjZ8eH40eV6YggOpa4yhyJCfDapc-b-4LLbBKSwG3CVGamvAmxfqnwaLzeqX75OL5!uL5VnYX83YybRYmJVYl0hxbEdjr63kEqlznmewlCgFUmwHUrLgx0BjBHJk1gEMMqZoG6xFLaNjGRnd5frLtb7FgLfUJJo6jNBeBJSv52DqT6Y75BbfVyzyWu6kxPUZYHSho15ZxL2Emfc0t6NTdU!IRIk1w__",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKLKRWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmWNCLUs!-D4IeCoIXQb2IiB94ETw5m2yatLinYed93nl-z!uuf4dCoqF0qdLEbYw4FhFarDcpsbP33l54MmWOcQ8gVQBQMBr2DarKUnKKxZsj-tq7x39!eDBSg0Ib84S6agt7WIwj6jcVjZzuUKQwR0xYqlFiGTcoyK7FvJUvbrz-9r68-tyD0QqMYm6lhVLXjZ-58QMniqierUABC9KQLViBsQqUQjNPDdFMESZFr5uF4pBwyWomIqfbxcLefVeaqq0cef!i57Vnf66vzjiOoM-hYWrAeyaJ61TfWn80Pf7w4508FO-VyZrudulUVX4sLqy5F-akjhBWmDQoiq9cxoQa1Ga0g7Ijp9YgytGcdHCpPdnBmp7H0QK1DRmeSpWmxjgqF3r2jUy4CWg4mHlJM9n2ulblwHjt7qdfmSk3y826QaenN28v!a5tnOjadu4OExkjk4j!dQtixT-cW5mZuPjgZ!ZyBjjZ8eH40eV6YggOpa4yhyJCfDapc-b-4LLbBKSwG3CVGamvAmxfqnwaLzeqX75OL5!uL5VnYX83YybRYmJVYl0hxbEdjr63kEqlznmewlCgFUmwHUrLgx0BjBHJk1gEMMqZoG6xFLaNjGRnd5frLtb7FgLfUJJo6jNBeBJSv52DqT6Y75BbfVyzyWu6kxPUZYHSho15ZxL2Emfc0t6NTdU!Ixgk2A__",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFrZWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmqOhFqWf!B0EPBcGLoF5ExA-8CJ6cTTZtWtzTsPM-7zy!531Xv0Mp0VC5ELRwByOORYQWGi1K7Mydt-ceTZojvACQKgAoGQ17NqqqUnKKxZtD-sq7h39!FGCkDqUO5gl11RZ2sRhH1GspGjndgUhhjpiwVKPEMm6Qn12LOStfXHv97X115XkBigEUMbfSQqXnxsvceL4TRVTPBFDCgjRlG5ZhNIBKaOaoIZopwqTod7NQHhIuWs1E5HQ7WNi!70lTtZkj71!-!PjZn6sr047DH3BomNzgPZXEDapvrD6YGrv!8VYeSuGVyZrudOnUVH4szz9xL8xKHSGsMGlSFF-6iAk1qMNoF2VHTq1BlKNZ6eBSe7yLNT2Lo3lqmzI8kSpNjXFULvTsGxl3E9CwP!OSZrKtde1g31j99qdfmSk3y!W6jU5Pr99c!F1fO9az7dwdJDJGJhH!6-bHin84szw9fv7ez-zlDHCi68HRw0uNxBAcSl1jDkWE-HTS4Mz9wVW3CUhhN-AaM1JfBti6VPk0Xq7VvnydWjo5WKqChb29jJlEC4lViXWFFMd2OPr-QiqVOud5CkOBBpJgO5RWAbb5MEokT2LhQ5EzQd1iKWybGcn23i43XKx3LfieoSTR1GOC8CSkXicHUwMwzyG3B7hmndf0JieoywKlTRvz7gTsJs64pf0bm6p!JR4k2Q__"
-    ]
-  },
-  {
-    "id": 272168,
-    "publicado": "2026-08-31",
-    "direccion": "Bulev Picos de Europa, 27",
-    "municipio": "San Sebasti\u00e1n de los Reyes",
-    "planta": 3,
-    "precio": 1050,
-    "metros": 70.84,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "D",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": true,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lVFrZWrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObjZtWtzTsPM-7zy!531Xv0Mp1lC5GLRxFyOORYgWGm1K7Mzdt-cfT5ojvACQKAAoGQ17NqqqUnKKxZtD-uq7R39!FGCkDqUu5jF11RZ2sQiH1GsrGjrdgVBhjpiwVKPYMm6Qn16LOStfXH!97X115XkBigEUMbfSQiVz46VuPN-JQqpnAihhQVqyA8swGkClaeaoIZopwqTod7NQHhIuWs1E6HQ7WLN!n0kTtZkj71!-!OTZn2sr047DH3BomNzgPR1HDapvrj6cGnvw8XYeSuGVSZvudOnUVH4sz590L8xKHSKsMGlRFF2-hAk1qMtoD6VHTq1BlKNZ6eASe7yHNT2Hw3lqW7J5IlGaGuOoXOjpNzLuJqBhf-olSWVb6zrBvrH6nU-!UlNulut1G52e3ri1-Lu-diyz7dwdJDJCJhb!6-ZHin84uzw9fuH-z!TlFHCi58HRw0uN2BDclLrGHIpo4jNxgzP3B1fdJiCF3YBrzEh9BWDrUuXTeLlW-!J1aunUYKkKFvZmGTOJFmKrYusKKY7scPT9hVQqcc7zFIYCDSTBdiitAmzzYZRIHkfChyJngrrFUti2UpLt2S43XKz3LPieoSTW1GOC8LhJvW4OpgZgnkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!bO0kfg__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2mlLGytWAkaT5PZcTNhdmYyM5usFIsKWtCD4sdNUNCLUs!-D4IeCoIXQb2IiB94ETw5u0matLinYed93nl-z!uuf4dioqF8MWjiNkYciwgt1ZuU2Nm7b88!njLHeAEgVQBQNBr2DaoqUnKKxZsj-uq7R39!FGCkBsU25gl11Rb2sBhH1GsqGjndoUhhjpiwVKPEMm6Qn12LeStfXH!97X1l7XkBRgMYxdxKC-XcjZe58XwniqieDaCIBWnIFqzCWADl0MxTQzRThEnR7WahNCRctpqJyOl2sbB7n0tTtZWj17!0-cmzP9fWZhyH3-fQMDXgPZ3Edapvrj-cHn!w8XYvlMIrkzXd7dKpqt6xtLjgXpiTOkJYYdKgKL58CRNqUJvRDsqOnFqDKEdz0sGl9mQHa3oOR4vUNmR4KlWaGuOoXOjZNzLhJqDhYOYlzWTb61rBgfHanU-!MlNulpt1g05Pb9xa!l3bOJHbdu4OExkjk4j!dfNjxT-cXZ2ZuHD!Z!ZyBjjZ8eD40ZV6YggOpa4yhyJCfCapc-b-4IrbBKSwG3CVGamvAGxfqt40Xm5Uv3ydXlnoL1XBwv48YybRUmJVYl0hxbEdjr67kEqlznkvhaFAA0mwHUqrADt8GCOSJ7HwYZQzQd1iKWwbGcnOfJfrLtZ7FnzPUJJo6jFBeBJSr90DU30wzyG3-rhmk9fkkxPUZYHSho15ZxL2Emfc0u6NTdU!bvMkfw__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFF7ZWrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObjZtWtzTsPM-7zy!531Xv0Mp1lC5GLRxFyOORYgWGm1K7Mzdt-cfT5ojvACQKAAoGQ17NqqqUnKKxZtD-uq7R39!FGCkDqUu5jF11RZ2sQiH1GsrGjrdgVBhjpiwVKPYMm6Qn16LOStfXH!97X115XkBigEUMbfSQiVz46VuPN-JQqpnAihhQVqyA8swGkClaeaoIZopwqTod7NQHhIuWs1E6HQ7WLN!n0kTtZkj71!-!OTZn2sr047DH3BomNzgPR1HDapvrj6cGnvw8XYeSuGVSZvudOnUVH4sz59yL8xKHSKsMGlRFF2-hAk1qMtoD6VHTq1BlKNZ6eASe7yHNT2Hw3lqW7J5IlGaGuOoXOjpNzLuJqBhf-olSWVb6zrBvrH6nU-!UlNulut1G52e3ri1-Lu-diyz7dwdJDJCJhb!6-ZHin84uzw9fuH-z!TlFHCi58HRw0uN2BDclLrGHIpo4jNxgzP3B1fdJiCF3YBrzEh9BWDrUuXTeLlW-!J1aunkYKkKFvZmGTOJFmKrYusKKY7scPT9hVQqcc7zFIYCDSTBdiitAmzzYZRIHkfChyJngrrFUti2UpLt2S43XKz3LPieoSTW1GOC8LhJvW4OpgZgnkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!cPkkgA__"
     ]
   },
   {
@@ -4274,31 +4222,6 @@
     "trastero": true,
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLMRWrASNp8nsuJkwOzOZmU1WikUFrehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6cTTZtWtzTsPM-7zy!531Xv0Mx0VC-UG3hDkYciwgtNFqU2Jm7b889njRHuAeQKgAoGg17NqoqUnKKxZtD-sq7R39!eDBSh2IH84S6agu7WIwj6rcUjZzuQKQwR0xYqlFiGTcoyK7FnJUvrr3-9r6y8tyDQhUKmFtpodxz42du!MCJIqpnqlDEgjRlG5ZhtArl0MxRQzRThEnR72ahNCRctJqJyOl2sLB!35OmajNH3r!0-cmzP1dXph1HMODQMLnBO5!EDapvrD6cGnvw8XYeivfKZE13unRqKj-W5m-6F2aljhBWmDQpii9dxIQa1GG0i7Ijp9YgytGsdHCpPd7Fmp7F0SlqmzI8kSpNjXFULvTsGxl3E9CwP!OSZrKtde3qvrH6nU-!MlNulut1G52eXr-1-Lu-dqxn27k7SGSMTCL-1y2IFf9wZnl6!Pz9n9nLGeBE14ejh5caiSE4lLrGHIoI8emkwZn7gytuE5DCbsA1ZqS-DLB1qfJpvFyrffk6tXRysFSehb29jJlEC4lViXWFFMd2OPr-QiqVOud5CkOBViXBdigtD7YFMEokT2IRQIEzQd1iKWybGcn23i43XKz3LAS-oSTR1GeC8CSkficHUwMw3yG3B7hmndf0JieoywKlTRvz7gTsJs64pf0bm6p!9IAkwQ__"
-    ]
-  },
-  {
-    "id": 277439,
-    "publicado": "2026-09-16",
-    "modificado": "2026-09-24",
-    "direccion": "Plaza Brasil, 12",
-    "municipio": "Alcorc\u00f3n",
-    "planta": 3,
-    "precio": 900,
-    "metros": 82,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFFtZWrASNp8nsuJkwOzOZmU1WikUFLeih4sdNUNCLUs!-D4IeCoIXQb2IiB94ETw5u0matLinYed93nl-z!uuf4dioqF8KWjiNkYciwgt1puU2Nm7by88njLHeAEgVQBQNBr2DaoqUnKKxZsj-tq7R39!FGCkBsU25gl11Rb2sBhH1GsqGjndoUhhjpiwVKPEMm6Qn12LeStf3Hj97X1l9XkBRgMYxdxKC-XcjZe58XwniqieDaCIBWnIFqzAWADl0MxTQzRThEnR7WahNCRcspqJyOl2sbB7n0tTtZWj17!0-cmzP9dXZxyH3-fQMDXgXUjiOtW31h9Ojz!4eKcXSuGVyZrudulUVe9YWlhzL8xJHSGsMGlQFF-5jAk1qM1oB2VHTq1BlKM56eBSe7KDNT2PozPUNmR4KlWaGuOoXOjZNzLhJqDhYOYlzWTb61rBgfHa2qdfmSk3y826QaenN28v!a5tnMhtO3eHiYyRScT!uvmx4h!OrcxMXLz!M3s5A5zseHD86HI9MQSHUleZQxEhPpvUOXN!cMVtAlLYDbjKjNRXAbYvVW8aLzeqX75OL5!uL1XBwv48YybRYmJVYl0hxbEdjr67kEqlznkvhaFAA0mwHUqrADt8GCOSJ7HwYZQzQd1iKWwbGcnOfJfrLtZ7FnzPUJJo6jFBeBJSr90DU30wzyG3-rhmk9fkkxPUZYHSho15ZxL2Emfc0u6NTdU!ArkkyA__"
     ]
   },
   {

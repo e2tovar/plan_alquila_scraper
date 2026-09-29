@@ -850,6 +850,29 @@
     ]
   },
   {
+    "id": 270655,
+    "publicado": "2026-09-29",
+    "direccion": "Calle General Zabala, 20",
+    "municipio": "Madrid",
+    "distrito": "Chamart\u00edn",
+    "planta": 2,
+    "precio": 1400,
+    "metros": 55,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 271106,
     "publicado": "2026-09-01",
     "modificado": "2026-09-24",
@@ -3463,32 +3486,6 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFrZWrAStp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPhYIXQb2IiB94ETw5u0matLinYed93nl-z!uufYdSoqFyKWjiNkYciwgt1JuU2Jl77y48mTTHeAEgVQBQMhr2DaqqUnKKxdsj-trG478!CjCyBKU25gl11Rb2sBhH1GsqGjndoUhhjpiwVKPEMm6Qn12LOStf3njz7X119UUBigEUMbfSQiV342VuPN-JIqpnAihhQRqyBSswGkAlNHPUEM0UYVJ0u1koDwkXrWYicrpdLOze59JUbeXo9S9!fvr8z!XVacfh9zk0TA54zyRxnepba4-mxh5-vNMLpfDaZE13u3Rqqncsz2-4F2aljhBWmDQoiq9cxoQa1Ga0g7Ijp9YgytGsdHCpPdnBmp7H0Ty1DRmeSpWmxjgqF3r2jYy7CWg4mHlJM9n2ulZwYGzp7qdfmSk3y826QadnN28v!l5aP5Hbdu4OExkjk4j!dfNjxT-cW5kev!jgZ!ZyBjjR8eD40eV6YggOpa4xhyJCfDapc-b-4KrbBKSwG3CNGamvAmxfqt40Xq3XvnydWj7dX6qChf15xkyihcSqxLpCimM7HH13IZVKnfNeCkOBBpJgO5RWAXb4MEokT2LhQ5EzQd1iKWwbGcnOfJfrLtb7FnzPUJJo6jFBeBJSr90DU30wzyG3-rhmk9fkkxPUZYHSho15ZwL2Emfc0u6NTdU!jlYlDQ__",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKRWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcWLoF5ExA-8CJ6c3SRtWtzTsPM-7zy!531Xv0Mx0VC-UG3hDkYciwgtNFqU2Jk7b849mjRHuAeQKgAoGg17NqoqUnKKxetD-srbh39!eDBSh2IH84S6agu7WIwj6rcUjZzuQKQwR0xYqlFiGTcoyK7FnJXPr7369r6y8syDQhUKmFtpoZy78TM3fuBEEdUzVShiQZqyDcswWoVyaOaoIZopwqTodbNQGhIuWs1E5HQ7WNi7z6Wp2szR71!6!Pjpn6sr044jGHBomNzgPZXEDapvrD6YGrv!8VY!FO-lyZrudOnUVP9Ymn!nXpiVOkJYYdKkKL50ERNqUIfRLsqOnFqDKEez0sGl9ngXa3oWR!PUNmV4IlWaGuOoXOjZNzLuJqBhf-YlzWRb69rVfWP1259-ZabcLNfrNjo9uX5z8Xd97Vhu27k7SGSMTCL-1y2IFf9wZnl6!Py9n9nLGeBE14ejh5caiSE4lLrGHIoI8emkwZn7gytuE5DCbsA1ZqS-DLB1qfrTeLFW-!J1aunkYKk8C3vzjJlEC4lViXWFFMd2OPreQiqVOuf9FIYCrUqC7VBaHmwLYJRInsQigAJngrrFUtg2M5Lt-S43XKx3LQS-oSTR1GeC8CSkfqcPpgZgvkNuD3DNOq!JJyeoywKlTRvz7gTsJs64pb0bm6p!kFwlDg__",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKRWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBdGLoF5ExA-8CJ6c3SRtWtzTsPM-7zy!531Xv0Mx0VC-UG3hDkYciwgtNFqU2Jk7b849mjRHuAeQKgAoGg17NqoqUnKKxetD-srbh39!eDBSh2IH84S6agu7WIwj6rcUjZzuQKQwR0xYqlFiGTcoyK7FnJXPr7369r6y8syDQhUKmFtpoZy78TM3fuBEEdUzVShiQZqyDcswWoVyaOaoIZopwqTodbNQGhIuWs1E5HQ7WNi7z6Wp2szR71!6!Pjpn6sr044jGHBomNzgPZXEDapvrD6YGrv!8VY!FO-lyZrudOnUVP9Ymn!nXpiVOkJYYdKkKL50ERNqUIfRLsqOnFqDKEez0sGl9ngXa3oWR!PUNmV4IlWaGuOoXOjZNzLuJqBhf-YlzWRb69rVfWP1259-ZabcLNfrNjo9uX5z8Xd97Vhu27k7SGSMTCL-1y2IFf9wZnl6!Py9n9nLGeBE14ejh5caiSE4lLrGHIoI8emkwZn7gytuE5DCbsA1ZqS-DLB1qfrTeLFW-!J1aunkYKk8C3vzjJlEC4lViXWFFMd2OPreQiqVOuf9FIYCrUqC7VBaHmwLYJRInsQigAJngrrFUtg2M5Lt-S43XKx3LQS-oSTR1GeC8CSkfqcPpgZgvkNuD3DNOq!JJyeoywKlTRvz7gTsJs64pb0bm6p!kmIlDw__"
-    ]
-  },
-  {
-    "id": 277406,
-    "publicado": "2026-09-09",
-    "modificado": "2026-09-24",
-    "direccion": "Calle El Atazar, 3",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "planta": 2,
-    "precio": 1200,
-    "metros": 40,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFF9ZWrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObjZtWtzTsPM-7zy!531Xv0Mp1lC5GLRxFyOORYgWGm1K7Mzdt-cfT5ojvACQKAAoGQ17NqqqUnKKxZtD-uq7R39!FGCkDqUu5jF11RZ2sQiH1GsrGjrdgVBhjpiwVKPYMm6Qn16LOStfXH!97X115XkBigEUMbfSQiVz46VuPN-JQqpnAihhQVqyA8swGkClaeaoIZopwqTod7NQHhIuWs1E6HQ7WLN!n0kTtZkj71!-!OTZn2sr047DH3BomNzgnY-jBtU3Vx9OjT34eDsPpfDKpE13unRqKj-W50-5F2alDhFWmLQoii5fwoQa1GW0h9Ijp9YgytGsdHCJPd7Dmp7D4WlqW7J5IlGaGuOoXOjpNzLuJqBhf-olSWVb6zrBvrH6nU-!UlNulut1G52e3ri1-Lu-diyz7dwdJDJCJhb!6-ZHin84uzw9fuH-z!TlFHCi58HRw0uN2BDclLrGHIpo4jNxgzP3B1fdJiCF3YBrzEh9BWDrUuXTeLlW-!J1aunkYKkKFvZmGTOJFmKrYusKKY7scPT9hVQqcc7zFIYCDSTBdiitAmzzYZRIHkfChyJngrrFUti2UpLt2S43XKz3LPieoSTW1GOC8LhJvW4OpgZgnkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!cwAkgQ__"
     ]
   },
   {

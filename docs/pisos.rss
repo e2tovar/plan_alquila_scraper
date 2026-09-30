@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 29 Sep 2026 17:09:49 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 30 Sep 2026 07:38:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1467,10 +1467,10 @@
 		<item>
 			<title>1400€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277487</link>
-			<description>Av. Gran Vía del Sureste, 18,&lt;br/&gt;6º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277487</description>
-			<pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+			<description>Av. Gran Vía del Sureste, 18,&lt;br/&gt;6º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277487</description>
+			<pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277487?2026-09-29</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277487?2026-09-30</guid>
 		</item>
 		<item>
 			<title>1625€ Moncloa-Aravaca</title>
@@ -1515,10 +1515,10 @@
 		<item>
 			<title>800€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277496</link>
-			<description>C/ Pico Chilegua, 9,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277496</description>
-			<pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+			<description>C/ Pico Chilegua, 9,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277496</description>
+			<pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277496?2026-09-29</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277496?2026-09-30</guid>
 		</item>
 	</channel>
 </rss>

@@ -4532,6 +4532,7 @@
   {
     "id": 277487,
     "publicado": "2026-09-29",
+    "modificado": "2026-09-30",
     "direccion": "Avda Gran V\u00eda del Sureste, 18",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -4550,7 +4551,9 @@
     "piscina": false,
     "porteria": true,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIUqEoeBJh9lqoF9OKLKxGrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CYaChfCFq4gxHHIkLVRosSu3DnzblHM-YwLwCkCgCKRsOeYVVFSk6xeH1QX3n78M!3AozVodjBPKGu2sIuFuOIei1FI6fbHynMEROWapRYxg3ys2uxZOXza6--vqusPSvAeADjmFtpoZy78TI3nu9EEdULARSxIE3ZhlWYCKAcmiVqiGaKMCl63SyURoTLVjMROd0OFvbuc2mq!uXo9y99evz099W1ecfhDzg0zAx5TyVxg-ob6w!mJu9!uNUPpfDSZE13unRqqn8sVWfdC4tSRwgrTJoUxZcuYkIN6jDaRdmRU2sQ5WhROrjUHutiTc!i6CS1TRkeT5WmxjgqF3r2jU25CWiYzbykmWxrXTvYN1m!!fFnZsrNcrNu2OnJ9ZvLv-obR3Pbzt0BImNkEvG!bn6s-Pszq!NT5-!9yF7OAKe7Hhw5tNJIDMGh1DXmUESITycNztwfXHGbgBR2A64xI!VlgK1L1Z!Gi43a5y9zKycGS1WwsDfPmElUTaxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYJsPE0TyJBY-jHMmqFsshW0zI9me73LDxXrXgu8ZShJNPSYIT0LqdfpgagDmOeT2ANds8pp8coK6LFDatDHvTsNu4oxb2ruxqfoLFe0kUw__"
+    ]
   },
   {
     "id": 277489,
@@ -4668,6 +4671,7 @@
   {
     "id": 277496,
     "publicado": "2026-09-29",
+    "modificado": "2026-09-30",
     "direccion": "Calle Pico Chilegua, 9",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -4686,6 +4690,8 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIYqEoeBJh9lqoF9OKLKxGrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CYaChfCFq4gxHHIkLVRosSu3DnzblHM-YwLwCkCgCKRsOeYVVFSk6xeH1QX3n78M!3AozVodjBPKGu2sIuFuOIei1FI6ebjRTmiAlLNUos4wb52bVYsvL5tVdf31XWnhVgPIBxzK20UM7deJkbz3eiiOqFAIpYkKZswypMBFAOzRI1RDNFmBS9bhZKI8Jlq5mInG4HC3v3uTRV!3L0-5c-PX76--ravOPwBxwaZoa8p5K4QfWN9Qdzk!c!3OqHUnhpsqY7XTo11T-WqrPuhUWpI4QVJk2K4ksXMaEGdRjtouzIqTWIcrQoHVxqj3WxpmdxdJLapgyPp0pTYxyVCz37xqbcBDTsz7ykmWxrXTvYN1m!!fFnZsrNcrNu2OnJ9ZvLv-obR3Pbzt0BImNkEvG!bn6s-Pszq!NT5-!9yF7OAKe7Hhw5tNJIDMGh1DXmUESITycNztwfXHGbgBR2A64xI!VlgK1L1Z!Gi43a5y9zKycGS1WwsDfPmElUTaxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYJsPE0TyJBY-jHMmqFsshW0zI9me73LDxXrXgu8ZShJNPSYIT0LqdfpgagDmOeT2ANds8pp8coK6LFDatDHvTsNu4oxb2ruxqfoLF!MkVA__"
+    ]
   }
 ]

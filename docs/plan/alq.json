@@ -909,6 +909,29 @@
     ]
   },
   {
+    "id": 271278,
+    "publicado": "2026-10-01",
+    "direccion": "Avda Los Rosales, 16",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "planta": 8,
+    "precio": 1200,
+    "metros": 40.8,
+    "dormitorios": 1,
+    "aseos": 2,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 272172,
     "publicado": "2026-09-15",
     "modificado": "2026-09-21",
@@ -2306,33 +2329,6 @@
     ]
   },
   {
-    "id": 277185,
-    "publicado": "2026-06-26",
-    "direccion": "Calle Puentedeume, 3",
-    "municipio": "Madrid",
-    "distrito": "Fuencarral-El Pardo",
-    "planta": 3,
-    "precio": 1275,
-    "metros": 49,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": true,
-    "piscina": false,
-    "porteria": false,
-    "trastero": true,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt9uk!rRSmsiiEJR8CTC7LVQL6YVWYxWrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObjZtWtzTsPM-7zy!531Xv0Mx1lC-WG3jLkYcixAtNNqU2Nm7b88!njKHuQeQKAAoGg27N6oqUnKKxZuD-uq7R39!eDBSh2IX85i6ags7WYRD6rcVDZ1uf6gwR0xYqlFsGTcoSK!FvJUvrr!-9r6y8tyDQhUKmFtpoZy58VM3fuBEIdWzVShiQVqyA8swVoVy08xTQzRThEnR72ahNCRctJqJ0Om2s2b!PpMmajNH3r!0-cmzP9dWZhxHMODQMLXBezqOGlTfXH04Pf7g4-08FO-VSZvucOnUVH4snRx1L8xJHSKsMGlRFF2-hAk1qMtoD6VHTq1BlKM56eASe6yHNT2Hw1PUtmTzeKI0NcZRudDTb2TCTUDDvtRLksq21nWqe8frdz79Sk25Wa7XbXR6euPW4u!62tHMtnN3gMgImVj8r1sQKf7h7PLMxIX7P9OXU8DJng9HDi01YkNwU-oacyiiic!EDc7cH1xxm4AUdgOuMSP1FYCtS5VP4-Va7cvX6aUTg6XyLOzJMmYSLcRWxdYVUhzZ4ej7C6lU4pznKQwFWpUE26G0PBgNYIxIHkcigAJngrrFUti2UpJt2S43XKz3LAS-oSTW1GeC8LhJ!W4OpgZgvkPuDHDNOq!JJieoywIlLRvx3iTsIs64pf0bm6h!4T4kOQ__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlcrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QdBDQfAiqBcR8QMvgidnN5smFvc07LzPO8!ved-1b1CKNVQuBG3cxYhjEaLFRpsSO3fnzblH0-YQLwAkCgBKRsOuYVVVSk6xeH1AX3n78M!3AozVodTFPKau2sIOFuGQem1FQ6fbFyrMEROWahRbxg3y02uxYOXza6--vquuPitAMYAi5lZaqGRuvNSN5ztRSPVcACUsSEt2YAXGA6g0zQI1RDNFmBT9bhbKI8Ilq5kInW4ba!bvM2mi!uXI-5c!PX76--rqrOPwBxwapoe8p-KoQfWNtQczE!c!3MpDKbw0adPtLp2ayo!lE0X3wrzUIcIKkxZF0aWLmFCDuoz2UHrk1BpEOZqXDi6xR3tY07M4PEltSzaPJUpTYxyVCz39xibdBDTsTb0kqWxzXSfYM1G!!fFnasrNcqNu2OnJ9ZtLv-rrRzLbzt1-IiNkYvG!bn6k-PszK7OT5-!9SF9OAad6Hhw-uNyIDcFNqWvMoYgmPh03OHN!cNVtAlLYDbjGjNSXATYvVT6NF-u1z19mlo8PlqpgYXeWMZNoMbYqtq6Q4siORt9fSKUS5zxPYSTQQBJsR9IqwBYfxonkcSR8KHImqFsshW0rJdma7XLDxXrXgu8ZSmJNPSYIj5vU6-ZgagDmOeTOANds8JpscoK6LFDSshHvTcFO4oxb2r-xifoL40QkOg__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlcrVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QdBDQfAiqBcR8QMvgidnN5smFvc07LzPO8!ved-1b1CKNVQuBG3cxYhjEaLFRpsSO3fnzblH0-YQLwAkCgBKRsOuYVVVSk6xeH1AX3n78M!3AozVodTFPKau2sIOFuGQem1FQ6fbFyrMEROWahRbxg3y02uxYOXza6--vquuPitAMYAi5lZaqGRuvNSN5ztRSPVcACUsSEt2YAXGA6g0zQI1RDNFmBT9bhbKI8Ilq5kInW4ba!bvM2mi!uXI-5c!PX76--rqrOPwBxwapoe8p-KoQfWNtQczE!c!3MpDKbw0adPtLp2ayo!lE2lS81KHCCtMWhRFly5iQg3qMtpD6ZFTaxDlaF46uMQe7WFNz-LwJLUt2TyWKE2NcVQu9PQbm3QT0LA39ZKkss11nWDPRP32x5-pKTfLjbphpyfXby79qq8fyWw7d!uJjJCJxf-6-ZHi78-szE6ev!cjfTkFnOp5cPjgciM2BDelrjGHIpr4dNzgzP3BVbcJSGE34BozUl8G2LxU-TRerNc-f5lZPj5YqoKF3VnGTKLF2KrYukKKIzsafX8hlUqc8zyFkUADSbAdSasAW3wYJ5LHkfChyJmgbrEUtq2UZGu2yw0X610LvmcoiTX1mCA8blKvm4OpAZjnkDsDXLPBa7LJCeqyQEnLRrw3BTuJM25p!8Ym6i!lSiQ7"
-    ]
-  },
-  {
     "id": 277188,
     "publicado": "2026-06-26",
     "modificado": "2026-09-24",
@@ -2356,31 +2352,6 @@
     "trastero": false,
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFFtZWrASNp8nsuJkwOzOZmU1WSosKWtCD4sdNUNCLUs!-D4IeCoIXQb2IiB94ETw5u0matLinYed93nl-z!uuf4dioqF8KWjiNkYciwgt1puU2Nm7by88njLHeAEgVQBQNBr2DaoqUnKKxZsj-uq7R39!FGCkBsU25gl11Rb2sBhH1GsqGjndoUhhjpiwVKPEMm6Qn12LeStfXH!97X1l7XkBRgMYxdxKC-XcjZe58XwniqieDaCIBWnIFqzCWADl0MxTQzRThEnR7WahNCRcspqJyOl2sbB7n0tTtZWj17!0-cmzP9fWZhyH3-fQMDXgXUjiOtU31x9Ojz!4eLsXSuGVyZrudulUVe9YWlhxL8xJHSGsMGlQFF-5jAk1qM1oB2VHTq1BlKM56eBSe7KDNT2PozPUNmR4KlWaGuOoXOjZNzLhJqDhYOYlzWTb61rBgfHanU-!MlNulpt1g05Pb9xa-l3bOJHbdu4OExkjk4j!dfNjxT-cW52ZuHj!Z!ZyBjjZ8eD40eV6YggOpa4yhyJCfDapc-b-4IrbBKSwG3CVGalXALYvVW8aLzeqX75OL5!uL1XBwv48YybRYmJVYl0hxbEdjr67kEqlznkvhaFAA0mwHUqrADt8GCOSJ7HwYZQzQd1iKWwbGcnOfJfrLtZ7FnzPUJJo6jFBeBJSr90DU30wzyG3-rhmk9fkkxPUZYHSho15ZxL2Emfc0u6NTdU!3j4ktg__"
-    ]
-  },
-  {
-    "id": 277190,
-    "publicado": "2026-06-30",
-    "modificado": "2026-09-24",
-    "direccion": "Calle Marqu\u00e9s de la Valdavia, 73",
-    "municipio": "Alcobendas",
-    "planta": 3,
-    "precio": 1100,
-    "metros": 65.5,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLMRWrASNp8nsuJkwOzOZmU1WikUFLSii-HETFPSi1LP!g6CHguBFUC8i4gdeBE!OJps2Le5p2Hmfd57f876r36GYaChfqLZwByOORYQWGi1K7Mzdt-ceT5oj3ANIFQAUjYY9G1UVKTnF4s0hfeXdo78!PBipQ7GDeUJdtYVdLMYR9VuKRk53IFKYIyYs1SixjBsUZNdizsoX115!e19Zee5BoQoFzK20UO658TM3fuBEEdUzVShiQZqyDcswWoVyaOaoIZopwqTod7NQGhIuWs1E5HQ7WNi!70lTtZkj71!6!OTZn6sr044jGHBomNzgnU!iBtU3Vh9OjT34eCsPxXtlsqY7XTo1lR9L87fdC7NSRwgrTJoUxZcuYkIN6jDaRdmRU2sQ5WhWOrjUHu9iTc!i6BS1TRmeSJWmxjgqF3r2jYy7CWjYn3lJM9nWunZ131j9zqdfmSk3y!W6jU5Pr99c!F1fO9az7dwdJDJGJhH!6xbEin84szw9fv7-z-zlDHCi68PRw0uNxBAcSl1jDkWE-HTS4Mz9wRW3CUhhN-AaM1JfBti6VPk0Xq7VvnydWjo5WCrPwt5exkyihcSqxLpCimM7HH1!IZVKnfM8haFAq5JgO5SWB9sCGCWSJ7EIoMCZoG6xFLbNjGR7b5cbLtZ7FgLfUJJo6jNBeBJSv5ODqQGY75DbA1yzzmt6kxPUZYHSpo15dwJ2E2fc0v6NTdU!!p4kxg__"
     ]
   },
   {

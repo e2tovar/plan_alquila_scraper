@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 30 Sep 2026 14:23:57 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Oct 2026 07:58:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -351,6 +351,14 @@
 			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271122?2026-07-02</guid>
+		</item>
+		<item>
+			<title>1200€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271278</link>
+			<description>Av. Los Rosales, 16,&lt;br/&gt;8º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/271278</description>
+			<pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271278?2026-10-01</guid>
 		</item>
 		<item>
 			<title>1350€ Ciudad Lineal</title>
@@ -777,28 +785,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277181?2026-07-09</guid>
 		</item>
 		<item>
-			<title>1275€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277185</link>
-			<description>C/ Puentedeume, 3,&lt;br/&gt;3º con ascensor,&lt;br/&gt;49m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277185</description>
-			<pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277185?2026-06-26</guid>
-		</item>
-		<item>
 			<title>1690€ Salamanca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277188</link>
 			<description>Psaje Bisbal, 4,&lt;br/&gt;1º con ascensor,&lt;br/&gt;48m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277188</description>
 			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Salamanca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277188?2026-09-24</guid>
-		</item>
-		<item>
-			<title>1100€ Alcobendas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277190</link>
-			<description>C/ Marqués de la Valdavia, 73,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;66m², 3 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277190</description>
-			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277190?2026-09-24</guid>
 		</item>
 		<item>
 			<title>1300€ Móstoles</title>

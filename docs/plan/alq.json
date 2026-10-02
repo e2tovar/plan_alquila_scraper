@@ -506,29 +506,6 @@
     ]
   },
   {
-    "id": 264807,
-    "publicado": "2026-10-02",
-    "direccion": "Calle Melonares, 6",
-    "municipio": "Galapagar",
-    "planta": 3,
-    "precio": 1200,
-    "metros": 81.5,
-    "dormitorios": 3,
-    "aseos": 2,
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": true,
-    "porteria": true,
-    "trastero": true,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLESrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObpImFvc07LzPO8!ved-1b1BMNJQvVFu4gxHHIkKLjRYldu7Om3OPps0h7gGkCgCKRsOuYVVFSk6xeH1AX3n78M93D8bqUOxgnlBXbWEHi3FE!ZaikdPtixTmiAlLNUos4wYF2bVYsPL5tVdf31VWn3lQqEIBcystlHM3fubGD5woonquCkUsSFO2YQXGq1AOzQI1RDNFmBS9bhZKI8Ilq5mInG4bC3v3uTRV!3L0-5c-PX76--rqrOMIBhwapoe8J5O4QfWNtQczE!c!3OqH4r00WdPtLp2a6h9Li6fdC!NSRwgrTJoUxZcuYkIN6jDaRdmRU2sQ5WheOrjUHu1iTc!i6AS1TRkeS5WmxjgqF3r2jU26CWjYm3lJM9nmunZ1z0T99sefmSk3y426Yacn128u!aqvH8ltO3f7iYyRScT!ugWx4u!PrMxOnr!3I3s5A5zq-nD44HIjMQSHUteYQxEhPpU0OHN!cMVtAlLYDbjGjNSXATYvVX8aL9Zrn7!MLB8fLJVnYXeeMZNoMbEqsa6Q4tiORt9bSKVS57yfwkigVUmwHUnLgy0BjBPJk1gEUOBMULdYCttmRrI13-WGi!WuhcA3lCSa-kwQnoTU7!TB1ADMd8jtAa7Z4DX55AR1WaC0aWPenYKdxBm3tHdjU!UXhz0kiw__"
-    ]
-  },
-  {
     "id": 264962,
     "publicado": "2026-06-05",
     "modificado": "2026-06-14",
@@ -1382,32 +1359,6 @@
     "trastero": true,
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFtZWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CUaKhcCFq4gxHHIkJLjRYldu7Om3OPps0RXgBIFQCUjIY9w6qqlJxi8fqQvvL24Z!vBRirQ6mDeUJdtYVdLMYR9VqKRk53IFKYIyYs1SixjBvkZ9diwcrn1159fVdde1aAYgBFzK20UMndeJkbz3eiiOq5AEpYkKZswyqMB1AJzQI1RDNFmBS9bhbKI8Jlq5mInG4HC3v3uTRV!3L0-5c!PX76--rarOPwBxwapoe8i0ncoPrG-oOZifsfbvVDKbw0WdOdLp2a6h!Liy33wrzUEcIKkyZF8aWLmFCDOox2UXbk1BpEOZqXDi61x7tY07M4OkVtU4YnUqWpMY7KhZ59Y5NuAhr2Z17STLa1rh3sm6jf!vgzM-VmuVk37PTk-s3lX!WNY7lt5-4gkTEyifhfNz9W!P2Z1dnJ8!d-ZC9ngFNdD44eXmkkhuBQ6hpzKCLEp5MGZ-4PrrpNQAq7AdeYkfoywNal6k!jxUbt85eZlZODpSpY2JtnzCRaSqxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYJsP40TyJBY-FDkT1C2WwraZkWzPd7nhYr1rwfcMJYmmHhOEJyH1On0wNQDzHHJ7gGs2eU0-OUFdFiht2ph3p2A3ccYt7d3YVP0Ft8wkow__"
-    ]
-  },
-  {
-    "id": 275849,
-    "publicado": "2026-09-03",
-    "modificado": "2026-09-24",
-    "direccion": "Calle Alconera, 36",
-    "municipio": "Madrid",
-    "distrito": "San Blas-Canillejas",
-    "planta": 1,
-    "precio": 1100,
-    "metros": 53.48,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFtZWrASNp8nsuJkwOzOZmU1WivUDtKAHxY-boKAXpZ79HwQ9FAQvgnoRET!wInhydpO0aXFPw877vPP8nvdd!Q6lREPlQtDCHYw4FhFaaLQosTN33557PGmO8AJAqgCgZDTs2aiqSskpFm8O6avvHv39UYCROpQ6mCfUVVvYxWIcUa-laOR0ByKFOWLCUo0Sy7hBfnYt5qx8cf31t!fVlecFKAZQxNxKC5XcjZe58XwniqieCaCEBWnKNizDaACV0MxRQzRThEnR62ahPCRctJqJyOl2sLB3n0tTtZmj37!8-cmzP9dWph2HP-DQMLnBO5!EDapvrj6cGnvw8XY!lMIrkzXd6dKpqf6xPH!FvTArdYSwwqRJUXzpIibUoA6jXZQdObUGUY5mpYNL7fEu1vQsjk5R25ThiVRpaoyjcqFn38i4m4CG!ZmXNJNtrWsH-8bqdz79yky5Wa7XbXR6euPW4u!62rHctnN3kMgYmUT8r5sfK!7hzPL0-Pn7P7OXM8CJrgdHDy81EkNwKHWNORQR4tNJgzP3B1fdJiCF3YBrzEh9GWDrUvWn8XKt9uXr1NLJwVIVLOzNM2YSLSRWJdYVUhzb4eh7C6lU6pz3UxgKNJAE26G0CrDNh1EieRILH4qcCeoWS2HbzEi257vccLHes-B7hpJEU48JwpOQep0-mBqAeQ65PcA167wmn5ygLguUNm3MuxOwmzjjlvZubKr-AeJKJLg_"
     ]
   },
   {

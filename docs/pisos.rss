@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 02 Oct 2026 14:18:13 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Oct 2026 20:17:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -231,14 +231,6 @@
 			<pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/263728?2026-04-07</guid>
-		</item>
-		<item>
-			<title>1200€ Galapagar</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/264807</link>
-			<description>C/ Melonares, 6,&lt;br/&gt;3º con ascensor,&lt;br/&gt;82m², 3 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/264807</description>
-			<pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-			<category>Galapagar</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264807?2026-10-02</guid>
 		</item>
 		<item>
 			<title>1200€ Tetuán</title>
@@ -495,14 +487,6 @@
 			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275609?2026-09-24</guid>
-		</item>
-		<item>
-			<title>1100€ San Blas-Canillejas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275849</link>
-			<description>C/ Alconera, 36,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;53m², 3 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/275849</description>
-			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-			<category>San Blas-Canillejas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275849?2026-09-24</guid>
 		</item>
 		<item>
 			<title>900€ Centro</title>

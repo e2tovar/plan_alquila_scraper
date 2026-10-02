@@ -3459,32 +3459,6 @@
     ]
   },
   {
-    "id": 277408,
-    "publicado": "2026-09-09",
-    "modificado": "2026-09-24",
-    "direccion": "Calle Deyanira, 3",
-    "municipio": "Madrid",
-    "distrito": "San Blas-Canillejas",
-    "planta": 1,
-    "precio": 1700,
-    "metros": 110,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "F",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": true,
-    "trastero": true,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFFtZWrASNp8nsuJkwOzOZmU1WikEFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CYaChfCJq4jRHHIkLL9SYldv7Om3OPZswRXgBIFQAUjYY9w6qKlJxi8fqQvvL24Z!vBRirQbGNeUJdtYVdLMYR9ZqKRk53IFKYIyYs1SixjBvkZ9di0crn1159fVdZe1aA8QDGMbfSQjl342VuPN-JIqrnAyhiQRqyBV2YCKAcmkVqiGaKMCl63SyURoQrVjMROd0OFvbuc2mq!uXo9y99evz099W1OcfhDzg0zAx5l5K4TvWN9Qezk!c!3OqHUnhpsqY7XTpV1T-WlrruhQWpI4QVJg2K4ksXMaEGtRntoOzIqTWIcrQgHVxqj3ewpmdxdIrahgxPpEpTYxyVCz37xqbcBDTsz7ykmWxrXSvYN1m7!fFnZsrNcrNu2OnJ9Zsrv2obx3Lbzt1BImNkEvG!bn6s-Psz3bmp8!d-ZC9ngNMdD44eXq0nhuBQ6ipzKCLEp5M6Z-4PrrhNQAq7AVeZkfoywNal6k!jxUb185fZ1ZODpSpY2JtnzCRaTqxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYJsPE0TyJBY-jHMmqFsshW0jI9me73LdxXrXgu8ZShJNPSYIT0LqtftgagDmOeTWANds8pp8coK6LFDasDHvTMNu4oxb2ruxqfoL4EQktw__"
-    ]
-  },
-  {
     "id": 277409,
     "publicado": "2026-09-18",
     "modificado": "2026-09-29",

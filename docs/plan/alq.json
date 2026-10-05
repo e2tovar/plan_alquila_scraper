@@ -1885,32 +1885,6 @@
     ]
   },
   {
-    "id": 277056,
-    "publicado": "2026-05-20",
-    "modificado": "2026-09-24",
-    "direccion": "Calle Valencia, 20",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "planta": 5,
-    "precio": 1100,
-    "metros": 36,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "F",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFmIrVqLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObjZtWtzTsPM-7zy!531Xv0Mp1lC5WGvjLkYcixAtNNuU2Jm7b88!njRHeAEgUQBQMhr2bFRVpeQUizeH9NV3j!7-KMBIA0pdzGPqqi3sYhEOqddWNHS6A6HCHDFhqUaxZdwgP70Wc1a-uP762!vqyvMCFGtQxNxKC5XMjZe68XwnCqmeqUEJC9KSHViG0RpUAjNHDdFMESZFv5uF8pBw0WomQqfbwYL-fSZN1GaOvH!585Nnf66tTDsOf8ChYXKDdz6OmlTfXH04Nfbg4-08lMIrkzbd6dKpq!xYnj!nXpiVOkRYYdKiKLp8CRNqUJfRHkqPnFqDKEez0sEl9ngPa3oWh6eobcngRKI0NcZRudDTb2TcTUDD!tRLksq21nVq-8Yadz79Sk25Wa7XbXR6euPW4u!G2rHMtnN3kMgImVj8r5sfKf7hzPL0-IX7P9OXU8CJngdHDy81Y0NwIHWdORQR4NNxkzP3B1fdJiCF3YDrzEh9BWDrUuXTeLlW!!J1aunkYKkKFvZmGTOJFmKrYusKKY7scPT9hVQqcc7zFIYCrUmC7VBaBdjmwyiRPI6ED0XOBHWLpbBtpSTbs11uuljvWfA9Q0msqccE4XFAvW4OpgZgnkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!kVokkA__"
-    ]
-  },
-  {
     "id": 277060,
     "publicado": "2026-05-20",
     "direccion": "Calle Fernando el Cat\u00f3lico, 86",

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 06 Oct 2026 10:56:22 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 06 Oct 2026 17:32:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -233,12 +233,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264962?2026-06-14</guid>
 		</item>
 		<item>
-			<title>809€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/265719</link>
-			<description>C/ Arces, 18,&lt;br/&gt;1º con ascensor,&lt;br/&gt;59m², 2 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/265719</description>
-			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265719?2026-09-24</guid>
+			<title>1300€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/266020</link>
+			<description>C/ Ferroviarios, 45,&lt;br/&gt;3º con ascensor,&lt;br/&gt;47m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/266020</description>
+			<pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266020?2026-09-02</guid>
 		</item>
 		<item>
 			<title>1350€ Centro</title>
@@ -351,14 +351,6 @@
 			<pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272172?2026-09-21</guid>
-		</item>
-		<item>
-			<title>975€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272738</link>
-			<description>C/ Santa Susana, 40,&lt;br/&gt;6º con ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/272738</description>
-			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272738?2026-09-24</guid>
 		</item>
 		<item>
 			<title>1100€ Usera</title>
@@ -1463,6 +1455,14 @@
 			<pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Móstoles</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277518?2026-10-05</guid>
+		</item>
+		<item>
+			<title>1095€ Retiro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277521</link>
+			<description>C/ Arregui y Aruej, 5,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;31m², 2 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277521</description>
+			<pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Retiro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277521?2026-10-06</guid>
 		</item>
 	</channel>
 </rss>

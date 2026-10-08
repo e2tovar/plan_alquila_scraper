@@ -371,6 +371,29 @@
     ]
   },
   {
+    "id": 260766,
+    "publicado": "2026-09-21",
+    "direccion": "Calle Clara del Rey, 30",
+    "municipio": "Madrid",
+    "distrito": "Chamart\u00edn",
+    "planta": 8,
+    "precio": 1350,
+    "metros": 46.53,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": true,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 261743,
     "publicado": "2026-10-06",
     "direccion": "Calle Valmojado, 249",
@@ -1068,30 +1091,6 @@
     ]
   },
   {
-    "id": 274399,
-    "publicado": "2026-10-07",
-    "direccion": "Avda Orense, 23",
-    "municipio": "San Sebasti\u00e1n de los Reyes",
-    "planta": 3,
-    "precio": 1200,
-    "metros": 90.43,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "C",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": true,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxWIFLehB8eMmKOhFqVf!CEEPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CUaKhcDFq4gxHHIkKLjRYldu7Om!OPps0RXgBIFQCUjIY9w6qqlJxi8fqQvvr24Z!vBRirQ6mDeUJdtYVdLMYR9VqKRk53IFKYIyYs1SixjBvkZ9diwcrn1159fVdde1aAYgBFzK20UMndeJkbz3eiiOq5AEpYkKZswwqMB1AJzQI1RDNFmBS9bhbKI8Ilq5mInG4HC3v3uTRV!3L0-5c!PX76e3Vt1nH4Aw4N00Pe00ncoPrG-oOZifsfbvVDKbw0WdOdLp2a6h!Li6vuhXmpI4QVJk2K4suXMKEGdRjtouzIqTWIcjQvHVxqj3expudwdIrapgxPpEpTYxyVCz37xibdBDTsz7ykmWxrXTvYN1G!!fFnZsrNcrNu2OnJ9ZtLv-obx3Lbzt1BImNkEvG!bn6s-PuzK7OTF-79yF7OAKe6Hhw9vNxIDMGh1DXmUESIzyQNztwfXHWbgBR2A64xI!UVgK1L1Z!Gi43a5y8zyycHS1WwsDfPmEm0mFiVWFdIcWxHo-8tpFKpc95PYSTQQBJsR9IqwDYfxonkSSx8KHImqFsshW0zI9me73LDxXrXgu8ZShJNPSYIT0LqdfpgagDmOeT2ANds8pp8coK6LFDatDHvTsFu4oxb2ruxqfoL5kIkug__"
-    ]
-  },
-  {
     "id": 274403,
     "publicado": "2026-10-05",
     "direccion": "Avda Constituci\u00f3n, 85",
@@ -1113,32 +1112,6 @@
     "trastero": false,
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLGg0wm42bC7MxkZjZZKRYVtKAHxY-boKAXpZ79HwQ9FAQvgnoRET!wInhydrNpYnFPw877vPP8nvdd-walWEPlfNDGXYw4FiFabLQpsXN33px9NG0O8QJAogCgZDTsGlZVpeQUi9cH9JW3D!98L8BYHUpdzGPqqi3sYBEOqddWNHS6faHCHDFhqUaxZdwgP70WC1Y-v!bq67vq6rMCFAMoYm6lhUrmxkvdeL4ThVTPBVDCgrRkB1ZgPIBK0yxQQzRThEnR72ahPCJcspqJ0Om2sWb!PpMm6l-OvH!50-Onv6-uzjoOf8ChYXrIezKOGlTfWHswM3H!w608lMJLkzbd7tKpqfxYXrzgXpiXOkRYYdKiKLp0ERNqUJfRHkqPnFqDKEfz0sEl9mgPa3oGhyeobcnmsURpaoyjcqGn39ikm4CGvamXJJVtrusEeybqtz!-TE25WW7UDTs9uX5z6Vd9!Uhm27nbT2SETCz-182PFH9!emV28ty9H-nLKeBUz4PDB5cbsSG4KXWNORTRxKfiBmfuD666TUAKuwHXmJH6MsDmpcqn8WK99vnLzPLxwVIVLOzOMmYSLcZWxdYVUhzZ0ej7C6lU4pznKYwEGkiC7UhaBdjiwziRPI6ED0XOBHWLpbBtpSRbs11uuFjvWvA9Q0msqccE4XGTet0cTA3APIfcGeCaDV6TTU5QlwVKWjbivSnYSZxxS!s3NlF!AaORJJk_"
-    ]
-  },
-  {
-    "id": 274479,
-    "publicado": "2026-10-01",
-    "modificado": "2026-10-02",
-    "direccion": "Calle Soria, 5",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "planta": 1,
-    "precio": 1400,
-    "metros": 63,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "D",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": true,
-    "porteria": true,
-    "trastero": true,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFFlZTrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CYaChfCFq4gxHHIkLVRosSO3!nzblHM-YILwCkCgCKRsOeYVVFSk6xeH1IX3n78M!3AozVodjBPKGu2sIuFuOIei1FI6c7ECnMEROWapRYxg3ys2uxaOXza6--vqusPSvAeADjmFtpoZy78TI3nu9EEdXzARSxIE3ZhlWYCKAcmkVqiGaKMCl63SyURoTLVjMROd0OFvbuc2mq!uXo9y99evz099W1OcfhDzg0zAx5Tydxg-ob6w9mJ-9!uNUPpfDSZE13unRqqn8sVZfcCwtSRwgrTJoUxZcuYkIN6jDaRdmRU2sQ5WhBOrjUHu9iTc!i6BS1TRmeSJWmxjgqF3r2jU25CWjYn3lJM9nWunawb7J---PPzJSb5WbdsNOT6zeXf9U3juW2nbuDRMbIJOJ!3fxY8fdnVuemzt!7kb2cAU53PTh6eKWRGIJDqWvMoYgQLyUNztwfXHGbgBR2A64xI!VlgK1L1Z!Gi43a5y-zKycHS1WwsDfPmElUTaxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYJsPE0TyJBY-jHMmqFsshW0zI9me73LDxXrXgu8ZShJNPSYIT0LqdfpgagDmOeT2ANds8pp8coK6LFDatDHvTsNu4oxb2ruxqfoLhTckig__"
     ]
   },
   {

@@ -774,6 +774,7 @@
   {
     "id": 270369,
     "publicado": "2026-10-05",
+    "modificado": "2026-10-09",
     "direccion": "Avda Pablo Neruda, 87",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -792,7 +793,9 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFFlYjVoLG02R23EyYnZnMzCYrxaKCFvSg-HETLOhFqVf!CEEPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CYaChfDFq4gxHHIkLVRosSO3!3zfnHM-YILwCkCgCKRsOeYVVFSk6xeH1IX3376M!3AozVodjBPKGu2sIuFuOIei1FI6c7ECnMEROWapRYxg3ys2uxaOXz66--vqusPivAeADjmFtpoZy78TI3nu9EEdXzARSxIE3ZhhWYCKAcmkVqiGaKMCl63SyURoRLVjMROd0OFvbuc2mq!uXo9y99Wnv6-9rqnOPwBxwaZoa8p5O4QfXN9Yezkw8-3O6HUnhpsqY7XTo11T-WqmvuhQWpI4QVJk2K4suXMKEGdRjtouzIqTWIcrQgHVxqj3expudwdIrapgxPpEpTYxyVCz37xqbcBDTsz7ykmWxrXTvYN1m!8!FnZsrNcrNu2OnJjVtLv-obx3Lbzt1BImNkEvG!bn6s-PuzK3NTF-7!yF7OAKe7Hhw9vNxIDMGh1DXmUESIzyQNztwfXHGbgBR2A64xI!UVgK1L1Z!Gi43a5y-zyycHS1WwsDfPmElUTaxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYJsPE0TyJBY-jHMmqFsshW0zI9me73LDxXrPgu8ZShJNPSYIT0LqdfpgagDmOeT2ANds8pp8coK6LFDatDHvTsNu4oxb2ruxqfoLJQsk2Q__"
+    ]
   },
   {
     "id": 270653,
@@ -1193,6 +1196,7 @@
   {
     "id": 274774,
     "publicado": "2026-09-29",
+    "modificado": "2026-10-09",
     "direccion": "Calle Bacares, 30",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -1211,7 +1215,9 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYjVoLG02R23EyYnZnMzCYrxaKCFvSg-HETVPSi1Kt!hKCHguBFUC8i4gdeBE!OJps2Fvc07LzPO8!ved!Vb1BKNFTOB23cxYhjEaFas02Jnbv95uzDaXOIFwBSBQAlo2HXRlVVSk6xeH1AX3774M!3Aow1oNTFPKGu2sIOFuOIem1FI6fbFynMEROWapRYxg3ys2uxYOXzq6--vquuPCtAMYAi5lZaqPTdeJkbz3eiiOq5AEpYkJbswDKMB1AJzQI1RDNFmBSDbhbKI8JFq5mInG4bCwf3fWmq!uXI-5c!PXr6-8rKrOPwhxwapjd4TyZxk-rrq!dnJu59uJmHUnhpsqbbXTp1lR!LtcfuhXmpI4QVJi2K4osXMKEGdRntoezIqTWIcjQvHVxqj!awpmdwdILalgyPpUpTYxyVCz37xibdBDTszbykmWxzXSfYM9G49fFnZsrNcr1uo9OTazcWfzXWjvRtO3f7iYyRScT!uvmx4u9PL89Onrv7I3s5A5zqeXD44FIzMQSHUteZQxEhPpU0OXN!cNVtAlLYDbjOjNSXADYvVT6NF2v1z19mlo4Pl6pgYXc!YyZRLbEqsa6Q4tiORj9YSKVS5zxPYSTQQBJsR9IqwBYfxonkSSx8KHImqFsshW0rI9na3-Wmi!WOBd8zlCSaekwQnoTU6-ZgagjmOeTOENes85r-5AR1WaC0ZWPem4KdxBm3dHBjU!UXJxEk2g__"
+    ]
   },
   {
     "id": 274822,

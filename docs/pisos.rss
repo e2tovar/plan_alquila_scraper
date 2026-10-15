@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 15 Oct 2026 12:59:03 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Oct 2026 18:00:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -473,6 +473,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275175?2026-09-25</guid>
 		</item>
 		<item>
+			<title>1275€ Alcorcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275584</link>
+			<description>C/ Gardenias, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275584</description>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Alcorcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275584?2026-10-15</guid>
+		</item>
+		<item>
 			<title>1100€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275928</link>
 			<description>Av. La Gavia, 36,&lt;br/&gt;6º con ascensor,&lt;br/&gt;67m², 1 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/275928</description>
@@ -791,14 +799,6 @@
 			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277364?2026-09-24</guid>
-		</item>
-		<item>
-			<title>1600€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277377</link>
-			<description>C/ Monasterio de Oseira, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;63m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277377</description>
-			<pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277377?2026-08-31</guid>
 		</item>
 		<item>
 			<title>1500€ Rozas de Madrid, Las</title>
@@ -1335,6 +1335,38 @@
 			<pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Navalafuente</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277541?2026-10-15</guid>
+		</item>
+		<item>
+			<title>1400€ Chamartín</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277542</link>
+			<description>C/ Bosque, 6,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277542</description>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Chamartín</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277542?2026-10-15</guid>
+		</item>
+		<item>
+			<title>1200€ Ciudad Lineal</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277543</link>
+			<description>C/ Gómez de Avellaneda, 47,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277543</description>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Ciudad Lineal</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277543?2026-10-15</guid>
+		</item>
+		<item>
+			<title>1300€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277544</link>
+			<description>Av. Águilas, 28,&lt;br/&gt;4º con ascensor,&lt;br/&gt;60m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277544</description>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277544?2026-10-15</guid>
+		</item>
+		<item>
+			<title>1800€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277547</link>
+			<description>C/ Huerta del Obispo, 15,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;68m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277547</description>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277547?2026-10-15</guid>
 		</item>
 	</channel>
 </rss>

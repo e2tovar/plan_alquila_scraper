@@ -2,6 +2,7 @@
   {
     "id": 206499,
     "publicado": "2026-10-16",
+    "modificado": "2026-10-16",
     "direccion": "Calle Corral de Almaguer, 12",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -19,7 +20,9 @@
     "piscina": false,
     "porteria": false,
     "trastero": true,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIgIs9dCvZhWZCHaYiVoPU1mx82E2ZnJzGyyUiwqaEEPih83QUEvSr36Rwh6KAheBPUiIn7gRfDk7GbTpMU9DTvv887ze9537TuUYg2Vi7UW7mDEsQjRfKNFiZ25-!b840lzlBcAEgUAJaNhz6CqKiWnWLw5pK--e!T3RwFGlqDUwTymrtrCLhbhkHotRUOnOxAqzBETlmoUW8YN8tNrMWfli-uvv72vrj4vQLEGRcyttFDJ3HipG893opDqmRqUsCBN2YYVGK1BJTBz1BDNFGFS9LpZKA8JF61mInS6HSzo3WfSRG3myPuXPz959ufa6rTj8PscGiYHvGfiqEH1zbWHU2MPPt7OQym8MmnTnS6dusqP5YUj7oVZqUOEFSZNiqLLlzChBnUY7aL0yKk1iHI0Kx1cYk90sabncHia2qYMTiZKU2MclQs9!UbG3QQ07E-9JKlsa127tm9s6c6nX6kpN8uNukGnpzduLf5eWj-e2XbuDhIZIROL!3XzI8U!nF2ZHr9w!2f6cgo40fXg2OHlRmwIDqSuM4ciArwQNzhzf3DVbQJS2A24zozUVwC2LlU-jZfr9S9fp5ZP9ZeqYGFvljGTaD62KraukOLIDkffW0ilEuc8T2Eo0Jok2A6lVYBtPowSyeNI-FDkTFC3WArbZkqyPdvlhov1ngXfM5TEmnpMEB4H1OvkYKoP5jnkdh!XbPCabHKCuixQ0rQR707AbuKMW9q7sYn6BzItJGE_"
+    ]
   },
   {
     "id": 214376,

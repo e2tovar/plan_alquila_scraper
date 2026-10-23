@@ -1501,32 +1501,6 @@
     ]
   },
   {
-    "id": 276964,
-    "publicado": "2026-04-22",
-    "modificado": "2026-09-24",
-    "direccion": "Calle Teruel, 37",
-    "municipio": "Madrid",
-    "distrito": "Tetu\u00e1n",
-    "planta": 1,
-    "precio": 1850,
-    "metros": 75,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": true,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFFtZWrASNp8nsuJkwOzOZmU1WikWFWtCD4sdNUNCLUs!-D4IeCoIXQb2IiB94ETw5u0matLinYed93nl-z!uuf4dioqF8KWjiNkYciwgt1puU2Nm7by88njLHeAEgVQBQNBr2DaoqUnKKxZsj-tq7R39!FGCkBsU25gl11Rb2sBhH1GsqGjndoUhhjpiwVKPEMm6Qn12LeStf3Hj97X1l7XkBRgMYxdxKC-XcjZe58XwniqieDaCIBWnIFqzAWADl0MxTQzRThEnR7WahNCRcspqJyOl2sbB7n0tTtZWj17!0-cmzP9fXZhyH3-fQMDXgXUjiOtU31x9Ojz!4eLsXSuGVyZrudulUVe9YWlh1L8xJHSGsMGlQFF-5jAk1qM1oB2VHTq1BlKM56eBSe7KDNT2PozPUNmR4KlWaGuOoXOjZNzLhJqDhYOYlzWTb61rBgfHanU-!MlNulpt1g05PV28t!a5tnMhtO3eHiYyRScT!uvmx4h!OrcxMXLz!M3s5A5zseHD86HI9MQSHUleZQxEhPpvUOXN!cMVtAlLYDbjKjNRXAbYvVW8aLzeqX75OL5!uL1XBwv48YybRYmJVYl0hxbEdjr67kEqlznkvhaFAA0mwHUqrADt8GCOSJ7HwYZQzQd1iKWwbGcnOfJfrLtZ7FnzPUJJo6jFBeBJSr90DU30wzyG3-rhmk9fkkxPUZYHSho15ZxL2Emfc0u6NTdU!7m4kvg__"
-    ]
-  },
-  {
     "id": 277060,
     "publicado": "2026-05-20",
     "direccion": "Calle Fernando el Cat\u00f3lico, 86",
@@ -3113,31 +3087,6 @@
     "trastero": false,
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtkk1oE0EUx1!XpH600poIolAUPIkwey3Ui2lFFmIrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LNXz4IeCoIXQb2IiB94ETw5m2zatLinYef93!x!!!dWv0Mx0VC-UG3hDkYciwgtNFqU2Jk7b889mjRHuAeQKgAoGg17NqoqUnKKxZtD-sq7h39!eDBSh2IH84S6agu7WIwj6rcUjZzuQKQwR0xYqlFiGTcoyK7FnJXPr73-9r6y8syDQhUKmFtpodxz42du!MCJIqpnqlDEgjRlG5ZhtArl0MxRQzRThEnR72ahNCRctJqJyOl2sLB!35OmajNH3r!0-fHTP1dXph1HMODQMLnBO5!EDapvrD6YGrv!8VYeivfSZE13unRqKj-W5l-5F2aljhBWmDQpii9dxIQa1GG0i7Ijp9YgytGsdHCpPd7Fmp7F0SlqmzI8kSpNjXFULvTsGxl3E9CwP!OSZrKtde3qvrH67U-!MlNulut1G52eXL-5-Lu-dqxn27k7SGSMTCL-1y2IFf9wZnl6!Py9n9nLGeBE14ejh5caiSE4lLrGHIoI8emkwZn7gytuE5DCbsA1ZqS-DLB1qfJpvFirffk6tXRysFSehb29jJlEC4lViXWFFMd2OPr-QiqVOud5CkOBViXBdigtD7YFMEokT2IRQIEzQd1iKWybGcn23i43XKx3LQS-oSTR1GeC8CSkficHUwMw3yG3B7hmndf0JieoywKlTRvz7gTsJs64pf0bm6p!Zd8k-Q__"
-    ]
-  },
-  {
-    "id": 277478,
-    "publicado": "2026-09-28",
-    "modificado": "2026-09-30",
-    "direccion": "Calle Humanes, 39",
-    "municipio": "Parla",
-    "planta": 0,
-    "precio": 950,
-    "metros": 57,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwe!BSqBfTiiysRqwEjafJZNxMmJ2ZzMwmK8Wighb0oPhxExT0otSz!4Ogh4LgRVAvIuIHXgRPzm42bSzuadh5n3ee3!O-q9-gFGuoXAg6uIcRxyJEtWaHEjt35825R9PmEC8AJAoASkbDro2qqpScYvH6gL7y9uGf7wUYa0Cph3lMXbWFHSzCIfU6ioZOty9UmCMmLNUotowb5KfXYsHK59defX1XXXlWgGIARcyttFDJ3HipG893opDquQBKWJC27MIyjAdQaZkFaohmijApBt0slEeEi1YzETrdNtYa3GfSRP3Lkfcvf3r89PfVlVnH4Q85NExv8J6KoybVN1YfzEzc!3ArD6Xw0qRNt7t06io!lmtH3AvzUocIK0zaFEWXLmJCDeox2kfpkVNrEOVoXjq4xB7rY03P4vAktW3ZOp4oTY1xVC709BubdBPQsDf1kqSyzXXdYM9E4!bHn6kpN8v1uo1OT67fXPzVWDua2Xbu9hMZIROL!3XzI8Xfn1menTx!70f6cgo41ffg8MGlZmwIbkldZw5FtPDpuMmZ-4OrbhOQwm7AdWakvgyweanyabxYq3!-MrN0YrhUBQu7s4yZRLXYqti6QoojOxr9YCGVSpzzPIWRQANJsB1JqwBbfBgnkseR8KHImaBusRS27ZRka7bLTRfrXQu-ZyiJNfWYIDxuUa-Xg6khmOeQu0Ncs85rsskJ6rJASdtGvD8FO4kzbungxibqL0qJJG0_"
     ]
   },
   {

@@ -291,6 +291,30 @@
     ]
   },
   {
+    "id": 252232,
+    "publicado": "2026-10-26",
+    "direccion": "Calle N\u00e1poles, 8",
+    "municipio": "Legan\u00e9s",
+    "planta": 3,
+    "precio": 1300,
+    "metros": 69,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": false,
+    "calefacion": false,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKy2WAkaT5PJuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPBcGLoIKIiB94ETw5u0natLinYed93nl-z!uufodioqF8IWzhDkYciwjN11uU2Jk7b849mjRHuAeQKgAoGg17NqoqUnKKxetD-srbh39!eDBSg2IH84S6agu7WIwj6rcUjZzuQKQwR0xYqlFiGTcoyK7FnJXPr7369q6y8syDQggFzK20UM7d-JkbP3CiiOqZEIpYkKZswzKMhlBumDlqiGaKMCl63SyUhoSLVjMROd0O1ujd59JUbebo9y99evz0z9WVaccRDDg0TG7wnk7iOtU3Vh9Mjd3!cKsfivfSZE13unSqqn8sLXx2L8xKHSGsMGlSFF-6iAk1qMNoF2VHTq1BlKNZ6eBSe7yLNT2Lo1PUNmXjRKo0NcZRudCzb2TcTUDD!sxLmsm21rXDfWO12x9!ZabcLNfrNjo9uX5z8Xdt7Vhu27k7SGSMTCL-1y2IFX9!Znl6!Py9n9nLGeBE14ejh5fqiSG4IXWVORTRwAtJnTP3B1fcJiCF3YCrzEh9GWDrUvWn8WKt-uXr1NLJwVJ5FvbmGTOJ5hOrEusKKY7tcPS9hVQqdc77KQwFGkqC7VBaHmwLYJRInsQigAJngrrFUtg2M5Lt-S7XXax3LQS-oSTR1GeC8KRB!U4fTA3AfIfcHuCadV6TT05QlwVKmzbm3QnYTZxxS3s3NlX!ALKwJR8_"
+    ]
+  },
+  {
     "id": 253652,
     "publicado": "2026-10-14",
     "direccion": "Calle Cangrejo, 4",
@@ -4182,6 +4206,7 @@
   {
     "id": 277571,
     "publicado": "2026-10-26",
+    "modificado": "2026-10-26",
     "direccion": "Avda Legan\u00e9s, 48",
     "municipio": "Alcorc\u00f3n",
     "planta": 4,
@@ -4199,7 +4224,9 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKy2WAkaT5PJuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPBcGLoCKIiB94ETw5u0natLinYed93nl-z!uufodioqF8IWzhDkYciwjN11uU2Jk7b849mjRHuAeQKgAoGg17NqoqUnKKxetD-srbh39!eDBSg2IH84S6agu7WIwj6rcUjZzuQKQwR0xYqlFiGTcoyK7FnJXPr7369q6y8syDQggFzK20UM7d-JkbP3CiiOqZEIpYkKZswzKMhlBumDlqiGaKMCl63SyUhoSLVjMROd0O1ujd59JUbebo9y99evz0z9WVaccRDDg0TG7wnk7iOtU3Vh9Mjd3!cKsfivfSZE13unSqqn8sLXx2L8xKHSGsMGlSFF-6iAk1qMNoF2VHTq1BlKNZ6eBSe7yLNT2Lo1PUNmXjRKo0NcZRudCzb2TcTUDD!sxLmsm21rXDfWO12x9!ZabcLNfrNjo9uX5z8Xdt7Vhu27k7SGSMTCL-1y2IFX9!Znl6!Py9n9nLGeBE14ejh5fqiSG4IXWVORTRwAtJnTP3B1fcJiCF3YCrzEh9GWDrUvWn8WKt-uXr1NLJwVJ5FvbmGTOJ5hOrEusKKY7tcPS9hVQqdc77KQwFGkqC7VBaHmwLYJRInsQigAJngrrFUtg2M5Lt-S7XXax3LQS-oSTR1GeC8KRB!U4fTA3AfIfcHuCadV6TT05QlwVKmzbm3QnYTZxxS3s3NlX!ALCqJR4_"
+    ]
   },
   {
     "id": 277573,

@@ -338,33 +338,6 @@
     ]
   },
   {
-    "id": 253652,
-    "publicado": "2026-10-14",
-    "direccion": "Calle Cangrejo, 4",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "planta": 3,
-    "precio": 1050,
-    "metros": 46.37,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": true,
-    "piscina": true,
-    "porteria": true,
-    "trastero": true,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYjVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Kt!hKCHguJFUC8i4gdeBE!OJps2Fvc07LzPO8!ved!Vb1BKNFTOB23cxYhjEaFas02Jnbv9-uzDaXOIFwBSBQAlo2HXRlVVSk6xeHVAX37z4M!3Aow1oNTFPKGu2sIOFuOIem1FI6fbFynMEROWapRYxg3ys2uxYOWzqy-!vquuPC1AMYAi5lZaqPTdeJkbz3eiiOq5AEpYkJbswDKMB1AJzQI1RDNFmBSDbhbKI8JFq5mInG4bCwf3fWmq!uXI-5c!PXry-8rKrOPwhxwapjd4TyZxk-rrq!dnJu59uJmHUnhhsqbbXTp1lR!LtbfuhXmpI4QVJi2K4osXMKEGdRntoezIqTWIcjQvHVxqj!awpmdwdILalgyPpUpTYxyVCz37xibdBDTszbykmWxzXSfYM9G49fFnZsrNcr1uo9PjazcWfzXWjvRtO3f7iYyRScT!uvmx4u9PL89Onrv7I3s5A5zqeXD44FIzMQSHUteZQxEhPpU0OXN!cNVtAlLYDbjOjNSXADYvVT6N52v1z19mlo4Pl6pgYXc!YyZRLbEqsa6Q4tiORj9YSKVS5zxPYSTQQBJsR9IqwBYfxonkSSx8KHImqFsshW0rI9na3-Wmi!WOBd8zlCSaekwQnoTU6-ZgagjmOeTOENes85r-5AR1WaC0ZWPem4KdxBm3dHBjU!UXkk8lDw__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYjVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Kt!hKCHguhFUC8i4gdeBE!OJps2Fvc07LzPO8!ved!Vb1BKNFTOB23cxYhjEaFas02Jnbv9-uzDaXOIFwBSBQAlo2HXRlVVSk6xeHVAX37z4M!3Aow1oNTFPKGu2sIOFuOIem1FI6fbFynMEROWapRYxg3ys2uxYOWzqy-!vquuPC1AMYAi5lZaqPTdeJkbz3eiiOq5AEpYkJbswDKMB1AJzQI1RDNFmBSDbhbKI8JFq5mInG4bCwf3fWmq!uXI-5c!PXry-8rKrOPwhxwapjd4TyZxk-rrq!dnJu59uJmHUnhhsqbbXTp1lR!LtbfuhXmpI4QVJi2K4osXMKEGdRntoezIqTWIcjQvHVxqj!awpmdwdILalgyPpUpTYxyVCz37xibdBDTszbykmWxzXSfYM9G49fFnZsrNcr1uo9PjazcWfzXWjvRtO3f7iYyRScT!uvmx4u9PL89Onrv7I3s5A5zqeXD44FIzMQSHUteZQxEhPpU0OXN!cNVtAlLYDbjOjNSXADYvVT6N52v1z19mlo4Pl6pgYXc!YyZRLbEqsa6Q4tiORj9YSKVS5zxPYSTQQBJsR9IqwBYfxonkSSx8KHImqFsshW0rI9na3-Wmi!WOBd8zlCSaekwQnoTU6-ZgagjmOeTOENes85r-5AR1WaC0ZWPem4KdxBm3dHBjU!UXlFUlEA__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYjVoLW02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Kt!hKCHgtCLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f875r36CUaKhcDFq4gxHHIkK1RosSO3f37fnH0-YILwCkCgBKRsOeYVVVSk6xeHNIX3336M!3AowtQamDeUJdtYVdLMYR9VqKRk53IFKYIyYs1SixjBvkZ9diwcoX119!3aiuPi9AMYAi5lZaqORuvMyN5ztRRPVcACUsSFO2YQXGA6iEZoEaopkiTIpeNwvlEeGi1UxETreDhb37XJqqfzn6!cufnjz7fW111nH4Aw4N00Pe00ncoPrm2sOZiQcfbvdDKbwyWdOdLp266h!LtQ33wrzUEcIKkyZF8eVLmFCDOox2UXbk1BpEOZqXDi61x7tY03M4OkVtU4YnUqWpMY7KhZ59Y5NuAhr2Z17STLa1rh3sm1i68!FnZsrNcrNu2OnpjVuLv5bWj-W2nbuDRMbIJOJ!3fxY8fdnV2YnL9z!kb2cAU51PTh6eLmRGIJDqevMoYgQn0kanLk!uOo2ASnsBlxnRuorAFuXqj-Nl-v1z19mlk8OlqpgYW-eMZOolliVWFdIcWxHo-8tpFKpc95PYSTQQBJsR9IqwDYfxonkSSx8KHImqFsshW0zI9me73LDxXrPgu8ZShJNPSYIT0LqdfpgagDmOeT2ANds8pp8coK6LFDatDHvTsFu4oxb2ruxqfoLllslEQ__"
-    ]
-  },
-  {
     "id": 255416,
     "publicado": "2026-08-05",
     "modificado": "2026-09-24",

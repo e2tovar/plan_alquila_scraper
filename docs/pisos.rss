@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 26 Oct 2026 20:52:42 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2026 13:46:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -97,6 +97,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214376?2026-09-16</guid>
 		</item>
 		<item>
+			<title>950€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/216247</link>
+			<description>C/ Adolfo Bioy casares, 3,&lt;br/&gt;5º con ascensor,&lt;br/&gt;55m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/216247</description>
+			<pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/216247?2026-10-27</guid>
+		</item>
+		<item>
 			<title>1400€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/217728</link>
 			<description>C/ Santa Genoveva, 52,&lt;br/&gt;3º con ascensor,&lt;br/&gt;63m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/217728</description>
@@ -113,12 +121,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/226965?2026-10-22</guid>
 		</item>
 		<item>
-			<title>1035€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/227490</link>
-			<description>C/ González Feito, 17,&lt;br/&gt;1º con ascensor,&lt;br/&gt;31m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/227490</description>
-			<pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/227490?2026-09-21</guid>
+			<title>1150€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/228270</link>
+			<description>C/ Emilio Ortuño, 16 - 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;75m², 2 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/228270</description>
+			<pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/228270?2026-10-27</guid>
 		</item>
 		<item>
 			<title>1300€ Fuencarral-El Pardo</title>
@@ -417,12 +425,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274031?2026-10-08</guid>
 		</item>
 		<item>
-			<title>1150€ Centro</title>
+			<title>1100€ Centro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274240</link>
 			<description>C/ Oso, 3,&lt;br/&gt;3º con ascensor,&lt;br/&gt;34m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/274240</description>
-			<pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274240?2026-05-27</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274240?2026-10-27</guid>
 		</item>
 		<item>
 			<title>1100€ Coslada</title>
@@ -543,14 +551,6 @@
 			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Pinto</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276936?2026-09-24</guid>
-		</item>
-		<item>
-			<title>1600€ Chamberí</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277060</link>
-			<description>C/ Fernando el Católico, 86,&lt;br/&gt;1º con ascensor,&lt;br/&gt;69m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277060</description>
-			<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277060?2026-05-20</guid>
 		</item>
 		<item>
 			<title>2000€ Rozas de Madrid, Las</title>
@@ -695,14 +695,6 @@
 			<pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277299?2026-08-05</guid>
-		</item>
-		<item>
-			<title>1650€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277300</link>
-			<description>C/ Antonio de Leyva, 52,&lt;br/&gt;2º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277300</description>
-			<pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277300?2026-07-31</guid>
 		</item>
 		<item>
 			<title>900€ Parla</title>
@@ -921,6 +913,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277451?2026-09-17</guid>
 		</item>
 		<item>
+			<title>1000€ Barajas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277456</link>
+			<description>Av. General, 33,&lt;br/&gt;2º con ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277456</description>
+			<pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+			<category>Barajas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277456?2026-09-18</guid>
+		</item>
+		<item>
 			<title>1000€ Rozas de Madrid, Las</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277457</link>
 			<description>C/ Concha Espina, 9,&lt;br/&gt;3º con ascensor,&lt;br/&gt;42m², 2 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277457</description>
@@ -1039,14 +1039,6 @@
 			<pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Getafe</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277492?2026-09-30</guid>
-		</item>
-		<item>
-			<title>1200€ Meco</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277494</link>
-			<description>C/ Finlandia, 12,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;80m², 3 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277494</description>
-			<pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Meco</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277494?2026-09-30</guid>
 		</item>
 		<item>
 			<title>900€ Villa de Vallecas</title>

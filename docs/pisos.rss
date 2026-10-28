@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 27 Oct 2026 19:06:24 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Oct 2026 10:09:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -167,14 +167,6 @@
 			<pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/236493?2026-06-24</guid>
-		</item>
-		<item>
-			<title>1075€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/241544</link>
-			<description>C/ Jaén, 11,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;49m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/241544</description>
-			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/241544?2026-09-24</guid>
 		</item>
 		<item>
 			<title>1300€ Leganés</title>
@@ -913,14 +905,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277456?2026-09-18</guid>
 		</item>
 		<item>
-			<title>1000€ Rozas de Madrid, Las</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277457</link>
-			<description>C/ Concha Espina, 9,&lt;br/&gt;3º con ascensor,&lt;br/&gt;42m², 2 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277457</description>
-			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Rozas de Madrid, Las</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277457?2026-09-24</guid>
-		</item>
-		<item>
 			<title>3000€ Moncloa-Aravaca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277462</link>
 			<description>C/ Rey Francisco, 20,&lt;br/&gt;5º sin ascensor,&lt;br/&gt;106m², 4 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277462</description>
@@ -1415,6 +1399,14 @@
 			<pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277578?2026-10-26</guid>
+		</item>
+		<item>
+			<title>1200€ Coslada</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277583</link>
+			<description>Pl. Dr Marañón, 8,&lt;br/&gt;1º con ascensor,&lt;br/&gt;65m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277583</description>
+			<pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Coslada</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277583?2026-10-28</guid>
 		</item>
 	</channel>
 </rss>

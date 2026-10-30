@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 30 Oct 2026 14:42:36 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Oct 2026 20:18:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1231,6 +1231,14 @@
 			<pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277585?2026-10-28</guid>
+		</item>
+		<item>
+			<title>1100€ Collado Villalba</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277588</link>
+			<description>C/ Trece Rosas, 6,&lt;br/&gt;1º con ascensor,&lt;br/&gt;82m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277588</description>
+			<pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Collado Villalba</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277588?2026-10-30</guid>
 		</item>
 	</channel>
 </rss>

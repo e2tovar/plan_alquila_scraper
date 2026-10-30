@@ -3717,5 +3717,26 @@
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKy2WAlaT5PJuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPBcGLoF5ExA96ETw5u0matLinYed93nl-z!uu!YBioqF8KWziNkYciwjN15qU2Jl77y48mTTHuAeQKgAoGg37BlUVKTnF4u0Rfe39478!PRhZgmIb84S6agt7WIwj6jcVjZzuUKQwR0xYqlFiGTcoyK7FnJUvb7z5!qGy-sKDQggFzK20UM7d-JkbP3CiiOqZEIpYkIZswQqMhlCumzlqiGaKMCm63SyUhoSLVjMROd0uVu!e59JUbeXo9S99efr8z!XVaccR9Dk0TA54zyZxjepba4-mxh5-utMLxXttsqa7XTpV1TuWFjbcC7NSRwgrTBoUxVcuY0INajPaQdmRU2sQ5WhWOrjUnuxgTc!j6Ay1DVk!lSpNjXFULvTsGxl3E9BwMPOSZrLtda3wwNjS3c-!M1Nulpt1g07Pbt5e3FhaP5Hbdu4OExkjk4j!dQtixT-eW5kev!jgV!ZyBjjR8eH40eVaYgiuS11lDkXU8UJS48z9wRW3CUhhN-AqM1JfBdi-VL1pvFqvfv02tXy6v1Sehf15xkyi-cSqxLpCimM7HH13IZVKnfNeCkOBhpJgO5SWBzsCGCWSJ7EIoMCZoG6xFLaNjGRnvss1F-t9C4FvKEk09ZkgPKlTv90DU30w3yG3-rhmk9fkkxPUZYHSho15ZwL2Emfc0u6NTdU!zP4lLA__"
     ]
+  },
+  {
+    "id": 277588,
+    "publicado": "2026-10-30",
+    "direccion": "Calle Trece Rosas, 6",
+    "municipio": "Collado Villalba",
+    "planta": 1,
+    "precio": 1100,
+    "metros": 82,
+    "dormitorios": 2,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]

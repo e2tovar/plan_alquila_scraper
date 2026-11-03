@@ -1163,6 +1163,29 @@
     ]
   },
   {
+    "id": 276804,
+    "publicado": "2026-11-03",
+    "direccion": "Paseo Ferroviarios, 9",
+    "municipio": "Madrid",
+    "distrito": "Villaverde",
+    "planta": 1,
+    "precio": 1500,
+    "metros": 73,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 276892,
     "publicado": "2026-04-07",
     "modificado": "2026-09-24",
@@ -2811,31 +2834,6 @@
     "trastero": false,
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Kt!hKCHguBFUC8i4gdeBE!ObpImLe5p2Hmfd57f875r36GUaKhcDFq4gxHHIkKLjRYldu7u2!OPp80RXgBIFQCUjIY9w6qqlJxi8eaQvvru0d8fBRirQ6mDeUJdtYVdLMYR9VqKRk53IFKYIyYs1SixjBvkZ9diwcoX119!e19dfV6AYgBFzK20UMndeJkbz3eiiOq5AEpYkKZswwqMB1AJzQI1RDNFmBS9bhbKI8Ilq5mInG4HC3v3uTRVmzn6!cufnzz7c2111nH4Aw4N00Pe00ncoPrm2sOZiQcfb!dDKbwyWdOdLp2a6h!Li9i9MC91hLDCpElRfPkSJtSgDqNdlB05tQZRjualg0vt8S7W9ByOTlHblOGJVGlqjKNyoWff2KSbgIb9mZc0k22tawf7Jup3Pv3KTLlZbtQNOz29cWvpd339WG7buTtIZIxMIv7XzY8V!3B2ZXbywv2f2csZ4FTXg6OHlxuJITiUusYcigjxmaTBmfuDq24TkMJuwDVmpL4CsHWp-tN4uV778nVm-eRgqQoW9uYZM4kWE6sS6wopju1o9L2FVCp1zvspjAQaSILtSFoF2ObDOJE8iYUPRc4EdYulsG1mJNvzXW64WO9Z8D1DSaKpxwThSUi9Th9MDcA8h9we4JoNXpNPTlCXBUqbNubdKdhNnHFLezc2Vf8ApYIkmg__"
-    ]
-  },
-  {
-    "id": 277523,
-    "publicado": "2026-10-07",
-    "modificado": "2026-10-08",
-    "direccion": "Calle Alcal\u00e1, 692",
-    "municipio": "Madrid",
-    "distrito": "San Blas-Canillejas",
-    "planta": 5,
-    "precio": 1200,
-    "metros": 78,
-    "dormitorios": 3,
-    "aseos": 2,
-    "mascotas": true,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFqIVK0HjaTI7bibMzkxmZpOVYvEDLehB8eMmKOhFqVf!CEEPBcGLoF5ExA-8CJ6c3WyaWNzTsPM-7zy!533XvkEp1lA5X2vjLkYcixAtNtuU2Lk7b84-mjaHeAEgUQBQMhp2DauqUnKKxesD-vLbh3--F2CsAaUu5jF11RZ2sAiH1GsrGjrdvlBhjpiwVKPYMm6Qn16LBSufX3319V119VkBijUoYm6lhUrmxkvdeL4ThVTP1aCEBWnJDqzAeA0qgVmghmimCJOi381CeUS4ZDUTodNtY0H!PpMm6l-OvH!50-Onv6-szjoOf8ChYXrIezKOmlTfWHswM3H!w608lMJLkzbd7tKpq!xYXrzmXpiXOkRYYdKiKLp4ARNqUJfRHkqPnFqDKEfz0sEl9mgPa3oGhyeobcngWKI0NcZRudDTb2zSTUDD3tRLkso213VqeyYatz!-TE25WW7UDTs9uX5z6Vdj!Uhm27nbT2SETCz-182PFH9!emV28ty9H-nLKeBUz4PDB5ebsSE4kLrOHIoI8Km4yZn7g6tuE5DCbsB1ZqS-BLB5qfJpvFivf!4ys3x8sFQFC7uzjJlEi7FVsXWFFEd2NPr-QiqVOOd5CiOB1iTBdiStAmzxYZxIHkfChyJngrrFUti2UpKt2S43Xax3LfieoSTW1GOC8DigXjcHUwMwzyF3Brhmg9dkkxPUZYGSlo14bwp2Emfc0v6NTdRf6k4kvA__"
     ]
   },
   {

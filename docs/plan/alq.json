@@ -154,33 +154,6 @@
     ]
   },
   {
-    "id": 228436,
-    "publicado": "2026-10-22",
-    "direccion": "Plaza Ver\u00edn, 2",
-    "municipio": "Madrid",
-    "distrito": "Fuencarral-El Pardo",
-    "planta": 9,
-    "precio": 1300,
-    "metros": 41.4,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "D",
-    "mascotas": true,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": true,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtkk1oE0EUx1!XpH600poIolAUPIkwey3Ui2lFFqItVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tWrd0EPBcGLoF5ExA-8CJ6c3WzatLinYef93!x!!!dWv0Mx1lC-UG3jLkYcixDNN9qU2Jk7b889mjRHuAeQKAAoGg17NqoqUnKKxZtD-sq7h39!eDBSh2IX85i6agu7WIRD6rcVDZ3uQKgwR0xYqlFsGTcoSK!FnJXPr73-9r6y8syDQhUKmFtpoZy58VM3fuBEIdUzVShiQVqyA8swWoVy08xRQzRThEnR72ahNCRctJqJ0Ol2sGb!PpMmajNH3r!0-fHTP1dXph1HMODQMLnBezqOGlTfWH0wNXb!4608FO-lSZvudOnUVH4sLbxyL8xKHSKsMGlRFF26iAk1qMtoD6VHTq1BlKNZ6eASe7yHNT2Lw1PUtmTzRKI0NcZRudDTb2TcTUDD!tRLksq21nWq-8bqtz!9Sk25Wa7XbXR6cv3m4u!62rHMtnN3kMgImVj8r1sQKf7hzPL0-Pl7P9OXU8CJng9HDy81YkNwU-oacyiiiRfiBmfuD664TUAKuwHXmJH6MsDWpcqn8WKt9uXr1NLJwVJ5FvZmGTOJ5mOrYusKKY7scPT9hVQqcc7zFIYCrUqC7VBaHmwLYJRIHkcigAJngrrFUti2UpLt2S43XKx3LQS-oSTW1GeC8LhJ!W4OpgZgvkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!Zcwk-Q__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtkk1oE0EUx1!XpH600poIolAUPIkwey3Ui2lFFqItVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tWzZ0EPBcGLoF5ExA-8CJ6c3WzatLinYef93!x!!!dWv0Mx1lC-UG3jLkYcixDNN9qU2Jk7b889mjRHuAeQKAAoGg17NqoqUnKKxZtD-sq7h39!eDBSh2IX85i6agu7WIRD6rcVDZ3uQKgwR0xYqlFsGTcoSK!FnJXPr73-9r6y8syDQhUKmFtpoZy58VM3fuBEIdUzVShiQVqyA8swWoVy08xRQzRThEnR72ahNCRctJqJ0Ol2sGb!PpMmajNH3r!0-fHTP1dXph1HMODQMLnBezqOGlTfWH0wNXb!4608FO-lSZvudOnUVH4sLbxyL8xKHSKsMGlRFF26iAk1qMtoD6VHTq1BlKNZ6eASe7yHNT2Lw1PUtmTzRKI0NcZRudDTb2TcTUDD!tRLksq21nWq-8bqtz!9Sk25Wa7XbXR6cv3m4u!62rHMtnN3kMgImVj8r1sQKf7hzPL0-Pl7P9OXU8CJng9HDy81YkNwU-oacyiiiRfiBmfuD664TUAKuwHXmJH6MsDWpcqn8WKt9uXr1NLJwVJ5FvZmGTOJ5mOrYusKKY7scPT9hVQqcc7zFIYCrUqC7VBaHmwLYJRIHkcigAJngrrFUti2UpLt2S43XKx3LQS-oSTW1GeC8LhJ!W4OpgZgvkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!Z9Ik-g__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtkk1oE0EUx1!XpH600poIolAUPIkwey3Ui2lFFqItVoLG02QybibMzkxmZpOVYlFBC3pQ!LgJCnpR6tW7V0EPBcGLoF5ExA-8CJ6c3WzatLinYef93!x!!!dWv0Mx1lC-UG3jLkYcixDNN9qU2Jk7b889mjRHuAeQKAAoGg17NqoqUnKKxZtD-sq7h39!eDBSh2IX85i6agu7WIRD6rcVDZ3uQKgwR0xYqlFsGTcoSK!FnJXPr73-9r6y8syDQhUKmFtpoZy58VM3fuBEIdUzVShiQVqyA8swWoVy08xRQzRThEnR72ahNCRctJqJ0Ol2sGb!PpMmajNH3r!0-fHTP1dXph1HMODQMLnBezqOGlTfWH0wNXb!4608FO-lSZvudOnUVH4sLbxyL8xKHSKsMGlRFF26iAk1qMtoD6VHTq1BlKNZ6eASe7yHNT2Lw1PUtmTzRKI0NcZRudDTb2TcTUDD!tRLksq21nWq-8bqtz!9Sk25Wa7XbXR6cv3m4u!62rHMtnN3kMgImVj8r1sQKf7hzPL0-Pl7P9OXU8CJng9HDy81YkNwU-oacyiiiRfiBmfuD664TUAKuwHXmJH6MsDWpcqn8WKt9uXr1NLJwVJ5FvZmGTOJ5mOrYusKKY7scPT9hVQqcc7zFIYCrUqC7VBaHmwLYJRIHkcigAJngrrFUti2UpLt2S43XKx3LQS-oSTW1GeC8LhJ!W4OpgZgvkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!adgk-w__"
-    ]
-  },
-  {
     "id": 228888,
     "publicado": "2026-07-28",
     "modificado": "2026-09-23",
@@ -3527,6 +3500,28 @@
     "adaptada": false,
     "piscina": false,
     "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 277592,
+    "publicado": "2026-11-04",
+    "direccion": "Calle Bravo Murillo, 125",
+    "municipio": "Madrid",
+    "distrito": "Tetu\u00e1n",
+    "planta": 6,
+    "precio": 1800,
+    "metros": 85.43,
+    "dormitorios": 2,
+    "aseos": 1,
+    "mascotas": true,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
     "trastero": false,
     "imgs": []
   }

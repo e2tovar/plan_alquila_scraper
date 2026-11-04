@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 04 Nov 2026 11:44:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2026 19:00:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -127,14 +127,6 @@
 			<pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/228270?2026-10-27</guid>
-		</item>
-		<item>
-			<title>1300€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/228436</link>
-			<description>Pl. Verín, 2,&lt;br/&gt;9º con ascensor,&lt;br/&gt;41m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/228436</description>
-			<pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/228436?2026-10-22</guid>
 		</item>
 		<item>
 			<title>1100€ Centro</title>
@@ -1175,6 +1167,14 @@
 			<pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Collado Villalba</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277588?2026-10-30</guid>
+		</item>
+		<item>
+			<title>1800€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277592</link>
+			<description>C/ Bravo Murillo, 125,&lt;br/&gt;6º con ascensor,&lt;br/&gt;85m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277592</description>
+			<pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277592?2026-11-04</guid>
 		</item>
 	</channel>
 </rss>

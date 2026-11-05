@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 04 Nov 2026 19:00:04 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 08:42:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -143,14 +143,6 @@
 			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/229210?2026-09-24</guid>
-		</item>
-		<item>
-			<title>1150€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/232065</link>
-			<description>C/ Lérida, 18,&lt;br/&gt;5º con ascensor,&lt;br/&gt;39m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/232065</description>
-			<pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/232065?2026-02-23</guid>
 		</item>
 		<item>
 			<title>1290€ Retiro</title>
@@ -399,6 +391,14 @@
 			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276341?2026-09-24</guid>
+		</item>
+		<item>
+			<title>900€ Villaverde</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276783</link>
+			<description>C/ Carmen Bordiú, 1,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276783</description>
+			<pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+			<category>Villaverde</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276783?2026-11-05</guid>
 		</item>
 		<item>
 			<title>1500€ Villaverde</title>
@@ -1017,6 +1017,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277547?2026-10-16</guid>
 		</item>
 		<item>
+			<title>1079.28€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277549</link>
+			<description>C/ Isabel Clara Eugenia, 14,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;85m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277549</description>
+			<pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277549?2026-11-05</guid>
+		</item>
+		<item>
 			<title>1450€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277550</link>
 			<description>C/ Azucenas, 93,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;75m², 2 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277550</description>
@@ -1055,6 +1063,14 @@
 			<pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277563?2026-10-21</guid>
+		</item>
+		<item>
+			<title>780€ Villaverde</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277567</link>
+			<description>C/ Matachel, 7,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277567</description>
+			<pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Villaverde</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277567?2026-10-21</guid>
 		</item>
 		<item>
 			<title>1400€ Retiro</title>

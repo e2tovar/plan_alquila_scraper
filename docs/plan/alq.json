@@ -556,33 +556,6 @@
     ]
   },
   {
-    "id": 270105,
-    "publicado": "2026-10-26",
-    "direccion": "Avda Cerro Milano, 141",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "planta": 3,
-    "precio": 825,
-    "metros": 46,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "C",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": true,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFFlZbrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPAcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f874b36CYaChfCJq4jRHHIkJL9SYldv7Om3OPZswRXgBIFQAUjYY9w6qKlJxi8fqQvvL24Z!vBRirQbGNeUJdtYVdLMYR9ZqKRk53IFKYIyYs1SixjBvkZ9di0crn1159fVdZf1aA8QDGMbfSQjl342VuPN-JIqrnAyhiQRqyBWswEUA5NIvUEM0UYVL0ulkojQhXrGYicrodLOzd59JU!cvR71!69Pjp76vrc47DH3BomBnynk7iOtU3Nh7MTt7!cKsfSuGlyZrudOlUVf9YWu66FxakjhBWmDQoii9dxIQa1Ga0g7Ijp9YgytGCdHCpPd7Bmp7F0SlqGzI8kSpNjXFULvTsG5tyE9CwP!OSZrKtda1g32Tt9sefmSk3y826Yacn12-u!Kp1j-W2nbuDRMbIJOJ!3fxY8fdn1uamzt!7kb2cAU53PDh6eLWeGIJDqavMoYgQLyd1ztwfXHGbgBR2A64yI!VlgK1L1Z!Gi27185fZ1ZODpSpY2JtnzCRaSqxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYJsPE0TyJBY-jHMmqFsshW0jI9me73LdxXrXgu8ZShJNPSYIT0LqtftgagDmOeTWANds8pp8coK6LFDasDHvTMNu4oxb2ruxqfoLjD4lDA__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKy2WAkaT5PJuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPFcGLoF5ExA-8CJ6c3SRtWtzTsPM-7zy!531Xv0Mx0VC-ELZwByOORYTm6y1K7MydN-ceTZoj3ANIFQAUjYY9G1UVKTnF4vUhfeXdw78!PBipQbGDeUJdtYVdLMYR9VuKRk53IFKYIyYs1SixjBsUZNdizsrn1159e19ZeeZBIYQC5lZaKOdu!MyNHzhRRPVMCEUsSFO2YRlGQyg3zBw1RDNFmBS9bhZKQ8JFq5mInG4Ha!Tuc2mqNnP0-5c-P3765-rKtOMIBhwaJjd4Tydxneobqw-mxu5!vNUPxXtpsqY7XTpV1T-WFt66F2aljhBWmDQpii9dxIQa1GG0i7Ijp9YgytGsdHCpPd7Fmp7F0Slqm7JxIlWaGuOoXOjZNzLuJqBhf-YlzWRb69rhvrHa7U-!MlNulut1G52eXL-5-Lu2diy37dwdJDJGJhH!6xbEin84szw9fv7ez-zlDHCi68PRw0v1xBDckLrKHIpo4IWkzpn7gytuE5DCbsBVZqS-DLB1qfrTeLFW!fJ1aunkYKk8C3vzjJlE84lViXWFFMd2OPreQiqVOuf9FIYCDSXBdigtD7YFMEokT2IRQIEzQd1iKWybGcn2fJfrLta7FgLfUJJo6jNBeNKgfqcPpgZgvkNuD3DNOq!JJyeoywKlTRvz7gTsJs64pb0bm6p!jkQlDQ__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKy2WAkaT5PJuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPRcGLoF5ExA-8CJ6c3SRtWtzTsPM-7zy!531Xv0Mx0VC-ELZwByOORYTm6y1K7MydN-ceTZoj3ANIFQAUjYY9G1UVKTnF4vUhfeXdw78!PBipQbGDeUJdtYVdLMYR9VuKRk53IFKYIyYs1SixjBsUZNdizsrn1159e19ZeeZBIYQC5lZaKOdu!MyNHzhRRPVMCEUsSFO2YRlGQyg3zBw1RDNFmBS9bhZKQ8JFq5mInG4Ha!Tuc2mqNnP0-5c-P3765-rKtOMIBhwaJjd4Tydxneobqw-mxu5!vNUPxXtpsqY7XTpV1T-WFt66F2aljhBWmDQpii9dxIQa1GG0i7Ijp9YgytGsdHCpPd7Fmp7F0Slqm7JxIlWaGuOoXOjZNzLuJqBhf-YlzWRb69rhvrHa7U-!MlNulut1G52eXL-5-Lu2diy37dwdJDJGJhH!6xbEin84szw9fv7ez-zlDHCi68PRw0v1xBDckLrKHIpo4IWkzpn7gytuE5DCbsBVZqS-DLB1qfrTeLFW!fJ1aunkYKk8C3vzjJlE84lViXWFFMd2OPreQiqVOuf9FIYCDSXBdigtD7YFMEokT2IRQIEzQd1iKWybGcn2fJfrLta7FgLfUJJo6jNBeNKgfqcPpgZgvkNuD3DNOq!JJyeoywKlTRvz7gTsJs64pb0bm6p!kEolDg__"
-    ]
-  },
-  {
     "id": 270312,
     "publicado": "2026-10-08",
     "direccion": "Calle San Restituto, 53",
@@ -1357,32 +1330,6 @@
     "trastero": false,
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFFtZWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOilUs!-D4IeCoIXQb2IiB94ETw5u0matLinYed93nl-z!uuf4dioqF8KWjiNkYciwgt1puU2Nl7by88mTLHeAEgVQBQNBr2DaoqUnKKxZsj-tq7x39!FGCkBsU25gl11Rb2sBhH1GsqGjndoUhhjpiwVKPEMm6Qn12LeStf3Hj97X1lda0AowGMYm6lhXLuxsvceL4TRVTPBlDEgjRkC1ZgLIByaOapIZopwqTodrNQGhIuWc1E5HS7WNi9z6Wp2srR61!6!PT5n-urM47D73NomBrwLiRxnepb64-mxx9-vNMLpfDKZE13u3SqqncsLay5F-akjhBWmDQoiq9cxoQa1Ga0g7Ijp9YgytGcdHCpPdnBmp7H0RlqGzI8lSpNjXFULvTsG5lwE9BwMPOSZrLtda3gwHjt7qdfmSk3y826QadnN28v!a5tnMhtO3eHiYyRScT!uvmx4h!OrcxMXHzwM3s5A5zseHD86HI9MQSHUleZQxEhPpvUOXN!cMVtAlLYDbjKjNRXAbYvVW8aLzeqX75OL5!uL1XBwv48YybRYmJVYl0hxbEdjr67kEqlznkvhaFAA0mwHUqrADt8GCOSJ7HwYZQzQd1iKWwbGcnOfJfrLtb7FnzPUJJo6jFBeBJSr90DU30wzyG3-rhmk9fkkxPUZYHSho15ZxL2Emfc0u6NTdU!N1Uk4g__"
-    ]
-  },
-  {
-    "id": 277298,
-    "publicado": "2026-09-23",
-    "modificado": "2026-09-24",
-    "direccion": "Calle Villalobos, 73",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "planta": 3,
-    "precio": 1000,
-    "metros": 61,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFtZWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CUaKhcCFq4gxHHIkJLjRYldu7Om3OPps0RXgBIFQCUjIY9w6qqlJxi8fqQvvL24Z!vBRirQ6mDeUJdtYVdLMYR9VqKRk53IFKYIyYs1SixjBvkZ9diwcrn1159fVdde1aAYgBFzK20UMndeJkbz3eiiOq5AEpYkKZswyqMB1AJzQI1RDNFmBS9bhbKI8Jlq5mInG4HC3v3uTRV!3L0-5c!PX76--rarOPwBxwapoe8i0ncoPrG-oOZifsfbvVDKbw0WdOdLp2a6h!Li9a9MC91hLDCpElRfOkiJtSgDqNdlB05tQZRjualg0vt8S7W9CyOTlHblOGJVGlqjKNyoWff2KSbgIb9mZc0k22tawf7Juq3P!7MTLlZbtYNOz25fnP5V33jWG7buTtIZIxMIv7XzY8Vf39mdXby!L0f2csZ4FTXg6OHVxqJITiUusYcigjx6aTBmfuDq24TkMJuwDVmpL4MsHWp-tN4sVH7!GVm5eRgqQoW9uYZM4mWEqsS6wopju1o9L2FVCp1zvspjAQaSILtSFoF2ObDOJE8iYUPRc4EdYulsG1mJNvzXW64WO9a8D1DSaKpxwThSUi9Th9MDcA8h9we4JpNXpNPTlCXBUqbNubdKdhNnHFLezc2VX8BzAgkrQ__"
     ]
   },
   {

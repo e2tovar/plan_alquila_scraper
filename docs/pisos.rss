@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 10 Nov 2026 19:02:01 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Nov 2026 08:33:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -367,14 +367,6 @@
 			<pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276570?2026-11-05</guid>
-		</item>
-		<item>
-			<title>900€ Villaverde</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276783</link>
-			<description>C/ Carmen Bordiú, 1,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/276783</description>
-			<pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-			<category>Villaverde</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276783?2026-11-10</guid>
 		</item>
 		<item>
 			<title>1500€ Villaverde</title>
@@ -1147,10 +1139,10 @@
 		<item>
 			<title>1200€ Puente de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277604</link>
-			<description>C/ Sanz Raso, 40,&lt;br/&gt;3º con ascensor,&lt;br/&gt;78m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277604</description>
-			<pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+			<description>C/ Sanz Raso, 40,&lt;br/&gt;3º con ascensor,&lt;br/&gt;78m², 2 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277604</description>
+			<pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277604?2026-11-10</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277604?2026-11-11</guid>
 		</item>
 	</channel>
 </rss>

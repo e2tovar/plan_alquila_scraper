@@ -951,32 +951,6 @@
     ]
   },
   {
-    "id": 276783,
-    "publicado": "2026-11-05",
-    "modificado": "2026-11-10",
-    "direccion": "Calle Carmen Bordi\u00fa, 1",
-    "municipio": "Madrid",
-    "distrito": "Villaverde",
-    "planta": 0,
-    "precio": 900,
-    "metros": 53,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKy2WAkaT5PJuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPBcGLoF5ExA88KHhydpO0aXFPw877vPP8nvdd!QbFREP5QtjCHYw4FhGar7cosTN33px7NGmOcA8gVQBQNBr2bFRVpOQUi9eH9JW3D!9-92CkBsUO5gl11RZ2sRhH1G8pGjndgUhhjpiwVKPEMm5QkF2LOSufX3v19V1l5ZkHhRAKmFtpoZy78TM3fuBEEdUzIRSxIE3ZhmUYDaHcMHPUEM0UYVL0ulkoDQkXrWYicrodrNG7z6Wp2szR71!69Pjpn6sr044jGHBomNzgPZ3EdapvrD6YGrv!4VY!FO-lyZrudOlUVf9YWvjtXpiVOkJYYdKkKL50ERNqUIfRLsqOnFqDKEez0sGl9ngXa3oWR6eobcrGiVRpaoyjcqFn38i4m4CG!ZmXNJNtrWuH-8Zqtz!-zEy5Wa7XbXR6cv3m4q!a2rHctnN3kMgYmUT8r1sQK!7-zPL0-Pl7P7KXM8CJrg9HDy!VE0NwQ-oqcyiigReSOmfuD664TUAKuwFXmZH6MsDWpepP48Va9fOXqaWTg6XyLOzNM2YSzSdWJdYVUhzb4eh7C6lU6pz3UxgKNJQE26G0PNgWwCiRPIlFAAXOBHWLpbBtZiTb812uu1jvWgh8Q0miqc8E4UmD-p0-mBqA-Q65PcA167wmn5ygLguUNm3MuxOwmzjjlvZubKr-AdUWJTA_"
-    ]
-  },
-  {
     "id": 276804,
     "publicado": "2026-11-03",
     "modificado": "2026-11-10",
@@ -3436,6 +3410,7 @@
   {
     "id": 277604,
     "publicado": "2026-11-10",
+    "modificado": "2026-11-11",
     "direccion": "Calle Sanz Raso, 40",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -3454,6 +3429,8 @@
     "piscina": false,
     "porteria": false,
     "trastero": true,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUvCjC7LVQL6YVWVitWglaT5PZcTNhdmYyM5usFIsKWtCD4sdNUNCLUq!-EYIeCoIXQb2IiB94ETx1dpM0sbinYed93nl-z!uufodSoqFyMWjiNkYciwjN15uU2Jm7b88!njSHeQEgVQBQMhp2DaqqUnKKxZsD-uq7R39!FGBkEUptzBPqqi3sYDGOqNdUNHK6fZHCHDFhqUaJZdwgP7sWc1a-uP762!vqyvMCFAMoYm6lhUruxsvceL4TRVTPBFDCgjRkC5ZhNIBKaOaoIZopwqTodrNQHhIuWM1E5HTbWNi9z6Wp-pej17!8-cmzP9dWph2H3-fQMDngPZXEdapvrj6cGnvw8XYvlMIrkzXd7tKpqd6xfOaQe2FW6ghhhUmDovjyJUyoQW1GOyg7cmoNohzNSgeX2mMdrOk5HJ2ktiHD46nS1BhH5ULPvpFxNwENezMvaSbbXNcK9owt3vn0KzPlZrlRN-j09Mathd-La0dz287dfiJjZBLxv25-rPiHs8vT4xfu!8xezgAnOh4cObhUTwzBodQ15lBEiE8ndc7cH1x1m4AUdgOuMSP1FYDNS9Wbxsu12pevU0sn-ktVsLA7z5hJNJ9YlVhXSHFsh6PvLqRSqXPeS2Eo0EASbIfSKsAWH0aJ5EksfChyJqhbLIVtIyPZmu9y3cV6z4LvGUoSTT0mCE9C6rV7YKoP5jnkVh!XbPCafHKCuixQ2rAx70zATuKMW9q9salaBzY6JGM_"
+    ]
   }
 ]

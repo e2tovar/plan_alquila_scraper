@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 13 Nov 2026 11:43:39 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Nov 2026 18:54:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -449,14 +449,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277152?2026-07-09</guid>
 		</item>
 		<item>
-			<title>1200€ Móstoles</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277177</link>
-			<description>C/ Joaquín Blume, 11,&lt;br/&gt;9º con ascensor,&lt;br/&gt;82m², 2 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277177</description>
-			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Móstoles</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277177?2026-09-24</guid>
-		</item>
-		<item>
 			<title>1690€ Salamanca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277188</link>
 			<description>Psaje Bisbal, 4,&lt;br/&gt;1º con ascensor,&lt;br/&gt;48m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277188</description>
@@ -641,14 +633,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277451?2026-09-17</guid>
 		</item>
 		<item>
-			<title>1000€ Barajas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277456</link>
-			<description>Av. General, 33,&lt;br/&gt;2º con ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277456</description>
-			<pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Barajas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277456?2026-09-18</guid>
-		</item>
-		<item>
 			<title>3000€ Moncloa-Aravaca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277462</link>
 			<description>C/ Rey Francisco, 20,&lt;br/&gt;5º sin ascensor,&lt;br/&gt;106m², 4 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277462</description>
@@ -831,14 +815,6 @@
 			<pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277536?2026-10-22</guid>
-		</item>
-		<item>
-			<title>1200€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277538</link>
-			<description>C/ Los Molinos, 6,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;45m², 2 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277538</description>
-			<pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277538?2026-10-15</guid>
 		</item>
 		<item>
 			<title>1350€ Latina</title>
@@ -1163,7 +1139,7 @@
 		<item>
 			<title>1400€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277625</link>
-			<description>C/ Vía Lusitana, 25,&lt;br/&gt;9º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277625</description>
+			<description>C/ Vía Lusitana, 25,&lt;br/&gt;9º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277625</description>
 			<pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277625?2026-11-13</guid>

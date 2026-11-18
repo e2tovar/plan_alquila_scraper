@@ -262,34 +262,6 @@
     ]
   },
   {
-    "id": 260766,
-    "publicado": "2026-09-21",
-    "modificado": "2026-11-13",
-    "direccion": "Calle Clara del Rey, 30",
-    "municipio": "Madrid",
-    "distrito": "Chamart\u00edn",
-    "planta": 8,
-    "precio": 1250,
-    "metros": 46.53,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": true,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": true,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLERbrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1JPgHyHooSB4EdSLiPiBF8GTs5tNmxb3NOy8zzvP73nf1e9QjDWUL1TbuIsRxyJE8402JXbmzttzjybNEe4BJAoAikbDno2qipScYvHmkL7y7uHfHx6M1KHYxTymrtrCLhbhkPptRUOnOxAqzBETlmoUW8YNCtJrMWfl82uvv72vrDzzoFCFAuZWWihnbvzUjR84UUj1TBWKWJCW7MAyjFah3DRz1BDNFGFS9LtZKA0JF61mInS6HazZv8-kidrMkfcvfX789M!VlWnHEQw4NExu8J6OowbVN1YfTI3d!3grD8V7ZdKmO106NZUfSwsv3QuzUocIK0xaFEWXLmJCDeoy2kPpkVNrEOVoVjq4xB7vYU3P4vAUtS3ZPJEoTY1xVC709BsZdxPQsD!1kqSyrXWd6r6x-u1Pv1JTbpbrdRudnly!ufi7vnYss-3cHSQyQiYW!-sWRIp!OLM8PX7-3s!05RRwoufD0cNLjdgQ3JS6xhyKaOKFuMGZ-4MrbhOQwm7ANWakvgywdanyabxYq335OrV0crBUnoW9WcZMovnYqti6QoojOxx9fyGVSpzzPIWhQKuSYDuUlgfbAhglkseRCKDAmaBusRS2rZRke7bLDRfrXQuBbyiJNfWZIDxuUr-bg6kBmO-QOwNcs85rsskJ6rJASctGvDcBu4kzbmn!xibqH02EJO0_",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLERbrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1Jv4Rwh6KAheBPUiIn7gRfDk7GbTpsU9DTvv887ze9539TsUYw3lC9U27mLEsQjRfKNNiZ258!bco0lzhHsAiQKAotGwZ6OqIiWnWLw5pK-8e!j3hwcjdSh2MY-pq7awi0U4pH5b0dDpDoQKc8SEpRrFlnGDgvRazFn5!Nrrb-8rK888KFShgLmVFsqZGz914wdOFFI9U4UiFqQlO7AMo1UoN80cNUQzRZgU!W4WSkPCRauZCJ1uB2v27zNpojZz5P1Lnx8!!XN1ZdpxBAMODZMbvKfjqEH1jdUHU2P3P97KQ!FembTpTpdOTeXH0sJL98Ks1CHCCpMWRdGli5hQg7qM9lB65NQaRDmalQ4uscd7WNOzODxFbUs2TyRKU2MclQs9!UbG3QQ07E-9JKlsa12num-sfvvTr9SUm-V63UanJ9dvLv6urx3LbDt3B4mMkInF!7oFkeIfzixPj5-!9zN9OQWc6Plw9PBSIzYEN6WuMYcimnghbnDm!uCK2wSksBtwjRmpLwNsXap8Gi!Wal--Ti2dHCyVZ2FvljGTaD62KraukOLIDkffX0ilEuc8T2Eo0Kok2A6l5cG2AEaJ5HEkAihwJqhbLIVtKyXZnu1yw8V610LgG0piTX0mCI-b1O!mYGoA5jvkzgDXrPOabHKCuixQ0rIR703AbuKMW9q!sYn6B0-KJO4_",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLERbrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1KP-EYIeCoIXQb2IiB94ETw5u9m0aXFPw877vPP8nvdd!Q7FWEP5QrWNuxhxLEI032hTYmfuvD33aNIc4R5AogCgaDTs2aiqSMkpFm8O6SvvHv794cFIHYpdzGPqqi3sYhEOqd9WNHS6A6HCHDFhqUaxZdygIL0Wc1Y-v!b62!vKyjMPClUoYG6lhXLmxk!d-IEThVTPVKGIBWnJDizDaBXKTTNHDdFMESZFv5uF0pBw0WomQqfbwZr9-0yaqM0cef!S58dP!1xdmXYcwYBDw-QG7-k4alB9Y!XB1Nj9j7fyULxXJm2606VTU!mxtPDSvTArdYiwwqRFUXTpIibUoC6jPZQeObUGUY5mpYNL7PEe1vQsDk9R25LNE4nS1BhH5UJPv5FxNwEN-1MvSSrbWtep7hur3!70KzXlZrlet9HpyfWbi7!ra8cy287dQSIjZGLxv25BpPiHM8vT4-fv!UxfTgEnej4cPbzUiA3BTalrzKGIJl6IG5y5P7jiNgEp7AZcY0bqywBblyqfxou12pevU0snB0vlWdibZcwkmo-tiq0rpDiyw9H3F1KpxDnPUxgKtCoJtkNpebAtgFEieRyJAAqcCeoWS2HbSkm2Z7vccLHetRD4hpJYU58JwuMm9bs5mBqA-Q65M8A167wmm5ygLguUtGzEexOwmzjjlvZvbKL-AVGQJO8_"
-    ]
-  },
-  {
     "id": 262490,
     "publicado": "2026-10-14",
     "direccion": "Calle Cavanilles, 41",
@@ -2454,31 +2426,6 @@
     ]
   },
   {
-    "id": 277567,
-    "publicado": "2026-10-21",
-    "direccion": "Calle Matachel, 7",
-    "municipio": "Madrid",
-    "distrito": "Villaverde",
-    "planta": 2,
-    "precio": 780,
-    "metros": 65,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLERbrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1KvgvyDooSB4EdSLiPiBF8GTs5tNmxb3NOy8zzvP73nf1e9QjDWUL1TbuIsRxyJE8402JXbmzttzjybNEe4BJAoAikbDno2qipScYvHmkL7y7uHfHx6M1KHYxTymrtrCLhbhkPptRUOnOxAqzBETlmoUW8YNCtJrMWfl82uvv72vrDzzoFCFAuZWWihnbvzUjR84UUj1TBWKWJCW7MAyjFah3DRz1BDNFGFS9LtZKA0JF61mInS6HazZv8-kidrMkfcvfX789M!VlWnHEQw4NExu8J6OowbVN1YfTI3d!3grD8V7adKmO106NZUfSwuv3AuzUocIK0xaFEWXLmJCDeoy2kPpkVNrEOVoVjq4xB7vYU3P4vAUtS3ZPJEoTY1xVC709BsZdxPQsD!1kqSyrXWd6r6x-u1Pv1JTbpbrdRudnly!ufi7vnYss-3cHSQyQiYW!-sWRIp!OLM8PX7-3s!05RRwoufD0cNLjdgQ3JS6xhyKaOKFuMGZ-4MrbhOQwm7ANWakvgywdanyabxYq335OrV0crBUnoW9WcZMovnYqti6QoojOxx9fyGVSpzzPIWhQKuSYDuUlgfbAhglkseRCKDAmaBusRS2rZRke7bLDRfrXQuBbyiJNfWZIDxuUr-bg6kBmO-QOwNcs85rsskJ6rJASctGvDcBu4kzbmn!xibqH1moJPM_"
-    ]
-  },
-  {
     "id": 277568,
     "publicado": "2026-10-21",
     "modificado": "2026-10-22",
@@ -3150,5 +3097,52 @@
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFFlarVoJGL5PZcTNhdmYyM5usFIsKWtCD4sdNUNCLUq!-EYIeCoIXQb2IiB94ETx1dpM0sbinYed93nl-z!uufodioqF8IWjiNkYciwgt1JuU2Nm7b889njKHeAEgVQBQNBp2DaoqUnKKxZsD-uq7R39!FGCkBsU25gl11RZ2sBhH1GsqGjndvkhhjpiwVKPEMm6Qn12LeStfXH!97X1l5XkBRgMYxdxKC-XcjZe58XwniqieDaCIBWnIFizDWADl0MxTQzRThEnR7WahNCRctJqJyOm2sbB7n0tT9S9Hr3!p85Nnf66tzDgOv8-hYWrAezKJ61TfXH04Pf7g4-1eKIVXJmu63aVTVb1j6fRF98Kc1BHCCpMGRfHlS5hQg9qMdlB25NQaRDmakw4utUc7WNOzODpBbUOGx1KlqTGOyoWefSMTbgIa9mZe0ky2ua4V7Bmv3fn0KzPlZrlRN-j09Matxd-1tSO5beduP5ExMon4Xzc!VvzDmeWZifP3f2YvZ4CTHQ8OH1yqJ4bgUOoqcygixKeSOmfuD664TUAKuwFXmZH6CsDmpepN4-Va9cvX6aXj!aUqWNidZ8wkWkisSqwrpDi2w9F3F1Kp1DnvpTAUaCAJtkNpFWCLD2NE8iQWPoxyJqhbLIVtIyPZmu9y3cV6z4LvGUoSTT0mCE9C6rV7YKoP5jnkVh!XbPCafHKCuixQ2rAx70zCTuKMW9q9salaB59yJJc_"
     ]
+  },
+  {
+    "id": 277632,
+    "publicado": "2026-11-18",
+    "direccion": "Calle San Miguel, 2",
+    "municipio": "Pedrezuela",
+    "planta": "Casa",
+    "precio": 1500,
+    "metros": 213.28,
+    "dormitorios": 4,
+    "aseos": 3,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": false,
+    "calefacion": false,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx1!XpP5opTURRKEoeBJh9lqoF9OKLESrVoLG02QybibMzkxmZpOVYlFBC3pQtN4EBb0o9eofIeihIHgR1IuI-AMvgidnN5s2Le5p2HnfN9!P973V71CMNZQvVdu4ixHHIkTzjTYldube2wuPJ80R7gEkCgCKRsOejaqKlJxi8eaQvvbu0d8fHozUodjFPKau2sIuFuGQ-m1FQ6c7ECrMEROWahRbxg0K0msxZ-WLG6-!va8sP!egUIUC5lZaKGdu!NSNHzhRSPVMFYpYkJbswBKMVqHcNHPUEM0UYVL0u1koDQkXrGYidLodrNm!z6SJ2syR9y99fvLsz!XlaccRDDg0TG7wno6jBtW3Vh9Oja18vJOH4r0yadOdLp2ayo-lsyvuhVmpQ4QVJi2KoiuXMaEGdRntofTIqTWIcjQrHVxij!ewpudxeIralmyeSJSmxjgqF3r6jYy7CWjYn3pJUtnWuk5131j97qdfqSk3y!W6jU5Pb95e-F1fO5bZdu4OEhkhE4v!dQsixT-cW5oev!jgZ!pyCjjR8-Ho4cVGbAhuSl1jDkU08Zm4wZn7gytuE5DCbsA1ZqS-CrB1qfJpvFyrffk6tXhysFSehb1Zxkyi-diq2LpCiiM7HH1!IZVKnPM8haFAq5JgO5SWB9sCGCWSx5EIoMCZoG6xFLatlGR7tssNF-t9C4FvKIk19ZkgPG5Sv5uDqQGY75A7A1yzzmuyyQnqskBJy0a8NwG7iTNuaf!GJuofENEkzw__"
+    ]
+  },
+  {
+    "id": 277635,
+    "publicado": "2026-11-18",
+    "direccion": "Calle Felipe \u00c1lvarez, 38",
+    "municipio": "Madrid",
+    "distrito": "Villa de Vallecas",
+    "planta": 1,
+    "precio": 1000,
+    "metros": 70,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]

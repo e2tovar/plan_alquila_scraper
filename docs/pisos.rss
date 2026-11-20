@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 19 Nov 2026 14:49:33 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 14:30:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -329,14 +329,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275707?2026-10-19</guid>
 		</item>
 		<item>
-			<title>1500€ Chamberí</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275956</link>
-			<description>C/ Blasco de Garay, 12,&lt;br/&gt;4º con ascensor,&lt;br/&gt;65m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/275956</description>
-			<pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275956?2026-10-23</guid>
-		</item>
-		<item>
 			<title>1050€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276341</link>
 			<description>C/ Lérida, 11,&lt;br/&gt;2º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/276341</description>
@@ -559,14 +551,6 @@
 			<pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277447?2026-09-16</guid>
-		</item>
-		<item>
-			<title>1300€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277448</link>
-			<description>C/ Cuevas de Almanzora, 40,&lt;br/&gt;5º con ascensor,&lt;br/&gt;101m², 3 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277448</description>
-			<pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277448?2026-09-18</guid>
 		</item>
 		<item>
 			<title>1600€ Rivas-Vaciamadrid</title>
@@ -1075,10 +1059,18 @@
 		<item>
 			<title>900€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277643</link>
-			<description>C/ Trompas, 24,&lt;br/&gt;3º con ascensor,&lt;br/&gt;42m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277643</description>
-			<pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+			<description>C/ Trompas, 24,&lt;br/&gt;3º con ascensor,&lt;br/&gt;42m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277643</description>
+			<pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277643?2026-11-19</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277643?2026-11-20</guid>
+		</item>
+		<item>
+			<title>1300€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277647</link>
+			<description>C/ Infanta Mercedes, 98,&lt;br/&gt;5º con ascensor,&lt;br/&gt;48m², 1 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277647</description>
+			<pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277647?2026-11-20</guid>
 		</item>
 	</channel>
 </rss>

@@ -2772,30 +2772,6 @@
     ]
   },
   {
-    "id": 277663,
-    "publicado": "2026-11-26",
-    "direccion": "Avda Jos\u00e9 G\u00e1rate, 6",
-    "municipio": "Coslada",
-    "planta": 3,
-    "precio": 1200,
-    "metros": 63,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "D",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": false,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLESrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Kt!hKCHguBFUC8i4ge9CJ6cTTZtWtzTsPM-7zy!531XfkAx0VC-VG3hDkYciwjNN1qU2Jl77y48mTRHuAeQKgAoGg17NqoqUnKKxdtD-tr7x39!ejBSh2IH84S6agu7WIwj6rcUjZzuQKQwR0xYqlFiGTcoyK7FnJUvb7z5!qGy!MKDQhUKmFtpodxz42du!MCJIqpnqlDEgjRlG5ZgtArl0MxRQzRThEnR72ahNCRcsJqJyOl2sLB!35OmajNH3r!05enzP9eXpx1HMODQMLnBezqJG1TfWnk0Nfbw0508FO-1yZrudOnUVH4snV1zL8xKHSGsMGlSFF-5jAk1qMNoF2VHTq1BlKNZ6eBSe7yLNT2Po1PUNmV4IlWaGuOoXOjZNzLuJqBhf-YlzWRb69rVfWP1u59!Z6bcLNfrNjo9u3l7Ya2-eqxn27k7SGSMTCL-1y2IFf94bml6!OKDX9nLGeBE14ejhxcbiSE4lLrGHIoI8ZmkwZn7gytuE5DCbsA1ZqS-CrB1qfJpvFqtff02tXhysFSehb29jJlE84lViXWFFMd2OPr-QiqVOud5CkOBViXBdigtD7YFMEokT2IRQIEzQd1iKWybGcn23i43XKz3LQS-oSTR1GeC8CSkficHUwMw3yG3B7hmndf0JieoywKlTRvz7gTsJs64pf0bm6p!zwUlLQ__"
-    ]
-  },
-  {
     "id": 277664,
     "publicado": "2026-11-26",
     "direccion": "Calle Cgdor. Diego Cabeza de Va, 6",
@@ -2844,5 +2820,49 @@
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKLKxWrQSNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1Kt!hKCHguBFUC8i4udF8NTZZNPE4p6Gnfd55!k977v6DQqJhtKFsInbGHEsIrRQa1JiZ--8OfdoyhziHkCqAKBgNOwaVJWl5BSL1wf0lbcP!373YKQKhTbmCXXVFnawGEfUbyoaOd2-SGGOmLBUo8QyblCQXYt5K59fe!X1XXnlmQejIYxibqWFUteNn7nxAyeKqJ4NoYAFacgWLMNYCKW6maeGaKYIk6LXzUJxSLhoNROR021j9d59V5qqfzny!sVPj5!-uboy4ziCPoeGqQHvySSuUX1j9cH0-P0Pt!JQvJcma7rdpVNR-bF4-pd7YU7qCGGFSYOi-NJFTKhBbUY7KDtyag2iHM1JB5faox2s6VkcnaC2IevHUqWpMY7KhZ59IxNuAhr2Zl7STLa5rhXuGa!e!vgzM-VmuVE36PTk-s3F39W1I13bzt1-ImNkEvG!bkGs-PszyzMT5-!9yF7OACc7Phw-uFRLDMF1qSvMoYg6PpXUOHN!cNltAlLYDbjCjNSXATYvVT6NF2uVz1-ml473l8qzsLubMZNoIbEqsa6Q4tgOR99bSKVS5zxPYSjQUBJsh9LyYEsAY0TyJBYBjHImqFsshW0jI9na3eWai!WuhcA3lCSa-kwQntSp387BVB!Md8itPq7Z4DXdyQnqskBpw8a8Mwk7iTNuae!GpmodzP8lLA__"
     ]
+  },
+  {
+    "id": 277667,
+    "publicado": "2026-11-26",
+    "direccion": "Calle Valdeamor, 25",
+    "municipio": "Algete",
+    "planta": 1,
+    "precio": 741,
+    "metros": 57.46,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 277670,
+    "publicado": "2026-11-26",
+    "direccion": "Avda Levante, 101",
+    "municipio": "Rivas-Vaciamadrid",
+    "planta": 5,
+    "precio": 1250,
+    "metros": 102,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
   }
 ]

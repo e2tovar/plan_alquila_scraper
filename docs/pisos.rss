@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 26 Nov 2026 13:20:57 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Nov 2026 22:48:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -945,14 +945,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277662?2026-11-26</guid>
 		</item>
 		<item>
-			<title>1200€ Coslada</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277663</link>
-			<description>Av. José Gárate, 6,&lt;br/&gt;3º con ascensor,&lt;br/&gt;63m², 2 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277663</description>
-			<pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
-			<category>Coslada</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277663?2026-11-26</guid>
-		</item>
-		<item>
 			<title>1200€ Moratalaz</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277664</link>
 			<description>C/ Cgdor. Diego Cabeza de Va, 6,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;69m², 3 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277664</description>
@@ -967,6 +959,22 @@
 			<pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277665?2026-11-26</guid>
+		</item>
+		<item>
+			<title>741€ Algete</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277667</link>
+			<description>C/ Valdeamor, 25,&lt;br/&gt;1º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277667</description>
+			<pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+			<category>Algete</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277667?2026-11-26</guid>
+		</item>
+		<item>
+			<title>1250€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277670</link>
+			<description>Av. Levante, 101,&lt;br/&gt;5º con ascensor,&lt;br/&gt;102m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277670</description>
+			<pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277670?2026-11-26</guid>
 		</item>
 	</channel>
 </rss>

@@ -707,6 +707,28 @@
     ]
   },
   {
+    "id": 276844,
+    "publicado": "2026-11-27",
+    "direccion": "Calle Mariano Benlliure, 1",
+    "municipio": "Torrej\u00f3n de Ardoz",
+    "planta": 1,
+    "precio": 1368,
+    "metros": 82.3,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 276892,
     "publicado": "2026-04-07",
     "modificado": "2026-09-24",

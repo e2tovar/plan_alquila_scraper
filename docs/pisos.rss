@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 27 Nov 2026 15:45:27 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Nov 2026 23:52:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -295,6 +295,14 @@
 			<pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Getafe</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275707?2026-10-19</guid>
+		</item>
+		<item>
+			<title>1368€ Torrejón de Ardoz</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276844</link>
+			<description>C/ Mariano Benlliure, 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;82m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276844</description>
+			<pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+			<category>Torrejón de Ardoz</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276844?2026-11-27</guid>
 		</item>
 		<item>
 			<title>1450€ Barajas</title>
